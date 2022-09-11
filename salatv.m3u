@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://canal1cr.com/wp-content/uploads/2022/02/cropped-Canal-1-1.png",CANAL 1
-http://190.7.192.164:8003/play/s18
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",CDR 2
 http://190.7.192.164:8004/play/s46
 #EXTINF:-1 tvg-id="88Stereo.cr" group-title="COSTA RICA"tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 STEREO
