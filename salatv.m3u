@@ -13,13 +13,11 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png",REPRETEL 6 (alt)
 http://190.7.192.164:8002/play/s11
-#EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA
-https://stream-01.sv4.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xmdYOZ9jxij87l1E-Jt0pMRHTIkC419mks6AD21EThTO)/dm/3/x74hq83/s/live-2.m3u8
-#EXTINF:-1 tvg-id="Teletica7.cr" aspect-ratio="16:9" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op2
+#EXTINF:-1 tvg-id="Teletica7.cr" aspect-ratio="16:9" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA
 http://tv.a1promediastream.com:25461/0848592/8416758/16061
-#EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op3
+#EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op2
 http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/45905
-#EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op4
+#EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op3
 http://190.83.119.67:8000/play/a0qz
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png",TELETICA RADIO
 https://m6gdar5eyn93-hls-live.5centscdn.com/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/playlist.m3u8
@@ -37,10 +35,12 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_360.m3u8
 #EXTINF:-1 tvg-id="Canal11.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png",REPRETEL 11 (alt)
 http://190.7.192.162:8004/play/s8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/soyplancha.tv/picture?width=200&height=200",SOY PLANCHA TV
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static.wixstatic.com/media/fd2679_f048bd71b2f449459501a729bbb6f9fd~mv2.png/v1/fill/w_42,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-1.png",12 TICATV+
+https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://fastly.4sqi.net/img/general/200x200/90620129_itvdvpgRGW3pwW5G8FWk1HLPEQ4gffosY-Kst_SbE5A.png",VM LATINO
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://soyplancha.tv/wp-content/uploads/2022/08/SOY-PLANCHA-LOGO-TV-2019.png",SOY PLANCHA TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://neotelecomcr.com/Middleware/Android/Portal/img/canales/vmlatinovintagemusic.gif",VINTAGE MUSIC TV
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-300x271.png",SINART
@@ -127,7 +127,7 @@ http://190.7.192.164:8001/play/s49
 https://primary-out.iptv-global.net/costarica/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc.png",TV SANTA CRUZ
 https://rtmp.info/tvsantacruz/envivo/chunklist_w1520790363.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/TicaTV.Plus.US/picture?width=200&height=200",TICA TV PLUS
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/TicaTV.Plus.US/picture?width=200&height=200",TICA TV PLUS MÚSICA
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/VoiceOverCostaRicaRadioTV/picture?width=200&height=200",VOICE OVER CR
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8
@@ -161,10 +161,12 @@ https://stmv1.zcastbr.com/moratv1/moratv1/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x84zx30
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh9vLHG4PFe-OBMyYTEUflmMdTUJIY7lQ4taR_JjtoJZ4OdcgM3M696OYl1DrEkawJex86NVmEjGdZw5P_yV8gR9JWarSc18YlMKoy_Oe-PtnMPlAICfbLxwYMJwq08bioyFhr_OEchYjEKGt7AfJidGmo4xWnh3v0smt1ZxHrpqDK5ujYO1gP5g6_McA=s320",CR-TV RADIO 2
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8962rd
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static.wixstatic.com/media/fd2679_f048bd71b2f449459501a729bbb6f9fd~mv2.png/v1/fill/w_42,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-1.png",CANAL 12
-https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://sun9-86.userapi.com/c853516/v853516327/202ce5/QkXiljNSyRg.jpg",TVCD
 https://hls.robotstreamer.com/tv/5369.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/tele.brunca/picture?width=200&height=200",TELE BRUNCA
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/RadioPuertoTV/picture?width=200&height=200",RADIO PUERTO TV
+https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER 5
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/supercabletv
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/radioturrialba/picture?width=200&height=200",RADIO TV TURRIALBA
