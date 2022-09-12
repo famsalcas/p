@@ -151,6 +151,8 @@ https://srv.panelcast.net/canalmz/canalmz/playlist.m3u8
 http://190.0.226.17:1935/RadioCostaRica/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="SMOTV.cr" group-title="COSTA RICA" tvg-logo="http://costaricatelevision.com/sites/default/files/2020-12/smotv-positive-channel-costa-rica.png",SMO TV
 http://190.7.192.163:8004/play/s14
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/tele.brunca/picture?width=200&height=200",TELE BRUNCA
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/ticavisionradio/picture?width=200&height=200",TICAVISIÓN RADIO
 http://190.7.192.164:8003/play/s20
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/Urbano106/picture?width=200&height=200",URBANO TV
@@ -161,14 +163,12 @@ https://stmv1.zcastbr.com/moratv1/moratv1/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x84zx30
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh9vLHG4PFe-OBMyYTEUflmMdTUJIY7lQ4taR_JjtoJZ4OdcgM3M696OYl1DrEkawJex86NVmEjGdZw5P_yV8gR9JWarSc18YlMKoy_Oe-PtnMPlAICfbLxwYMJwq08bioyFhr_OEchYjEKGt7AfJidGmo4xWnh3v0smt1ZxHrpqDK5ujYO1gP5g6_McA=s320",CR-TV RADIO 2
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8962rd
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://sun9-86.userapi.com/c853516/v853516327/202ce5/QkXiljNSyRg.jpg",TVCD
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://sun9-86.userapi.com/c853516/v853516327/202ce5/QkXiljNSyRg.jpg",TV CARTAGO DIGITAL
 https://hls.robotstreamer.com/tv/5369.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/tele.brunca/picture?width=200&height=200",TELE BRUNCA
-https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/RadioPuertoTV/picture?width=200&height=200",RADIO PUERTO TV
 https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER 5
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/supercabletv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/supercabletv?m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/radioturrialba/picture?width=200&height=200",RADIO TV TURRIALBA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x88mu9v#/index.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="http://cdn-radiotime-logos.tunein.com/s82770q.png",OMEGA TV
