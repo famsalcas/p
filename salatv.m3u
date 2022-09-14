@@ -13,12 +13,12 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png",REPRETEL 6 (alt)
 http://190.7.192.164:8002/play/s11
-#EXTINF:-1 tvg-id="Teletica7.cr" aspect-ratio="16:9" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-id="Teletica7.cr" aspect-ratio="16:9" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA
 http://tv.a1promediastream.com:25461/0848592/8416758/16061
-#EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op2
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op2
 http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/45905
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op3
-http://190.83.119.67:8000/play/a0qz
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png",TELETICA RADIO
 https://m6gdar5eyn93-hls-live.5centscdn.com/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multimedios_costa_rica.png",MULTIMEDIOS CR
@@ -341,15 +341,13 @@ http://190.92.72.98:8185/play/a01k/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nick_jr.png",NICK JUNIOR
 http://190.83.119.67:8000/play/a0p9/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/150px-Discovery_Kids_Logo_2021-Presente.webp.png",DISCOVERY KIDS
-http://190.83.119.67:8000/play/a0ob/index.m3u8
+http://190.83.119.67:8000/play/a0ob
 #EXTINF:-1 group-title="KIDS" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORKk
 http://190.92.72.98:8185/play/a00y/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png",TOONCAST
 http://190.92.72.98:8185/play/a09d/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel.png",DISNEY CHANNEL
 https://delivery.cdn.rcs.net.ar/mnp/disney/output.mpd
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoonito.png",CARTOONITO
-http://181.174.115.86:8000/play/a0g0/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU",LOVE NATURE ESPAÑOL
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
@@ -414,7 +412,7 @@ http://190.92.72.98:8185/play/a09n/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png",FOOD NETWORK
 http://tv.a1promediastream.com:25461/0848592/8416758/16360
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sun_channel.png",SUN CHANNEL
-http://190.83.119.67:8000/play/a0r9/index.m3u8
+http://190.83.119.67:8000/play/a0r9
 
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png",TELEMUNDO NOVELAS
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
@@ -629,7 +627,7 @@ http://190.92.72.98:8185/play/a014/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family.png",HBO FAMILY
 http://tv.a1promediastream.com:25461/0848592/8416758/16198
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family.png",HBO FAMILY op2
-
+http://190.92.72.98:8185/play/a013/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop.png",HBO POP
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3069
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature.png",HBO SIGNATURE
@@ -691,9 +689,9 @@ http://190.92.72.98:8185/play/a06b/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://www.universalplus.com/files/channels/780277389.png",UNIVERSAL+ CRIME
 http://190.92.72.98:8185/play/a06c/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://www.filmandarts.tv/theme/assets/fa-logo.png",FILM & ARTS
-http://45.5.119.130:8000/play/a0gs/index.m3u8
+http://190.92.72.98:8185/play/a05n/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",EUROPA EUROPA
-http://190.83.119.67:8000/play/a0qb?m3u8
+http://190.92.72.98:8185/play/a05s/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurochannel-mediano.png",EURO CHANNEL
 http://190.83.119.67:8000/play/a0r6
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sundance_tv_espana.png",SUNDANCE TV
