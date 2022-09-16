@@ -19,6 +19,8 @@ http://tv.a1promediastream.com:25461/0848592/8416758/16061
 https://stream-01.sv4.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5yEb3dTfilGYUsT0o7DADZmUaY4H1dgiTkShTkJQTSeP)/dm/3/x29e3wg/d/live-2.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op3
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
+#EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op4
+https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png",TELETICA RADIO
 https://m6gdar5eyn93-hls-live.5centscdn.com/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multimedios_costa_rica.png",MULTIMEDIOS CR
@@ -1869,7 +1871,7 @@ http://190.92.72.98:8185/play/a06g/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4.png",ESPN 4
 http://177.234.254.38:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4.png",ESPN 4 op2 
-
+http://45.160.12.253:8000/play/218
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.PNG",ESPN EXTRA
 http://190.83.119.67:8000/play/a0py/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.PNG",ESPN EXTRA op2
@@ -2281,6 +2283,8 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/290291
 http://92.242.176.83:8096
 #EXTINF:-1 group-title="XXX" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT TV 3
 http://92.242.176.83:8097
+#EXTINF:-1 group-title="XXX" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT TV 4
+http://92.242.176.83:8098
 #EXTINF:-1 group-title="XXX" tvg-logo="https://sc.dish.com/shared/images/station-logos/PLBY.png",PLAYBOY LATINO
 http://190.83.119.67:8000/play/a0ow
 #EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/100px-Canal_Venus_logo.svg.png",VENUS
@@ -2312,7 +2316,7 @@ http://193.33.240.8/hustler_hd/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest?cb=20150315153455",PRIVATE
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3281
 #EXTINF:-1 group-title="XXX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Redlight_HD.png/revision/latest/scale-to-width-down/300?cb=20210517035141",REDLIGHT
-http://109.200.130.123:7032/play/353
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://www.universfreebox.com/UserFiles/image/penthouse.png",PENTHOUSE GOLD
 http://80.24.75.92:5555/udp/239.111.4.1:1234
 #EXTINF:-1 group-title="XXX" tvg-logo="https://www.penthousetv.com/images/logo_phQuickies.png",PENTHOUSE QUICKIES
