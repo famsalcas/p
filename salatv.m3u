@@ -449,8 +449,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://graph.facebook.com/cineclubcanal/picture?width=200&height=200",CINE CLUB
 https://servilive.com:3176/live/cineclublive.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png",PLANETA TV MOVIES
-https://scl.edge.grupoz.cl/movie/live/chunklist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png",READY
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://image.roku.com/developer_channels/prod/f2d38d20dd3fe65ad3c1762287cba3ead443b6c987c756c4669add7ae8364f61.png",MI TV CLÁSICA
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://image.roku.com/developer_channels/prod/ec305f194d2f6d721af7718c76e6ce97347ab5acb315d31dbc1da494800b9817.png",ACS NETWORK
@@ -483,14 +483,14 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1341240833.m3u
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png",MEGA CINE TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png",READY
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png",CHINOLA TV
 https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8?DVR
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://graph.facebook.com/dreikotv/picture?width=200&height=200",DREIKO
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1640328898.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-pyJu1dEdpmi9T-xiuo4Lu-BqjV-gZiEYmDAUi=s176-c-k-c0x00ffffff-no-rj",MOOVIMEX
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png",PLANETA TV MOVIES
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg",CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://canalesdominicanos.live/template/images/radios/villa-altagracia-tv.jpeg",VILLA TV
