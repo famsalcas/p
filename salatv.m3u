@@ -489,7 +489,7 @@ https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8?DVR
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1640328898.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-pyJu1dEdpmi9T-xiuo4Lu-BqjV-gZiEYmDAUi=s176-c-k-c0x00ffffff-no-rj",MOOVIMEX
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWae2gXI2bmF76XThJPYzOcjWaFPRg-O47_tTKRXbGb1hPFgPXPN-1PnowbpOqJOBVjfo&usqp=CAU",FMTV SUPER CINE #3
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWae2gXI2bmF76XThJPYzOcjWaFPRg-O47_tTKRXbGb1hPFgPXPN-1PnowbpOqJOBVjfo&usqp=CAU",FMTV SUPER CINE #3
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg",CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -557,8 +557,6 @@ http://azxtv.com/hls/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i2.wp.com/www.soltelevision.com/wp-content/uploads/2018/08/soltvUSA.jpg?fit=200%2C200&ssl=1",SOL TV
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png",PLANETA TV MOVIES
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (S)
 https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
