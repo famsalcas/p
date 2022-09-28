@@ -48,7 +48,7 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-300x271.png",SINART
 http://160.20.164.171:8001/play/a06y/index.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-300x271.png",SINART op2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vh8g3
+http://190.83.119.67:8000/play/a0oh
 #EXTINF:-1 tvg-id="TVSurCanal14.cr" group-title="COSTA RICA" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png",TV SUR 14
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal14SanCarlos.cr group-title="COSTA RICA" tvg-logo="https://www.tvn14.com/wp-content/uploads/2020/12/tvn_14.png",TV NORTE 14
@@ -629,7 +629,9 @@ http://190.92.72.98:8185/play/a013/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop.png",HBO POP
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3069
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature.png",HBO SIGNATURE
-http://dns.clientetv.net:8080/camisa10/camisa10/2148
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/755
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi.png",HBO MUNDI
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/1112
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX
 https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-language="Spanish" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX op2
@@ -1117,7 +1119,7 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_mundo-mediano.png",AZ MUNDO
 http://190.92.72.98:8185/play/a09e/index.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_mundo-mediano.png",AZ MUNDO op2
-http://190.83.2.121:8080/play/a04g/index.m3u8
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/52
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_clic.png",AZ CLIC
 http://tv.a1promediastream.com:25461/0848592/8416758/16322
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i2eee083b9645b453/version/1470081080/image.png",TELEMAR
@@ -1127,11 +1129,11 @@ http://tvstarlife.com:25461/Rodriguez/2022/27884
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Imagen-Television-en-vivo-Online-100x70.png",IMAGEN TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ImagenTV/live
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universo.png",UNIVERSO
-http://line.thesmartiptv.com:900/1465833262/6733232450/400216156
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/330
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",AZTECA UNO
-http://tv.a1promediastream.com:25461/0848592/8416758/16325
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/53
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7.png",AZTECA 7
-http://tvstarlife.com:25461/Rodriguez/2022/27886
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/54
 
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6yUGDLHxApzVsjQG7h2HoalYXCK0F4N8GtA&usqp=CAU",TN 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
@@ -1280,8 +1282,6 @@ https://emisoras.hn:8081/jbn/index.m3u8?HasBahCa.m3u8
 https://inliveserver.com:1936/17510/17510/chunklist_w702503302.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/11/telealtura.jpg",TELECIBAO
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1heWEudHZfc2NyZWVuXzBfMTU1NDU3ODAyM18wMjE/screen-0.jpg?fakeurl=1&type=.jpg",MAYA TV
-https://media.streambrothers.com:1936/8140/8140/chunklist_w73380490.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://www.chapintv.com/wp-content/uploads/2020/10/tn23-logo-sin-fondo.png",TN 23
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/fullchannelal100/picture?width=200&height=200",FULL CHANNEL
@@ -1924,7 +1924,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/marca
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://www.thematv.com/images/channels/latin-american-sports.png",LATIN AMERICA SPORTS
 http://190.83.119.67:8000/play/a0rd?ts
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn.png",TUDN
-http://tvstarlife.com:25461/Rodriguez/2022/1282
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/160
 
 #EXTINF:-1 group-title="DEPORTES INGLÉS" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",RED BULL T
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
