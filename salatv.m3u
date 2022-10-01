@@ -30,7 +30,7 @@ http://190.7.192.164:8007/play/s23
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Sur-Canal-9-en-vivo-Online.png?resize=100%2C70&ssl=1",9 TV SUR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/TELESISTEMA09/picture?width=200&height=200",TELESISTEMA
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://image.roku.com/developer_channels/prod/a25d309560cb8153a2292e189cba08bbcfce993ef9a4a729963d93484a6a24bc.png",TELERED
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png",REPRETEL 11
@@ -96,7 +96,7 @@ http://190.7.192.163:8004/play/s15
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/limontv.cr/picture?width=200&height=200",LIMÓN TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/trivision36/picture?width=200&height=200",TRIVISIÓN 36
-https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
+https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-900/chunklist.m3u8?DVR
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/TVCURRE/picture?width=200&height=200",TV CURRÉ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg",CANAL 38
@@ -129,6 +129,8 @@ http://190.7.192.164:8001/play/s49
 https://primary-out.iptv-global.net/costarica/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc.png",TV SANTA CRUZ
 https://rtmp.info/tvsantacruz/envivo/chunklist_w1520790363.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/tele.brunca/picture?width=200&height=200",TELE BRUNCA
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/TicaTV.Plus.US/picture?width=200&height=200",TICA TV PLUS MÚSICA
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/VoiceOverCostaRicaRadioTV/picture?width=200&height=200",VOICE OVER CR
@@ -146,15 +148,11 @@ https://tv.portalexpress.es:3187/live/agendadigitallive.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9HbaCeLPCLGV2TLRi2C_0ugAHn5ufWngUlw&usqp=CAU",TV TICA
 https://video.misistemareseller.com/tvtica/tvtica/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://mzsportscr.com/wp-content/uploads/2022/06/LOGO-MARZENIA-sports-CURVAS2-300x85.png",MZ SPORTS
-https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://mzsportscr.com/wp-content/uploads/2022/07/marzenia-sports-plus-1.1-300x85.png",MZ SPORTS PLUS
-https://srv.panelcast.net/canalmz/canalmz/playlist.m3u8
+https://cloudvideo.servers10.com:8081/8248/index.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/RadioCostaRica930AM/picture?width=200&height=200",TV 54 RADIO CR
 http://190.0.226.17:1935/RadioCostaRica/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="SMOTV.cr" group-title="COSTA RICA" tvg-logo="http://costaricatelevision.com/sites/default/files/2020-12/smotv-positive-channel-costa-rica.png",SMO TV
+#EXTINF:-1 tvg-id="SMOTV.cr" group-title="COSTA RICA" tvg-logo="http://costaricatelevision.com/sites/default/files/2020-12/smotv-positive-channel-costa-rica.png",MEGA TV
 http://190.7.192.163:8004/play/s14
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/tele.brunca/picture?width=200&height=200",TELE BRUNCA
-https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/ticavisionradio/picture?width=200&height=200",TICAVISIÓN RADIO
 http://190.7.192.164:8003/play/s20
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/Urbano106/picture?width=200&height=200",URBANO TV
@@ -168,7 +166,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.dvjgroup.cl/wp-content/uploads/2022/07/maletamix-10-edit.png",MALETA MIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8#/=?http://tv.latinacr.com.es/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER 5
-https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.twitch.tv/supercabletv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/supercabletv
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/radioturrialba/picture?width=200&height=200",RADIO TV TURRIALBA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x88mu9v
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://sun9-86.userapi.com/c853516/v853516327/202ce5/QkXiljNSyRg.jpg",TV CARTAGO DIGITAL
@@ -1225,7 +1223,7 @@ https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/aztecahonduras/picture?width=200&height=200",AZTECA HONDURAS
 http://190.122.96.187:8888/http/002
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/9_de_honduras.png",VTV
-http://190.92.72.98:8185/play/a0ei/index.m3u8
+https://dw6a9whylepvl.cloudfront.net/hls/vtv.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://image.roku.com/developer_channels/prod/fb32481866dfc83a76e16ebe7b80ab3ba8228537857771a11a9c2bc912981aed.png",SERCANO TV
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w1894834996_b698000.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/bajotechotv36/picture?width=200&height=200",BAJO TECHO TV
@@ -2274,10 +2272,12 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/37296
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3334
 #EXTINF:-1 group-title="XXX" tvg-logo="https://ministar.ru/upload/medialibrary/411/4113627324e01b02aeffab141cda55f7.png",O-LA-LA
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/36535
+#EXTINF:-1 group-title="XXX" tvg-logo="https://images.fanart.tv/fanart/the-secret-circle-506b06b58b7a0.png",SECRET CIRCLE
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/290298
+#EXTINF:-1 group-title="XXX" tvg-logo="https://www.digitaltveurope.com/files/2017/12/Vivid_Entertainment_logo.png",VIVID TOUCH
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/3295
 #EXTINF:-1 group-title="XXX" tvg-logo="https://www.cableman.ru/sites/default/files/shalun_0.png?1532878392",Шалун TV
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/290291
-#EXTINF:-1 group-title="XXX" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vivid_tv_us_touch.png",VIVID TOUCH
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/3295
 #EXTINF:-1 group-title="XXX" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT TV 2
 http://92.242.176.83:8096
 #EXTINF:-1 group-title="XXX" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT TV 3
@@ -2291,7 +2291,7 @@ http://160.20.164.171:8001/play/a034
 #EXTINF:-1 group-title="XXX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Erox_%282013%29.svg/revision/latest/scale-to-width-down/250?cb=20171210224440",EROX
 http://tv.a1promediastream.com:25461/0848592/8416758/18571
 #EXTINF:-1 group-title="XXX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Dorcel_XXX.png/revision/latest?cb=20220306200603",DORCEL TV
-http://89.185.85.252:22222/play/a00x
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/3283
 #EXTINF:-1 group-title="XXX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sexprive.png/revision/latest/scale-to-width-down/300?cb=20200719191223",SEXPRIVÉ
 http://191.212.166.203:4000/play/a0fu
 #EXTINF:-1 group-title="XXX" tvg-logo="https://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png",SEXY HOT
@@ -2332,16 +2332,14 @@ http://cdn.adultiptv.net/pornstar.m3u8
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3311
 #EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/320px-Brazzers_logo.png",BRAZZERS
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/291234
-#EXTINF:-1 group-title="XXX" tvg-logo="https://btvoficial.com/wp-content/uploads/2021/09/logo-hot2-300x300.png",HOT 1
+#EXTINF:-1 group-title="XXX" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png",HOT 1
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/1538
-#EXTINF:-1 group-title="XXX" tvg-logo="https://btvoficial.com/wp-content/uploads/2021/09/logo-hot2-300x300.png",HOT 2
+#EXTINF:-1 group-title="XXX" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png",HOT 2
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/291246
-#EXTINF:-1 group-title="XXX" tvg-logo="https://btvoficial.com/wp-content/uploads/2021/09/logo-hot2-300x300.png",HOT 3
+#EXTINF:-1 group-title="XXX" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png",HOT 3
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/15844
 #EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Vixen_TV_Canada_logo.png",VIXEN TV
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/290296
-#EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/SexArt_logo.svg/100px-SexArt_logo.svg.png",SECRET CIRCLE
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/290298
 #EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/320px-HustlerTV.svg.png",HUSTLER TV
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/290277
 #EXTINF:-1 group-title="XXX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Vivid.png/revision/latest?cb=20180213192129",VIVID RED
