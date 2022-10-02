@@ -607,7 +607,7 @@ https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (O)
 http://190.92.72.98:8185/play/a057/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (N)
-http://160.20.164.171:8001/play/a06z
+http://160.20.164.171:8001/play/a06z?m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica.png",HBO 2
 http://190.92.72.98:8185/play/a011/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica.png",HBO 2 op2
@@ -1834,7 +1834,7 @@ https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTv
 http://190.92.72.98:8185/play/a0es/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV op2
-http://190.83.119.67:8000/play/a0t3
+http://190.83.119.67:8000/play/a0t3?m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV op3
 http://160.20.164.171:8001/play/a00x/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/135px-Fox_Sports_1_logo.svg.png",FOX SPORTS 1
@@ -2177,6 +2177,8 @@ http://api.new.livestream.com/accounts/17488475/events/4802826/live.m3u8
 https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://graph.facebook.com/TheWonderChannel/picture?width=200&height=200",WONDER
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/800px-American_Heroes_Channel_logo.svg.png",AMERICAN HEROES
+http://tv.a1promediastream.com:25461/0848592/8416758/2370
 #EXTINF:-1 group-title="USA" tvg-logo="http://businessnewsthisweek.com/wp-content/uploads/2021/01/TVS.jpg",TVS HOLLYWOOD HISTORY
 https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png",RETRO TV
@@ -2200,7 +2202,7 @@ http://tv.a1promediastream.com:25461/0848592/8416758/2471
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png",HISTORY
 http://tv.a1promediastream.com:25461/0848592/8416758/2744
 #EXTINF:-1 group-title="USA" tvg-logo="https://graph.facebook.com/pittsburghscw/picture?width=200&height=200",THE CW
-https://v-ny.theus6tv.tk/hls/11.1/playlist.m3u8
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296699
 #EXTINF:-1 group-title="USA" tvg-logo="https://graph.facebook.com/USANetwork/picture?width=200&height=200",USA NETWORK
 http://tv.a1promediastream.com:25461/0848592/8416758/2479
 #EXTINF:-1  group-title="USA" tvg-id="doityourselfnetwork.us" tvg-logo="https://th.bing.com/th/id/OIP.tkP2pq__MPIdFCzHF8xsDwHaE8?pid=ImgDet&rs=1",MAGNOLIA NETWORK
@@ -2283,15 +2285,15 @@ http://92.242.176.83:8097
 #EXTINF:-1 group-title="XXX" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT TV 4
 http://92.242.176.83:8098
 #EXTINF:-1 group-title="XXX" tvg-logo="https://sc.dish.com/shared/images/station-logos/PLBY.png",PLAYBOY LATINO
-http://160.20.164.171:8001/play/a074
+http://dns.clientetv.net:8080/camisa10/camisa10/1156
 #EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/100px-Canal_Venus_logo.svg.png",VENUS
-http://160.20.164.171:8001/play/a034
+http://dns.clientetv.net:8080/camisa10/camisa10/1407
 #EXTINF:-1 group-title="XXX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Erox_%282013%29.svg/revision/latest/scale-to-width-down/250?cb=20171210224440",EROX
 http://tv.a1promediastream.com:25461/0848592/8416758/18571
 #EXTINF:-1 group-title="XXX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Dorcel_XXX.png/revision/latest?cb=20220306200603",DORCEL TV
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3283
 #EXTINF:-1 group-title="XXX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sexprive.png/revision/latest/scale-to-width-down/300?cb=20200719191223",SEXPRIVÉ
-http://191.212.166.203:4000/play/a0fu
+http://dns.clientetv.net:8080/camisa10/camisa10/46045
 #EXTINF:-1 group-title="XXX" tvg-logo="https://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png",SEXY HOT
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108997
 #EXTINF:-1 group-title="XXX" tvg-logo="https://www.nicepng.com/png/detail/972-9721467_1-tvg-logo-http-sextreme-tv.png",SEXTREME
@@ -2319,7 +2321,7 @@ http://80.24.75.92:5555/udp/239.111.4.1:1234
 #EXTINF:-1 group-title="XXX" tvg-logo="https://www.penthousetv.com/images/logo_phQuickies.png",PENTHOUSE QUICKIES
 http://80.24.75.92:5555/udp/239.111.4.2:1234
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/ksl1HhQ.png",ADULT CLUB 24H 1
-http://191.212.166.203:4000/play/a0fw
+hhttp://dns.clientetv.net:8080/camisa10/camisa10/1241
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/ksl1HhQ.png",ADULT CLUB 24H 2
 http://cdn.adultiptv.net/bigdick.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/ksl1HhQ.png",ADULT CLUB 24H 3
