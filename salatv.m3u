@@ -382,15 +382,15 @@ http://190.92.72.98:8185/play/a06j/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png",NATIONAL GEOGRAPHIC op2
 http://tv.a1promediastream.com:25461/0848592/8416758/16214
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png",HISTORY (S)
-http://190.60.39.62:8000/play/a00l
+https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png",HISTORY (N)
 http://179.1.64.210:8090/play/a001/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png",HISTORY (S) HD
 http://190.83.119.67:8000/play/a0px?m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png",HISTORY (C) SD
-http://190.83.119.67:8000/play/a0sc
+http://190.83.119.67:8000/play/a0sc?m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png",H2
-http://190.83.119.67:8000/play/a0r7?m3u8
+https://delivery.cdn.rcs.net.ar/mnp/h2/output.mpd
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/100px-Discovery_Home_%26_Health_logo.svg.png",DISCOVERY H&H
 http://190.92.72.98:8185/play/a064/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png",DISCOVERY ID
@@ -1204,7 +1204,7 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://i.imgur.com/IUuJm7u.png",TELECOSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-7-nacional_m.png",TELEVISIETE
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
+https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://teleuniversotv.com/wp-content/uploads/2020/08/logo.png",TELEUNIVERSO
 https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/avivatelevisionhn/picture?width=200&height=200",AVIVA TV
