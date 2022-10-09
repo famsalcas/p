@@ -563,9 +563,9 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (N)
-http://160.20.164.171:8001/play/a079/index.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (S)
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/178.m3u8
+http://45.228.232.204:16000/play/a06m/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel.png",SONY (S)
 https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel.png",SONY (N)
@@ -609,7 +609,7 @@ http://190.83.119.67:8000/play/a0ta
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (P)
 https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (O)
-http://190.92.72.98:8185/play/a057/index.m3u8
+http://45.228.232.204:16000/play/a040/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (N)
 http://160.20.164.171:8001/play/a06z?m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica.png",HBO 2
@@ -643,11 +643,11 @@ https://delivery.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal.png",CINECANAL (N)
 http://190.92.72.98:8185/play/a09w/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica.png",TNT (S)
-http://160.20.164.171:8001/play/a01e/index.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica.png",TNT (N)
-http://190.92.72.98:8185/play/a062/index.m3u8
+http://160.20.164.171:8001/play/a01e/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space.png",SPACE
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/144.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space.png",SPACE op2
 http://160.20.164.171:8001/play/a02e/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
@@ -667,7 +667,7 @@ http://160.20.164.171:8001/play/a013/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png",LIFETIME
 https://delivery.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png",GOLDEN
-http://190.83.119.67:8000/play/a0rh
+http://45.228.232.204:16000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png",GOLDEN op2
 http://190.92.72.98:8185/play/a039/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png",GOLDEN PLUS
@@ -679,7 +679,7 @@ http://160.20.164.171:8001/play/a07f/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png",MULTIPREMIER
 http://160.20.164.171:8001/play/a021/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe.png",DHE
-http://190.92.72.98:8185/play/a0cq/index.m3u8
+http://45.228.232.204:16000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png",UNIVERSAL+ CINEMA
 http://190.83.119.67:8000/play/a0v2?m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png",UNIVERSAL+ PREMIERE
@@ -1825,8 +1825,8 @@ https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenstories.png?w=96&h=72&tok=c26d99",RAKUTEN STORIES
 https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTv
-http://160.20.164.171:8001/play/a00x/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV
+http://45.162.135.1:1080/play/a0as
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV op2
 http://45.228.232.204:16000/play/a06q/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV op3
