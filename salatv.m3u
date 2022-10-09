@@ -368,7 +368,7 @@ https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://play-lh.googleusercontent.com/5fnEHVYAxaoQ6IeFy4BrlrRAJ-B6KvZH66lK0oki9fOa5wqG2woVy5asg3a7nQLGxMIX",TDN
 http://castv10.plugstreaming.com:1935/clc/clc/chunklist_w1873517667.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png",EL GOURMET
-http://190.92.72.98:8185/play/a00q/index.m3u8
+http://181.189.243.254:8000/play/a0r8/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png",TASTEMADE ESPAÑOL
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200",TURISTIK TV
@@ -392,9 +392,9 @@ https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png",HISTORY (N)
 http://179.1.64.210:8090/play/a001/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png",HISTORY (S) HD
-http://190.83.119.67:8000/play/a0px?m3u8
+http://181.189.243.254:8000/play/a0px/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png",HISTORY (C) SD
-http://190.83.119.67:8000/play/a0sc?m3u8
+http://45.228.232.204:16000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png",H2
 https://delivery.cdn.rcs.net.ar/mnp/h2/output.mpd
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/100px-Discovery_Home_%26_Health_logo.svg.png",DISCOVERY H&H
@@ -408,7 +408,7 @@ http://190.83.119.67:8000/play/a0nx
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science.png",DISCOVERY SCIENCE
 http://tv.a1promediastream.com:25461/0848592/8416758/16343
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo.png",DISCOVERY TURBO
-http://190.92.72.98:8185/play/a04s/index.m3u8
+http://45.228.232.204:16000/play/a071/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/100px-2015_Discovery_theater_HD_logo.svg.png",DISCOVERY THEATER
 http://181.209.194.254:8000/play/a0hv/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlc-mediano.png",TLC
@@ -416,7 +416,7 @@ http://181.209.194.254:8000/play/a0hh/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png",FOOD NETWORK
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/95
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sun_channel.png",SUN CHANNEL
-http://160.20.164.171:8001/play/a02v/index.m3u8
+http://181.189.243.254:8000/play/a0r9/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Discovery_Familia_logo_%282%29.svg/100px-Discovery_Familia_logo_%282%29.svg.png",DISCOVERY FAMILIA
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/73
 
@@ -681,15 +681,15 @@ http://160.20.164.171:8001/play/a021/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe.png",DHE
 http://45.228.232.204:16000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png",UNIVERSAL+ CINEMA
-http://190.83.119.67:8000/play/a0v2?m3u8
+http://181.189.243.254:8000/play/a0v2/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png",UNIVERSAL+ PREMIERE
-http://190.83.119.67:8000/play/a0ui?m3u8
+http://181.189.243.254:8000/play/a0uj/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png",UNIVERSAL+ COMEDY
-http://190.83.119.67:8000/play/a0t1?m3u8
+http://181.189.243.254:8000/play/a0t1/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png",UNIVERSAL+ REALITY
-http://190.83.119.67:8000/play/a0sz?m3u8
+http://181.189.243.254:8000/play/a0sz/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://www.universalplus.com/files/channels/780277389.png",UNIVERSAL+ CRIME
-http://190.83.119.67:8000/play/a0t0?m3u8
+http://181.189.243.254:8000/play/a0t0/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://www.filmandarts.tv/theme/assets/fa-logo.png",FILM & ARTS
 http://160.20.164.171:8001/play/a01t/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",EUROPA EUROPA
@@ -697,7 +697,7 @@ http://181.209.194.254:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurochannel-mediano.png",EURO CHANNEL
 http://181.209.194.254:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/100px-I.Sat_logo.svg.png",iSAT
-http://45.181.121.57:8111/play/116
+http://45.228.232.204:16000/play/a079/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino.png",CINE LATINO
 http://181.209.194.254:8000/play/a0ik/index.m3u8
 
