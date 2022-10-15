@@ -8,7 +8,7 @@ http://k3.usastreams.com/CableLatino/88stereo/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canal4.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/4_de_costa_rica-mediano.png",REPRETEL 4
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER 5
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/supercabletv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/supercabletv#/index.tv-latinacr.com.es/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png",5 SAN VITO TV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" group-title="COSTA RICA" tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png",EXTREMA TV
@@ -2332,10 +2332,8 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/3283
 http://dns.clientetv.net:8080/camisa10/camisa10/46045
 #EXTINF:-1 group-title="XXX" tvg-logo="https://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png",SEXY HOT
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108997
-#EXTINF:-1 group-title="XXX" tvg-logo="https://www.nicepng.com/png/detail/972-9721467_1-tvg-logo-http-sextreme-tv.png",SEXTREME
+#EXTINF:-1 group-title="XXX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest/scale-to-width-down/250?cb=20130927203009",SEXTREME
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110365
-#EXTINF:-1 tvg-id="PinkOTV.it" tvg-logo="https://i.imgur.com/QinRAGU.png" group-title="XXX",PINK'O TV
-http://w4.12all.tv:4000/play/pinkotv/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic-logo.png",EROTIC
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/37153
 #EXTINF:-1 group-title="XXX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest?cb=20210318151018",EROTIC 2
