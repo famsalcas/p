@@ -655,13 +655,13 @@ http://190.83.119.67:8000/play/a0q2
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula.png",DE PELÍCULA
 http://tv.a1promediastream.com:25461/0848592/8416758/161388
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/240px-TCM_Latam_logo.svg.png",TCM
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/151.m3u8
+http://200.24.159.179:8500/play/a00d
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/240px-TCM_Latam_logo.svg.png",TCM op2
-http://190.83.119.67:8000/play/a0ri?m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/paramount_channel.png",PARAMOUNT
-http://190.83.119.67:8000/play/a0t9?m3u8
+https://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/paramount_channel.png",PARAMOUNT op2
-http://160.20.164.171:8001/play/a013/index.m3u8
+http://190.83.119.67:8000/play/a0t9/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png",LIFETIME
 https://delivery.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png",LIFETIME op2
@@ -701,13 +701,13 @@ http://181.189.243.254:8000/play/a0t0/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://www.universalplus.com/files/channels/780277389.png",UNIVERSAL+ CRIME op2
 http://190.83.119.67:8000/play/a0t0/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://www.filmandarts.tv/theme/assets/fa-logo.png",FILM & ARTS
-http://160.20.164.171:8001/play/a01t/index.m3u8
+http://190.83.119.67:8000/play/a0q6/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",EUROPA EUROPA
 http://181.209.194.254:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurochannel-mediano.png",EURO CHANNEL
 http://190.83.119.67:8000/play/a0r6/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/100px-I.Sat_logo.svg.png",iSAT
-http://45.228.232.204:16000/play/a079/index.m3u8
+http://200.24.159.179:8500/play/a071
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino.png",CINE LATINO
 http://181.209.194.254:8000/play/a0ik/index.m3u8
 
@@ -1131,23 +1131,17 @@ https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://graph.facebook.com/americateve/picture?width=200&height=200",AMERICA TEVE
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_mundo-mediano.png",AZ MUNDO
-http://190.92.72.98:8185/play/a09e/index.m3u8
-#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_mundo-mediano.png",AZ MUNDO op2
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/52
+http://190.83.119.67:8000/play/a0s4/index.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_clic.png",AZ CLIC
 http://tv.a1promediastream.com:25461/0848592/8416758/16322
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i2eee083b9645b453/version/1470081080/image.png",TELEMAR
 https://cloudvideo.servers10.com:8081/8148/index.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas.png",LAS ESTRELLAS
-http://tvstarlife.com:25461/Rodriguez/2022/27884
+http://200.24.159.179:8500/play/a01m
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Imagen-Television-en-vivo-Online-100x70.png",IMAGEN TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ImagenTV/live
-#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universo.png",UNIVERSO
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/330
-#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",AZTECA UNO
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/53
-#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7.png",AZTECA 7
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/54
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/TV_Azteca_Cinema_logo_2021.png/revision/latest?cb=20220316003349&path-prefix=es",AZ CINEMA
+http://tv.a1promediastream.com:25461/0848592/8416758/16321
 
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6yUGDLHxApzVsjQG7h2HoalYXCK0F4N8GtA&usqp=CAU",TN 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
@@ -1672,7 +1666,7 @@ http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png",MTV
 https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/150px-MTV_00s_remaster.png",MTV 00s
-http://181.209.194.254:8000/play/a0i0/index.m3u8
+http://177.234.254.38:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/253px-MTV_Hits_2021.svg.png",MTV HITS
 http://181.209.194.254:8000/play/a0gd/index.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/320px-LOGO_VH1_CLASSIC.svg.png",VHI CLASSIC
@@ -1868,11 +1862,13 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sl
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenstories.png?w=96&h=72&tok=c26d99",RAKUTEN STORIES
 https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV
-http://190.83.119.67:8000/play/a0t3/index.m3u8
+http://190.83.119.67:8000/play/a0t3
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV op2
 http://45.228.232.204:16000/play/a06q/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV op3
-http://181.189.243.254:8000/play/a0t3/index.m3u8
+http://160.20.164.171:8001/play/a00x
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV op4
+http://177.234.254.38:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/135px-Fox_Sports_1_logo.svg.png",FOX SPORTS 1
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png",FOX SPORTS 2
