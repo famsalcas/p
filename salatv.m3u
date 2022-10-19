@@ -70,7 +70,7 @@ https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ3aUEuZDC1VqNAgWw0-FzDcLwh1U5QadW7Tvlegw=s176-c-k-c0x00ffffff-no-rj-mo",ASAMBLEA LEGISLATIVA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/parlamentocr/live
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/iqchannel/picture?width=200&height=200",IQ CHANNEL
-https://rtmp.info/iqtv/envivo/chunklist.m3u8
+https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/enlace-mediano.png",ENLACE INT.
 http://190.7.192.163:8003/play/s8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://play-lh.googleusercontent.com/CU_H1MbcgUKaeC6sp4dE-y3wMpNWImhSu8tNVptMA6gDeg7Gw-ihSM7EvZAYpz-PloUU",ENLACE PLUS
@@ -94,7 +94,7 @@ http://190.7.192.163:8004/play/s13
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/XPERTV_logo.png/320px-XPERTV_logo.png",XPERTV
 http://190.7.192.164:8006/play/s22
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6SKiB7Rm9Q1_fMdJoRk4jYwWaEGWxPsC6dCN_A&s=0",COSTA RICA CHANNEL
-https://video1.getstreamhosting.com:1936/8036/8036/playlist.m3u8
+http://190.7.192.163:8004/play/s15
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/limontv.cr/picture?width=200&height=200",LIMÓN TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/trivision36/picture?width=200&height=200",TRIVISIÓN 36
@@ -1640,7 +1640,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png",RETRO PLUS TV 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1679472817.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7c8320451943ed08265872510644e800.webp",RETRO MUSIC TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w490380263.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/4/3374.v8.png",FM PULSO
 https://videostreaming.cloudserverlatam.com/8016/8016/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.imgur.com/ZHJVvOj.png",THE EDGE
@@ -1900,7 +1900,7 @@ http://190.83.119.67:8000/play/a0ur/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4.png",ESPN 4 op2 
 http://200.24.159.179:8500/play/a05y
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.PNG",ESPN EXTRA
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/285105
+http://200.24.159.179:8500/play/a06j
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.PNG",ESPN EXTRA op2
 http://190.83.119.67:8000/play/a0py/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_deportes.png",ESPN DEPORTES
