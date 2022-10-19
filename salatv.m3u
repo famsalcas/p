@@ -18,7 +18,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png",REPRETEL 6 (alt)
 http://190.7.192.164:8002/play/s11
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA
-http://tv.a1promediastream.com:25461/0848592/8416758/16061
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/148830
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op2
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/148830
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op3
@@ -653,7 +653,7 @@ http://160.20.164.171:8001/play/a01p/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL op2
 http://190.83.119.67:8000/play/a0q2
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula.png",DE PELÍCULA
-http://tv.a1promediastream.com:25461/0848592/8416758/161388
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/31740
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/240px-TCM_Latam_logo.svg.png",TCM
 http://200.24.159.179:8500/play/a00d
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/240px-TCM_Latam_logo.svg.png",TCM op2
@@ -1193,6 +1193,8 @@ https://5e85d90130e77.streamlock.net/6024/6024/chunklist.m3u8
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/240px-Logo-telemetro.svg.png",TELEMETRO
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png",TVN CANAL.2
+http://45.236.28.72:8000/play/a0cz/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/RHCsomostodos/picture?width=200&height=200",ROATÁN HABLE CLARO
 https://stmv1.zcastbr.com/roatanhableclaro/roatanhableclaro/HasBahCa.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TCS_2_2003.png/240px-TCS_2_2003.png",2 ESL
@@ -1244,7 +1246,7 @@ https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w221482568.m
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/maxivisiontv/picture?width=200&height=200",MAXI VISIÓN
 https://livefocamundo.com:8081/maxivision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://www.bing.com/th?id=AMMS_5e98398754d4a3c2b4e4ede5e0dd5776&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&o=6&cdv=1&dpr=1.1&pid=16.1",HILANDO FINO
-https://primary-out.iptv-global.net/HilandoFinoTV/ngrp:HilandoFinoTV_all/chunklist_w1657616182_b493000.m3u8
+https://pop-hls.iptv-global.net/loadbalancer/hilandofino.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/PorvenirTVHN/picture?width=200&height=200",PORVENIR TV
 http://amixtv.com:8080/prtv/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://static.wixstatic.com/media/7acae1_a1343f704ae0412ba28bab4239e78411~mv2.png/v1/fill/w_418,h_418,al_c,usm_0.66_1.00_0.01,enc_auto/visiontv.png",VISIÓN TV
@@ -1915,6 +1917,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e7900073816
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/320px-DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV SPORTS
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/67721
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/67721
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png",TIGO SPORTS
 http://177.234.254.38:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png",TIGO SPORTS op2
@@ -1938,9 +1941,9 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TurfMovil.cl" group-title="DEPORTES ESPAÑOL" tvg-logo="https://graph.facebook.com/tvturfmovil/picture?width=200&height=200",TURF MÓVIL
 https://janus.tvturf.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="Teletrak.cl" group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD+
-http://160.20.164.171:8001/play/a07c
+http://160.20.164.171:8001/play/a07c/index.m3u8
 #EXTINF:-1 tvg-id="Teletrak.cl" group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/320px-TD_M%C3%A1s_2_Logo.svg.png",TD+ 2
-http://160.20.164.171:8001/play/a07d
+http://160.20.164.171:8001/play/a07d/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://i.postimg.cc/Wpm5jV3h/AAA.png",LUCHA LIBRE AAA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://graph.facebook.com/canaldeportv/picture?width=150&height=150",DEPORTV
@@ -1952,9 +1955,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/marca
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://www.thematv.com/images/channels/latin-american-sports.png",LATIN AMERICA SPORTS
 http://190.83.119.67:8000/play/a0rd
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports.png",TNT SPORTS
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285164
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3204
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn.png",TUDN
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/160
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/31784
 
 #EXTINF:-1 group-title="DEPORTES INGLÉS" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",RED BULL T
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
