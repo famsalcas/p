@@ -8,7 +8,7 @@ http://k3.usastreams.com/CableLatino/88stereo/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canal4.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/4_de_costa_rica-mediano.png",REPRETEL 4
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER 5
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/supercabletv#/index.tv-latinacr.com.es/playlist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/supercabletv#/index.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png",5 SAN VITO TV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" group-title="COSTA RICA" tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png",EXTREMA TV
@@ -1958,6 +1958,8 @@ http://190.83.119.67:8000/play/a0rd
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3204
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn.png",TUDN
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/31784
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fb81f6d360b9559d67705424e80b7ec9.png",FOX DEPORTES
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/14820
 
 #EXTINF:-1 group-title="DEPORTES INGLÉS" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",RED BULL T
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
@@ -2070,6 +2072,12 @@ http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hssli
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES INGLÉS" tvg-logo="https://greyhoundbet.racingpost.com/img/racingpost-logo.png",RACING POST
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES INGLÉS" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585-354x200.jpg",FOX SPORTS 1
+http://tv.a1promediastream.com:25461/0848592/8416758/105
+#EXTINF:-1 group-title="DEPORTES INGLÉS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/7d70c1592322e5d4c37473ff49e3c511.png",FOX SPORTS 506
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157457
+#EXTINF:-1 group-title="DEPORTES INGLÉS" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2021/01/cbs-sports-new-logo.png",CBS SPORTS NETWORK
+http://tv.a1promediastream.com:25461/0848592/8416758/110
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/GETG2sS.png",CONTV
 https://contv-junction.cinedigm.com/ingest/playlist.m3u8
