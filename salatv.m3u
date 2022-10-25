@@ -1872,7 +1872,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sl
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenstories.png?w=96&h=72&tok=c26d99",RAKUTEN STORIES
 https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV
-http://190.83.119.67:8000/play/a0t3
+http://190.83.119.67:8000/play/a0t3/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV op2
 http://45.228.232.204:16000/play/a06q/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV op3
