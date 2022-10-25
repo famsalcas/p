@@ -148,9 +148,9 @@ https://tv.portalexpress.es:3187/live/agendadigitallive.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9HbaCeLPCLGV2TLRi2C_0ugAHn5ufWngUlw&usqp=CAU",TV TICA
 https://video.misistemareseller.com/tvtica/tvtica/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://mzsportscr.com/wp-content/uploads/2022/06/LOGO-MARZENIA-sports-CURVAS2-300x85.png",MZ SPORTS
-https://cloudvideo.servers10.com:8081/8248/index.m3u8
+https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/RadioCostaRica930AM/picture?width=200&height=200",TV 54 RADIO CR
-http://190.0.226.17:1935/RadioCostaRica/livestream/chunklist.m3u8
+http://190.0.226.17:1935/RadioCostaRica/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SMOTV.cr" group-title="COSTA RICA" tvg-logo="http://costaricatelevision.com/sites/default/files/2020-12/smotv-positive-channel-costa-rica.png",MEGA TV
 http://190.7.192.163:8004/play/s14
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/Urbano106/picture?width=200&height=200",URBANO TV
@@ -631,9 +631,9 @@ http://190.83.119.67:8000/play/a0ou/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop.png",HBO POP
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3069
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature.png",HBO SIGNATURE
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/755
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/192024.ts
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi.png",HBO MUNDI
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/1112
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/192025.ts
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX
 https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-language="Spanish" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX op2
@@ -1048,7 +1048,7 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/once_tv_mexico-mediano.png",CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://graph.facebook.com/canal57.tv/picture?width=200&height=200",57 TV
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8?check=1
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png",MULTIMEDIOS MONTERREY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png",MULTIMEDIOS CDMX
@@ -1114,8 +1114,8 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo.png",TV MARTI
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://i.imgur.com/9HA0TTS.png"10 ,CANCÚN
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/XHIJ_TV_Canal_44_2012_Logo.png/320px-XHIJ_TV_Canal_44_2012_Logo.png",44 CHIHUAHUA
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://apps-tvstream.nyc3.cdn.digitaloceanspaces.com/Teleplay/teleplay_512.png",TELEPLAY
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://pbs.twimg.com/profile_images/948221367131955202/jwmyK4Ee_400x400.jpg",6 MICHOACÁN
@@ -1144,6 +1144,16 @@ http://200.24.159.179:8500/play/a01m
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ImagenTV/live
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/TV_Azteca_Cinema_logo_2021.png/revision/latest?cb=20220316003349&path-prefix=es",AZ CINEMA
 http://tv.a1promediastream.com:25461/0848592/8416758/16321
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7-mediano.png",AZTECA 7
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/353747.ts
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Azteca_logo.png/284px-Azteca_logo.png",AZTECA
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/340464.ts
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universo-mediano.png",NBC UNIVERSO
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/340543.ts
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Logo-Ultra-Macho.jpg",ULTRA MACHO
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/377675.ts
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_Docu_Logo.png",ULTRA DOCU
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/377671.ts
 
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6yUGDLHxApzVsjQG7h2HoalYXCK0F4N8GtA&usqp=CAU",TN 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
@@ -1177,10 +1187,6 @@ http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://i.imgur.com/1Jniyhc.png",TElEMICRO
 http://stream2.grupotelemicro.com:8081/live/5/playlist.m3u8
-#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://dominicanchannels.net/wp-content/uploads/2014/06/Canal-6-696x734.png",CANAL 6 DAJABÓN
-https://cdn4.hostlagarto.com:8081/static/canal6tv/playlist.m3u8
-#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/canalnimtv/picture?width=200&height=200",NIM TV
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://i.imgur.com/qFPfkdC.png",RPC
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/canaltvsgt/picture?width=200&height=200",TVS RETRO
@@ -1445,7 +1451,7 @@ https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/agrotendencia_tv.png",AGROTENDENCIA TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/chunklist_w194756437.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv5monde.png",TV5 MONDE
-http://45.92.69.70:8001/play/a03r
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/377632.ts
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200",RASD TV
 https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://www.cafetv24.it/wp-content/uploads/2021/05/logo-cafe-trasmissione_ARROTONDATO1.png",CAFE 24
@@ -1561,7 +1567,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png",FOX NEWS
 http://tv.a1promediastream.com:25461/0848592/8416758/209
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png",FOX NEWS op2
-http://satelliteiptv.xyz:8080/Sally/dfh563dc6/4943
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/267131.ts
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://th.bing.com/th/id/R9d97e87f8a737ead5a0039c70cda6220?rik=WNbnYPocGO1T9Q&pid=ImgRaw",FOX NEWS NOW
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://push.oann.com/images/oan-center-logo.png",OAN
