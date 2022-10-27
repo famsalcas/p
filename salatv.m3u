@@ -339,8 +339,12 @@ https://tls-cl.cdnz.cl/planetatvkids/live/chunklist.m3u8
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU",PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.nicepng.com/png/detail/132-1320237_a-teletubbies-logo-teletubbies-logo-png.png",TELETUBBIES
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/dxHOu8m.png",LEGO
 https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://graph.facebook.com/ITVPatagonia/picture?width=200&height=200",ITV
+https://marine2.miplay.cl/itv/mono.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_junior.png",DISNEY JUNIOR
 http://190.83.119.67:8000/play/a0pb/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nick_jr.png",NICK JUNIOR
@@ -455,6 +459,8 @@ http://190.60.39.62:8000/play/a073
 http://190.83.119.67:8000/play/a0pg/index.m3u8
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/220px-Logotipo_de_Televisa.svg.png",TELEVISA VARIEDADES
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://www.novelisima.com/assets/images/logo.png",NOVELÍSIMA
+https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/3e172187-39ca-4d55-b11e-3daf59b08d1a:ATL/master.m3u8
 
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png",RETRO PLUS TV 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1515946969.m3u8
@@ -568,6 +574,12 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg",AMÉ 47
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w471128982.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://play-lh.googleusercontent.com/T4Fy-8ZukT9rc9nFPiGIMecmOhIHf064mPbzxEjd72V5ZoBNXMuxMd3bv8ZszlPmTw=w240-h480-rw",OLD TV
+https://marine2.miplay.cl/old/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://graph.facebook.com/Viwix.cl/picture?width=200&height=200",VIWIX ESTRENOS
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://graph.facebook.com/Viwix.cl/picture?width=200&height=200",VIWIX SERIES
+https://s2.tvdatta.com:3402/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (N)
 https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
@@ -1873,9 +1885,9 @@ https://qwestclassic-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://www.igroupanz.com/wp-content/uploads/2021/03/MediciTV-400x200-1-300x150.png",MEDICI TV
 https://sdn-global-streaming-cache-3qsdn.akamaized.net/9378/files/19/05/1188496/M4HLGyCDz6937jYxfcmFVZp2nKvPN8tT-drm-aes.ism/M4HLGyCDz6937jYxfcmFVZp2nKvPN8tT-drm-aes-audio=160000-video=553000.m3u8
-#EXTINF:-1  group-title="Musicales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png",Mezzo
+#EXTINF:-1  group-title="Musicales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png",MEZZO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s35/index.m3u8
+https://amg01523-mezzo-vivalditv-tcl-yurju.amagi.tv/playlist/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.imgur.com/M5zq693.png",STINGRAY HOT COUNTRY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.imgur.com/M5zq693.png",STINGRAY ALTERNATIVE
@@ -1952,8 +1964,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e7900073816
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png",CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/320px-DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV SPORTS
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/67721
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/67721
+http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/43430.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png",TIGO SPORTS
 http://177.234.254.38:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png",TIGO SPORTS op2
