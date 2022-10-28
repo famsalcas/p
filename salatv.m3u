@@ -20,6 +20,7 @@ http://190.7.192.164:8002/play/s11
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/148830
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/148830
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op3
 https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/playlist.m3u8
@@ -325,8 +326,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d486b2ee
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/GwMeEbD.png",PEQUERADIO TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Once_Ni%C3%B1os.png/311px-Logo_Once_Ni%C3%B1os.png",ONCE NIÑOS
-http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/Stream(05)/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest/scale-to-width-down/200?cb=20191212111607",DUCK TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png",TOON GOOGLES
@@ -1327,8 +1326,10 @@ http://multivision.digitalgt.com:8080/hls/multivision/5_6/index.m3u8?sessId=2084
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://pbs.twimg.com/profile_images/1382530865448816648/lkCm9b4x_400x400.jpg",AZTECA GUATEMALA
 http://190.83.119.67:8000/play/a0rq/index.m3u8
-#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://pbs.twimg.com/profile_images/961004386188132353/By0nESs2_400x400.jpg",JBN
+#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://pbs.twimg.com/profile_images/961004386188132353/By0nESs2_400x400.jpg",JBN HONDURAS
 https://emisoras.hn:8081/jbn/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://www.hn504.net/img/tv/fb/JBN-SPS-TGU.png",JBN NICARAGUA
+https://inliveserver.com:1936/17510/17510/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/11/telealtura.jpg",TELECIBAO
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/fullchannelal100/picture?width=200&height=200",FULL CHANNEL
@@ -1345,6 +1346,8 @@ http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/canelatv.com.do/picture?width=200&height=200",TV CANELA
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/playlist.m3u8
+#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/Canalquincenicaragua/picture?width=200&height=200",15 NICARAGUA
+http://138.117.4.70:8075/channel15/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/Canal4nicaraguanoticias/picture?width=200&height=200",4 NICARAGUA
 http://177.234.254.38:8000/play/a07q/index.m3u8
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7rwv8c
@@ -1711,6 +1714,8 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8
 http://v1.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.ibb.co/K5rFymS/m2o.jpg",RADIO M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/LaRock22/picture?width=200&height=200",LA ROCK 22
+http://138.117.4.70:8075/channel22/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/sonusfmpage/picture?width=200&height=200",SONUS FM
 http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png",MTV
