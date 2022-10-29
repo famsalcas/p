@@ -650,10 +650,12 @@ http://tv.a1promediastream.com:25461/0848592/8416758/16198
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family.png",HBO FAMILY op2
 http://190.83.119.67:8000/play/a0ou/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop.png",HBO POP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3069
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature.png",HBO SIGNATURE
 http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/192024.ts
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi.png",HBO MUNDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/192025.ts
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX
 https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd
@@ -694,10 +696,14 @@ http://45.228.232.204:16000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png",GOLDEN op2
 http://190.83.119.67:8000/play/a0rh/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png",GOLDEN PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3051
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png",GOLDEN EDGE
 http://tv.a1promediastream.com:25461/0848592/8416758/16376
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png",GOLDEN PREMIERE
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png",GOLDEN PREMIERE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/3052
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png",GOLDEN PREMIERE 2
 http://160.20.164.171:8001/play/a07f/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png",MULTIPREMIER
 http://160.20.164.171:8001/play/a021/index.m3u8
@@ -2394,6 +2400,7 @@ http://dns.clientetv.net:8080/camisa10/camisa10/1407
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Erox_%282013%29.svg/revision/latest/scale-to-width-down/250?cb=20171210224440",EROX
 http://tv.a1promediastream.com:25461/0848592/8416758/18571
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Dorcel_XXX.png/revision/latest?cb=20220306200603",DORCEL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3283
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sexprive.png/revision/latest/scale-to-width-down/300?cb=20200719191223",SEXPRIVÉ
 http://dns.clientetv.net:8080/camisa10/camisa10/46045
