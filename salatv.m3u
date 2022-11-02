@@ -170,7 +170,7 @@ https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8#/=?
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/radioturrialba/picture?width=200&height=200",RADIO TV TURRIALBA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x88mu9v
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://lh3.googleusercontent.com/-7XY3Fuygbgo/Y0unml46o1I/AAAAAAAAAi0/HnnaiL3tVGcwUgwpxjWWvTKOaIr0tYxGwCLQBGAYYCw/s239-c/TV%2BGARABITO%2BFULLHD-IPTVLATINACR.jpg",TV GARABITO
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w2044006612.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://sun9-86.userapi.com/c853516/v853516327/202ce5/QkXiljNSyRg.jpg",TV CARTAGO DIGITAL
 https://hls.robotstreamer.com/tv/5369.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/NoticiasenlineaCR/picture?width=200&height=200",NOTICIAS EN LÍNEA CR
@@ -679,9 +679,9 @@ http://190.83.119.67:8000/play/a0ut/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space.png",SPACE op2
 http://160.20.164.171:8001/play/a02e/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
-http://190.131.247.82:8000/play/a06g
+http://190.83.119.67:8000/play/a0q2/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL op2
-http://190.83.119.67:8000/play/a0q2
+http://190.131.247.82:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula.png",DE PELÍCULA
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/31740
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/240px-TCM_Latam_logo.svg.png",TCM
@@ -1527,6 +1527,8 @@ https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
 https://live.islamchannel.tv/islamtv_english/2/prog_index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/rLCHYCs.png",ABC AU
 https://c.mjh.nz/101002210221
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/TVM_2021.png/revision/latest/scale-to-width-down/300?cb=20210919193035",TVM
+https://dist4.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQxMjUzOSwiYXVkIjoiMTg2LjE1LjExNi40MiIsImV4cCI6MTY2NzQyMzQ4NH0.aTX8gyL6Q32nmCkfnPSn3KWSCjxxaKNnkb8Um2mpIQY/live/2/1/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://graph.facebook.com/dubaionetv/picture?width=200&height=200",DUBAI ONE
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200",CGTN DOCUMENTARY
@@ -1953,13 +1955,13 @@ http://190.83.119.67:8000/play/a0t4/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU",ESPN 1 op2
 http://190.83.119.67:8000/play/a0se/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU",ESPN 1 (S)
-http://190.131.247.82:8000/play/a006
+http://190.131.247.82:8000/play/a062
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",ESPN 2 (N)
 http://190.83.119.67:8000/play/a0t6/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",ESPN 2 (N) op2
 http://181.189.243.254:8000/play/a0t6/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",ESPN 2 (S)
-http://190.131.247.82:8000/play/a007
+http://190.131.247.82:8000/play/a05w
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (N)
 http://190.83.119.67:8000/play/a0t5/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (S)
@@ -1967,7 +1969,7 @@ http://160.20.164.171:8001/play/a00z/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4.png",ESPN 4
 http://190.83.119.67:8000/play/a0ur/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4.png",ESPN 4 op2 
-http://190.43.232.244:8000/play/a06w/index.m3u8
+http://190.131.247.82:8000/play/a0ds
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.PNG",ESPN EXTRA
 http://181.189.243.254:8000/play/a0py/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.PNG",ESPN EXTRA op2
@@ -2175,7 +2177,7 @@ https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/fY0d5DK.png",PEOPLE TV
 https://peopletv-oo.akamaized.net/playlist720p.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/MZ7i5TP.png",VARIETY FAIR
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/MZ7i5TP.png",VANITY FAIR
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ilP0NT5.png",VOGUE
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
