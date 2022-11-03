@@ -19,12 +19,12 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png",REPRETEL 6 (alt)
 http://190.7.192.164:8002/play/s11
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/148830
+https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/148830
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/244691
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op3
-https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/playlist.m3u8
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/244692.ts
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png",TELETICA RADIO
 https://m6gdar5eyn93-hls-live.5centscdn.com/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multimedios_costa_rica.png",MULTIMEDIOS CR
@@ -2413,14 +2413,16 @@ http://92.242.176.83:8097
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT TV 4
 http://92.242.176.83:8098
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://sc.dish.com/shared/images/station-logos/PLBY.png",PLAYBOY LATINO
-http://dns.clientetv.net:8080/camisa10/camisa10/2297
+http://dns.clientetv.net:8080/camisa10/camisa10/1156
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/100px-Canal_Venus_logo.svg.png",VENUS
 http://dns.clientetv.net:8080/camisa10/camisa10/1407
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Erox_%282013%29.svg/revision/latest/scale-to-width-down/250?cb=20171210224440",EROX
 http://tv.a1promediastream.com:25461/0848592/8416758/18571
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Dorcel_XXX.png/revision/latest?cb=20220306200603",DORCEL TV
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png/revision/latest/scale-to-width-down/220?cb=20191026080934",DORCEL TV
+http://dns.clientetv.net:8080/camisa10/camisa10/51045
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/DORCEL_CLUB.jpg/revision/latest/scale-to-width-down/149?cb=20191026080800",DORCEL CLUB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/3283
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3283
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sexprive.png/revision/latest/scale-to-width-down/300?cb=20200719191223",SEXPRIVÉ
 http://dns.clientetv.net:8080/camisa10/camisa10/46045
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png",SEXY HOT
@@ -2468,7 +2470,7 @@ http://cdn.adultiptv.net/pornstar.m3u8
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3311
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/320px-Brazzers_logo.png",BRAZZERS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/296072
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/291241
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png",HOT 1
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/1538
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png",HOT 2
@@ -2483,6 +2485,6 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/290296
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/290277
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Vivid.png/revision/latest?cb=20180213192129",VIVID RED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/3989
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3989
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eca5ed8af4d5a989426f9763e793ba63.png",DUSK
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/75
