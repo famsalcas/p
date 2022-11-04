@@ -1873,6 +1873,10 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/ebc1tv/picture?width=200&height=200",EBC MUSIC
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.vibee.tv/wp-content/uploads/2020/09/logo_v2beat_page_small_rev.jpg",V2BEAT TV
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/HIT_FM_2020_logo.svg/320px-HIT_FM_2020_logo.svg.png",HIT FM TV
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/officialpagehitmusicromania/picture?width=200&height=200",HIT MUSIC CHANNEL
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200",KRONEHIT TV
@@ -2159,6 +2163,8 @@ http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hssli
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES INGLÉS" tvg-logo="https://greyhoundbet.racingpost.com/img/racingpost-logo.png",RACING POST
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="DEPORTES INGLÉS",HUNT CHANNEL
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 group-title="DEPORTES INGLÉS" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585-354x200.jpg",FOX SPORTS 1
 http://tv.a1promediastream.com:25461/0848592/8416758/105
 #EXTINF:-1 group-title="DEPORTES INGLÉS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/7d70c1592322e5d4c37473ff49e3c511.png",FOX SPORTS 506
@@ -2397,7 +2403,7 @@ http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="http://guljaj.com/kanaly/182.jpg",RUSSIAN NIGHT
-http://46.174.83.66/Russkaya_Noch/index.m3u8
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/49168
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/barely-legal-logo.png",BARELY LEGAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/92037
@@ -2411,8 +2417,7 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/3334
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/36535
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://images.fanart.tv/fanart/the-secret-circle-506b06b58b7a0.png",SECRET CIRCLE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/290298
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290298
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.digitaltveurope.com/files/2017/12/Vivid_Entertainment_logo.png",VIVID TOUCH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3295
@@ -2433,8 +2438,6 @@ http://dns.clientetv.net:8080/camisa10/camisa10/1407
 http://tv.a1promediastream.com:25461/0848592/8416758/18571
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png/revision/latest/scale-to-width-down/220?cb=20191026080934",DORCEL TV
 http://dns.clientetv.net:8080/camisa10/camisa10/51045
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/DORCEL_CLUB.jpg/revision/latest/scale-to-width-down/149?cb=20191026080800",DORCEL CLUB
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3283
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sexprive.png/revision/latest/scale-to-width-down/300?cb=20200719191223",SEXPRIVÉ
 http://dns.clientetv.net:8080/camisa10/camisa10/46045
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png",SEXY HOT
