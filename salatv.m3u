@@ -287,6 +287,8 @@ http://v4.tustreaming.cl/restaurandovidastv/index.m3u8
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://graph.facebook.com/cetelmon.television/picture?width=200&height=200",CETELMON
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+#EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/TVCA_El_Salvador_2015.png/revision/latest/scale-to-width-down/300?cb=20190930015113",TV CA
+https://tv.infosal.com:5443/LiveApp/streams/908264309507938591071465.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a320110bb5e404e1bfd8b05b2c8ec4cd.webp",ELIM TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/chunklist_b4628000.m3u8?p=79&h=973bf97fb3d1a1543819421ef2849f09
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/529d918e9a55a4920a9ba738e9bb8606.webp",EL CAMINO
@@ -311,6 +313,8 @@ https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8
 https://uni8rtmp.tulix.tv/cfntv/cfntv/chunklist_w1054433888.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/06/alcancetv_logo-3d.png",ALCANCE TV
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 tvg-id="FranchsTV.gt" group-title="VIDA Y RELIGIÓN" tvg-logo="https://franchs.tv/wp-content/uploads/2020/06/logo.png",FRANCHS TV
+https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://lirp.cdn-website.com/40f01f20/dms3rep/multi/opt/logo-w2-0c0699ed-1920w.png",WOMEN'S CHANNEL
 https://verge1.lifestreamnetworks.com/hls/womentvnetwork2.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://lirp.cdn-website.com/40f01f20/dms3rep/multi/opt/mens-thumb-1920w.jpg",MEN'S CHANNEL
@@ -1311,15 +1315,15 @@ http://45.236.28.72:8000/play/a0cz/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/RHCsomostodos/picture?width=200&height=200",ROATÁN HABLE CLARO
 https://stmv1.zcastbr.com/roatanhableclaro/roatanhableclaro/HasBahCa.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TCS_2_2003.png/240px-TCS_2_2003.png",2 ESL
-http://190.83.119.67:8000/play/a0ru/m3u8
+http://181.189.243.254:8000/play/a0ru/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/320px-Canal_4_TCS.png",4 ESL
-http://190.83.119.67:8000/play/a0rt/m3u8
+http://181.189.243.254:8000/play/a0rt/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/186px-Canal_6_TCS.png",6 ESL
-http://190.83.119.67:8000/play/a0qk/m3u8
+http://181.189.243.254:8000/play/a0qk/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/GuatevisionOficial/picture?width=200&height=200",GUATEVISIÓN
 https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdwCmi62_FCxuYmSMKo-DYtvq5ncMWsvFgMJqru8cTLzAor97&s",CANAL 11 TUTV
-https://streaming.grupocsanetwork.net:1936/canal11/canal11/chunks.m3u8?nimblesessionid=277587
+https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/AlsaciasTv/picture?width=200&height=200",ALSACIAS TV
 https://emisoras.hn:8081/atv/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/ctvinter/picture?width=200&height=200",CTV INTEERNCIONAL
@@ -1365,11 +1369,12 @@ http://amixtv.com:8080/prtv/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://static.wixstatic.com/media/7acae1_a1343f704ae0412ba28bab4239e78411~mv2.png/v1/fill/w_418,h_418,al_c,usm_0.66_1.00_0.01,enc_auto/visiontv.png",VISIÓN TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png",CANAL 33
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w1183041524_b1128000_DVR_sleng.m3u8
+https://5e50264bd6766.streamlock.net/canal33/smil:canal33.smil/chunklist_w2003025786_b148000_DVR_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIyIDg6NTE6MTYgUE0maGFzaF92YWx1ZT0zc2pzNE90T0s0N2FWUDJGb2RJWGd3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/AZATVHD/picture?width=200&height=200",AZA TV
-https://mediacp.us:8081/azatvhd/tracks-v1a1/mono.m3u8
+https://vdopanel.us:3756/live/azatvhdlive.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/CanalDoceSV/picture?width=200&height=200",CANAL 12
-http://190.92.95.37:8000/play/a0gv/index.m3u8
+https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png",TEVE GLOBO
 https://videoserver.tmcreativos.com:19360/8046/8046.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://play-lh.googleusercontent.com/_TZSX0kfh6M36OKRsi2S2nq_ghftnqJ2_JrirqXLpJX7xUqZpfqViMIAFRDAzezEDp8=w412-h220-rw",CINEVISIÓN
@@ -1435,8 +1440,8 @@ http://138.117.4.70:8075/channel11/playlist.m3u8
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/VivaNicaragua13/picture?width=200&height=200",VIVA NICARAGUA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vh8g3
-#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/Canal6TCS/picture?width=200&height=200",6 TCS
-http://190.92.95.37:8000/play/a0gu/index.m3u8
+#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://1.bp.blogspot.com/-e2BCRc2yt6M/YSgPYvMdQnI/AAAAAAAAQRI/_PHm3V6VhBonN8DndCVIS5S-W3sef5DlQCLcBGAsYHQ/s612/Canal%2B6%2Ben%2Bvivo.png",6 NICARAGUA
+http://138.117.4.70:8075/channel6/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/CROMTVHD/picture?width=200&height=200",CROM
 https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/177px-Canal_5_HN_logo_2019.png",5 EL LÍDER
@@ -1445,16 +1450,18 @@ http://181.114.57.158:4000/play/ryNmgYh6ujBxWWBS/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com//video/x7nngbi
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://th.bing.com/th/id/OIP.pKgiQKEhBEYMVb79h0tzmAAAAA?pid=ImgDet&rs=1",TV ÉXITOS
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
-#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://cdn.mitvstatic.com/channels/hn_globo-tv_m.png",TV.GLOBO
-https://panel.dattalive.com/8122/8122/chunklist.m3u8
+#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png",TVX
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canaltvx
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://digital809tv.com/wp-content/uploads/2019/02/DIGITAL809TV-teless-245-1.png",DIGITAL809TV
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_antena_7.png",ANTENA 7
 https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/TeleOnce/picture?width=200&height=200",TELEONCE
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3305
+http://190.83.119.67:8000/play/a0qj/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECEVISIÓN
 http://190.83.119.67:8000/play/a0qi?m3u8
+#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://www.cdnn23.com/images/TV2.gif",CDNN 23
+http://138.117.4.70:8075/channel23/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/320px-TeleMadrid.svg.png",TELEMADRID
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_3.m3u8
