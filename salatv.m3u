@@ -2459,8 +2459,6 @@ http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/a/ac/Samurai_Jack_Logo.png",SAMURAI JACK
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://guljaj.com/kanaly/182.jpg",RUSSIAN NIGHT
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/49168
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/barely-legal-logo.png",BARELY LEGAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/92037
@@ -2473,6 +2471,8 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/3334
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://ministar.ru/upload/medialibrary/411/4113627324e01b02aeffab141cda55f7.png",O-LA-LA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/36535
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://ntvplus.tv/files/image/35/43/34/s1q.png",RED LIPS
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296761
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://images.fanart.tv/fanart/the-secret-circle-506b06b58b7a0.png",SECRET CIRCLE
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290298
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/J2Ukr1sb2dvLW1pZ3JhdGVkL3ZpdmlkLXRvdWNoLnBuZ5KVAsxkAMLDlQIAKMLD",VIVID TOUCH
@@ -2487,7 +2487,7 @@ http://92.242.176.83:8096
 http://92.242.176.83:8097
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT TV 4
 http://92.242.176.83:8098
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Playboy_%28Alternative%29_1.svg/revision/latest/scale-to-width-down/165?cb=20210815171200",PLAYBOY
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/PLAYBOY-768x979.png",PLAYBOY
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/14222
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://sc.dish.com/shared/images/station-logos/PLBY.png",PLAYBOY LATINO
 http://dns.clientetv.net:8080/camisa10/camisa10/1156
