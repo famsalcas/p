@@ -173,6 +173,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w2044006612.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://sun9-86.userapi.com/c853516/v853516327/202ce5/QkXiljNSyRg.jpg",TV CARTAGO DIGITAL
 https://hls.robotstreamer.com/tv/5369.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://play-lh.googleusercontent.com/vraX_I-g49YRLsbpGQ6awvseNDHc4xmcr4TDNx-2zpGXvjOwTAObwrlYkl94qqv-6aUL",TV NOSARA
+https://stmv.streamingvip.click/tvnosara/tvnosara/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/NoticiasenlineaCR/picture?width=200&height=200",NOTICIAS EN LÍNEA CR
 rtmp.info/noticiasenlineatv/envivo/playlist.m3u8
 
@@ -1280,8 +1282,8 @@ https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8?DVR
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/3_de_guatemala.png",CANAL 3
 https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
-#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/nextvpanama/picture?width=200&height=200",NEX
-https://mediacp.us:8081/nex21/index.m3u8
+#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://img2.freepng.es/20181117/fqj/kisspng-panama-city-nextv-logo-tvn-tvmax-nex-panama-app-app-5bf00400925d56.2825822415424563205995.jpg",NEX
+http://45.228.232.204:16000/play/a050/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png",CASCARA TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w1712052624.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png",TELEVISIÓN DEL ESTE
@@ -1359,7 +1361,7 @@ https://vdo1.streamgato.us:3014/live/ecovisionlive.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/catavisionlive/picture?width=200&height=200",CATA VISIÓN
 https://stmv1.zcastbr.com/catavision/catavision/HasBahCa.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://seeklogo.com/images/N/nicavision-canal-12-logo-B92DA2E4B4-seeklogo.com.png",12 NICARAGUA
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w221482568.m3u8
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/maxivisiontv/picture?width=200&height=200",MAXI VISIÓN
 https://livefocamundo.com:8081/maxivision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://www.bing.com/th?id=AMMS_5e98398754d4a3c2b4e4ede5e0dd5776&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&o=6&cdv=1&dpr=1.1&pid=16.1",HILANDO FINO
@@ -1439,6 +1441,7 @@ http://138.117.4.70:8075/channel11/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png",CANA TV
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/VivaNicaragua13/picture?width=200&height=200",VIVA NICARAGUA
+http://190.83.119.67:8000/play/a0qt/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vh8g3
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://1.bp.blogspot.com/-e2BCRc2yt6M/YSgPYvMdQnI/AAAAAAAAQRI/_PHm3V6VhBonN8DndCVIS5S-W3sef5DlQCLcBGAsYHQ/s612/Canal%2B6%2Ben%2Bvivo.png",6 NICARAGUA
 http://138.117.4.70:8075/channel6/playlist.m3u8
