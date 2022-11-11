@@ -91,9 +91,11 @@ https://59ef525c24caa.streamlock.net//impactotv/impactotv/playlist.m3u8
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://cristovision31.org/imagenes/Logo.png",CRISTOVISIÓN
 http://190.7.192.163:8004/play/s12
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://play-lh.googleusercontent.com/l6tpFt2UjFehI7QMno-JRXLgCGRxtNma0zBawAFTpNik76kLpk6jORf_nkIuWUyqog",VISIÓN AMERICA
+http://190.7.192.163:8004/play/s13#8000/play/a03h/index.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6SKiB7Rm9Q1_fMdJoRk4jYwWaEGWxPsC6dCN_A&s=0",COSTA RICA CHANNEL
 http://190.7.192.163:8004/play/s13
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://scontent.fsjo15-1.fna.fbcdn.net/v/t39.30808-6/312653020_5787781267909925_4854673851268798448_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=fr7yBxl19RAAX_5_FZu&_nc_ht=scontent.fsjo15-1.fna&oh=00_AfAq5qZWtoXlg278g9BL4YBMHrk7RSzH1vS3Kha-UIJeCg&oe=635F83DA",ZURQUITVA
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://scontent.fsjo9-1.fna.fbcdn.net/v/t39.30808-6/312604323_590437186217973_1134430936129801041_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=erPWC9mKyLoAX--Ha3H&_nc_oc=AQn8T-XzFXQ6KvcPn-7vSnFosc7da1vLcQKW6X7mfNZplw5Dne3Tv8nfj3szbL_a93gJX9Wtvcg_yXwpGuO0Uew4&_nc_ht=scontent.fsjo9-1.fna&oh=00_AfDVDtUPxJpPCdqdizXV3eh4feUUY_aswhrHBJAT18oZtg&oe=6373661D",ZURQUITVA
 http://190.7.192.163:8004/play/s15
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/XPERTV_logo.png/320px-XPERTV_logo.png",XPERTV
 http://190.7.192.164:8006/play/s22
@@ -130,8 +132,6 @@ https://59ef525c24caa.streamlock.net//videotour/videotour/chunklist.m3u8
 https://tvdatta.com:3384/stream/play.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="COSTA RICA" tvg-logo="https://i.imgur.com/BDyoWhT.png",TV PLUS
 http://190.7.192.164:8001/play/s49
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Betheltv2018.png/revision/latest/scale-to-width-down/200?cb=20210326225037&path-prefix=es",BETHEL CR
-https://primary-out.iptv-global.net/costarica/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc.png",TV SANTA CRUZ
 https://rtmp.info/tvsantacruz/envivo/chunklist_w1520790363.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/tele.brunca/picture?width=200&height=200",TELE BRUNCA
@@ -146,24 +146,29 @@ https://5cf4a2c2512a2.streamlock.net/8162/8162/chunklist.m3u8
 https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="http://somoscaribetv.com/wp-content/uploads/2021/01/cropped-135297098_2827430904137445_6870343697020229970_n.png",SOMOS CARIBE
 http://k4.usastreams.com/somoscaribetv/somoscaribetv/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFaSSBG22mZ2_RBvFlUXwuS7R3oNu_XRCbQ&usqp=CAU",TV OCCIDENTE
-https://tv.portalexpress.es:3187/live/agendadigitallive.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9HbaCeLPCLGV2TLRi2C_0ugAHn5ufWngUlw&usqp=CAU",TV TICA
 https://video.misistemareseller.com/tvtica/tvtica/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://mzsportscr.com/wp-content/uploads/2022/06/LOGO-MARZENIA-sports-CURVAS2-300x85.png",MZ SPORTS
 https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/RadioCostaRica930AM/picture?width=200&height=200",TV 54 RADIO CR
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCy7l-ACrIXzsrDagjTugFLA/live
-http://190.0.226.17:1935/RadioCostaRica/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="SMOTV.cr" group-title="COSTA RICA" tvg-logo="http://costaricatelevision.com/sites/default/files/2020-12/smotv-positive-channel-costa-rica.png",MEGA TV
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0_VsPWNQKMDU-EP-K3Gqhaf013uDRaYfDKOJxg24iKpTV-PF2JqmkZSUaqd9ihdYzCBKXnnYfJ8-4a_Y8etgsZmLPArWzb2tSqFprwypOmmXaFWfy8x4-Dzb6WAIKnuce9FJJQoVNGIoKrC0gpLoNm-lruAYrDFPhcC7sS3aV3tv56iFra2f70PJQ7A/s400/ICONO%20LOGO.png",CANAL 1O DEPORT
+https://cloudvideo.servers10.com:8081/8190/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpfSS_JYN6JBMOm9d2tnFoCjHNUzycT6kKJmUEgbDB7OE4YJZ8XvBLKACTdvSrLBWe07j5qyriz3FzO3bbEd5iV_A-iBKCglI6-9KH3dgXdynwLOLcw-Eu9PlfGk3COXONena2nnq6hk3SM9-wl04DkGsOEP3Z9NoBcsKWuNDucglMSzbpn3ry9ZCYPw/s400/CANAL%2010.1%20TV%20NEGRO.png",CANAL 10.1
+https://stmv.streamingvip.click/rbmtv2/rbmtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="SMOTV.cr" group-title="COSTA RICA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2145-294x165-FFFFFF.jpg",MEGA TV
 http://190.7.192.163:8004/play/s14
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/Urbano106/picture?width=200&height=200",URBANO TV
 http://190.7.192.164:8001/play/s50
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQGNNc_SP0UOKQ/company-logo_200_200/0/1519922049922?e=2159024400&v=beta&t=4lP4qlmwYzbfnFtM7fXJiF7YMtgJNN6s7J1yh4lTgho",MORA.TV
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQGNNc_SP0UOKQ/company-logo_200_200/0/1519922049922?e=2159024400&v=beta&t=4lP4qlmwYzbfnFtM7fXJiF7YMtgJNN6s7J1yh4lTgho",MORA TV
 https://stmv1.zcastbr.com/moratv1/moratv1/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhtz1uRPaqK_flWSnnpuNsg8AouuSieK64Or6oY_mmLaE5ruhZQxBaqhpeyPlhy-m2tQieOZQaZQDrJMTKlItZuM4zgPKYCymjWQ0k531gc52HOGGNEowa0j1SyubJqeLK2ISRwK6io6HHwvGT2xnzOu0XCSJvS_vTjF0lsNYE_-_nFcR_VyUb7NmhU8A=w200-h200",CR-TV RADIO 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/hgtv.json
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x84zx30
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh9vLHG4PFe-OBMyYTEUflmMdTUJIY7lQ4taR_JjtoJZ4OdcgM3M696OYl1DrEkawJex86NVmEjGdZw5P_yV8gR9JWarSc18YlMKoy_Oe-PtnMPlAICfbLxwYMJwq08bioyFhr_OEchYjEKGt7AfJidGmo4xWnh3v0smt1ZxHrpqDK5ujYO1gP5g6_McA=s320",CR-TV RADIO 2
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://s2.dmcdn.net/u/9XKzZ1YDAdFHL0UhG/60x60",SOMOS ALAJUELITA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/hgtv.json
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8962rd
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.dvjgroup.cl/wp-content/uploads/2022/07/maletamix-10-edit.png",MALETA MIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8#/=?http://tv.latinacr.com.es/playlist.m3u8
@@ -177,6 +182,10 @@ https://hls.robotstreamer.com/tv/5369.m3u8
 https://stmv.streamingvip.click/tvnosara/tvnosara/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/NoticiasenlineaCR/picture?width=200&height=200",NOTICIAS EN LÍNEA CR
 rtmp.info/noticiasenlineatv/envivo/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFaSSBG22mZ2_RBvFlUXwuS7R3oNu_XRCbQ&usqp=CAU",TV OCCIDENTE
+https://tv.portalexpress.es:3187/live/agendadigitallive.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Betheltv2018.png/revision/latest/scale-to-width-down/200?cb=20210326225037&path-prefix=es",BETHEL CR
+https://primary-out.iptv-global.net/costarica/ngrp:myStream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d18ac345cf61eb60b5895" group-title="ARTE PANTALLA",LOUPE
 https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
@@ -719,7 +728,7 @@ http://190.83.119.67:8000/play/a0ut/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space.png",SPACE op2
 http://160.20.164.171:8001/play/a02e/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
-http://190.83.119.67:8000/play/a0q2/index.m3u8
+http://190.83.119.67:8000/play/a0q2
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL op2
 http://190.131.247.82:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula.png",DE PELÍCULA
