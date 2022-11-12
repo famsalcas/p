@@ -1523,6 +1523,12 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
 #EXTINF:-1  group-title="ESPAÑA" tvg-logo="https://i0.wp.com/www.urbanrevolution.es/wp-content/uploads/2021/09/simbolo_positivo.png?fit=809%2C809&ssl=1",LA URBAN TV
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+#EXTINF:-1  group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cuatro_de_espana.png",CUATRO
+http://tribaliptv.com:8080/duran/duran/4795
+#EXTINF:-1  group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telecinco.png",TELECINCO
+http://tribaliptv.com:8080/duran/duran/4798
+#EXTINF:-1  group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/la_sexta.png",LA SEXTA
+http://tribaliptv.com:8080/duran/duran/4801
 
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CGTN_English.png/120px-CGTN_English.png",CGTN ESPAÑOL
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
