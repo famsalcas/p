@@ -595,7 +595,7 @@ http://181.189.243.254:8000/play/a0sk/index.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png",AXN (N)
 http://190.83.119.67:8000/play/a0pp/index.m3u8
-h#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica.png",A&E (N)
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica.png",A&E (N)
 http://160.20.164.171:8001/play/a091/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica.png",A&E (S)
 https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
@@ -611,12 +611,12 @@ http://160.20.164.171:8001/play/a01w/index.m3u8
 http://190.43.232.244:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica.png",AMC (N)
 http://190.83.119.67:8000/play/a0q8/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (S)
+#EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (N)
 http://190.131.247.82:8000/play/a0dq
 #EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (N)
 http://45.228.232.204:16000/play/a078/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (N) op2
-http://190.43.232.244:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (S)
+https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2018/02/syfy_2017_logo-777x398.png",SYFY
 http://190.83.119.67:8000/play/a0s9/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2018/02/syfy_2017_logo-777x398.png",SYFY op2
@@ -632,13 +632,13 @@ http://190.83.119.67:8000/play/a0ta/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/comedy_central_latinoamerica.png",COMEDY CENTRAL
 http://190.61.102.67:8000/play/a064
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (N)
-http://45.228.232.204:16000/play/a040/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (N) op2
 http://190.83.119.67:8000/play/a0or/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (CO)
-http://190.43.232.244:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (N) op2
+http://190.61.102.67:8000/play/a015
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (C)
+http://190.43.232.244:8000/play/a077
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (S)
-https://delivery.cdn.rcs.net.ar/mnp/espn1/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica.png",HBO 2
 https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica.png",HBO 2 op2
@@ -745,6 +745,8 @@ http://190.83.119.67:8000/play/a0r6/index.m3u8
 http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/192106
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino.png",CINE LATINO
 http://181.209.194.254:8000/play/a0ik/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",CLOVER CHANNEL
+http://190.131.247.82:8000/play/a05v
 
 #EXTINF:-1 group-title="CINE Y SERIES INGLÉS" tvg-logo="https://hallmark-brightspot-lower.s3.amazonaws.com/ac/c6/c703c2ee4141bb9b71cb0d54f210/hallmark-channel-transparent.png",HALLMARK
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
