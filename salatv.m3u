@@ -625,10 +625,10 @@ http://160.20.164.171:8001/play/a01w/index.m3u8
 http://190.83.119.67:8000/play/a0q8/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica.png",AMC (S)
 https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
-#EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (N)
-http://181.65.154.170:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (N) op2
+#EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (P)
 http://190.83.119.67:8000/play/a0uc/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (P) op2
+http://45.228.232.204:16000/play/a078/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (S)
 https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2018/02/syfy_2017_logo-777x398.png",SYFY
@@ -857,7 +857,7 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png",EL PINGUINO
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/TV-Publica-canal7argentina2010.png/revision/latest/scale-to-width-down/250?cb=20210529230423&path-prefix=es",TV PÚBLICA
-http://tv.a1promediastream.com:25461/0848592/8416758/16051
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/8752
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png",MULTIVISIÓN
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://www.ipuntotv.com/Images/UCL-logo.jpg",UCL
@@ -2095,7 +2095,7 @@ http://190.61.102.67:8000/play/a05x
 http://181.209.194.254:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="Teletrak.cl" group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD+
 http://190.61.102.67:8000/play/a00p
-#EXTINF:-1 tvg-id="Teletrak.cl" group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD+ op1
+#EXTINF:-1 tvg-id="Teletrak.cl" group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD+ op2
 http://160.20.164.171:8001/play/a07c/index.m3u8
 #EXTINF:-1 tvg-id="Teletrak.cl" group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/320px-TD_M%C3%A1s_2_Logo.svg.png",TD+ 2
 http://190.61.102.67:8000/play/a00q
