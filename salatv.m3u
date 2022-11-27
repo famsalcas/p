@@ -2071,8 +2071,10 @@ http://190.131.247.82:8000/play/a05w
 https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (N)
 http://190.83.119.67:8000/play/a0t5/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (S)
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (N) op2
 http://160.20.164.171:8001/play/a00z/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (CO)
+http://200.69.80.43:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (S)
 https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4.png",ESPN 4
