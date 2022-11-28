@@ -411,6 +411,8 @@ http://190.43.232.244:8000/play/a06a/index.m3u8
 http://181.189.243.254:8000/play/a0r9/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://i.postimg.cc/1zspqDBM/INWONDER.png",INWONDER
 https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png",MÁS CHIC
+http://45.228.232.204:16000/play/a037/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Discovery_Familia_logo_%282%29.svg/100px-Discovery_Familia_logo_%282%29.svg.png",DISCOVERY FAMILIA
 http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/117326.ts
 
@@ -420,8 +422,6 @@ https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/maste
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="http://blogtiv.com/i/79237738881.png",STORMCAST NOVELAS
 https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_StormcastNovelas/playlist.m3u8?ads.wurl_channel=1057&ads.wurl_name=StormcastNovelas&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://graph.facebook.com/KanalDDramaLA/picture?width=200&height=200",KANAL D DRAMA
-http://181.65.154.170:8000/play/a07c/index.m3u8
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://i.postimg.cc/nLG0hzvG/kanal-D-Drama.png",Kanal D DRAMA op2
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/320px-ViX_Logo.png",NOVELAS EN FAMILIA
@@ -599,8 +599,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (N)
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (S)
-http://190.131.247.82:8000/play/a015
-http://181.65.154.170:8000/play/a04o/index.m3u8
+http://45.228.232.204:16000/play/a06m/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel.png",SONY (N)
 http://190.83.119.67:8000/play/a0sk/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel.png",SONY (N) op2
@@ -647,8 +646,6 @@ http://190.61.102.67:8000/play/a064
 http://190.83.119.67:8000/play/a0or/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (N) op2
 http://190.61.102.67:8000/play/a015
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (C)
-http://190.43.232.244:8000/play/a077
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (S)
 https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica.png",HBO 2
@@ -1265,7 +1262,7 @@ http://tv.a1promediastream.com:25461/0848592/8416758/16321
 http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/353747
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",AZTECA UNO
 http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/353740
-#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo ="https://i.postimg.cc/yNFxS8hw/AZTECA-UNO-SEP.png",AZTECA UNO op2
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",AZTECA UNO op2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678?source:iptvmate.net
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Azteca_logo.png/284px-Azteca_logo.png",AZTECA AMÉRICA
 http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/340464
@@ -1362,7 +1359,7 @@ http://51.161.12.229:1935/CanalAntigua/myStream/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://www.teleprogreso.tv/wp-content/uploads/2019/12/Teleprogreso-Logo-250x250.jpg",TELEPROGRESO
 https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/aztecahonduras/picture?width=200&height=200",AZTECA HONDURAS
-http://190.122.96.187:8888/http/002
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/32049
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/9_de_honduras.png",VTV
 https://dw6a9whylepvl.cloudfront.net/hls/vtv.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://image.roku.com/developer_channels/prod/fb32481866dfc83a76e16ebe7b80ab3ba8228537857771a11a9c2bc912981aed.png",SERCANO TV
@@ -2441,6 +2438,8 @@ http://tv.a1promediastream.com:25461/0848592/8416758/2744
 http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/173380.ts
 #EXTINF:-1 group-title="USA" tvg-logo="https://graph.facebook.com/USANetwork/picture?width=200&height=200",USA NETWORK
 http://tv.a1promediastream.com:25461/0848592/8416758/2479
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f8/f2/89/f8f2893a-1c60-e3bf-2b14-58efa41033b9/source/512x512bb.jpg" group-title="USA",PARAMOUNT CHANNEL
+http://tv.a1promediastream.com:25461/0848592/8416758/2452
 #EXTINF:-1 tvg-id="fx.us" tvg-name=" FX" tvg-logo="https://assets.fxnetworks.com/shows/fxnetworks/photos/logos/fx.jpg" group-title="USA",FX
 http://tv.a1promediastream.com:25461/0848592/8416758/2417
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX" tvg-logo="https://i.ytimg.com/vi/RJ1bM5E3ZNI/maxresdefault.jpg" group-title="USA",FXX
@@ -2513,7 +2512,7 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/barely-legal-logo.png",BARELY LEGAL
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/92037
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png",BLUE HUSTLER
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/37296
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/37296
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/frl_logo.png",FRENCH LOVER
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3334
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://ministar.ru/upload/medialibrary/411/4113627324e01b02aeffab141cda55f7.png",O-LA-LA
@@ -2522,10 +2521,6 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/36535
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296761
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://images.fanart.tv/fanart/the-secret-circle-506b06b58b7a0.png",SECRET CIRCLE
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/290298
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://tv-fresh.net/uploads/posts/2020-04/1588140734_xymix.png",XY MIX
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3293
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHiWwoOY5x8_U5A4U1F5FhocBb9tYLbp0JmGjr44Zc4KDT5PWr38LG8dOUqGJv7DmXmE&usqp=CAU",XY PLUS
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3291
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/J2Ukr1sb2dvLW1pZ3JhdGVkL3ZpdmlkLXRvdWNoLnBuZ5KVAsxkAMLDlQIAKMLD",VIVID TOUCH
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3295
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.cableman.ru/sites/default/files/shalun_0.png?1532878392",Шалун TV
@@ -2547,8 +2542,7 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108997
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest/scale-to-width-down/250?cb=20130927203009",SEXTREME
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110365
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic-logo.png",EROTIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/37153
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/37153
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest?cb=20210318151018",EROTIC 2
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/76
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Pink_Erotic_3.png/revision/latest?cb=20210318151205",EROTIC 3
@@ -2564,7 +2558,7 @@ http://193.33.240.8/hustler_hd/index.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest?cb=20150315153455",PRIVATE
 http://tv.a1promediastream.com:25461/0848592/8416758/14743
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Redlight_HD.png/revision/latest/scale-to-width-down/300?cb=20210517035141",REDLIGHT
-http://93.152.174.144:4000/play/privatetv1/index.m3u8
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/85
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.universfreebox.com/UserFiles/image/penthouse.png",PENTHOUSE GOLD
 http://80.24.75.92:5555/udp/239.111.4.1:1234
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.penthousetv.com/images/logo_phQuickies.png",PENTHOUSE REALITY
@@ -2580,10 +2574,8 @@ http://cdn.adultiptv.net/pornstar.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 5
 http://tribaliptv.com:8080/duran/duran/5090
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.providercheck.nl/upload/201908/1565088090_lap_mvh.png",MEIDEN VAN HOLLAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/3311
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/320px-Brazzers_logo.png",BRAZZERS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/79
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png",HOT 1
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/1538
