@@ -773,6 +773,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c7086
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES INGLÉS" tvg-logo="http://pixltv.com/wp-content/uploads/2012/08/PixL_VECTOR_CircleBack-e1345142628441.jpg",PIXL
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+#EXTINF:-1 tvg-id="uptv.us" tvg-name="UP TV" group-title="CINE Y SERIES INGLÉS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/UPtv_logo.svg/320px-UPtv_logo.svg.png",UP TV
+http://tv.a1promediastream.com:25461/0848592/8416758/10867
 #EXTINF:-1 group-title="CINE Y SERIES INGLÉS" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png",PARAMOUNT CHANNEL
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 group-title="CINE Y SERIES INGLÉS" tvg-logo="https://i.imgur.com/7e6HpCQ.png",CLASSIC CINEMA
@@ -2439,9 +2441,19 @@ http://tv.a1promediastream.com:25461/0848592/8416758/2744
 http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/173380.ts
 #EXTINF:-1 group-title="USA" tvg-logo="https://graph.facebook.com/USANetwork/picture?width=200&height=200",USA NETWORK
 http://tv.a1promediastream.com:25461/0848592/8416758/2479
+#EXTINF:-1 tvg-id="fx.us" tvg-name=" FX" tvg-logo="https://assets.fxnetworks.com/shows/fxnetworks/photos/logos/fx.jpg" group-title="USA",FX
+http://tv.a1promediastream.com:25461/0848592/8416758/2417
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX" tvg-logo="https://i.ytimg.com/vi/RJ1bM5E3ZNI/maxresdefault.jpg" group-title="USA",FXX
+http://tv.a1promediastream.com:25461/0848592/8416758/2420
+#EXTINF:-1 tvg-id="epix.us" tvg-name="EPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/320px-Epix_Logo_2019.svg.png" group-title="USA",EPIX
+http://tv.a1promediastream.com:25461/0848592/8416758/205
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="BRAVO EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/320px-Bravo_TV.svg.png" group-title="USA",BRAVO
+http://tv.a1promediastream.com:25461/0848592/8416758/2387
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="FREEFORM" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/freeform18.png" group-title="USA",FREEFORM
+http://tv.a1promediastream.com:25461/0848592/8416758/2414
 #EXTINF:-1 group-title="USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/2336
-#EXTINF:-1  group-title="USA" tvg-id="doityourselfnetwork.us" tvg-logo="https://th.bing.com/th/id/OIP.tkP2pq__MPIdFCzHF8xsDwHaE8?pid=ImgDet&rs=1",MAGNOLIA NETWORK
+#EXTINF:-1 group-title="USA" tvg-id="doityourselfnetwork.us" tvg-logo="https://th.bing.com/th/id/OIP.tkP2pq__MPIdFCzHF8xsDwHaE8?pid=ImgDet&rs=1",MAGNOLIA NETWORK
 http://tv.a1promediastream.com:25461/0848592/8416758/2408
 
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png",El CHAVO DEL 8
