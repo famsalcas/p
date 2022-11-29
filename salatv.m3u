@@ -49,7 +49,7 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://neotelecomcr.com/Middleware/Android/Portal/img/canales/vmlatinovintagemusic.gif",VINTAGE MUSIC TV
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-300x271.png",SINART
-http://160.20.164.171:8001/play/a06y/index.m3u8
+http://190.61.102.67:444/play/a00v
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-300x271.png",SINART op2
 http://190.83.119.67:8000/play/a0oh/index.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr" group-title="COSTA RICA" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png",TV SUR 14
@@ -441,7 +441,7 @@ http://f4.tvxweb.net:8082/42145/video.m3u8?token=MxPReBvRE18
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones.png",PASIONES
 http://tv.a1promediastream.com:25461/0848592/8416758/16227
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlnovelas.png",TLNOVELAS
-http://190.60.39.62:8000/play/a073
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/196608
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_corazon.png",AZ CORAZÓN
 http://190.83.119.67:8000/play/a0pg/index.m3u8
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/220px-Logotipo_de_Televisa.svg.png",TELEVISA VARIEDADES
@@ -1584,6 +1584,8 @@ http://tribaliptv.com:8080/duran/duran/4795
 http://tribaliptv.com:8080/duran/duran/4798
 #EXTINF:-1  group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/la_sexta.png",LA SEXTA
 http://tribaliptv.com:8080/duran/duran/4801
+#EXTINF:-1  group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana.png",FOX ESPAÑA
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1158
 
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CGTN_English.png/120px-CGTN_English.png",CGTN ESPAÑOL
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
