@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow]--- COSTA RICAS ---[/COLOR]
-http://0.0.0.0:1234
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://canal1cr.com/wp-content/uploads/2022/02/cropped-Canal-1-1.png",CANAL 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",CDR 2
@@ -187,8 +185,6 @@ https://tv.portalexpress.es:3187/live/agendadigitallive.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Betheltv2018.png/revision/latest/scale-to-width-down/200?cb=20210326225037&path-prefix=es",BETHEL CR
 https://primary-out.iptv-global.net/costarica/ngrp:myStream_all/playlist.m3u8
 
-#EXTINF:-1,[COLOR green]--- VIDA Y RELIGIÓN ---[/COLOR]
-http://0.0.0.0:1234
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://i.imgur.com/exdDHml.png",ESPERANZA TV 
 http://tv.esperanzatvcr.org:1935/WEB/WEB_source/chunklist_w918924677.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ewtn_en_espanol.png",EWTN ESPAÑOL
@@ -333,7 +329,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png",TOONCAST
 http://190.83.119.67:8000/play/a0s3/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel.png",DISNEY CHANNEL
-https://delivery.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/29
 
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://i.imgur.com/bpHH6Wj.png",LOVE NATURE ESPAÑOL
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
@@ -2487,45 +2484,39 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/The_Ren_and_Stimpy_Show_logo.jpg/revision/latest/scale-to-width-down/250?cb=20210323014754&path-prefix=es",REN Y STIMPY
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
 
-#EXTINF:-1 group-title="z-omitir", [COLOR yellow] [/COLOR]
-#EXTINF:-1,[COLOR yellow]--- 24/7 ENG ---[/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/400px-Survivor.borneo.logo.png/250px-400px-Survivor.borneo.logo.png" group-title="24-7 ENG",SURVIVOR
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/400px-Survivor.borneo.logo.png/250px-400px-Survivor.borneo.logo.png",SURVIVOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=296&deviceId=5f21e7b24744c60007c1f6fc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/The_Amazing_Race_23_logo.jpg" group-title="24-7 ENG",THE AMAZING RACE
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/The_Amazing_Race_23_logo.jpg",THE AMAZING RACE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/CBS-Milogo.jpg" group-title="24-7 ENG",MISSION IMPOSSIBLE
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/CBS-Milogo.jpg",MISSION IMPOSSIBLE
 https://stitcher.pluto.tv/stitch/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=943ba0c1-974b-11ec-a4c1-0242ac110003
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6089788de5c8410007808e26/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="24-7 ENG",WANTED, DEAD OR ALIVE
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://images.pluto.tv/channels/6089788de5c8410007808e26/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",WANTED, DEAD OR ALIVE
 https://stitcher.pluto.tv/stitch/hls/channel/6089788de5c8410007808e26/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=943ba0c1-974b-11ec-a4c1-0242ac110003
-#EXTINF:-1 tvg-logo="https://bilder.fernsehserien.de/sendung/hr/v5639.png",PERRY MASON
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://bilder.fernsehserien.de/sendung/hr/v5639.png",PERRY MASON
 https://stitcher.pluto.tv/stitch/hls/channel/6197086891ddd4000739941a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=943ba0c1-974b-11ec-a4c1-0242ac110003
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ef396d1be50a3000722808b/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="24-7 ENG",THE CAROL BURNETT SHOW
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://images.pluto.tv/channels/5ef396d1be50a3000722808b/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",THE CAROL BURNETT SHOW
 https://carolburnett-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="24-7 ENG",RIFFLE MAN
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",RIFFLE MAN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e825550e758c700077b0aef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="24-7 ENG",FAMILY TIES
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",FAMILY TIES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="24-7 ENG",DOCTOR WHO CLASSIC
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png",DOCTOR WHO CLASSIC
 https://stitcher.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=943ba0c1-974b-11ec-a4c1-0242ac110003
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/21_Jump_Street.png" group-title="24-7 ENG",21 JUMPSTREET
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/21_Jump_Street.png",21 JUMPSTREET
 https://dj0iol4ovl33h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/21JumpStreet-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://www.icmedianet.org/wp/ndog/wp-content/uploads/2015/07/portlandia-620.jpg" group-title="24-7 ENG",PORTLANDIA
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://www.icmedianet.org/wp/ndog/wp-content/uploads/2015/07/portlandia-620.jpg",PORTLANDIA
 https://99d1e7f275ff4c95aa3f108d03329711.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_Portlandia/playlist.m3u8?ads.wurl_channel=928&ads.wurl_name=Portlandia&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg" group-title="24-7 ENG",GAME OF THRONES
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg",GAME OF THRONES
 http://tv.a1promediastream.com:25461/0848592/8416758/21344
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQYzog8.png" group-title="24-7 ENG",AQUA TEAM HUNGER FORCE
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://i.imgur.com/eQYzog8.png",AQUA TEAM HUNGER FORCE
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24-7 ENG",ROBOT CHICKEN
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://i.imgur.com/ZUg5vhn.png",ROBOT CHICKEN
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bZnIJ0.png" group-title="24-7 ENG",RICK & MORTY
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://i.imgur.com/7bZnIJ0.png",RICK & MORTY
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/a/ac/Samurai_Jack_Logo.png" group-title="24-7 ENG",SAMURAI JACK
+#EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/a/ac/Samurai_Jack_Logo.png",SAMURAI JACK
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 
-#EXTINF:-1 group-title="z-omitir", [COLOR yellow] [/COLOR]
-#EXTINF:-1,[COLOR red]--- ADULTOS ---[/COLOR]
-http://0.0.0.0:1234
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/barely-legal-logo.png",BARELY LEGAL
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/92037
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png",BLUE HUSTLER
