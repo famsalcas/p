@@ -324,9 +324,9 @@ http://190.83.119.67:8000/play/a0pb/index.m3u8
 http://190.83.119.67:8000/play/a0p9/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/150px-Discovery_Kids_Logo_2021-Presente.webp.png",DISCOVERY KIDS
 http://160.20.164.171:8001/play/a03a/index.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
+#EXTINF:-1 group-title="KIDS" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK (ATL S)
 http://190.131.247.82:8000/play/a06e
-#EXTINF:-1 group-title="KIDS" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORk op2
+#EXTINF:-1 group-title="KIDS" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK (PA)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png",TOONCAST
 http://190.83.119.67:8000/play/a0s3/index.m3u8
@@ -611,7 +611,7 @@ http://181.189.243.254:8000/play/a0sk/index.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png",AXN (N)
 http://190.83.119.67:8000/play/a0pp/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica.png",A&E (N)
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica.png",A&E (P)
 http://160.20.164.171:8001/play/a091/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica.png",A&E (S)
 https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
@@ -981,7 +981,7 @@ https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://graph.facebook.com/TeleEstrellaHDBolivia/picture?width=200&height=200",TELE ESTRELLA
 https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200",TV PERÚ
-https://cdnh8.iblups.com/hls/irtp.m3u8
+https://cdnh74.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png",BOLIVISIÓN
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://graph.facebook.com/AntaresTvRadioOficial/picture?width=200&height=200",ANTARES
@@ -1584,14 +1584,18 @@ https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.postimg.cc/xd8bhK4V/LA-FABRICA-TV-ESP.png",LA FABRICA TV
 https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
-#EXTINF:-1  group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cuatro_de_espana.png",CUATRO
-http://tribaliptv.com:8080/duran/duran/4795
-#EXTINF:-1  group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telecinco.png",TELECINCO
-http://tribaliptv.com:8080/duran/duran/4798
-#EXTINF:-1  group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/la_sexta.png",LA SEXTA
-http://tribaliptv.com:8080/duran/duran/4801
-#EXTINF:-1  group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana.png",FOX ESPAÑA
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cuatro_de_espana.png",CUATRO
+http://944973747995321198.niceadom.xyz:80/play/1237/1237/321198.ts
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telecinco.png",TELECINCO
+http://944973747995321431.niceadom.xyz:80/play/1237/1237/321431.ts
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/la_sexta.png",LA SEXTA
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1152
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana.png",FOX ESPAÑA
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1158
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn_white.png",AXN WHITE
+http://944973747995321116.niceadom.xyz:80/play/1237/1237/321116.ts
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png",AXN (ES)
+http://944973747995321119.niceadom.xyz:80/play/1237/1237/321119.ts
 
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CGTN_English.png/120px-CGTN_English.png",CGTN ESPAÑOL
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
