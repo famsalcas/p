@@ -1056,7 +1056,7 @@ http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/9168
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png",CARACOL
 http://200.69.80.43:8000/play/a02j/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png",CARACOL op2
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3162
+http://200.41.79.165:8000/play/a0jk/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png",RCN
 http://190.131.247.82:8000/play/a03e
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png",RCN op2
@@ -1282,7 +1282,7 @@ https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w1441837935.m3u8
 https://api.new.livestream.com/accounts/28126860/events/9438854/live.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://pbs.twimg.com/profile_images/1047677295/300X300_400x400.jpg",HM TV
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
-#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://i.postimg.cc/26s1cHpk/Retro-Play-TV-MODIF.png",8 PUNTA CANA
+#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://i.postimg.cc/tRsTP33M/PUNTA-CANA-TV-ESP.png",8 PUNTA CANA
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Ten-Canal-10-Honduras-en-vivo-Online.png",CANAL TEN
 http://stream.grupoabchn.com:1935/TENHD/TENLIVEHD_2/playlist.m3u8
@@ -1732,6 +1732,8 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LA NACIÓN +
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
+#EXTINF:-1 group-title="Informativos" tvg-logo="https://cdn.mitvstatic.com/channels/ar_24-7-canal-de-noticias_m.png",24/7 NOTICIAS
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_First_TV_logo.png/220px-The_First_TV_logo.png",THE FIRST
@@ -2109,10 +2111,11 @@ http://200.41.79.165:8000/play/a05v
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png",CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/320px-DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV SPORTS +
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/72204.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/320px-DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV SPORTS 
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/38664
+http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/121857.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png",TIGO SPORTS
 http://190.61.102.67:8000/play/a05x
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png",TIGO SPORTS op2
@@ -2527,29 +2530,29 @@ http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/barely-legal-logo.png",BARELY LEGAL
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/92037
+http://944973747995284874.niceadom.xyz:80/play/1237/1237/284874.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png",BLUE HUSTLER
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/37296
+http://944973747995284883.niceadom.xyz:80/play/1237/1237/284883.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/frl_logo.png",FRENCH LOVER
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3334
+http://944973747995284919.niceadom.xyz:80/play/1237/1237/284919.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://ministar.ru/upload/medialibrary/411/4113627324e01b02aeffab141cda55f7.png",O-LA-LA
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/36535
+
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://ntvplus.tv/files/image/35/43/34/s1q.png",RED LIPS
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296761
+
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://images.fanart.tv/fanart/the-secret-circle-506b06b58b7a0.png",SECRET CIRCLE
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290298
+http://944973747995285010.niceadom.xyz:80/play/1237/1237/285010.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/J2Ukr1sb2dvLW1pZ3JhdGVkL3ZpdmlkLXRvdWNoLnBuZ5KVAsxkAMLDlQIAKMLD",VIVID TOUCH
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3295
+
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.cableman.ru/sites/default/files/shalun_0.png?1532878392",Шалун TV
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290291
+
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://sc.dish.com/shared/images/station-logos/PLBY.png",PLAYBOY LATINO
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/14222
+http://944973747995285116.niceadom.xyz:80/play/1237/1237/285116.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/100px-Canal_Venus_logo.svg.png",VENUS
 http://190.83.119.67:8000/play/a0rn/index.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Erox_%282013%29.svg/revision/latest/scale-to-width-down/250?cb=20171210224440",EROX
 http://tv.a1promediastream.com:25461/0848592/8416758/18571
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png/revision/latest/scale-to-width-down/220?cb=20191026080934",DORCEL TV
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3283
+http://944973747995284893.niceadom.xyz:80/play/1237/1237/284893.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sexprive.png/revision/latest/scale-to-width-down/300?cb=20200719191223",SEXPRIVÉ
 http://dns.clientetv.net:8080/camisa10/camisa10/11442
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png",SEXY HOT
@@ -2557,23 +2560,23 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108997
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest/scale-to-width-down/250?cb=20130927203009",SEXTREME
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110365
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic-logo.png",EROTIC
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/37153
+http://944973747995284968.niceadom.xyz:80/play/1237/1237/284968.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest?cb=20210318151018",EROTIC 2
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/76
+http://944973747995284961.niceadom.xyz:80/play/1237/1237/284961.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Pink_Erotic_3.png/revision/latest?cb=20210318151205",EROTIC 3
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3317
+http://944973747995284962.niceadom.xyz:80/play/1237/1237/284962.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Pink_Erotic_4.png/revision/latest?cb=20210318151404",EROTIC 4
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/52
+http://944973747995284963.niceadom.xyz:80/play/1237/1237/284963.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Pink_Erotic_6.png/revision/latest?cb=20210318151827",EROTIC 6
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/77
+http://944973747995284965.niceadom.xyz:80/play/1237/1237/284965.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Pink_Erotic_8.png/revision/latest?cb=20210318152238",EROTIC 8
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3319
+http://944973747995284967.niceadom.xyz:80/play/1237/1237/284967.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/HUSTLER_TV_HD.png/revision/latest/scale-to-width-down/200?cb=20150312135858",HUSTLER HD
 http://193.33.240.8/hustler_hd/index.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest?cb=20150315153455",PRIVATE
 http://tv.a1promediastream.com:25461/0848592/8416758/14743
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Redlight_HD.png/revision/latest/scale-to-width-down/300?cb=20210517035141",REDLIGHT
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/85
+ttp://944973747995285005.niceadom.xyz:80/play/1237/1237/285005.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.universfreebox.com/UserFiles/image/penthouse.png",PENTHOUSE GOLD
 http://80.24.75.92:5555/udp/239.111.4.1:1234
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.penthousetv.com/images/logo_phQuickies.png",PENTHOUSE REALITY
@@ -2591,20 +2594,20 @@ http://tribaliptv.com:8080/duran/duran/5090
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 6
 http://944973747995284888.niceadom.xyz:80/play/1237/1237/284888.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.providercheck.nl/upload/201908/1565088090_lap_mvh.png",MEIDEN VAN HOLLAND
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3311
+http://944973747995284945.niceadom.xyz:80/play/1237/1237/284945.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/320px-Brazzers_logo.png",BRAZZERS
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/291234
+http://944973747995284885.niceadom.xyz:80/play/1237/1237/284885.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png",HOT 1
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1538
+http://944973747995284931.niceadom.xyz:80/play/1237/1237/284931.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png",HOT 2
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/291250
+http://944973747995284932.niceadom.xyz:80/play/1237/1237/284932.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png",HOT 3
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/291246
+http://944973747995284934.niceadom.xyz:80/play/1237/1237/284934.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Vixen_TV_Canada_logo.png",VIXEN TV
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290296
+http://944973747995285032.niceadom.xyz:80/play/1237/1237/285032.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/exstasy-2-768x231.png",EXTASY
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/195567
+http://944973747995284901.niceadom.xyz:80/play/1237/1237/284901.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Vivid.png/revision/latest?cb=20180213192129",VIVID RED
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3989
+http://944973747995285030.niceadom.xyz:80/play/1237/1237/285030.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eca5ed8af4d5a989426f9763e793ba63.png",DUSK
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/75
+http://944973747995284896.niceadom.xyz:80/play/1237/1237/284896.ts
