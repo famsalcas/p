@@ -613,8 +613,9 @@ https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
 http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica.png",A&E (P)
 http://160.20.164.171:8001/play/a091/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica.png",A&E (S)
-https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es
+",A&E MUNDO
+http://200.41.79.165:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel.png",STAR CHANNEL
 http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel.png",STAR CHANNEL op2
@@ -632,7 +633,7 @@ http://190.83.119.67:8000/play/a0uc/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (P) op2
 http://45.228.232.204:16000/play/a078/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (S)
-https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
+http://200.41.79.165:8000/play/a040
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2018/02/syfy_2017_logo-777x398.png",SYFY
 http://190.83.119.67:8000/play/a0s9/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2018/02/syfy_2017_logo-777x398.png",SYFY op2
@@ -754,7 +755,7 @@ http://181.209.194.254:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurochannel-mediano.png",EURO CHANNEL
 http://190.83.119.67:8000/play/a0r6/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/100px-I.Sat_logo.svg.png",iSAT
-http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/192106
+http://200.41.79.165:8000/play/a0ht
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino.png",CINE LATINO
 http://181.209.194.254:8000/play/a0ik/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",CLOVER CHANNEL
@@ -2103,7 +2104,7 @@ http://tv.a1promediastream.com:25461/0848592/8416758/5593
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png",BEIN SPORTS XTRA Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports.png",TyC SPORTS
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/8749
+http://200.41.79.165:8000/play/a05v
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="http://www.logo-designer.co/wp-content/uploads/2020/03/2020-Pluto-TV-logo-design.png",PLUTO FITNESS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png",CLARO SPORTS
@@ -2587,6 +2588,8 @@ http://live.adultiptv.net/gay.m3u8
 http://cdn.adultiptv.net/pornstar.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 5
 http://tribaliptv.com:8080/duran/duran/5090
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 6
+http://944973747995284888.niceadom.xyz:80/play/1237/1237/284888.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.providercheck.nl/upload/201908/1565088090_lap_mvh.png",MEIDEN VAN HOLLAND
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3311
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/320px-Brazzers_logo.png",BRAZZERS
