@@ -94,7 +94,7 @@ http://190.7.192.163:8004/play/s12
 http://190.7.192.163:8004/play/s13#8000/play/a03h/index.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6SKiB7Rm9Q1_fMdJoRk4jYwWaEGWxPsC6dCN_A&s=0",COSTA RICA CHANNEL
 https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://scontent.fsjo9-1.fna.fbcdn.net/v/t39.30808-6/312604323_590437186217973_1134430936129801041_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=erPWC9mKyLoAX--Ha3H&_nc_oc=AQn8T-XzFXQ6KvcPn-7vSnFosc7da1vLcQKW6X7mfNZplw5Dne3Tv8nfj3szbL_a93gJX9Wtvcg_yXwpGuO0Uew4&_nc_ht=scontent.fsjo9-1.fna&oh=00_AfDVDtUPxJpPCdqdizXV3eh4feUUY_aswhrHBJAT18oZtg&oe=6373661D",ZURQUITVA
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.mediosticos.com/administrar/images/th_c9ca0ee6-95fa-3686zurquitva.jpg",ZURQUI TVA
 http://190.7.192.163:8004/play/s15
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/XPERTV_logo.png/320px-XPERTV_logo.png",XPERTV
 http://190.7.192.164:8006/play/s22
@@ -229,7 +229,7 @@ https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/pl
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://seeklogo.com/images/F/familia-tv-logo-1652F563F9-seeklogo.com.png",TV FAMILIA
 https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
-#EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://play-lh.googleusercontent.com/1IVoua2xjpvAEuQ_BJk8yT3fKUXjuAupZS-3HxFVe5CaQU8b66LzeJbhenNdGfj6s4w",EL SEMBRADOR
+#EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/esne_tv-mediano.png",EL SEMBRADOR
 http://190.83.119.67:8000/play/a0rm/index.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://cdn.devocionalescristianos.org/wp-content/uploads/2008/10/abn-avivamiento.jpg",ABN TV
 https://s2.abntelevision.com/avivamientohd/avivamientohd/chunks.m3u8
@@ -2074,37 +2074,37 @@ http://177.234.254.38:8000/play/a01f/index.m3u8
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png",FOX SPORTS 2 (MX)
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png",FOX SPORTS 2 (N)
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2.png",FOX SPORTS 2 (N)
 http://181.189.243.254:8000/play/a0sp/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2" group-title="DEPORTES ESPAÑOL" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png",FOX SPORTS 2 (S)
-http://200.41.79.165:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/100px-Fox_sports_3_logo.svg.png",FOX SPORTS 3
-http://190.83.119.67:8000/play/a0t7/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/100px-Fox_sports_3_logo.svg.png",FOX SPORTS 3 op2
+#EXTINF:-1 tvg-id="FoxSports2" group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Fox_Sports_2_%28Argentina%29_Logo_2022.png",FOX SPORTS 2 (S)
+http://190.131.228.59:8000/play/a0rh/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3.png",FOX SPORTS 3 (N)
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU",ESPN 1 (N)
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/100px-Fox_sports_3_logo.svg.png",FOX SPORTS 3 (S)
+http://190.83.119.67:8000/play/a0t7/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png",ESPN 1 (N)
 http://190.83.119.67:8000/play/a0t4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU",ESPN 1 (N) op2
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png",ESPN 1 (N) op2
 http://190.83.119.67:8000/play/a0se/index.m3u8
 #EXTINF:-1 tvg-id="ESPNCO" group-title="DEPORTES ESPAÑOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU",ESPN 1 (CO)
 http://200.41.79.165:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU",ESPN 1 (S)
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png",ESPN 1 (S)
 https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",ESPN 2 (N)
 http://190.83.119.67:8000/play/a0t6/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",ESPN 2 (N) op2
 http://181.189.243.254:8000/play/a0t6/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",ESPN 2 (CO)
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/320px-ESPN2_logo.svg.png",ESPN 2 (CO)
 http://200.41.79.165:8000/play/a0hn/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",ESPN 2 (S)
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/320px-Espn2.svg.png",ESPN 2 (V)
 https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (N)
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte.png",ESPN 3 (N)
 http://190.83.119.67:8000/play/a0t5/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (N) op2
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte.png",ESPN 3 (N) op2
 http://160.20.164.171:8001/play/a00z/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (CO)
 http://200.69.80.43:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (S)
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/ESPN_3.png",ESPN 3 (S)
 https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4.png",ESPN 4
 http://190.83.119.67:8000/play/a0ur/index.m3u8
@@ -2177,6 +2177,8 @@ http://iptvtree.net:8080/ea188ac3/82d52ec7f7/31784
 http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fb81f6d360b9559d67705424e80b7ec9.png",FOX DEPORTES
 http://iptvtree.net:8080/ea188ac3/82d52ec7f7/14820
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/270px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",BEIN SPORTS Ñ
+http://200.52.154.125:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES INGLÉS" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",RED BULL T
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
