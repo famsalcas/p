@@ -466,21 +466,8 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://image.roku.com/developer_channels/prod/ec305f194d2f6d721af7718c76e6ce97347ab5acb315d31dbc1da494800b9817.png",ACS NETWORK
 https://acs.amelbasoluciones.co:3250/live/acslivelive.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png",MOVIEMAX 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png",MOVIEMAX 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://f4.tvxweb.net:8082/35982/mpegts?token=MxPReBvRE1
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png",MOVIEMAX 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://f4.tvxweb.net:8082/35974/mpegts?token=MxPReBvRE1
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png",MOVIEMAX 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://f4.tvxweb.net:8082/35976/mpegts?token=MxPReBvRE1
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png",MOVIEMAX 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://f4.tvxweb.net:8082/35979/mpegts?token=MxPReBvRE1
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/Dybvncch/CINE-PRIME-ESP.png",CINE PRIME
+https://d5rskh55dewj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/2jhpVPJZ/TVES-SAN-JOSE.png",TVES SAN JOSE
 https://stm1.rootuy.xyz:19360/envivotv/envivotv.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest/scale-to-width-down/150?cb=20210222022500&path-prefix=es",SONY MOVIES
@@ -588,6 +575,8 @@ https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/playlist.m3u8
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w471128982.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://play-lh.googleusercontent.com/T4Fy-8ZukT9rc9nFPiGIMecmOhIHf064mPbzxEjd72V5ZoBNXMuxMd3bv8ZszlPmTw=w240-h480-rw",OLD TV
 https://marine2.miplay.cl/old/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/nVXXRKBB/BBC-DRAMA.png",BBC DRAMA
+https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8?ads.wurl_channel=988&ads.wurl_name=BBCDrama&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/x8HRTdWb/VIWIX-TV-ESTRENOS.png",VIWIX ESTRENOS
 https://s2.tvdatta.com:3172/hybrid/play.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/fRGvGDGt/VIWIX-TV-SERIES.png",VIWIX SERIES
@@ -596,8 +585,10 @@ https://s2.tvdatta.com:3402/hybrid/play.m3u8
 https://s2.tvdatta.com:3849/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV-ACCION.png",VIMIX TV ACCIÓN
 https://s2.tvdatta.com:3457/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/tTHQsqTC/MOVIES-CENTRAL.png",MOVIES CENTRAL BY TV PLAYER
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/tTHQsqTC/MOVIES-CENTRAL.png",MOVIES CENTRAL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/ZnQCsjnt/RUN-TIME-1.png",RUNTIME
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (N)
 http://190.83.119.67:8000/play/a0tk/index.m3u8
@@ -613,8 +604,7 @@ https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
 http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica.png",A&E (P)
 http://160.20.164.171:8001/play/a091/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es
-",A&E MUNDO
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es",A&E MUNDO
 http://200.41.79.165:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel.png",STAR CHANNEL
 http://190.83.119.67:8000/play/a0si/index.m3u8
@@ -2120,10 +2110,11 @@ http://tv.a1promediastream.com:25461/0848592/8416758/5593
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports.png",TyC SPORTS
 http://200.41.79.165:8000/play/a05v
+#EXTINF:-1 group-title="EPORTES ESPAÑOL" tvg-logo="https://i.postimg.cc/Vsj65X0c/ENTRENADOR-VIRTUAL-ESP.png",ENTRENA VIRTUAL
+https://d1b3ih5h5mvhe9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xzw42c0gbtlyw-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="http://www.logo-designer.co/wp-content/uploads/2020/03/2020-Pluto-TV-logo-design.png",PLUTO FITNESS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png",CLARO SPORTS
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/320px-DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV SPORTS +
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/72204.m3u8
