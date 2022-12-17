@@ -709,7 +709,7 @@ http://45.228.232.204:16000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png",GOLDEN op2
 http://190.83.119.67:8000/play/a0rh/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png",GOLDEN PLUS
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/3051
+http://panel.tured.live:80/Arturo2022/Arturo2022/94122.ts
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png",GOLDEN EDGE
 http://tv.a1promediastream.com:25461/0848592/8416758/16376
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png",GOLDEN PREMIERE 1
@@ -1052,7 +1052,7 @@ http://200.41.79.165:8000/play/a0jk/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png",RCN
 http://190.131.247.82:8000/play/a03e
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png",RCN op2
-http://tv.a1promediastream.com:25461/0848592/8416758/16228
+http://panel.tured.live:80/Arturo2022/Arturo2022/90151.ts
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://i.postimg.cc/0ymNQCXG/RCN-MAS.png",RCN MÁS
 https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://th.bing.com/th/id/R05c1e1b1e97dadc0d69e9c0a8870de1f?rik=SEe9mP9wZMoKSQ&pid=ImgRaw",CANAL CAPITAL
@@ -1441,7 +1441,7 @@ http://138.117.4.70:8075/channel15/playlist.m3u8
 http://177.234.254.38:8000/play/a07q/index.m3u8
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7rwv8c
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://pbs.twimg.com/profile_images/523160893425590272/rSXJ7nmP_400x400.jpeg",10 NICARAGUA
-https://bit.ly/3INy2SB
+http://panel.tured.live:80/Arturo2022/Arturo2022/172724.ts
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Canal_9_NI_%282010%29.svg/revision/latest/scale-to-width-down/185?cb=20220716231512",9 NICARAGUA
 http://138.117.4.70:8075/channel9/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/Canal2Nicaragua/picture?width=200&height=200",2 NICARAGUA
@@ -2503,6 +2503,25 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/The_Ren_and_Stimpy_Show_logo.jpg/revision/latest/scale-to-width-down/250?cb=20210323014754&path-prefix=es",REN Y STIMPY
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dragon_Ball_anime_logo.png/320px-Dragon_Ball_anime_logo.png",DRAGON BALL
+http://panel.tured.live:80/Arturo2022/Arturo2022/225397.ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://e7.pngegg.com/pngimages/957/18/png-clipart-goku-dragon-ball-logo-graphy-z-logo-television-text.png",DRAGON BALL Z
+http://panel.tured.live:80/Arturo2022/Arturo2022/225401.ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/320px-Dragon_Ball_GT_logo.png",DRAGON BALL GT
+http://panel.tured.live:80/Arturo2022/Arturo2022/225389.ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://e1.pngegg.com/pngimages/404/547/png-clipart-official-dragonball-super-logo-dragonball-super-text-art.png",DRAGON BALL SUPER
+http://panel.tured.live:80/Arturo2022/Arturo2022/225399.ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/800px-Futurama_1999_logo.svg.png",FUTURAMA
+http://panel.tured.live:80/Arturo2022/Arturo2022/227846.ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Courage_The_Cowardly_Dog_logo.png/320px-Courage_The_Cowardly_Dog_logo.png",CORAGE PERRO COBARDE
+http://panel.tured.live:80/Arturo2022/Arturo2022/246497.ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://www.insp.com/content/uploads/2014/11/20-DCSM-0622_Showpage_eBanners-WalkerTR440x175-PNG.png",WALKER TEXAS RANGER
+http://panel.tured.live:80/Arturo2022/Arturo2022/265643.ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Friends_logo.svg/799px-Friends_logo.svg.png",FRIENDS
+http://panel.tured.live:80/Arturo2022/Arturo2022/265651.ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaVkrl2bIir4LxSc2dww2xtK9ftEOHkuL8Q&usqp=CAU",DR.HOUSE
+http://panel.tured.live:80/Arturo2022/Arturo2022/265670.ts
+
 
 #EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/400px-Survivor.borneo.logo.png/250px-400px-Survivor.borneo.logo.png",SURVIVOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=296&deviceId=5f21e7b24744c60007c1f6fc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
