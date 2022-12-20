@@ -21,7 +21,7 @@ http://190.7.192.164:8002/play/s11
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA
 http://190.7.192.165:8000/play/s1
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op2
-http://line.gofast-tv.me:80/Sandra23/Sandra23/529645
+http://line.gofast-tv.me:80/Sandra23/Sandra23/529645?m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op3
 http://190.7.192.163:8007/play/s27
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png",TELETICA RADIO
@@ -467,7 +467,7 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://image.roku.com/developer_channels/prod/f2d38d20dd3fe65ad3c1762287cba3ead443b6c987c756c4669add7ae8364f61.png",MI TV CLÁSICA
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://image.roku.com/developer_channels/prod/ec305f194d2f6d721af7718c76e6ce97347ab5acb315d31dbc1da494800b9817.png",ACS NETWORK
-https://acs.amelbasoluciones.co:3250/live/acslivelive.m3u8
+https://cloudvideo.servers10.com:19360/8006/8006.m3u8/
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/Dybvncch/CINE-PRIME-ESP.png",CINE PRIME
 https://d5rskh55dewj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/2jhpVPJZ/TVES-SAN-JOSE.png",TVES SAN JOSE
@@ -1066,7 +1066,7 @@ http://190.122.96.187:8888/http/006
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png",CALI TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200",LA TELE TUYA
-https://vcp4.myplaytv.com/tlt-ve/tltve-291022.stream/chunklist.m3u8
+https://vcp4.myplaytv.com/tlt-ve/17122022.stream/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg",TDI COLOMBIA
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://www.m3u.cl/logo/520_Venevision.png",VENEVISIÓN
@@ -1154,9 +1154,9 @@ https://linear-254.frequency.stream/dist/univision/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://www.samsung.com/us/es/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/01202022/telemundoAlDia_circle.png",TELEMUNDO AL DÍA
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png",TELEMUNDO USA
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/3119
+http://flysilo.top:8080/live/9141658943811873/2751658943811873/19451.ts
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png",TELEMUNDO USA op2
-https://v-ny.mybtv.net/live/659.m3u8
+http://flysilo.top:8080/live/9141658943811873/2751658943811873/19452.ts
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Telemundo_Internacional_Logo_%282001-2006%29.png/revision/latest/scale-to-width-down/150?cb=20170904201316&path-prefix=es",TELEMUNDO INTERNACIONAL
 http://190.83.119.67:8000/play/a0q9/index.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo.png",TELEMUNDO PUERTO RICO
@@ -1241,7 +1241,7 @@ https://cloudvideo.servers10.com:8081/8148/index.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://i.postimg.cc/x8LHzFwt/MEDIA-ESP.png",N+ MEDIA TELEVISA
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas.png",LAS ESTRELLAS
-http://181.65.154.170:8000/play/a07s/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://i.postimg.cc/3NZrsp6f/TELEVISA-NEWS.png",TELEVISA NEWS 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png",CANAL 5
@@ -1486,6 +1486,8 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/257px-Logo_TVE-2.svg.png",LA 2 TVE
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qf.png",STAR TVE
+http://190.83.119.67:8000/play/a0qf/index.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://pbs.twimg.com/profile_images/978729189489684480/jIcmSYKr_400x400.jpg",SOLIDARIA TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.mirametv.com/public/wSystem/images/logo-white.png",MÍRAME TV
@@ -1609,8 +1611,8 @@ https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 https://fe54es036esa8e.2cdn.eu/Batalladegallos/Batalladegallos/playlist.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://iteleflix.com/archivos/Logo-Negocios-TV.jpg",NEGOCIOS TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qf.png",STAR TVE
-http://190.83.119.67:8000/play/a0qf/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/wobi.png",WOBI
+http://flysilo.top:8080/live/9141658943811873/2751658943811873/18704.ts
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://play-lh.googleusercontent.com/fcLXbN1rnKGLS4z7PRLHVr03__cH4cpA98vr5CT3anPPEr5uNPeux-yhcaPthESXvgY",HUMOR MAX
 http://vcpar.myplaytv.com/humormax/live/chunklist_w1313750930.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Tvge.png",TVGE INTERNACIONAL
@@ -2479,7 +2481,7 @@ http://tv.a1promediastream.com:25461/0848592/8416758/2387
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="FREEFORM" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/freeform18.png" group-title="USA",FREEFORM
 http://tv.a1promediastream.com:25461/0848592/8416758/2414
 #EXTINF:-1 group-title="USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/2336
+http://flysilo.top:8080/live/9141658943811873/2751658943811873/19951.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="doityourselfnetwork.us" tvg-logo="https://th.bing.com/th/id/OIP.tkP2pq__MPIdFCzHF8xsDwHaE8?pid=ImgDet&rs=1",MAGNOLIA NETWORK
 http://tv.a1promediastream.com:25461/0848592/8416758/2408
 
@@ -2603,7 +2605,7 @@ http://193.33.240.8/hustler_hd/index.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest?cb=20150315153455",PRIVATE
 http://tv.a1promediastream.com:25461/0848592/8416758/14743
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Redlight_HD.png/revision/latest/scale-to-width-down/300?cb=20210517035141",REDLIGHT
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/85
+http://flysilo.top:8080/live/9141658943811873/2751658943811873/20515.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.universfreebox.com/UserFiles/image/penthouse.png",PENTHOUSE GOLD
 http://80.24.75.92:5555/udp/239.111.4.1:1234
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.penthousetv.com/images/logo_phQuickies.png",PENTHOUSE REALITY
