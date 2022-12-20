@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/co.xml,https://iptv-org.github.io/epg/guides/cr.xml,https://iptv-org.github.io/epg/guides/cr/gatotv.com.epg.xml"
+#EXTM3U 
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://canal1cr.com/wp-content/uploads/2022/02/cropped-Canal-1-1.png",CANAL 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",CDR 2
@@ -1198,8 +1198,12 @@ https://5f1af61612fb5.streamlock.net/tv43/smil:tv43.smil/.m3u8
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR=
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200",WIPR
 https://streamwipr.pr/hls/wipr/index.m3u8
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TV MÁS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://image.roku.com/developer_channels/prod/2183337cdcab5889914bf7d1c79a8d920c557fbee66710a9222f8c73f2159581.png",PRESUMIENDO MÉXICO
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tn_23.png",TN 23
+https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://i.postimg.cc/VsHRMRjT/Estrella-TV.png",ESTRELLA TV
 https://pubads.g.doubleclick.net/ssai/event/CvTZNYjrRC2HJU4io--aAA/master.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://i.postimg.cc/J0LRmsgJ/ESTRELLA-TV-GAMES.png",ESTRELLA GAMES
@@ -1688,7 +1692,7 @@ https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png",EL TORO TV
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/24_horas_tve.png",RTVE 24 HORAS
-https://rtvelivestream.akamaized.net/segments/24h/24h_main_576.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/euronews.png",EURONEWS ESPAÑOL
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png",FRANCE 24
@@ -1696,9 +1700,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/219px-TeleSUR-Logo.svg.png",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://graph.facebook.com/NoticieroSLV/picture?width=200&height=200",NOTICIERO EL SALVADOR
-https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/chunklist_w882682855_b978000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjIgNzo0MDoxNSBQTSZoYXNoX3ZhbHVlPW92MithUVkzUzh1Y083b2pQaHFoaGc9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9
-#EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Libertad_Digital_Wordmark.JPG",LIBERTAD DIGITAL TV
-https://www.dailymotion.com/video/xnm032
+https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/chunklist_w555171332_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMiA4OjM5OjA1IEFNJmhhc2hfdmFsdWU9RXZ6MXFtRUs1RnNsS21KaHo5ZlNTZz09JnZhbGlkbWludXRlcz0xNSZpZD0%3D
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png",CNN ESPAÑOL
 http://190.83.119.67:8000/play/a0ps/index.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png",CNN ESPAÑOL op2
