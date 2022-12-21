@@ -19,7 +19,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png",REPRETEL 6 (alt)
 http://190.7.192.164:8002/play/s11
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA
-http://190.7.192.165:8000/play/s1
+http://190.7.192.163:8006/play/s33#//inliveserver.com:1936/gostore/gostore/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op2
 http://line.gofast-tv.me:80/Sandra23/Sandra23/529645?m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op3
@@ -101,7 +101,7 @@ http://190.7.192.164:8006/play/s22
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/limontv.cr/picture?width=200&height=200",LIMÓN TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/trivision36/picture?width=200&height=200",TRIVISIÓN 36
-https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-900/chunklist.m3u8?DVR
+https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-900/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/TVCURRE/picture?width=200&height=200",TV CURRÉ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal38.cr" group-title="COSTA RICA" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg",CANAL 38
@@ -363,7 +363,7 @@ http://181.209.194.254:8000/play/a0gr/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png",E! ENTERTAINMENT op2
 http://190.83.119.67:8000/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica.png",ANIMAL PLANET (P)
-http://190.61.102.67:8000/play/a04o
+http://45.228.232.204:16000/play/a049/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica.png",ANIMAL PLANET (P) op2
 http://181.209.194.254:8000/play/a0gq/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica.png",ANIMAL PLANET (MX)
@@ -661,9 +661,9 @@ http://190.83.119.67:8000/play/a0ov/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme.png",HBO XTREME op2
 http://160.20.164.171:8001/play/a073/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family.png",HBO FAMILY
-http://177.234.254.38:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family.png",HBO FAMILY op2
 http://190.83.119.67:8000/play/a0ou/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family.png",HBO FAMILY op2
+http://160.20.164.171:8001/play/a072/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop.png",HBO POP
 http://181.65.154.170:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature.png",HBO SIGNATURE
@@ -1020,7 +1020,7 @@ https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.pe" group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/america_television_peru.png",AMÉRICA TV
 http://181.65.154.170:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo-latina-2014.png/120px-Logo-latina-2014.png",LATINA
-http://181.65.154.170:8000/play/a05a/index.m3u8
+http://160.20.164.171:8001/play/a03y/index.m3u8
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw=w240-h480-rw",CINERAMA TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://i.imgur.com/kywYWuD.png",VENUS MEDIA
@@ -1885,7 +1885,7 @@ http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png",MTV
 http://177.234.254.38:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/150px-MTV_00s_remaster.png",MTV 00s
-http://177.234.254.38:8000/play/a048/index.m3u8
+http://190.83.119.67:8000/play/a0rf/index.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/253px-MTV_Hits_2021.svg.png",MTV HITS
 http://181.209.194.254:8000/play/a0gd/index.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv_live_hd.png",MTV LIVE
@@ -2506,26 +2506,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Alfintro.jpg",ALF
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/The_Ren_and_Stimpy_Show_logo.jpg/revision/latest/scale-to-width-down/250?cb=20210323014754&path-prefix=es",REN Y STIMPY
-https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
-#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dragon_Ball_anime_logo.png/320px-Dragon_Ball_anime_logo.png",DRAGON BALL
-http://panel.tured.live:80/Arturo2022/Arturo2022/225397.ts
-#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://e7.pngegg.com/pngimages/957/18/png-clipart-goku-dragon-ball-logo-graphy-z-logo-television-text.png",DRAGON BALL Z
-http://panel.tured.live:80/Arturo2022/Arturo2022/225401.ts
-#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/320px-Dragon_Ball_GT_logo.png",DRAGON BALL GT
-http://panel.tured.live:80/Arturo2022/Arturo2022/225389.ts
-#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://e1.pngegg.com/pngimages/404/547/png-clipart-official-dragonball-super-logo-dragonball-super-text-art.png",DRAGON BALL SUPER
-http://panel.tured.live:80/Arturo2022/Arturo2022/225399.ts
-#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/800px-Futurama_1999_logo.svg.png",FUTURAMA
-http://panel.tured.live:80/Arturo2022/Arturo2022/227846.ts
-#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Courage_The_Cowardly_Dog_logo.png/320px-Courage_The_Cowardly_Dog_logo.png",CORAGE PERRO COBARDE
-http://panel.tured.live:80/Arturo2022/Arturo2022/246497.ts
-#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://www.insp.com/content/uploads/2014/11/20-DCSM-0622_Showpage_eBanners-WalkerTR440x175-PNG.png",WALKER TEXAS RANGER
-http://panel.tured.live:80/Arturo2022/Arturo2022/265643.ts
-#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Friends_logo.svg/799px-Friends_logo.svg.png",FRIENDS
-http://panel.tured.live:80/Arturo2022/Arturo2022/265651.ts
-#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaVkrl2bIir4LxSc2dww2xtK9ftEOHkuL8Q&usqp=CAU",DR.HOUSE
-http://panel.tured.live:80/Arturo2022/Arturo2022/265670.ts
-
+https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist.m3u8
 
 #EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/400px-Survivor.borneo.logo.png/250px-400px-Survivor.borneo.logo.png",SURVIVOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=296&deviceId=5f21e7b24744c60007c1f6fc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
