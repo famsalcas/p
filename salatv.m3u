@@ -10,8 +10,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png",SAN VITO TV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w500555531.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/supercabletv#/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/supercabletv#//inliveserver.com:1936/gostore/gostore/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" group-title="COSTA RICA" tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png",REPRETEL 6
@@ -689,7 +688,7 @@ http://181.65.154.170:8000/play/a04q/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
 http://190.83.119.67:8000/play/a0q2/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL op2
-http://190.61.102.67:8000/play/a04m
+http://190.61.102.67:8000/play/a04m/
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula.png",DE PELÍCULA
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/31740
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/240px-TCM_Latam_logo.svg.png",TCM
@@ -1490,7 +1489,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/257px-Logo_TVE-2.svg.png",LA 2 TVE
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qf.png",STAR TVE
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qf.png",STAR TVE
 http://190.83.119.67:8000/play/a0qf/index.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://pbs.twimg.com/profile_images/978729189489684480/jIcmSYKr_400x400.jpg",SOLIDARIA TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
@@ -1872,6 +1871,8 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lorini.net/streaming/clientes/OXIGENO%20TV.png",OXIGENO
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.m3u.cl/logo/26_RCKTV.png",ROCK-TV
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/67cebad8d46fc668e21b0ae8387ae2cd.webp",ROCK TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.pinimg.com/474x/12/1e/ef/121eef890f53671537f4cd45a3977538.jpg",METAL TV
