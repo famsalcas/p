@@ -1689,7 +1689,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://th.bing.com/th/id/OIP.CfponQU6Gz9awDDnDxXh3QHaB7?w=296&h=91&c=7&o=5&dpr=1.1&pid=1.7",BLOOMBERG
 https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png",EL TORO TV
-https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
+https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/24_horas_tve.png",RTVE 24 HORAS
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/euronews.png",EURONEWS ESPAÑOL
@@ -1701,7 +1701,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://graph.facebook.com/NoticieroSLV/picture?width=200&height=200",NOTICIERO EL SALVADOR
 https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/chunklist_w555171332_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMiA4OjM5OjA1IEFNJmhhc2hfdmFsdWU9RXZ6MXFtRUs1RnNsS21KaHo5ZlNTZz09JnZhbGlkbWludXRlcz0xNSZpZD0%3D
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png",CNN ESPAÑOL
-http://190.83.119.67:8000/play/a0ps/index.m3u8
+http://181.209.194.254:8000/play/a0gi/index.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png",CNN ESPAÑOL op2
 https://delivery.cdn.rcs.net.ar/mnp/cnne/output.mpd
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://i.postimg.cc/YqCCHGtH/CNN-RESUMEN.png",CNN ESPAÑOL RESUMEN
@@ -1765,9 +1765,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzMnNdYmuus6s7FEL3tuC7iAz_14-v1dFAA&usqp=CAU",AL JAZEERA ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png",FOX NEWS
-http://tv.a1promediastream.com:25461/0848592/8416758/209
+http://tv.a1promediastream.com:25461/0848592/8416758/16176
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png",FOX NEWS op2
-http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/267131.ts
+http://tv.a1promediastream.com:25461/0848592/8416758/209
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://th.bing.com/th/id/R9d97e87f8a737ead5a0039c70cda6220?rik=WNbnYPocGO1T9Q&pid=ImgRaw",FOX NEWS NOW
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://push.oann.com/images/oan-center-logo.png",OAN
@@ -1775,7 +1775,7 @@ http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://i.imgur.com/FbgrJ1F.png",OAN PLUS
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png",THE BLAZE
-https://cutt.ly/XFx2Zzc
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId=
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://graph.facebook.com/nbcnewsnow/picture?width=200&height=200",NBC NEWS NOW
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://images.squarespace-cdn.com/content/59a706d4f5e2319b70240ef9/1552329163115-LRL460GD0ZLPQJFEQ122/rtr_ahz_rgb_pos.png?content-type=image%2Fpng",REUTERS NOW
@@ -1914,7 +1914,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a00079
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png",VEVO POP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619579bb6abe041ef846ade3/200?webp=1",VEVO COUNTRY
-https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/feeb7c9bb5f8446cb46e2cc6697270cb-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",VEVO 2K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://e7.pngegg.com/pngimages/862/837/png-clipart-logo-vevo-advertising-business-music-business-text-trademark-thumbnail.png",VEVO TRAP REGGAETON
