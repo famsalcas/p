@@ -852,7 +852,7 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png",EL PINGUINO
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/TV-Publica-canal7argentina2010.png/revision/latest/scale-to-width-down/250?cb=20210529230423&path-prefix=es",TV PÚBLICA
-http://line.gofast-tv.me:80/Sandra23/Sandra23/79301
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/22125
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://www.ipuntotv.com/Images/UCL-logo.jpg",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png",MULTIVISIÓN
@@ -895,8 +895,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=764
 http://190.3.169.119:8080/latina/latina/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://graph.facebook.com/crossingradiotv/picture?width=200&height=200",CROSSING MEDIOS
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
-#EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://cdn-radiotime-logos.tunein.com/s232456g.png",TVF FLORIDA
-http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://mundodelamusicachile.cl/wp-content/uploads/2021/05/Sin-ti%CC%81tulo-1.png",MUNDO DE LA MÚSICA
 https://videostreaming.cloudserverlatam.com/8078/8078/chunklist_w904325591.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://i.postimg.cc/c4fJ0XWg/cincotv.png",CINCO TV TIGRE
@@ -1043,7 +1041,7 @@ https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal_i.png/200px-Canal_i.png",CANAL I
 https://vcp.myplaytv.com/canali/canali/chunklist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/320px-Teleamazonas_Logo.png",TELEAMAZONAS
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/9168
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/121623
 #EXTINF:-1 tvg-id="CaracolTV.co" group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png",CARACOL
 http://200.69.80.43:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png",CARACOL op2
@@ -1173,7 +1171,7 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://i.imgur.com/zh05BZ3.jpeg",MEXIQUENSE
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="http://1.bp.blogspot.com/-n8x5u6Quxcw/UJcVfJnFzII/AAAAAAAAXBc/9dG0TM9VRRc/s1600/cubavision-1997.jpg",CUBAVISIÓN
-http://190.122.96.187:8888/http/010
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/119685
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://www.segib.org/wp-content/uploads/LogoCITV-200x200.jpg",CANAL IBEROAMERICANO
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/chunklist_w976712192.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png",TELEXITOS
@@ -1444,20 +1442,19 @@ http://138.117.4.70:8075/channel15/playlist.m3u8
 http://177.234.254.38:8000/play/a07q/index.m3u8
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7rwv8c
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://pbs.twimg.com/profile_images/523160893425590272/rSXJ7nmP_400x400.jpeg",10 NICARAGUA
-http://panel.tured.live:80/Arturo2022/Arturo2022/172724.ts
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/5542
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Canal_9_NI_%282010%29.svg/revision/latest/scale-to-width-down/185?cb=20220716231512",9 NICARAGUA
 http://138.117.4.70:8075/channel9/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/Canal2Nicaragua/picture?width=200&height=200",2 NICARAGUA
-http://138.117.4.70:8075/channel2/playlist.m3u8
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/5538
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm2ZYMFAUHTdq_BjIfNchqFkNhPo5eqjZm26zyahtBlWLjXDAZ",CANAL 11 
 http://138.117.4.70:8075/channel11/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png",CANA TV
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/VivaNicaragua13/picture?width=200&height=200",VIVA NICARAGUA
-http://190.83.119.67:8000/play/a0qt/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vh8g3
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://1.bp.blogspot.com/-e2BCRc2yt6M/YSgPYvMdQnI/AAAAAAAAQRI/_PHm3V6VhBonN8DndCVIS5S-W3sef5DlQCLcBGAsYHQ/s612/Canal%2B6%2Ben%2Bvivo.png",6 NICARAGUA
-http://138.117.4.70:8075/channel6/playlist.m3u8
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153931
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/CROMTVHD/picture?width=200&height=200",CROM
 https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/177px-Canal_5_HN_logo_2019.png",5 EL LÍDER
@@ -2489,9 +2486,9 @@ http://flysilo.top:8080/live/9141658943811873/2751658943811873/19951.m3u8
 http://tv.a1promediastream.com:25461/0848592/8416758/2408
 
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png",El CHAVO DEL 8
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w772699833.m3u8
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37761
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://sites.google.com/site/tvseriesmiguel/_/rsrc/1472679482278/los-simpson/los%20simpson.jpg?height=453&width=934",LOS SIMPSONS
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w2098039877.m3u8
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37758
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png",THE WALKING DEAD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=false&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=40.7316&deviceLon=-73.9985&deviceMake=Chrome+Mobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=US&serverSideAds=true&sessionID=2f46e2e1-ab00-11eb-8236-0242ac110002&sid=2f46e2e1-ab00-11eb-8236-0242ac110002&userId=
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://images.pluto.tv/channels/5f7b47f12a45590007821749/colorLogoPNG.png",NARCOS
@@ -2567,7 +2564,7 @@ http://tv.a1promediastream.com:25461/0848592/8416758/18571
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png/revision/latest/scale-to-width-down/220?cb=20191026080934",DORCEL TV
 http://944973747995284893.niceadom.xyz:80/play/1237/1237/284893.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sexprive.png/revision/latest/scale-to-width-down/300?cb=20200719191223",SEXPRIVÉ
-http://dns.clientetv.net:8080/camisa10/camisa10/11442
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/40930
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png",SEXY HOT
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108997
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest/scale-to-width-down/250?cb=20130927203009",SEXTREME
