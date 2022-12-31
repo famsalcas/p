@@ -313,6 +313,8 @@ http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.nicepng.com/png/detail/132-1320237_a-teletubbies-logo-teletubbies-logo-png.png",TELETUBBIES
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Semillitas_logo.png/revision/latest?cb=20210807052349&path-prefix=es",SEMILLITAS
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/295815
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/dxHOu8m.png",LEGO
 https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://graph.facebook.com/ITVPatagonia/picture?width=200&height=200",ITV
@@ -749,6 +751,8 @@ http://190.83.119.67:8000/play/a0r6/index.m3u8
 http://200.41.79.165:8000/play/a0ht
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino.png",CINE LATINO
 http://181.209.194.254:8000/play/a0ik/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://w7.pngwing.com/pngs/724/805/png-transparent-canal-cinema-dynamite-cinematography-cinema-dinamita-dynamite-text-logo-brand.png",CINE DINAMITA
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/3010
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",CLOVER CHANNEL
 http://190.131.247.82:8000/play/a05v
 
@@ -1264,7 +1268,7 @@ http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/353740.ts
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Azteca_logo.png/284px-Azteca_logo.png",AZTECA AMÉRICA
 http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/340464.ts
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universo-mediano.png",NBC UNIVERSO
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/90120
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/90120
 
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6yUGDLHxApzVsjQG7h2HoalYXCK0F4N8GtA&usqp=CAU",TN 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
@@ -1496,8 +1500,8 @@ https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png",ANTENA 3 INTERNACIONAL
 http://190.83.119.67:8000/play/a0nv/index.m3u8
-#EXTINF:-1 tvg-name="ES: Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA",ANTENA 3
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1173
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA",ANTENA 3
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1173
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://th.bing.com/th/id/OIP.79DiUzpUebyD0gOVIbSuxQAAAA?pid=ImgDet&rs=1",TV GALICIA AMÉRICA
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://media.tvalacarta.info/canales/256x256/aragontv.png",ARAGÓN TV
@@ -1583,13 +1587,15 @@ http://944973747995321198.niceadom.xyz:80/play/1237/1237/321198.ts
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telecinco.png",TELECINCO
 http://944973747995321431.niceadom.xyz:80/play/1237/1237/321431.ts
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/la_sexta.png",LA SEXTA
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1152
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1152
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana.png",FOX ESPAÑA
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1158
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1158
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn_white.png",AXN WHITE
 http://944973747995321116.niceadom.xyz:80/play/1237/1237/321116.ts
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png",AXN (ES)
 http://944973747995321119.niceadom.xyz:80/play/1237/1237/321119.ts
+#EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/canalXTRM/picture?width=200&height=200" group-title="ESPAÑA",XTRM
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/11148
 
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CGTN_English.png/120px-CGTN_English.png",CGTN ESPAÑOL
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
