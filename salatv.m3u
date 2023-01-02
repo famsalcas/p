@@ -666,13 +666,13 @@ http://190.83.119.67:8000/play/a0ou/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family.png",HBO FAMILY op2
 http://160.20.164.171:8001/play/a072/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop.png",HBO POP
-http://181.65.154.170:8000/play/a04b/index.m3u8
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/29305
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature.png",HBO SIGNATURE
-http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/192024.ts
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/29305
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi.png",HBO MUNDI
-http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/192025.ts
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/38701
 #EXTINF:-1 tvg-id="CinemaxPanregional.us" group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX (S)
-http://181.65.154.170:8000/play/a03m/index.m3u8
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/47898
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-language="Spanish" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX (N)
 http://160.20.164.171:8001/play/a02b/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal.png",CINECANAL (P)
@@ -951,6 +951,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://i.postimg.cc/ZYDHsS1f/CINCO-TV.png",CINCO TV TIGRE
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_de_Telefe.PNG",TELEFÉ
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/3199
 
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture?width=200&height=200",SEO TV
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
@@ -1047,13 +1049,13 @@ https://vcp.myplaytv.com/canali/canali/chunklist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/320px-Teleamazonas_Logo.png",TELEAMAZONAS
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/121623
 #EXTINF:-1 tvg-id="CaracolTV.co" group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png",CARACOL
-http://200.69.80.43:8000/play/a02j/index.m3u8
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/3162
 #EXTINF:-1 tvg-id="CaracolTV.co" group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png",CARACOL op2
 http://200.41.79.165:8000/play/a0jk/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co" group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png",RCN
 http://190.131.247.82:8000/play/a03e
 #EXTINF:-1 tvg-id="CanalRCN.co" group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png",RCN op2
-http://panel.tured.live:80/Arturo2022/Arturo2022/90151.ts
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/290242
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://i.postimg.cc/0ymNQCXG/RCN-MAS.png",RCN MÁS
 https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
 #EXTINF:-1 tvg-id="CanalCapital.co" group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://th.bing.com/th/id/R05c1e1b1e97dadc0d69e9c0a8870de1f?rik=SEe9mP9wZMoKSQ&pid=ImgRaw",CANAL CAPITAL
@@ -1250,7 +1252,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://i.postimg.cc/3NZrsp6f/TELEVISA-NEWS.png",TELEVISA NEWS 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png",CANAL 5
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/9024
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/9024
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/distrito_comedia.png",DISTRITO COMEDIA
 http://tv.a1promediastream.com:25461/0848592/8416758/16349
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Imagen-Television-en-vivo-Online-100x70.png",IMAGEN TV
@@ -1260,7 +1262,7 @@ https://v-ny.mybtv.net/live/713.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/TV_Azteca_Cinema_logo_2021.png/revision/latest?cb=20220316003349&path-prefix=es",AZ CINEMA
 http://tv.a1promediastream.com:25461/0848592/8416758/16321
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7-mediano.png",AZTECA 7
-http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/353747
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/9026
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",AZTECA UNO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678?source:iptvmate.net
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",AZTECA UNO op2
@@ -1596,6 +1598,8 @@ http://944973747995321116.niceadom.xyz:80/play/1237/1237/321116.ts
 http://944973747995321119.niceadom.xyz:80/play/1237/1237/321119.ts
 #EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/canalXTRM/picture?width=200&height=200" group-title="ESPAÑA",XTRM
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/11148
+#EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://culturapolis.es/wp-content/uploads/2020/03/Movistar_0.png" group-title="ESPAÑA",#0
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/2146
 
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CGTN_English.png/120px-CGTN_English.png",CGTN ESPAÑOL
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
@@ -1726,7 +1730,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://www.bing.com/th?id=Aeecaa94f90fe9f27882962426ef831c5&w=120&h=120&c=7&rs=1&o=6&dpr=1.1&pid=SANGAM",A24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/A24com/live
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/226px-Noticias_Caracol_imagotype.svg.png",CARACOL AHORA
-http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/286308
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://graph.facebook.com/teletrece/picture?width=200&height=200",T13 Chile
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/t13/livestream2/chunks.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://www.adnradio.cl/_templates/globals/img/placeholder.png",ADN RADIO
@@ -1882,6 +1886,8 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8
 http://v1.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.ibb.co/K5rFymS/m2o.jpg",RADIO M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telehit_musica-mediano.png",TELEHIT MÚSICA
+http://181.78.11.117:8000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/LaRock22/picture?width=200&height=200",LA ROCK 22
 http://138.117.4.70:8075/channel22/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/sonusfmpage/picture?width=200&height=200",SONUS FM
@@ -2096,7 +2102,7 @@ http://190.83.119.67:8000/play/a0t6/index.m3u8
 http://181.189.243.254:8000/play/a0t6/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/320px-ESPN2_logo.svg.png",ESPN 2 (CO)
 http://200.41.79.165:8000/play/a0hn/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/320px-Espn2.svg.png",ESPN 2 (V)
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/320px-Espn2.svg.png",ESPN 2 (S)
 https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte.png",ESPN 3 (N)
 http://190.83.119.67:8000/play/a0t5/index.m3u8
