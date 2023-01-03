@@ -607,8 +607,8 @@ https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
 http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica.png",A&E (P)
 http://160.20.164.171:8001/play/a091/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es",A&E MUNDO
-http://200.41.79.165:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica.png",A&E (P) op2
+http://181.189.243.254:8000/play/a0q7/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel.png",STAR CHANNEL
 http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel.png",STAR CHANNEL op2
@@ -1458,7 +1458,7 @@ http://138.117.4.70:8075/channel11/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png",CANA TV
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/VivaNicaragua13/picture?width=200&height=200",VIVA NICARAGUA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vh8g3
+http://181.189.243.254:8000/play/a0qt/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://1.bp.blogspot.com/-e2BCRc2yt6M/YSgPYvMdQnI/AAAAAAAAQRI/_PHm3V6VhBonN8DndCVIS5S-W3sef5DlQCLcBGAsYHQ/s612/Canal%2B6%2Ben%2Bvivo.png",6 NICARAGUA
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153931
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/CROMTVHD/picture?width=200&height=200",CROM
@@ -1478,7 +1478,7 @@ https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/TeleOnce/picture?width=200&height=200",TELEONCE
 http://190.83.119.67:8000/play/a0qj/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECEVISIÓN
-http://190.83.119.67:8000/play/a0qi?m3u8
+http://190.83.119.67:8000/play/a0qi.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://www.cdnn23.com/images/TV2.gif",CDNN 23
 http://138.117.4.70:8075/channel23/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png",TVMAS
@@ -2177,6 +2177,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/mluch
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://www.thematv.com/images/channels/latin-american-sports.png",LATIN AMERICA SPORTS
 http://190.83.119.67:8000/play/a0rd/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports.png",TNT SPORTS
+http://line.gofast-tv.me:80/Sandra23/Sandra23/25595
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports.png",TNT SPORTS op2
 http://line.gofast-tv.me:80/Sandra23/Sandra23/25595
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn.png",TUDN (MX)
 http://iptvtree.net:8080/ea188ac3/82d52ec7f7/31784
