@@ -718,9 +718,9 @@ http://190.83.119.67:8000/play/a0rh/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png",GOLDEN (HD)
 http://181.78.11.117:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png",GOLDEN PLUS
-http://panel.tured.live:80/Arturo2022/Arturo2022/94122.ts
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFLXSufEmnvdn4zs7Q6dkOlk/ts
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png",GOLDEN EDGE
-http://tv.a1promediastream.com:25461/0848592/8416758/16376
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFL-yy5DxNsEoABLde-LyN9o/ts
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png",GOLDEN PREMIERE 1
 http://190.83.119.67:8000/play/a0oc/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png",GOLDEN PREMIERE 2
@@ -762,7 +762,7 @@ http://181.209.194.254:8000/play/a0ik/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://w7.pngwing.com/pngs/724/805/png-transparent-canal-cinema-dynamite-cinematography-cinema-dinamita-dynamite-text-logo-brand.png",CINE DINAMITA
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/3010
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",CLOVER CHANNEL
-http://190.131.247.82:8000/play/a05v
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFOTcIVupHQOjPi9xgdLJoEE/ts
 
 #EXTINF:-1 group-title="CINE Y SERIES INGLÉS" tvg-logo="https://hallmark-brightspot-lower.s3.amazonaws.com/ac/c6/c703c2ee4141bb9b71cb0d54f210/hallmark-channel-transparent.png",HALLMARK
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
@@ -1338,11 +1338,11 @@ https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/RHCsomostodos/picture?width=200&height=200",ROATÁN HABLE CLARO
 https://stmv1.zcastbr.com/roatanhableclaro/roatanhableclaro/HasBahCa.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TCS_2_2003.png/240px-TCS_2_2003.png",2 ESL
-http://181.189.243.254:8000/play/a0ru/index.m3u8
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFHx0W2ho6srZaFxbWVJy10g/ts
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/320px-Canal_4_TCS.png",4 ESL
-http://181.189.243.254:8000/play/a0rt/index.m3u8
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFD2EvhhMgI2So3wdjpEu6zc/ts
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/186px-Canal_6_TCS.png",6 ESL
-http://181.189.243.254:8000/play/a0qk/index.m3u8
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFF30f6E9rfmucBWkLpmtwY8/ts
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/GuatevisionOficial/picture?width=200&height=200",GUATEVISIÓN
 https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdwCmi62_FCxuYmSMKo-DYtvq5ncMWsvFgMJqru8cTLzAor97&s",CANAL 11 TUTV
@@ -1625,9 +1625,6 @@ http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/13948
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/neox.png",NEOX
 http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/14080
 
-
-
-
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CGTN_English.png/120px-CGTN_English.png",CGTN ESPAÑOL
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/AAN2Qyu.png",HISPAN TV
@@ -1686,18 +1683,18 @@ https://dist4.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQxMjUzOSwiY
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: Rai 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f24cae011b0a63d9a3c461492121154e.png" group-title="Internacional",RAI 1
 http://line.gofast-tv.me:80/Sandra23/Sandra23/1036568
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/320px-Rai_2_-_Logo_2016.svg.png" group-title="Internacional",RAI 2
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/899
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/320px-Rai_3_-_Logo_2016.svg.png" group-title="Internacional",RAI 3
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/1979
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/320px-Rai_4_-_Logo_2016.svg.png" group-title="Internacional",RAI 4
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/900
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/320px-Rai_2_-_Logo_2016.svg.png" group-title="Internacional",RAI 2
+http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/14563
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/320px-Rai_3_-_Logo_2016.svg.png" group-title="Internacional",RAI 3
+http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/14564
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: Rai 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/320px-Rai_4_-_Logo_2016.svg.png" group-title="Internacional",RAI 4
+http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/14565
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/320px-BBC_One_logo_2021.svg.png",BBC 1
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/697
+http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/843
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200",CHANNEL 4
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/1120
+http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/854
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/320px-ITV1_logo_%282022%29.svg.png",ITV 1
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/689
+http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/845
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200",CGTN DOCUMENTARY
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="svt1.se" tvg-name="SE: SVT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b51525f9d756d5901cdcfc44ad36a7cd.png" group-title="Internacional",SVT 1
@@ -2550,6 +2547,56 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/The_Ren_and_Stimpy_Show_logo.jpg/revision/latest/scale-to-width-down/250?cb=20210323014754&path-prefix=es",REN Y STIMPY
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist.m3u8
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/320px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png",DRAGON BALL
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFHMhCctQ3ykW7iZ62C9nnQs/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Logo_Dragon_Ball_Z.jpg",DRAGON BALL Z
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFI9QpTt6P4Py113-9AwLL_0/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/320px-Dragon_Ball_GT_logo.png",DRAGON BALL GT
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFJEwU1Ht1thgNHRPTCb3FSM/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/320px-Dragon_Ball_Super.png",DRAGON BALL SUPER
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFFL8vw2p_ye1Uf_hbc-2K4Y/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPfeEXMgX1VaQFFJZ0xC8d514fM-gHdYn9VhIUxU4L532yM9p59RHYN6PG9iGJizsmXY&usqp=CAU",SAILOR MOON
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFGFpzr6-xL4r--gKrcRD3mE/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/250px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHESPIRITO
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMmidk8zvy8lCBXvLeBdJUA/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://i.pinimg.com/originals/d6/28/71/d62871685a4f530422074d98f11b49ab.png",LA NIÑERA
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFGuZCTCAH9DSJcTdoiUl73Y/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://i.ebayimg.com/images/g/rZgAAOSwX~dWhVH2/s-l400.jpg",ANIMANIACS
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFLW8Ft81e3vSesORFQwflvc/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://www.pngitem.com/pimgs/m/10-102597_caballeros-del-zodiaco-logo-png-transparent-png.png",CABALLEROS DEL ZODÍACO
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFKkGtOoGCr__djoukL3dLZI/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png",CORAGE PERRO COBARDE
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFLfXDBMh5JZ6bTKKbAK1hB8/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Dr_Quinn%2C_Medicine_Woman.png/revision/latest?cb=20180727110912",DRA. QUINN
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFNCdwM21wqTVoJg1J30QvO0/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://static.wikia.nocookie.net/bionic/images/2/2c/Agcomic.jpg/revision/latest?cb=20070114170120",EL HOMBRE NUCLEAR
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFDyZ_YUfAe3ptnCN6d9g1YI/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://pics.filmaffinity.com/get_smart-916893473-msmall.jpg",SUPEER AGENTE 86
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFGTeWSYiNUGeJO7CktXrsS8/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://images.fanart.tv/fanart/fbi-5bd3624b53c4a.png",FBI
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFFiVXbgcuvq3Ze97w_yjLxU/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Full_House_1987_TV_series_logo.png/320px-Full_House_1987_TV_series_logo.png",TRES POR TRES
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFDtxSAg0jamUqDRTZcgi84Q/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/320px-Futurama_1999_logo.svg.png",FUTURAMA
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFF7ADTuY03xB30y2xe-MwLg/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/eb99f5147464769.Y3JvcCwxNzM4LDEzNjAsMTI5LDA.png",LOCOS ADDAMS
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFFu-SFQYeREltMu1fdt25hk/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://i.pinimg.com/550x/46/c4/e4/46c4e46a5b4e7f6a69b033a88f0ac55d.jpg",LOBO DEL AIRE
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFD7eAhn25M2xTbz94r3Y8_0/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/93/13/90/20237886.jpg",LOIS Y CLARK, LAS NUEVAS AVENTURAS DE SUPERMAN
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMR8DfRNByklpkThaoUUIhU/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://seeklogo.com/images/J/Johnny_Bravo-logo-B4650E511E-seeklogo.com.png",JOHNNY BRAVO
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFHKsN6xGPe0LB7u9xwV5Mrw/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVv-Vehrbu3aB-TIG09TGboAIArwZ8PyLbAVkknF5O4NAOheNBmHyFiF6qQVfD5NCrKp4&usqp=CAU",XENA PRINCESA GUERRERA
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFEov4MWLf7RAAskkkRPUKPU/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/194px-TBBT_logo.svg.png",THE BIG BANG THEORY
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFB2WW5zDgSz6e2ZdFuvoMGU/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rick_and_Morty.svg/320px-Rick_and_Morty.svg.png",RICK & MORTY (ESP)
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFB7bUcLTKhDj76c7d4L43uE/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/201px-South_park_sign.svg.png",SOUTH PARK
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFETdX-q9JJynDiXBW2Qo8dE/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Step-By-Step-Logo.png/revision/latest?cb=20220714171331",PASO A PASO
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFDgkWUNT9ZrLGhRHP2Dx6OI/ts
 
 #EXTINF:-1 group-title="24-7 ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/400px-Survivor.borneo.logo.png/250px-400px-Survivor.borneo.logo.png",SURVIVOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=296&deviceId=5f21e7b24744c60007c1f6fc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -2672,5 +2719,7 @@ http://944973747995284896.niceadom.xyz:80/play/1237/1237/284896.ts
 http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/16083
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-max-uk.png",XY MAX
 http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/16131
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/SexMex_logo.png",SEX MEX
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFM4X6kFdN5uUY32ozbV5sGw/ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1000logos.net/wp-content/uploads/2019/02/RealityKings.jpg",REALITY KINGS
 http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/16125
