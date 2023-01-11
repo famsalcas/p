@@ -199,9 +199,11 @@ https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTNi.png",CTNI
 http://ph1.ministeriotv.com:1936/48/smil:48.smil/chunklist_w1326160182_b1564000_sleng.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Vida-tv.jpg",VIDA TV
-https://srv.panelcast.net/vidatv/vidatv/chunklist_w6600360.m3u8
+https://srv.panelcast.net/vidatv/vidatv/chunklist.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png",ORBE
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/maria_vision.png",MARÍA 
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://i.imgur.com/4ydVVIA.png",3ABN LATINO
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/LQs/chunklist.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp",MOVIE FE
@@ -1245,6 +1247,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 ttps://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://image.roku.com/developer_channels/prod/6d7c5a147f9ff7e488993ea1ad4e34b467113589fd03ef5eb67430377d6917d9.png",EL CONFLICTO TV
 https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png",TELEMAX
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://graph.facebook.com/americateve/picture?width=200&height=200",AMERICA TEVE
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://pbs.twimg.com/profile_images/1245173431227813888/JJ_RaUy1_400x400.jpg",MI TELE
