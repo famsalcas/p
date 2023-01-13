@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://canal1cr.com/wp-content/uploads/2022/02/cropped-Canal-1-1.png",CANAL 1
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/1canalcr/picture?width=200&height=200",CANAL 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",CDR 2
 http://190.7.192.164:8004/play/s46
@@ -636,9 +636,9 @@ http://181.78.11.117:8000/play/a02m/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (S)
 https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2018/02/syfy_2017_logo-777x398.png",SYFY
-http://190.83.119.67:8000/play/a0s9/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2018/02/syfy_2017_logo-777x398.png",SYFY op2
 http://177.234.254.38:8000/play/a09m/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2018/02/syfy_2017_logo-777x398.png",SYFY op2
+https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tbs.png",TBS (N)
 http://190.83.119.67:8000/play/a0pj/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series.png",TNT SERIES
@@ -1130,7 +1130,7 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3Ye
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://cdn.mitvstatic.com/channels/0a25f3c8-0d46-465d-8705-fee139872f8b_m.jpg",CITY TV
-http://181.78.22.214:8000/play/a01f
+http://190.131.247.82:8000/play/a01m
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://graph.facebook.com/caprichotvOficial/picture?width=200&height=200",CAPRICHO TV
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://graph.facebook.com/canalMundomas/picture?width=200&height=200",MUNDO+
@@ -1444,6 +1444,8 @@ https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/LTVHONDURAS/picture?width=200&height=200",LTV
 https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w1064137191.m3u8
+#EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/64f95dc2fab24143be4cd78fc0a88352.webp",NARANJA TV
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/canal8santarosa/picture?width=200&height=200",8 SAN JUAN
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 tvg-id="844" group-title="CENTROAMÉRICA" tvg-logo="https://canalesdominicanos.live/template/images/radios/telemedio_digital.jpg",TELE MEDIO DIGITAL
@@ -2686,7 +2688,7 @@ http://944973747995284967.niceadom.xyz:80/play/1237/1237/284967.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/HUSTLER_TV_HD.png/revision/latest/scale-to-width-down/200?cb=20150312135858",HUSTLER HD
 http://193.33.240.8/hustler_hd/index.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest?cb=20150315153455",PRIVATE
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/301358
+http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/16091
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Redlight_HD.png/revision/latest/scale-to-width-down/300?cb=20210517035141",REDLIGHT
 http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/18370
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.universfreebox.com/UserFiles/image/penthouse.png",PENTHOUSE GOLD
