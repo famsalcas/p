@@ -1062,7 +1062,7 @@ https://vcp.myplaytv.com/canali/canali/chunklist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/320px-Teleamazonas_Logo.png",TELEAMAZONAS
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/121623
 #EXTINF:-1 tvg-id="CaracolTV.co" group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png",CARACOL
-http://iptvtree.net:8080/1eae94e3/e22181ebb2/3162
+http://181.78.11.117:8000/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png",CARACOL op2
 http://200.41.79.165:8000/play/a0jk/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co" group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png",RCN
