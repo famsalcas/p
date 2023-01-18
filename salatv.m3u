@@ -1884,6 +1884,8 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w555740706.m3u8
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://pbs.twimg.com/profile_images/1433119225065967624/HNUddBal_200x200.jpg",TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bandamax.png",BANDAMAX
+http://45.228.234.77:4430/play/bandamax
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.imgur.com/wB2YEs4.png",CONECTA TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS MUSIC
