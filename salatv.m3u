@@ -20,7 +20,7 @@ http://190.7.192.164:8002/play/s11
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA
 http://190.7.192.163:8006/play/s33#//inliveserver.com:1936/gostore/gostore/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op2
-http://line.gofast-tv.me:80/Sandra23/Sandra23/529645?m3u8
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFAe4BjXRh6VIuJUgGlxC-zw/ts
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op3
 http://190.7.192.163:8007/play/s27
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png",TELETICA RADIO
@@ -688,9 +688,8 @@ http://190.83.119.67:8000/play/a0sl/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal.png",CINECANAL (P)
 http://177.234.254.38:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica.png",TNT (C)
-http://177.234.254.38:8000/play/a042/index.m3u8
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMvsP5s1iP081gMrfEiQkP0/ts
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica.png",TNT (C)
-#EXTVLCOPT:audio-track=Español
 http://160.20.164.171:8001/play/a01e/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_espana.png",TNT (P)
 https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
@@ -2173,10 +2172,12 @@ https://d1b3ih5h5mvhe9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png",CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/320px-DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV SPORTS +
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/72204.m3u8
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/320px-DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV SPORTS
+http://45.228.234.77:4430/play/canalseiscinco
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/320px-DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV SPORTS 
 http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/121857.m3u8
+#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/320px-DirecTV_Sports%2B_Latin_America_%282018%29.png",DIRECTV SPORTS +
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMS_aKt8RuvAUw6STRSLc8A
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png",TIGO SPORTS
 http://190.61.102.67:8000/play/a05x
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png",TIGO SPORTS op2
@@ -2222,7 +2223,7 @@ http://line.gofast-tv.me:80/Sandra23/Sandra23/25595
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports.png",TNT SPORTS op2
 http://line.gofast-tv.me:80/Sandra23/Sandra23/25595
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn.png",TUDN (MX)
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/31784
+http://45.228.234.77:4430/play/tudn
 #EXTINF:-1 tvg-id="WinSports" group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/320px-WinSports2022.png",WIN SPORTS
 http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fb81f6d360b9559d67705424e80b7ec9.png",FOX DEPORTES
