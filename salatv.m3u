@@ -18,7 +18,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png",REPRETEL 6 (alt)
 http://190.7.192.164:8002/play/s11
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA
-http://190.7.192.163:8006/play/s33#//inliveserver.com:1936/gostore/gostore/playlist.m3u8
+http://190.7.192.163:8006/play/s33
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op2
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFAe4BjXRh6VIuJUgGlxC-zw/ts
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png",TELETICA op3
@@ -321,12 +321,14 @@ http://iptvtree.net:8080/1eae94e3/e22181ebb2/295815
 https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://graph.facebook.com/ITVPatagonia/picture?width=200&height=200",ITV
 https://marine2.miplay.cl/itv/mono.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoonito.png",CARTOONITO
+http://181.189.243.254:8000/play/a0pa/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_junior.png",DISNEY JUNIOR
 http://190.83.119.67:8000/play/a0pb/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nick_jr.png",NICK JUNIOR
 http://190.83.119.67:8000/play/a0p9/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/150px-Discovery_Kids_Logo_2021-Presente.webp.png",DISCOVERY KIDS
-http://160.20.164.171:8001/play/a03a/index.m3u8
+http://181.189.243.254:8000/play/a0ob/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK (ATL S)
 http://190.131.247.82:8000/play/a06e
 #EXTINF:-1 group-title="KIDS" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK (PA)
@@ -597,9 +599,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/ZnQCsjnt/RUN-TIME-1.png",RUNTIME
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
             
-#EXTINF:-1 tvg-id="id="WarnerChannelPanregional.us" group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (N)
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (N)
 http://190.83.119.67:8000/play/a0tk/index.m3u8
-#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (S)
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (S)
 http://45.228.232.204:16000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel.png",SONY (N)
 http://190.83.119.67:8000/play/a0sk/index.m3u8
@@ -1470,7 +1472,7 @@ http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/5542
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Canal_9_NI_%282010%29.svg/revision/latest/scale-to-width-down/185?cb=20220716231512",9 NICARAGUA
 http://138.117.4.70:8075/channel9/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://graph.facebook.com/Canal2Nicaragua/picture?width=200&height=200",2 NICARAGUA
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/5538
+http://181.189.243.254:8000/play/a0rx/index.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm2ZYMFAUHTdq_BjIfNchqFkNhPo5eqjZm26zyahtBlWLjXDAZ",CANAL 11 
 http://138.117.4.70:8075/channel11/playlist.m3u8
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png",CANA TV
@@ -1740,7 +1742,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://graph.facebook.com/NoticieroSLV/picture?width=200&height=200",NOTICIERO EL SALVADOR
 https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/chunklist_w555171332_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMiA4OjM5OjA1IEFNJmhhc2hfdmFsdWU9RXZ6MXFtRUs1RnNsS21KaHo5ZlNTZz09JnZhbGlkbWludXRlcz0xNSZpZD0%3D
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png",CNN ESPAÑOL
-http://181.209.194.254:8000/play/a0gi/index.m3u8
+http://181.189.243.254:8000/play/a0ps/index.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png",CNN ESPAÑOL op2
 https://delivery.cdn.rcs.net.ar/mnp/cnne/output.mpd
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://i.postimg.cc/YqCCHGtH/CNN-RESUMEN.png",CNN ESPAÑOL RESUMEN
@@ -2115,9 +2117,7 @@ http://190.83.119.67:8000/play/a0t3/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV op2
 http://181.189.243.254:8000/play/a0t3/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV op3
-http://160.20.164.171:8001/play/a00x/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png",FUTV op4
-http://177.234.254.38:8000/play/a01f/index.m3u8
+http://181.175.41.170:8000/play/a0gk
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/135px-Fox_Sports_1_logo.svg.png",FOX SPORTS 1
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png",FOX SPORTS 2 (MX)
