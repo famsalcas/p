@@ -467,7 +467,7 @@ https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://i.postimg.cc/cJ2wzYcM/CORAZON-TURCO-ESP.png",CORAZÓN TURCO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png",RETRO PLUS TV 3
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://retroplustv.com/wp-content/uploads/2023/01/LOGO-RETRO-PLUS-582X198.png",RETRO PLUS TV 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1515946969.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/Gmbmkz4r/imagen-universal-tv.png",IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
@@ -478,7 +478,7 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://image.roku.com/developer_channels/prod/f2d38d20dd3fe65ad3c1762287cba3ead443b6c987c756c4669add7ae8364f61.png",MI TV CLÁSICA
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://image.roku.com/developer_channels/prod/ec305f194d2f6d721af7718c76e6ce97347ab5acb315d31dbc1da494800b9817.png",ACS NETWORK
-https://cloudvideo.servers10.com:19360/8006/8006.m3u8/
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/Dybvncch/CINE-PRIME-ESP.png",CINE PRIME
 https://d5rskh55dewj4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.postimg.cc/2jhpVPJZ/TVES-SAN-JOSE.png",TVES SAN JOSE
@@ -581,8 +581,17 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Magic-2003.gif/revision/latest/scale-to-width-down/250?cb=20220402153154",MAGIC KIDS TV
+https://stmvideo1.livecastv.com/magic-2023/magic-2023/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoT4p7B38Xj4SPMyLKNAX_Am0x2vkwzgqtKw&usqp=CAU",KANADE TV
+https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://pbs.twimg.com/profile_images/893232254067003392/pZiwY-_W_400x400.jpg",FANPOP
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://chileip.tv/wp-content/uploads/2022/01/energeek-e1641660179143.jpeg",ENERGEEK
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://static.wixstatic.com/media/b22f37_ca19beedc3d34d81b61e4f8d8bff3b13~mv2.png/v1/crop/x_233,y_353,w_1480,h_333/fill/w_894,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20ID%20VARIEDTV%20WEB.png",VARIEDTV
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://image.roku.com/developer_channels/prod/e2b47319671e03eb8f0b479b2b8395470cedd4b03d6549d958ffc7f6eb8faeb5.png",SOL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg",AMÉ 47
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w471128982.m3u8
@@ -997,7 +1006,7 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png",SUCESO TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://graph.facebook.com/TeleEstrellaHDBolivia/picture?width=200&height=200",TELE ESTRELLA
-https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8
+https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200",TV PERÚ
 https://cdnh74.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png",BOLIVISIÓN
@@ -1301,6 +1310,8 @@ http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/353740.ts
 http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/340464.ts
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universo-mediano.png",NBC UNIVERSO
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/90120
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/9_de_mexico.png",NUEVE
+https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6yUGDLHxApzVsjQG7h2HoalYXCK0F4N8GtA&usqp=CAU",TN 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
@@ -1910,9 +1921,9 @@ http://45.228.234.77:4430/play/bandamax
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS MUSIC
 https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png",RETRO PLUS TV 1
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://retroplustv.com/wp-content/uploads/2023/01/LOGO-RETRO-PLUS-582X198.png",RETRO PLUS TV 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1854712805.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png",RETRO PLUS TV 2
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://retroplustv.com/wp-content/uploads/2023/01/LOGO-RETRO-PLUS-582X198.png",RETRO PLUS TV 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1679472817.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7c8320451943ed08265872510644e800.webp",RETRO MUSIC TV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w490380263.m3u8
