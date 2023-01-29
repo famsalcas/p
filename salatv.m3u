@@ -589,7 +589,9 @@ https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://chileip.tv/wp-content/uploads/2022/01/energeek-e1641660179143.jpeg",ENERGEEK
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://static.wixstatic.com/media/b22f37_ca19beedc3d34d81b61e4f8d8bff3b13~mv2.png/v1/crop/x_233,y_353,w_1480,h_333/fill/w_894,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20ID%20VARIEDTV%20WEB.png",VARIEDTV
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://chileip.tv/wp-content/uploads/2022/01/energeek-e1641660179143.jpeg",ENERGEEK 2
+
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://static.wixstatic.com/media/b22f37_ca19beedc3d34d81b61e4f8d8bff3b13~mv2.png",VARIEDTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bitme.png",BITMe
 https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
@@ -615,6 +617,24 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://castlempire.site:8080/images/a874f7c2dfb36eeba32aa1565d77a36d.png",CINEMA MARVEL
 http://MzdyqwDBcN9n874RClgQiS.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26655&t=live&f=ts
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINE ESTRENOS
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2133347
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINE TERROR 
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090933
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINE COMEDIA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090925
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINE ACCIÓN
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090917
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINE ROMANCE
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090931
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINEMA 1
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210808
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINEMA 2
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210809
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINEMA 3
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210810
+#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINEMA DRAMA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/203983
 
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (N)
 http://190.83.119.67:8000/play/a0tk/index.m3u8
@@ -2586,7 +2606,7 @@ http://flysilo.top:8080/live/9141658943811873/2751658943811873/19951.m3u8
 http://tv.a1promediastream.com:25461/0848592/8416758/2408
 
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png",El CHAVO DEL 8
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37761
+https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/playlist.m3u8    
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://sites.google.com/site/tvseriesmiguel/_/rsrc/1472679482278/los-simpson/los%20simpson.jpg?height=453&width=934",LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png",THE WALKING DEAD
