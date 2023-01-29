@@ -617,24 +617,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://castlempire.site:8080/images/a874f7c2dfb36eeba32aa1565d77a36d.png",CINEMA MARVEL
 http://MzdyqwDBcN9n874RClgQiS.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26655&t=live&f=ts
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINE ESTRENOS
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2133347
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINE TERROR 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090933
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINE COMEDIA
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090925
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINE ACCIÓN
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090917
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINE ROMANCE
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090931
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINEMA 1
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210808
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINEMA 2
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210809
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINEMA 3
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210810
-#EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",24/7: CINEMA DRAMA
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/203983
 
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png",WARNER (N)
 http://190.83.119.67:8000/play/a0tk/index.m3u8
@@ -2605,6 +2587,45 @@ http://flysilo.top:8080/live/9141658943811873/2751658943811873/19951.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="doityourselfnetwork.us" tvg-logo="https://th.bing.com/th/id/OIP.tkP2pq__MPIdFCzHF8xsDwHaE8?pid=ImgDet&rs=1",MAGNOLIA NETWORK
 http://tv.a1promediastream.com:25461/0848592/8416758/2408
 
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINE PEDRO INFANTE
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090942
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINE CANTINFLAS
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090937
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINE ESTRENOS
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2133347
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINE TERROR 
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090933
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINE COMEDIA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090925
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINE ACCIÓN
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090917
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINE ROMANCE
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090931
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 1
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210808
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 2
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210809
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 3
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210810
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 5
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210812
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 6
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210813
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 7
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210812
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 8
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210814
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 9
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210816
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 10
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210817
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 11
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210818
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 12
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210822
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",CINEMA 13
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/203983
+
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png",El CHAVO DEL 8
 https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/playlist.m3u8    
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://sites.google.com/site/tvseriesmiguel/_/rsrc/1472679482278/los-simpson/los%20simpson.jpg?height=453&width=934",LOS SIMPSONS
@@ -2625,6 +2646,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/The_Ren_and_Stimpy_Show_logo.jpg/revision/latest/scale-to-width-down/250?cb=20210323014754&path-prefix=es",REN Y STIMPY
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist.m3u8
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://atlantis-mx.com/logos/friends.png",FRIENDS
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/223069
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png",LOS AÑOS MARAVILLOSOS
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090984
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://atlantis-mx.com/logos/drhouse24.png",DR. HOUSE
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090997
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://atlantis-mx.com/logos/principe24.png",EL PRINCIPE DEL RAP
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091003
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/320px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png",DRAGON BALL
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFHMhCctQ3ykW7iZ62C9nnQs/ts
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Logo_Dragon_Ball_Z.jpg",DRAGON BALL Z
@@ -2633,7 +2662,7 @@ http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFI9QpTt6P4Py113-9AwLL_0/ts
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFJEwU1Ht1thgNHRPTCb3FSM/ts
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/320px-Dragon_Ball_Super.png",DRAGON BALL SUPER
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFFL8vw2p_ye1Uf_hbc-2K4Y/ts
-#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPfeEXMgX1VaQFFJZ0xC8d514fM-gHdYn9VhIUxU4L532yM9p59RHYN6PG9iGJizsmXY&usqp=CAU",SAILOR MOON
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://l3d.us:25461/images/2510c39011c5be704182423e3a695e91.png",SAILOR MOON
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFGFpzr6-xL4r--gKrcRD3mE/ts
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/250px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHESPIRITO
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMmidk8zvy8lCBXvLeBdJUA/ts
@@ -2645,6 +2674,12 @@ http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFGuZCTCAH9DSJcTdoiUl73Y/ts
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37820
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://i.ebayimg.com/images/g/rZgAAOSwX~dWhVH2/s-l400.jpg",ANIMANIACS
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFLW8Ft81e3vSesORFQwflvc/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://l3d.us:25461/images/16c9583aee76a0d5cd47ff3dbadaf44b.png",ESCANDALOSOS
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090886
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://l3d.us:25461/images/20dfd75ca4f98a6a7e105b9f29f240df.png",LOONEY TUNES
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090899
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://l3d.us:25461/images/8fa14cdd754f91cc6554c9e71929cce7.png",PINKY Y CEREBRO
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090901
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://www.pngitem.com/pimgs/m/10-102597_caballeros-del-zodiaco-logo-png-transparent-png.png",CABALLEROS DEL ZODÍACO
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFKkGtOoGCr__djoukL3dLZI/ts
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png",CORAGE PERRO COBARDE
@@ -2653,7 +2688,7 @@ http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFLfXDBMh5JZ6bTKKbAK1hB8/ts
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFNCdwM21wqTVoJg1J30QvO0/ts
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://static.wikia.nocookie.net/bionic/images/2/2c/Agcomic.jpg/revision/latest?cb=20070114170120",EL HOMBRE NUCLEAR
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFDyZ_YUfAe3ptnCN6d9g1YI/ts
-#EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://pics.filmaffinity.com/El_superagente_86_Miniserie_de_TV-453972769-large.jpg",SUPEER AGENTE 86
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://sdmx.com.mx/logos/superagente86.png",SUPEER AGENTE 86
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFGTeWSYiNUGeJO7CktXrsS8/ts
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://images.fanart.tv/fanart/fbi-5bd3624b53c4a.png",FBI
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFFiVXbgcuvq3Ze97w_yjLxU/ts
@@ -2665,6 +2700,10 @@ http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFF7ADTuY03xB30y2xe-MwLg/ts
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFFu-SFQYeREltMu1fdt25hk/ts
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://i.pinimg.com/550x/46/c4/e4/46c4e46a5b4e7f6a69b033a88f0ac55d.jpg",LOBO DEL AIRE
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFD7eAhn25M2xTbz94r3Y8_0/ts
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://l3d.us:25461/images/6d2bbf8de91f746e82c8d55715374780.png",LOS PADRINOS MÁGICOS
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090909
+#EXTINF:-1 group-title="24-7 ESP" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png",LOS SÚPERSÓNICOS
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090990
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/93/13/90/20237886.jpg",LOIS Y CLARK, LAS NUEVAS AVENTURAS DE SUPERMAN
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMR8DfRNByklpkThaoUUIhU/ts
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://seeklogo.com/images/J/Johnny_Bravo-logo-B4650E511E-seeklogo.com.png",JOHNNY BRAVO
