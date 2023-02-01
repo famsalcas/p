@@ -10,6 +10,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png",SAN VITO TV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w500555531.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/supercabletv
 #EXTINF:-1 tvg-id="ExtremaTV.cr" group-title="COSTA RICA" tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -45,7 +46,7 @@ https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://soyplancha.tv/wp-content/uploads/2022/08/SOY-PLANCHA-LOGO-TV-2019.png",SOY PLANCHA TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://neotelecomcr.com/Middleware/Android/Portal/img/canales/vmlatinovintagemusic.gif",VINTAGE MUSIC TV
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PFY8a8gfbk_FzQqsMG57KVKEklqMXYb8nxOCwwEGeYNYlzrjP_tkfYUN4JCoWvPtGiM&usqp=CAU",VINTAGE MUSIC TV
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist.m3u8
 #EXTINF:-1 tvg-id="id="TreceCostaRicaTV.cr" group-title="COSTA RICA" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-300x271.png",SINART
 http://190.7.192.164:8005/play/s21
@@ -318,6 +319,9 @@ https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/295815
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/dxHOu8m.png",LEGO
 https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/dxHOu8m.png",LEGO TOONS
+https://legochannel-roku.amagi.tv/playlist.m3u8
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://graph.facebook.com/ITVPatagonia/picture?width=200&height=200",ITV
 https://marine2.miplay.cl/itv/mono.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoonito.png",CARTOONITO
@@ -341,7 +345,7 @@ https://3.ultimate2019.com/stream/hls/29
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://i.imgur.com/bpHH6Wj.png",LOVE NATURE ESPAÑOL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://i.postimg.cc/prRC4SYc/EXPLORE-ESP.png",EXPLORER
 https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hola_tv.png",HOLA TV
@@ -428,6 +432,8 @@ http://45.228.232.204:16000/play/a037/index.m3u8
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/92921
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tru_tv-mediano.png",TRUTV
 http://190.61.102.67:8000/play/a03y
+#EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png",CULTURA 24
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png",TELEMUNDO NOVELAS
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
@@ -449,8 +455,6 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 https://unlimited1-us.dps.live/13t/13t.smil/playlist.m3u8
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://graph.facebook.com/RCNnovelas/picture?width=200&height=200",RCN NOVELAS
 http://181.65.154.170:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://graph.facebook.com/RCNnovelas/picture?width=200&height=200",RCN NOVELAS op2
-http://f4.tvxweb.net:8082/42145/video.m3u8?token=MxPReBvRE18
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones.png",PASIONES
 http://tv.a1promediastream.com:25461/0848592/8416758/16227
 #EXTINF:-1 group-title="NOVELAS Y SERIES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlnovelas.png",TLNOVELAS
@@ -1768,7 +1772,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://th.bing.com/th/id/OIP.CfponQU6Gz9awDDnDxXh3QHaB7?w=296&h=91&c=7&o=5&dpr=1.1&pid=1.7",BLOOMBERG
 https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png",EL TORO TV
-https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
+https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/24_horas_tve.png",RTVE 24 HORAS
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/euronews.png",EURONEWS ESPAÑOL
@@ -2002,17 +2006,17 @@ https://d39uqn16w2n0w1.cloudfront.net/scte35/index.m3u8
 http://tiny.cc/nyjquz
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png",VEVO 80'S
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://cigars.roku.com/v1/contain/290x218/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F3dc5aedf9d7694c220fc28f1a5180c812d9831ca2326a9970c65044e7bbcbd97.png",VEVO 90's
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png",VEVO 90's
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png",VEVO POP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619579bb6abe041ef846ade3/200?webp=1",VEVO COUNTRY
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png",VEVO COUNTRY
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",VEVO 2K
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png",VEVO 2K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://e7.pngegg.com/pngimages/862/837/png-clipart-logo-vevo-advertising-business-music-business-text-trademark-thumbnail.png",VEVO TRAP REGGAETON
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png",VEVO TRAP REGGAETON
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",VEVO RnB
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png",VEVO RnB
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/CoopeTv/picture?width=200&height=200",COOPE TV
 https://livedge-st1.video.bustream.com/coopetv/smil:rates.smil/chunklist_w515107706_b1496000_slen.m3u8
