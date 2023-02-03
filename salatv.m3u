@@ -625,7 +625,7 @@ http://190.83.119.67:8000/play/a0tk/index.m3u8
 http://45.228.232.204:16000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel.png",SONY (N)
 http://190.83.119.67:8000/play/a0sk/index.m3u8
-#EXTINF:-1 tvg-id="SonyChannelAndes.us" group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel.png",SONY (N) op2
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/19/Sony_Channel_HD_2019.png",SONY HD (N)
 http://181.189.243.254:8000/play/a0sk/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png",AXN (S)
 https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
@@ -713,13 +713,13 @@ http://190.83.119.67:8000/play/a0sl/index.m3u8
 http://200.69.85.98:8000/udp/239.0.4.2:1234
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica.png",TNT (C)
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMvsP5s1iP081gMrfEiQkP0/ts
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/TNT_HD.png/320px-TNT_HD.png",TNT (C)
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/TNT_HD.png/320px-TNT_HD.png",TNT HD (C)
 http://181.189.243.254:8000/play/a0sq/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_espana.png",TNT (P)
 https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space.png",SPACE
 http://190.83.119.67:8000/play/a0ut/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space.png",SPACE op2
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/br_space-hd_m.png",SPACE HD
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/74297
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
 http://190.83.119.67:8000/play/a0q2/index.m3u8
@@ -743,7 +743,7 @@ http://190.83.119.67:8000/play/a0pl/index.m3u8
 http://45.228.232.204:16000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png",GOLDEN op2
 http://190.83.119.67:8000/play/a0rh/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png",GOLDEN (HD)
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png",GOLDEN HD
 http://181.78.11.117:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png",GOLDEN PLUS
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFLXSufEmnvdn4zs7Q6dkOlk/ts
@@ -2782,7 +2782,7 @@ http://mxu03.wanicelife.com:8880/12mf030002/34494572/33086
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://images.fanart.tv/fanart/the-secret-circle-506b06b58b7a0.png",SECRET CIRCLE
 http://mxu03.wanicelife.com:8880/12mf030002/34494572/33127
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://pbs.twimg.com/media/CMEEhQNUkAAPsWQ.jpg",RUSSIAN NIGHT
-http://mxu03.wanicelife.com:8880/12mf030002/34494572/33133
+http://flysilo.top:8080/live/791663800526588004/311663800526588/20516.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.cableman.ru/sites/default/files/shalun_0.png?1532878392",Шалун TV
 http://mxu03.wanicelife.com:8880/12mf030002/34494572/33141
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://sc.dish.com/shared/images/station-logos/PLBY.png",PLAYBOY LATINO
@@ -2798,7 +2798,7 @@ http://axr.life:80/openbox20/kafta145/40930
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png",SEXY HOT
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108997
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest/scale-to-width-down/250?cb=20130927203009",SEXTREME
-http://profoot.top:8080/live/7751661600301408/6861661600301408/20519.ts
+http://flysilo.top:8080/live/791663800526588004/311663800526588/20519.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic-logo.png",EROTIC
 http://tv.a1promediastream.com:25461/0848592/8416758/18572
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/HUSTLER_TV_HD.png/revision/latest/scale-to-width-down/200?cb=20150312135858",HUSTLER HD
@@ -2809,7 +2809,7 @@ http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/16091
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Redlight_HD.png/revision/latest/scale-to-width-down/300?cb=20210517035141",REDLIGHT
 http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/18370
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.universfreebox.com/UserFiles/image/penthouse.png",PENTHOUSE GOLD
-http://profoot.top:8080/live/7751661600301408/6861661600301408/20651.ts
+http://82.197.214.59:4002/play/a03r/index.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.penthousetv.com/images/logo_phQuickies.png",PENTHOUSE REALITY
 http://profoot.top:8080/live/7751661600301408/6861661600301408/20652.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 1
@@ -2833,7 +2833,7 @@ http://tv.a1promediastream.com:25461/0848592/8416758/14743
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 10
 http://tv.a1promediastream.com:25461/0848592/8416758/15706
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 11
-http://tv.a1promediastream.com:25461/0848592/8416758/15677
+http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/586
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 12
 http://tv.a1promediastream.com:25461/0848592/8416758/18561
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/320px-Brazzers_logo.png",BRAZZERS
@@ -2841,9 +2841,9 @@ http://play.flamaplus.tv:80/play/GYFyA2G-lepqxpTSISDwANse0g9QMS4295K-Am7tOAM/ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png",HOT 1
 http://profoot.top:8080/live/7751661600301408/6861661600301408/20543.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/XMO_2012_logo.png",XMO
-http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/586
+http://82.197.214.59:4002/play/a03o/index.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Evil_Angel_logo.svg/100px-Evil_Angel_logo.svg.png",EVIL ANGEL
-http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/16083
+http://82.197.214.59:4002/play/a03j/index.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/SexMex_logo.png",SEX MEX
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFM4X6kFdN5uUY32ozbV5sGw/ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1000logos.net/wp-content/uploads/2019/02/RealityKings.jpg",REALITY KINGS
