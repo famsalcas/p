@@ -379,8 +379,8 @@ http://45.228.232.204:16000/play/a049/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica.png",ANIMAL PLANET (MX)
 http://tv.a1promediastream.com:25461/0848592/8416758/16317
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",DISCOVERY (C)
-http://181.189.243.254:8000/play/a0tb/index.m3u8
-#EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",DISCOVERY op2
+http://190.149.66.90:16000/play/a051/index.m3u8
+#EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",DISCOVERY HD (C)
 http://181.189.243.254:8000/play/a0tb/index.m3u8
 #EXTINF:-1 group-title="CULTURA Y ESTILOS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",DISCOVERY (S)
 https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
@@ -539,9 +539,9 @@ https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/100px-Cine.Ar_logo.svg.png",CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w140296313.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://th.bing.com/th/id/OIP.BATasviVgA39Jw20Lc1eGwAAAA?w=137&h=150&c=7&o=5&dpr=1.1&pid=1.7",CLARO CINEMA
-http://190.83.119.67:8000/play/a0sh/index.m3u8
+http://190.149.66.90:16000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_tv.png",CANAL CLARO
-http://190.83.119.67:8000/play/a0oy/index.m3u8
+
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_tv.png",CANAL CLARO op2
 http://190.61.102.67:8000/play/a013
 #EXTINF:-1 group-title="CINE Y SERIES 1" tvg-logo="https://graph.facebook.com/canalcinema/picture?width=200&height=200",CINEMA+
@@ -676,7 +676,7 @@ http://190.61.102.67:8000/play/a064
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (L)
 http://190.149.66.90:16000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png",HBO (L) op2
-http://190.61.102.67:8000/play/a015
+http://45.228.232.204:16000/play/a040/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://www.seekpng.com/png/full/223-2235566_hbo-hd-hbo-hd-logo-png.png",HBO (HD)
 http://190.131.228.59:8000/play/a0rp/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://png.pngitem.com/pimgs/s/153-1531024_hbo-logo-transparent-hd-png-download.png",HBO (CL)
@@ -690,11 +690,11 @@ http://190.131.228.59:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus.png",HBO PLUS op2
 http://tv.a1promediastream.com:25461/0848592/8416758/16199
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme.png",HBO XTREME
-http://190.83.119.67:8000/play/a0ov/index.m3u8
+http://45.228.232.204:16000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme.png",HBO XTREME op2
 http://190.131.228.59:8000/play/a05g/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family.png",HBO FAMILY
-http://190.83.119.67:8000/play/a0ou/index.m3u8
+http://190.149.66.90:16000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family.png",HBO FAMILY op2
 http://190.131.228.59:8000/play/a0j5/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop.png",HBO POP
@@ -704,7 +704,7 @@ http://iptvtree.net:8080/1eae94e3/e22181ebb2/29305
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi.png",HBO MUNDI
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/38701
 #EXTINF:-1 tvg-id="CinemaxPanregional.us" group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX (S)
-http://190.83.119.67:8000/play/a0ug/index.m3u8
+http://45.228.232.204:16000/play/a07c/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-language="Spanish" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX (ARG)
 https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal.png",CINECANAL (P)
@@ -722,7 +722,7 @@ http://190.83.119.67:8000/play/a0ut/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/br_space-hd_m.png",SPACE HD
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/74297
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
-http://190.83.119.67:8000/play/a0q2/index.m3u8
+http://190.149.66.90:16000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL op2
 http://190.131.228.59:8000/play/a0jg/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula.png",DE PELÍCULA
@@ -732,13 +732,13 @@ http://190.83.119.67:8000/play/a0ri/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/240px-TCM_Latam_logo.svg.png",TCM op2
 http://181.189.243.254:8000/play/a0ri/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/paramount_channel.png",PARAMOUNT
+http://190.149.66.90:16000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/paramount_channel.png",PARAMOUNT HD
 http://181.189.243.254:8000/play/a0t9/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/paramount_channel.png",PARAMOUNT op2
-http://190.83.119.67:8000/play/a0t9/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png",LIFETIME
 https://delivery.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png",LIFETIME op2
-http://190.83.119.67:8000/play/a0pl/index.m3u8
+http://45.228.232.204:16000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png",GOLDEN
 http://45.228.232.204:16000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png",GOLDEN op2
