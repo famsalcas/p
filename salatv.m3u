@@ -221,7 +221,7 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://play-lh.googleusercontent.com/g2g0uTQNsekvn8GQ3DqLYoPtcsUzNz1eO3lB4hItUB-8vyfaE6-x0KxzptKnI03LJg",MONTE MARÍA
 https://616eee1852d6c.streamlock.net/live/myStream_360p/chunklist_w41712275.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png",TELEVID
-http://190.242.41.219:8000/play/a01p/index.m3u8
+http://181.189.243.254:8000/play/a0of/index.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://play-lh.googleusercontent.com/7CAp43AuvzB0CmUcDXCxuTuT5dkz80zYzGbvttDNhPGJ1joBnTpGG4YOiMj7dulSZaA",GRACIA TV
 http://v3.tustreaming.cl/graciatv/index.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://image.roku.com/developer_channels/prod/d46a4d4b9c3c026bdc703ea515f571752dcfc1b27acdf80eb6352f106680a116.png",LA SAGRADA FAMILIA
@@ -244,8 +244,6 @@ https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/chunklist_w471330997.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://image.roku.com/developer_channels/prod/6ac50fe7b0665db9402c55d2a4439792f55a9179a5cdee6a4d062c3f696796a5.png",ALIENTO VISIÓN
 http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png",CHILEiptv
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png",RCC
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://i.postimg.cc/Cxt5HC9c/Urbancris-TV.png",URBANCRIST2 URBAN
@@ -2761,13 +2759,13 @@ http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/barely-legal-logo.png",BARELY LEGAL
-http://profoot.top:8080/live/7751661600301408/6861661600301408/20547.ts
+http://tv.vip-panels21.online:8080/alper1/alper1/17472
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png",BLUE HUSTLER
 http://profoot.top:8080/live/7751661600301408/6861661600301408/20649.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/frl_logo.png",FRENCH LOVER
 http://mxu03.wanicelife.com:8880/12mf030002/34494572/33130
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://ministar.ru/upload/medialibrary/411/4113627324e01b02aeffab141cda55f7.png",O-LA-LA
-http://mxu03.wanicelife.com:8880/12mf030002/34494572/33131
+http://tv.vip-panels21.online:8080/alper1/alper1/17476
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://ntvplus.tv/files/image/35/43/34/s1q.png",RED LIPS
 http://mxu03.wanicelife.com:8880/12mf030002/34494572/33086
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://images.fanart.tv/fanart/the-secret-circle-506b06b58b7a0.png",SECRET CIRCLE
@@ -2796,13 +2794,12 @@ http://tv.a1promediastream.com:25461/0848592/8416758/18572
 http://193.33.240.8/hustler_hd/index.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest?cb=20150315153455",PRIVATE
 http://tv.a1promediastream.com:25461/0848592/8416758/15598
-http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/16091
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Redlight_HD.png/revision/latest/scale-to-width-down/300?cb=20210517035141",REDLIGHT
-http://62.182.83.91:80/Babarbugti1234/8FCviJDxZ0ghseh/18370
+http://tv.vip-panels21.online:8080/alper1/alper1/17451
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.universfreebox.com/UserFiles/image/penthouse.png",PENTHOUSE GOLD
-http://82.197.214.59:4002/play/a03r/index.m3u8
+http://tv.vip-panels21.online:8080/alper1/alper1/17453
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.penthousetv.com/images/logo_phQuickies.png",PENTHOUSE REALITY
-http://profoot.top:8080/live/7751661600301408/6861661600301408/20652.ts
+http://tv.vip-panels21.online:8080/alper1/alper1/17454
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 1
 http://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 2
@@ -2824,18 +2821,18 @@ http://tv.a1promediastream.com:25461/0848592/8416758/14743
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 10
 http://tv.a1promediastream.com:25461/0848592/8416758/15706
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 11
-http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/586
+http://tv.vip-panels21.online:8080/alper1/alper1/17442
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 12
 http://tv.a1promediastream.com:25461/0848592/8416758/18561
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brazzers_logo.png/320px-Brazzers_logo.png",BRAZZERS
-http://play.flamaplus.tv:80/play/GYFyA2G-lepqxpTSISDwANse0g9QMS4295K-Am7tOAM/ts
+http://tv.vip-panels21.online:8080/alper1/alper1/17460
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png",HOT 1
 http://profoot.top:8080/live/7751661600301408/6861661600301408/20543.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/XMO_2012_logo.png",XMO
-http://82.197.214.59:4002/play/a03o/index.m3u8
+http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/586
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Evil_Angel_logo.svg/100px-Evil_Angel_logo.svg.png",EVIL ANGEL
-http://82.197.214.59:4002/play/a03j/index.m3u8
+http://tv.vip-panels21.online:8080/alper1/alper1/17463
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/SexMex_logo.png",SEX MEX
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFM4X6kFdN5uUY32ozbV5sGw/ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1000logos.net/wp-content/uploads/2019/02/RealityKings.jpg",REALITY KINGS
-http://profoot.top:8080/live/7751661600301408/6861661600301408/20609.ts
+http://tv.vip-panels21.online:8080/alper1/alper1/17478
