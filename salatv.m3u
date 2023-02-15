@@ -248,6 +248,10 @@ http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://i.postimg.cc/Cxt5HC9c/Urbancris-TV.png",URBANCRIST2 URBAN
 https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8
+#EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-id="UNE TV"tvg-logo="https://i.postimg.cc/TYvvWwjk/image.png",UNE TV
+https://www.amixtv.com:8081/unetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-id="FAMILY CHANNEL"tvg-logo="https://cdn.colombia.com/canales/famili-channel-5336.jpg" ,FAMILY CHANNEL
+https://cp.panelchs.com:1936/8012/8012/chunklist_w779405687.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://image.roku.com/developer_channels/prod/009fbd6eb8e9ccaf8fb9dab697a9387bb2329cb3824a310a39bcc5a7c17806e5.png",TLC COMAYAGUA
 https://mediacp.us:8081/8008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" tvg-logo="https://www.universal.org.ec/wp-content/uploads/2018/06/logo2019.png",TV UNIVERSAL
@@ -1137,7 +1141,7 @@ http://iptvtree.net:8080/1eae94e3/e22181ebb2/290242
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://i.postimg.cc/0ymNQCXG/RCN-MAS.png",RCN MÁS
 https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
 #EXTINF:-1 tvg-id="CanalCapital.co" group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://th.bing.com/th/id/R05c1e1b1e97dadc0d69e9c0a8870de1f?rik=SEe9mP9wZMoKSQ&pid=ImgRaw",CANAL CAPITAL
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://i.imgur.com/6d2fOjq.png",SURAM TV
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://graph.facebook.com/CanalRTU/picture?width=200&height=200",RTU
@@ -1178,10 +1182,10 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://c9b8m4u3.rocketcdn.me/wp-content/uploads/2021/02/Canal-cosmovision-copy-1.png",COSMOVISIÓN
 https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/ic3e4da461fb34b4f/version/1478234178/image.png",TELEPACIFICO
+#EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/ic3e4da461fb34b4f/version/1478234178/image.png",TELE PACIFICO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://graph.facebook.com/WuanPlus/picture?width=200&height=200",WUAN+
-https://streamingwowza.com:1936/wuanplus/wuanplus/chunklist_w1840312964.m3u8
+https://streamingwowza.com:1936/wuanplus/wuanplus/chunklist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://cnctulua.tv/wp-content/uploads/2022/07/cropped-CANAL-CNC-TULUA.png",CNC TULUA
 https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://i.imgur.com/uGwFXeM.png",EDUCA TV
@@ -1190,14 +1194,14 @@ https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w310295254.m3u8
 #EXTINF:-1-group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png",CANALNETS TV
 https://video.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png",TELECARIBE
+#EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png",TELE CARIBE
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/320px-Logotipo_de_Telemedell%C3%ADn.png",TELEMEDELLÍN
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://cdn.mitvstatic.com/channels/0a25f3c8-0d46-465d-8705-fee139872f8b_m.jpg",CITY TV
 http://190.131.247.82:8000/play/a01m
-#EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://graph.facebook.com/caprichotvOficial/picture?width=200&height=200",CAPRICHO TV
+#EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://graph.facebook.com/caprichotvOficial/picture?width=200&height=200",CTV CAPRICHO TV
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://graph.facebook.com/canalMundomas/picture?width=200&height=200",MUNDO+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
@@ -1217,6 +1221,12 @@ https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 https://5bf8041cb3fed.streamlock.net/CTNTV/CTNTV/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/VTV_logo.PNG/320px-VTV_logo.PNG",VENEZOLANA TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
+#EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-logo="https://i.postimg.cc/k4RPyrjX/MAS-TELEVISION-ESP.png",MÁS TV
+https://video.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR" tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/WuFlBbL.png",TELE CARIBE
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
+#EXTINF:-1 group-title="COLOMBIA-VENEZUELA-ECUADOR"tvg-id="UNOPLAY.co" tvg-logo="https://i.imgur.com/RReDi1C.png",UNO PLAY
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/once_tv_mexico-mediano.png",CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
@@ -1861,6 +1871,8 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://i.postimg.cc/qR0hz62R/Cable-Noticias.png",CABLENOTICIAS
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 group-title="Informativos" tvg-logo="https://i.imgur.com/iBrl0b8.png",90 MINUTOS
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="Informativos" tvg-name="El Confidencial",EL CONFIDENCIAL
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LA NACIÓN +
@@ -1976,6 +1988,8 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.postimg.cc/50S75Zn6/LA-DESPECHADA-BLANCO.png",LA DESPECHADA TV
 https://servidordevideo.com:3077/stream/play.m3u8
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://i.imgur.com/T1w7dSu.png",RANCHENATO TV
+http://iptvcolombia.ddns.net:1936/ranchenato/ranchenato_360p/chunklist_w1171414734.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://pbs.twimg.com/profile_images/1433119225065967624/HNUddBal_200x200.jpg",TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bandamax.png",BANDAMAX
@@ -1996,6 +2010,8 @@ https://videostreaming.cloudserverlatam.com/8016/8016/playlist.m3u8
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://www.coolstreaming.us/img/ch/image20830898359.jpg",A SON DE LA SALSA
 https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/chunklist.m3u8
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://i.postimg.cc/mrGTb4yG/thumbnail-Logo-Amordiscos-600x600-alpha.png",AMORDISCOS TV
+https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?hls_ctx=jlpvk1s7
 #EXTINF: -1 group-title="Musicales" tvg-logo="https://i.postimg.cc/5tV0vS7K/LA-SABROSURA-TV-ESP.png",LA SABROSURA TV
 https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://th.bing.com/th/id/OIP.f6nJ0-WnbNwfuHOz_3NtrgHaHa?w=154&h=180&c=7&o=5&dpr=1.1&pid=1.7",PROFOXMIX
@@ -2146,6 +2162,8 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png",91 NRG
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF:-1 group-title="Musicales" tvg-id="PJ RADIO TV" tvg-logo="https://i.postimg.cc/pd1LNFhW/radiotvpj-5865-th.jpg",PJ RADIO TV
+https://vdo.panelstreaming.live:3363/stream/play.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/box_hits.png",BOX HITS
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png",PERSIANA MUSIC
@@ -2326,6 +2344,8 @@ https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
 http://45.228.234.77:4430/play/tudn
 #EXTINF:-1 tvg-id="WinSports" group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/320px-WinSports2022.png",WIN SPORTS
 http://200.41.79.165:8000/play/a0js/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co"  group-title="DEPORTES ESPAÑOL" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png",WIN SPORTS PLUS
+http://magmas5.com:8000/malotv/gratis/131982
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fb81f6d360b9559d67705424e80b7ec9.png",FOX DEPORTES
 http://iptvtree.net:8080/ea188ac3/82d52ec7f7/14820
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/270px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",BEIN SPORTS Ñ
