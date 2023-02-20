@@ -36,7 +36,7 @@ https://59ef525c24caa.streamlock.net/Telered/Telered/chunklist_w1843316871.m3u8
 #EXTINF:-1 tvg-id="Canal11.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png",REPRETEL 11
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_360.m3u8
 #EXTINF:-1 tvg-id="Canal11.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png",REPRETEL 11 (alt)
-http://ky-iptv.com:80/agustin21/agustin21/1946197.ts
+http://181.189.243.254:8000/play/a0r0/index.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static.wixstatic.com/media/fd2679_f048bd71b2f449459501a729bbb6f9fd~mv2.png",12 TICATV PLUS
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VMLatino.cr" group-title="COSTA RICA" tvg-logo="https://fastly.4sqi.net/img/general/200x200/90620129_itvdvpgRGW3pwW5G8FWk1HLPEQ4gffosY-Kst_SbE5A.png",VM LATINO
@@ -1267,11 +1267,11 @@ https://linear-254.frequency.stream/dist/univision/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://www.samsung.com/us/es/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/01202022/telemundoAlDia_circle.png",TELEMUNDO AL DÍA
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png",TELEMUNDO USA
-http://bandookk.xyz:8000/Geniptv/persian_share/31603
+https://v-la.mybtv.net/live/267.m3u8?
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png",TELEMUNDO USA op2
-http://ky-iptv.com:80/agustin21/agustin21/208972.ts
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3875.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Telemundo_Internacional_Logo_%282001-2006%29.png/revision/latest/scale-to-width-down/150?cb=20170904201316&path-prefix=es",TELEMUNDO INTERNACIONAL
-http://191.102.106.46:15028/play/a00g/index.m3u8
+http://181.189.243.254:8000/play/a0q9/index.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo.png",TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://www.clipartmax.com/png/small/475-4752438_nuestra-vision-nuestra-vision-logo-png.png",NUESTRA VISIÓN
@@ -1715,11 +1715,11 @@ https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/m
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.postimg.cc/xd8bhK4V/LA-FABRICA-TV-ESP.png",LA FABRICA TV
 https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cuatro_de_espana.png",CUATRO
-http://944973747995321198.niceadom.xyz:80/play/1237/1237/321198.ts
+http://kW2bZlMx9iNgQyhHj0p6Id.green.onerunthisway.me/live/sun.php?z=997&u=OfeCCh8TZE&s=6848169694&id=26153&t=live&f=ts
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telecinco.png",TELECINCO
-http://944973747995321431.niceadom.xyz:80/play/1237/1237/321431.ts
+http://DrFJl6xBVnLuE3tZNqY0ic.green.onerunthisway.me/live/sun.php?z=997&u=OfeCCh8TZE&s=6848169694&id=26154&t=live&f=ts
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/la_sexta.png",LA SEXTA
-http://iptvtree.net:8080/1eae94e3/e22181ebb2/1152
+http://TbkEJ51vIZmziocjYhu0Hw.green.onerunthisway.me/live/sun.php?z=997&u=OfeCCh8TZE&s=6848169694&id=3798&t=live&f=ts
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana.png",FOX ESPAÑA
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/1158
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn_white.png",AXN WHITE
@@ -1729,7 +1729,7 @@ http://944973747995321119.niceadom.xyz:80/play/1237/1237/321119.ts
 #EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/canalXTRM/picture?width=200&height=200" group-title="ESPAÑA",XTRM
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/11148
 #EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://culturapolis.es/wp-content/uploads/2020/03/Movistar_0.png" group-title="ESPAÑA",#0
-http://iptvtree.net:8080/1eae94e3/e22181ebb2/2146
+http://MqpuWEayTDFRIcdfVSUzYs.green.onerunthisway.me/live/sun.php?z=997&u=OfeCCh8TZE&s=6848169694&id=26172&t=live&f=ts
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/divinity.png",DIVINITY
 http://ky-iptv.com:80/agustin21/agustin21/388350.ts
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/energy.png",ENERGY
@@ -2722,10 +2722,38 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/210817
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210818
 #EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 12
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210822
-#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png",CINEMA 13
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 13
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/203983
-#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://pbs.twimg.com/profile_images/1061998854860652544/FrVwWKBU_400x400.jpg",CINEMA 20
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://pbs.twimg.com/profile_images/1061998854860652544/FrVwWKBU_400x400.jpg",CINEMA 14
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3701
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 15
+http://BdotLJIT7nY2RAgbpk4KZh.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26660&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 16
+http://rAefRT6c8KFpEwLNhDm1Za.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26658&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 17
+http://1iqnICYAPdo7QO4f90KTgU.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26648&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 18
+http://e37cR4OCPGlX6VMLjmKhsw.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26650&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 19
+http://d4jyhkQtTRiqsS16xBlV9o.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26167&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 20
+http://hSNPgYDFUmkEoJ5VpMXZ1T.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26168&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 21
+http://WIoZ0YC2TpzfNK9DOEm6Aq.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26169&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 22
+http://Pz2DmX4CrFjRiHNsLwd6Mk.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26170&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 23
+http://SEmu31GkRs4o9xhgwLF05D.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26217&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 24
+http://9kDL8SgWCcthem2EzlGFsX.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26088&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 25
+http://V2EdiXqyYfBDxJ8RvwWgZO.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26207&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 26
+http://w58zdAksLO0xF4RT6YiGPB.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26334&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 27
+http://PWx3OhvVyZLge2F5CjuMrE.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26335&t=live&f=ts
+#EXTINF:-1 group-title="24/7 PELÍCULAS" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",CINEMA 28
+http://BzVIslv9fWHeqXuAO1w3Uy.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26338&t=live&f=ts
 
 #EXTINF:-1 group-title="24-7 ESP" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png",El CHAVO DEL 8
 https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/playlist.m3u8    
@@ -2904,7 +2932,7 @@ http://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",ADULT TV 2
 http://cdn.adultiptv.net/bigdick.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",ADULT TV 3
-http://live.adultiptv.net/gay.m3u8
+http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",ADULT TV 4
 http://cdn.adultiptv.net/pornstar.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",ADULT TV 5
@@ -2917,6 +2945,10 @@ http://cdn.adultiptv.net/teen.m3u8
 http://cdn.adultiptv.net/gangbang.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",ADULT TV 9
 http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",ADULT TV 10
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",ADULT TV 11
+http://cdn.adultiptv.net/compilation.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 1
 http://tv.a1promediastream.com:25461/0848592/8416758/14743
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png",ADULT CLUB 24H 2
@@ -2939,19 +2971,19 @@ http://tv.vip-panels21.online:8080/alper1/alper1/17463
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFM4X6kFdN5uUY32ozbV5sGw/ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1000logos.net/wp-content/uploads/2019/02/RealityKings.jpg",REALITY KINGS
 http://tv.vip-panels21.online:8080/alper1/alper1/17478
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT TV 1
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT CH 1
 http://ky-iptv.com:80/agustin21/agustin21/1860711.ts
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT TV 2
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT CH 2
 http://ky-iptv.com:80/agustin21/agustin21/1860698.ts
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT TV 3
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT CH 3
 http://ky-iptv.com:80/agustin21/agustin21/1860727.ts
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT TV 4
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT CH 4
 http://ky-iptv.com:80/agustin21/agustin21/1860738.ts
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT TV 5
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT CH 5
 http://ky-iptv.com:80/agustin21/agustin21/1860749.ts
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT TV 6
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT CH 6
 http://ky-iptv.com:80/agustin21/agustin21/1860775.ts
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT TV 7
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT CH 7
 http://ky-iptv.com:80/agustin21/agustin21/1860797.ts
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT TV
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6",ADULT CH 8
 http://ky-iptv.com:80/agustin21/agustin21/1982283.ts
