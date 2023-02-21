@@ -688,7 +688,7 @@ http://177.234.254.38:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_espana.png",AMC (ARG)
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tbg-id="UniversalTVPanregional.us" group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (P)
-http://190.149.66.90:16000/play/a035/index.m3u8
+http://190.149.66.90:16000/play/a04h/index.m3u8
 #EXTINF:-1 tbg-id="UniversalTVPanregional.us" group-title="CINE Y SERIES 2" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png",UNIVERSAL (P) op2
 http://45.228.232.204:16000/play/a078/index.m3u8
 #EXTINF:-1 tbg-id="UniversalTVPanregional.us" group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Universal_TV_HD.svg/320px-Universal_TV_HD.svg.png",UNIVERSAL (HD)
@@ -829,7 +829,7 @@ http://190.149.66.90:16000/play/a04k/index.m3u8
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/3010
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png",CLOVER CHANNEL
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFOTcIVupHQOjPi9xgdLJoEE/ts
-#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino.png",MC
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mc.png",MC
 http://177.234.230.226:8010/play/a00i/index.m3u8
 
 #EXTINF:-1 group-title="CINE Y SERIES INGLÉS" tvg-logo="https://hallmark-brightspot-lower.s3.amazonaws.com/ac/c6/c703c2ee4141bb9b71cb0d54f210/hallmark-channel-transparent.png",HALLMARK
@@ -945,6 +945,8 @@ https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u
 https://unlimited1-us.dps.live/13e/13e.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png",13 PRIME
 https://unlimited1-us.dps.live/13p/13p.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://canal7salta.com/wp-content/uploads/2017/08/cropped-cropped-LOGO-1.png",7 SALTA
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://i.postimg.cc/kGy4nDg6/TIERRA-MIA.png",TIERRAMIA
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://lh3.googleusercontent.com/-Ft5Jyf_b1IM/XrYPmPh3AMI/AAAAAAAA0io/wrYd6ohXsH4M8Jd-uReILaQxfvcXnQF2wCK8BGAsYHg/s0/2020-05-08.png",METRO TV TUCUMÁN
@@ -1033,6 +1035,8 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/3199
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://i.postimg.cc/s23kV3R4/su-mundo-tv-15.png",SU MUNDO
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg",CANAL 22
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist.m3u8
 
 #EXTINF:-1 group-title="PERÚ-BOLIVIA-PARAGUAY" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture?width=200&height=200",SEO TV
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
@@ -1321,8 +1325,8 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
 https://pubads.g.doubleclick.net/ssai/event/CvTZNYjrRC2HJU4io--aAA/master.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://i.postimg.cc/J0LRmsgJ/ESTRELLA-TV-GAMES.png",ESTRELLA GAMES
 https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://i.imgur.com/HJohrzO.png",MIAMI CITY TV
-https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://pbs.twimg.com/profile_images/1576781909383958530/3Q5ERqgv_400x400.png",TV MIGRANTE
+https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200",CANAL 14
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://i2.paste.pics/73bf2ba0c7165b00b73cf9c6a4755d84.png",CANAL 15 FRESNILLO
@@ -1366,7 +1370,11 @@ http://tv.a1promediastream.com:25461/0848592/8416758/16321
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7-mediano.png",AZTECA 7
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/9026
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",AZTECA UNO
-http://ky-iptv.com:80/agustin21/agustin21/384770.ts
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/4087.m3u8
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",AZTECA UNO 2 h menos
+https://v-sd.mybtv.net/live/760.m3u8
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/A%2B_2021.svg/320px-A%2B_2021.svg.png",A MÁS
+https://v-sd.mybtv.net/live/503.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i2eee083b9645b453/version/1470081080/image.png",TELEMAR
 https://cloudvideo.servers10.com:8081/8148/index.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://i.postimg.cc/x8LHzFwt/MEDIA-ESP.png",N+ MEDIA TELEVISA
@@ -1391,6 +1399,8 @@ https://v-ny.mybtv.net/live/713.m3u8
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/90120
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/9_de_mexico.png",NUEVE
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://latv.com/static/media/logo.1e50f885.png",LATV
+https://v-ca.mybtv.net/live/129.m3u8
 
 #EXTINF:-1 group-title="CENTROAMÉRICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6yUGDLHxApzVsjQG7h2HoalYXCK0F4N8GtA&usqp=CAU",TN 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
