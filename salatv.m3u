@@ -66,7 +66,7 @@ https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/chunklist.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" group-title="COSTA RICA" tvg-logo="http://costaricatelevision.com/sites/default/files/2022-07/colosal-tv-costa-rica.png",COLOSAL
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ3aUEuZDC1VqNAgWw0-FzDcLwh1U5QadW7Tvlegw=s176-c-k-c0x00ffffff-no-rj-mo",ASAMBLEA LEGISLATIVA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/parlamentocr/live
+https://www.youtube.com/user/parlamentocr/live
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/iqchannel/picture?width=200&height=200",IQ CHANNEL
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/enlace-mediano.png",ENLACE INTERNACIONAL
@@ -116,7 +116,7 @@ https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i2.paste.pics/0965c9e6c38022659717eeaac157e453.png",NORTE INFORMATIVO
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTX548tC7FVe7U6NcK8-0x7mPOpIscEEyet1Cvt=s176-c-k-c0x00ffffff-no-rj-mo",COLUMBIA DIGITAL
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ColumbiaDigital/live
+https://www.youtube.com/c/ColumbiaDigital/live
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://image.winudf.com/v2/image1/dmlkZW8udG91cmNoYW5uZWxfaWNvbl8xNTcxMDE1ODc4XzA3Ng/icon.png?w=100&fakeurl=1",VIDEO TOUR CHANNEL
 https://59ef525c24caa.streamlock.net//videotour/videotour/chunklist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://graph.facebook.com/Cartagomedios/picture?width=200&height=200",CARTAGO MEDIOS TV
@@ -1322,7 +1322,7 @@ http://v-ny.theus6tv.duckdns.org/hls/47.2/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="http://theretrochannel.tv/img/theretrofb.jpg",RETRO CHANNEL
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w218281954.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200",QUIERO TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8452uw?f=.m3u8
+https://www.dailymotion.com/video/x8452uw?f=.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://i.imgur.com/N4meE8I.png",JALISCO TV
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 group-title="NORTEAMERICA" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TVMÁS VERACRUZ
@@ -1920,7 +1920,7 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="NOTICIAS" tvg-name="El Confidencial",EL CONFIDENCIAL
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LA NACIÓN +
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
+https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_24-7-canal-de-noticias_m.png",24/7 NOTICIAS
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS",C5N  
@@ -1942,7 +1942,7 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://cdn.one.accedo.tv/files/5e60392da0e845000ffa83eb?sessionKey=01FYJMPR5YWAWDAF0XWNNB7BSJ1925596262#asset",AUSTRALIA CHANNEL
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/320px-Sky-news-logo.svg.png",SKY NEWS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SkyNews/live
+https://www.youtube.com/c/SkyNews/live
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png",CNN INTERNATIONAL
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.imgur.com/6gSqmGr.png",CNN GO
@@ -2965,7 +2965,7 @@ http://tv.a1promediastream.com:25461/0848592/8416758/18572
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/HUSTLER_TV_HD.png/revision/latest/scale-to-width-down/200?cb=20150312135858",HUSTLER HD
 https://nl01.spr24.net/902/mpegts?token=uUVbSpF8Wv26Ux
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest?cb=20150315153455",PRIVATE
-https://nl01.spr24.net/5758/mpegts?token=uUVbSpF8Wv26Ux
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/233533.ts
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Redlight_HD.png/revision/latest/scale-to-width-down/300?cb=20210517035141",REDLIGHT
 https://nl01.spr24.net/904/mpegts?token=uUVbSpF8Wv26Ux
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.universfreebox.com/UserFiles/image/penthouse.png",PENTHOUSE GOLD
