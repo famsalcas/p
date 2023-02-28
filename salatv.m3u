@@ -773,6 +773,8 @@ http://181.189.243.254:8000/play/a0ph/index.m3u8
 http://190.149.66.90:16000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
 http://190.149.66.90:16000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space.png",SPACE | Sur
+https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL (op2)
 http://190.131.228.59:8000/play/a0jg/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula.png",DE PELÍCULA
@@ -985,6 +987,8 @@ https://videohd.live:19360/8020/8020.m3u8
 https://vivo.solumedia.com:19360/megatv/megatv.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/J7stpmb.png",NETTV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://i.postimg.cc/sDKynYwD/C-6-MAR-DE-PLATA.png",CANAL 6 MAR DEL PLATA
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://i.postimg.cc/wjGb5B9R/REVRY-LATIN.png",REVRY LATINX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=764
 #EXTINF:-1 group-title="ARGENTINA-CHILE-URUGUAY" tvg-logo="https://i.postimg.cc/02P2ZYHC/latino_54.png",CANAL LATINO 54
