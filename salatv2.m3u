@@ -176,17 +176,17 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" channel-number="106" tvg-logo="https://www.mastervideopro.com/uploads/1/2/1/5/121551732/published/master-video-small-logo.png?1560662397",MASTER VIDEO PRO
 https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
-#EXTINF:-1 group-title="VIDA Y RELIGIÓN" channel-number="107" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTNi.png",CTNI
+#EXTINF:-1 group-title="VIDA Y RELIGIÓN" channel-number="107" channel-id="CTNI" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTNi.png",CTNI
 http://ph1.ministeriotv.com:1936/48/smil:48.smil/chunklist_w1326160182_b1564000_sleng.m3u8
-#EXTINF:-1 group-title="VIDA Y RELIGIÓN" channel-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Vida-tv.jpg",VIDA TV
+#EXTINF:-1 group-title="VIDA Y RELIGIÓN" channel-number="108" channel-id="VIDA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Vida-tv.jpg",VIDA TV
 https://srv.panelcast.net/vidatv/vidatv/chunklist.m3u8
-#EXTINF:-1 group-title="VIDA Y RELIGIÓN" channel-number="109" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png",ORBE
+#EXTINF:-1 group-title="VIDA Y RELIGIÓN" channel-number="109" channel-id="ORBE" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png",ORBE
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" channel-number="110" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/maria_vision.png",MARÍA VISIÓN
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" channel-number="111" tvg-logo="https://i.imgur.com/4ydVVIA.png",3ABN LATINO
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/LQs/chunklist.m3u8
-#EXTINF:-1 group-title="VIDA Y RELIGIÓN" channel-number="112" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp",MOVIE FÉ
+#EXTINF:-1 group-title="VIDA Y RELIGIÓN" channel-number="112" channel-id="MOVIE FÉ" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp",MOVIE FÉ
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3U8
 #EXTINF:-1 group-title="VIDA Y RELIGIÓN" channel-number="113" tvg-logo="https://pbs.twimg.com/profile_images/445976084186554368/Ch4aqZPR_400x400.jpeg",SANTA MARÍA
 http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
