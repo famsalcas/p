@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/shaxxx/EpgConfig/82508f5cc14cef223db0f2b8cc25f2ce22b6be81/siteini.pack/International/gatotv.com.channels.xml, https://raw.githubusercontent.com/shaxxx/EpgConfig/82508f5cc14cef223db0f2b8cc25f2ce22b6be81/siteini.pack/International/mi.tv.channels.xml"
+#EXTM3U 
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png",CANAL 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",CDR 2
