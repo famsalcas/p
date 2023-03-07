@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/dqr6ywm4v6b9x1x4yx1w#format=xmltv"
+#EXTM3U url-tvg="http://m3u4u.com/epg/dqr6ywm4v6b9x1x4yx1w"#format=xmltv
 #EXTINF:-1 tvg-id="Canal.1.(CANAL1).[102].cr" tvg-name="CANAL 1" tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png" group-title="COSTA RICA",CANAL 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canal.2.(CANL2).[988].cr" tvg-name="CDR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="COSTA RICA",CDR 2
