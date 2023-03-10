@@ -1,31 +1,31 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/5cf5ced4192d7e6acece1fcbe5b591cf08e222cf/sites/gatotv.com/gatotv.com.channels.xml"
-#EXTINF:-1 tvg-id="Canal.1.(CANAL1).[102].cr" tvg-name="CANAL 1 COSTA RICA" tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png" group-title="COSTA RICA",CANAL 1 COSTA RICA
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+#EXTINF:-1 tvg-id="Canal.1.(CANAL1).[102].cr" tvg-name="CANAL 1" tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png" group-title="COSTA RICA",CANAL 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canal.2.(CANL2).[988].cr" tvg-name="CDR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="COSTA RICA",CDR 2
 http://190.7.192.164:8004/play/s46
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 STEREO" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="COSTA RICA",88 STEREO
 http://k3.usastreams.com/CableLatino/88stereo/chunklist.m3u8
-#EXTINF:-1 tvg-id="Canal4.cr" tvg-name="REPRETEL 4" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/4_de_costa_rica-mediano.png" group-title="COSTA RICA",REPRETEL 4
+#EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4).[4].cr" tvg-name="REPRETEL 4" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/4_de_costa_rica-mediano.png" group-title="COSTA RICA",REPRETEL 4
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAN VITO TV" tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png" group-title="COSTA RICA",SAN VITO TV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w500555531.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="EXTREMA TV" tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png" group-title="COSTA RICA",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal6.cr" tvg-name="REPRETEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png" group-title="COSTA RICA",REPRETEL 6
+#EXTINF:-1 tvg-id="Repretel.6.HDTV.(CR6HD).[766].cr" tvg-name="REPRETEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png" group-title="COSTA RICA",REPRETEL 6
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
-#EXTINF:-1 tvg-id="Canal6.cr" tvg-name="6 de Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png" group-title="COSTA RICA",6 de Costa Rica
+#EXTINF:-1 tvg-id="Repretel.6.HDTV.(CR6HD).[766].cr" tvg-name="REPRETEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png" group-title="COSTA RICA",REPRETEL 6
 http://190.7.192.164:8002/play/s11
-#EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="TELETICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png" group-title="COSTA RICA",TELETICA
+#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png" group-title="COSTA RICA",TELETICA
 http://190.7.192.163:8006/play/s33
-#EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="TELETICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png" group-title="COSTA RICA",TELETICA
+#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png" group-title="COSTA RICA",TELETICA
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/TeleticaLiveStream/Stream7live3/chunks.m3u8
-#EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="TELETICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png" group-title="COSTA RICA",TELETICA
+#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png" group-title="COSTA RICA",TELETICA
 http://190.7.192.163:8007/play/s27
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELETICA RADIO" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png" group-title="COSTA RICA",TELETICA RADIO
 http://190.7.192.163:8006/play/s34
-#EXTINF:-1 tvg-id="Canal8.cr" tvg-name="MULTIMEDIOS CR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multimedios_costa_rica.png" group-title="COSTA RICA",MULTIMEDIOS CR
+#EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV).[1037].cr" tvg-name="MULTIMEDIOS CR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multimedios_costa_rica.png" group-title="COSTA RICA",MULTIMEDIOS CR
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="Canal8.cr" tvg-name="MULTIMEDIOS CR " tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multimedios_costa_rica.png" group-title="COSTA RICA",MULTIMEDIOS CR 
+#EXTINF:-1 tvg-id="Multimedios.Costa.Rica-.Canal.8.HDTV.(MMTVHD).[1038].cr" tvg-name="MULTIMEDIOS CR " tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multimedios_costa_rica.png" group-title="COSTA RICA",MULTIMEDIOS CR 
 http://190.7.192.164:8007/play/s23
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-name="9 TV SUR" tvg-logo="https://i.postimg.cc/RZBNTMj2/TV-Sur-Canal-9-MODIF.png" group-title="COSTA RICA",9 TV SUR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist.m3u8
@@ -33,9 +33,9 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist.m3u8
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
 #EXTINF:-1 tvg-id="TeleredTelevision.cr" tvg-name="TELERED" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png" group-title="COSTA RICA",TELERED
 https://59ef525c24caa.streamlock.net/Telered/Telered/chunklist_w1843316871.m3u8
-#EXTINF:-1 tvg-id="Canal11.cr" tvg-name="REPRETEL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png" group-title="COSTA RICA",REPRETEL 11
+#EXTINF:-1 tvg-id="Repretel:.Canal.11.HDTV.(RP11HD).[770].cr" tvg-name="REPRETEL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png" group-title="COSTA RICA",REPRETEL 11
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_360.m3u8
-#EXTINF:-1 tvg-id="Canal11.cr" tvg-name="REPRETEL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png" group-title="COSTA RICA",REPRETEL 11
+#EXTINF:-1 tvg-id="Repretel:.Canal.11.HDTV.(RP11HD).[770].cr" tvg-name="REPRETEL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png" group-title="COSTA RICA",REPRETEL 11
 http://190.7.192.165:8004/play/s7
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COTO BRUS TV" tvg-logo="https://graph.facebook.com/cotobrustv/picture?width=200&height=200" group-title="COSTA RICA",COTO BRUS TV
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
@@ -697,11 +697,11 @@ http://181.189.243.254:8000/play/a0q8/index.m3u8
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092602
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC | ARG" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_espana.png" group-title="CINE Y SERIES 2",AMC | ARG
 http://190.131.228.59:8000/play/a0jc/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="UNIVERSAL | Panreg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png" group-title="CINE Y SERIES 2",UNIVERSAL | Panreg
+#EXTINF:-1 tvg-id="Universal.Channel.HDTV.(Latin.America).(UNIVSHD).[919].cr" tvg-name="UNIVERSAL | Panreg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png" group-title="CINE Y SERIES 2",UNIVERSAL | Panreg
 http://45.182.20.194:8000/play/a07c/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="UNIVERSAL | Panreg (op2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png" group-title="CINE Y SERIES 2",UNIVERSAL | Panreg (op2)
+#EXTINF:-1 tvg-id="Universal.Channel.HDTV.(Latin.America).(UNIVSHD).[919].cr" tvg-name="UNIVERSAL | Panreg (op2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png" group-title="CINE Y SERIES 2",UNIVERSAL | Panreg (op2)
 http://45.228.232.204:16000/play/a078/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Universal_TV_HD.svg/320px-Universal_TV_HD.svg.png" group-title="CINE Y SERIES 2",UNIVERSAL HD
+#EXTINF:-1 tvg-id="Universal.Channel.HDTV.(Latin.America).(UNIVSHD).[919].cr" tvg-name="UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Universal_TV_HD.svg/320px-Universal_TV_HD.svg.png" group-title="CINE Y SERIES 2",UNIVERSAL HD
 http://181.78.11.117:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="universal_tv_chile" tvg-name="UNIVERSAL | Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/100px-Universal_TV_logo.svg.png" group-title="CINE Y SERIES 2",UNIVERSAL | Chile
 https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
@@ -811,23 +811,23 @@ http://181.189.243.254:8000/play/a0od/index.m3u8
 http://45.228.232.204:16000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="Canal.DHE.HDTV.(DHEHD).do" tvg-name="DHE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe.png" group-title="CINE Y SERIES 2",DHE
 http://45.228.232.204:16000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="UniversalCinema.us" tvg-name="UNIVERSAL+ CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ CINEMA
+#EXTINF:-1 tvg-id="Universal.Cinema.HDTV.(UNICINE).do" tvg-name="UNIVERSAL+ CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ CINEMA
 http://177.93.46.167:8000/play/a00u
-#EXTINF:-1 tvg-id="UniversalCinema.us" tvg-name="UNIVERSAL+ CINEMA (op2)" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ CINEMA (op2)
+#EXTINF:-1 tvg-id="Universal.Cinema.HDTV.(UNICINE).do" tvg-name="UNIVERSAL+ CINEMA (op2)" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ CINEMA (op2)
 http://181.189.243.254:8000/play/a0v2/index.m3u8
-#EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-name="UNIVERSAL+ PREMIERE" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ PREMIERE
+#EXTINF:-1 tvg-id="Universal.Premiere.HDTV.(UNIPRE).do" tvg-name="UNIVERSAL+ PREMIERE" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ PREMIERE
 http://181.189.243.254:8000/play/a0ui/index.m3u8
-#EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-name="UNIVERSAL+ PREMIERE (op2)" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ PREMIERE (op2)
+#EXTINF:-1 tvg-id="Universal.Premiere.HDTV.(UNIPRE).do" tvg-name="UNIVERSAL+ PREMIERE (op2)" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ PREMIERE (op2)
 http://177.93.46.167:8000/play/a00t
-#EXTINF:-1 tvg-id="UniversalComedy.us" tvg-name="UNIVERSAL+ COMEDY" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ COMEDY
+#EXTINF:-1 tvg-id="Universal.Comedy.HDTV.(UNICOM).do" tvg-name="UNIVERSAL+ COMEDY" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ COMEDY
 http://177.93.46.167:8000/play/a00v
-#EXTINF:-1 tvg-id="UniversalComedy.us" tvg-name="UNIVERSAL+ COMEDY (op2)" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ COMEDY (op2)
+#EXTINF:-1 tvg-id="Universal.Comedy.HDTV.(UNICOM).do" tvg-name="UNIVERSAL+ COMEDY (op2)" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ COMEDY (op2)
 http://190.61.102.67:8000/play/a06b
-#EXTINF:-1 tvg-id="UniversalReality.us" tvg-name="UNIVERSAL+ REALITY" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ REALITY
+#EXTINF:-1 tvg-id="Universal.Reality.HDTV.(UNIREA).do" tvg-name="UNIVERSAL+ REALITY" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ REALITY
 http://181.189.243.254:8000/play/a0sz/index.m3u8
-#EXTINF:-1 tvg-id="UniversalReality.us" tvg-name="UNIVERSAL+ REALITY (op2)" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ REALITY (op2)
+#EXTINF:-1 tvg-id="Universal.Reality.HDTV.(UNIREA).do" tvg-name="UNIVERSAL+ REALITY (op2)" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ REALITY (op2)
 http://190.149.66.90:16000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="UniversalCrimeEast.us" tvg-name="UNIVERSAL+ CRIME" tvg-logo="https://www.universalplus.com/files/channels/780277389.png" group-title="CINE Y SERIES 2",UNIVERSAL+ CRIME
+#EXTINF:-1 tvg-id="Universal.Crime.HDTV.(UNICRI).do" tvg-name="UNIVERSAL+ CRIME" tvg-logo="https://www.universalplus.com/files/channels/780277389.png" group-title="CINE Y SERIES 2",UNIVERSAL+ CRIME
 http://181.189.243.254:8000/play/a0t0/index.m3u8
 #EXTINF:-1 tvg-id="Film&amp;Arts.(Latin.America).(F&amp;A).ar" tvg-name="FILM & ARTS" tvg-logo="https://www.filmandarts.tv/theme/assets/fa-logo.png" group-title="CINE Y SERIES 2",FILM & ARTS
 http://181.189.243.254:8000/play/a0oj/index.m3u8
