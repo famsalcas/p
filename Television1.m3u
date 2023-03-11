@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://techzyon.com/epg/stirr_guide.xml" url-tvg="https://techzyon.com/epg/stirr_guide.xml" refresh="3600"
+#EXTM3U url-tvg="http://localhost:8409/iptv/xmltv.xml" x-tvg-url="http://localhost:8409/iptv/xmltv.xml"
 
 
 #EXTINF:-1 
@@ -14,34 +15,28 @@ tvg-logo=""
 group-title="Distro TV"
 ,alee+
 
-#EXTINF:-1 
-channel-number="302" 
-channel-id="diTV302" 
-tvg-name="" 
-tvc-guide-stationid="" 
-tvc-guide-title="" 
-tvc-guide-art="" 
-tvc-guide-description="" 
-tvg-logo="" 
-group-title="Distro TV"
-,alee+
-
-#EXTGRP:COSTA RICA
-#EXTINF:-1 channel-id="" channel-number="1"
+#EXTINF:0 
 tvg-id="" 
-tvg-country="CR" 
+channel-id="" 
 channel-number="" 
-channel-name="",CDR 2
+CUID="" 
+tvg-chno="" 
+tvg-name="" 
+tvg-logo="" 
+group-title="" 
+, iDrole TV
+http://localhost:8409/iptv/channel/1.ts
 
 
-#EXTGRP:DEPORTES ESPANOL
-#EXTINF:-1 tvg-id="" 
-tvg-country="" 
-channel-number="" 
-channel-name="",FUTV
-
-
-
-
-
+#EXTINF:-1 
+channel-number="302" 
+channel-id="diTV302" 
+tvg-name="" 
+tvc-guide-stationid="" 
+tvc-guide-title="" 
+tvc-guide-art="" 
+tvc-guide-description="" 
+tvg-logo="" 
+group-title="Distro TV"
+,alee+
 
