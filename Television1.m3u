@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://techzyon.com/epg/stirr_guide.xml" url-tvg="https://techzyon.com/epg/stirr_guide.xml" refresh="3600"
+
+
+#EXTINF:-1 
+channel-number="302" 
+channel-id="diTV302" 
+tvg-name="" 
+tvc-guide-stationid="" 
+tvc-guide-title="" 
+tvc-guide-art="" 
+tvc-guide-description="" 
+tvg-logo="" 
+group-title="Distro TV"
+,alee+
+
+#EXTINF:-1 
+channel-number="302" 
+channel-id="diTV302" 
+tvg-name="" 
+tvc-guide-stationid="" 
+tvc-guide-title="" 
+tvc-guide-art="" 
+tvc-guide-description="" 
+tvg-logo="" 
+group-title="Distro TV"
+,alee+
+
+#EXTGRP:COSTA RICA
+#EXTINF:-1 channel-id="" channel-number="1"
+tvg-id="" 
+tvg-country="CR" 
+channel-number="" 
+channel-name="",CDR 2
+
+
+#EXTGRP:DEPORTES ESPANOL
+#EXTINF:-1 tvg-id="" 
+tvg-country="" 
+channel-number="" 
+channel-name="",FUTV
+
+
+
+
+
+
