@@ -1,6 +1,4 @@
-#EXTM3U
-#EXTM3U x-tvg-url="https://techzyon.com/epg/stirr_guide.xml" url-tvg="https://techzyon.com/epg/stirr_guide.xml" refresh="3600"
-#EXTM3U url-tvg="http://localhost:8409/iptv/xmltv.xml" x-tvg-url="http://localhost:8409/iptv/xmltv.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
 
 #EXTINF:-1 channel-id="1" channel-number="" tvg-country="CR" tvg-id="Canal.1.(CANAL1).[102].cr" tvg-name="CANAL 1" tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png" tvc-guide-art="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/320px-Flag_of_Costa_Rica.svg.png" group-title="COSTA RICA",CANAL 1 COSTA RICA
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist.m3u8
@@ -8,21 +6,21 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist.m3u8
 http://190.7.192.164:8004/play/s46
 #EXTINF:-1 channel-id="3" channel-number="3" tvg-country="CR" tvg-id="88Stereo.cr" tvg-name="88 STEREO" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="COSTA RICA",88 STEREO
 http://k3.usastreams.com/CableLatino/88stereo/chunklist.m3u8
-#EXTINF:-1 channel-id="4" channel-number="4" tvg-country="CR" tvg-id="Repretel:.Canal.4.(CR4).[4].cr" tvg-name="REPRETEL CANAL 4" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/4_de_costa_rica-mediano.png" group-title="COSTA RICA",REPRETEL CANAL 4
+#EXTINF:-1 channel-id="4" channel-number="4" tvg-country="CR" tvg-id="Repretel:.Canal.4.(CR4).[4].cr" tvg-name="REPRETEL CANAL 4" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/4_de_costa_rica-mediano.png" tvc-guide-art="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/320px-Flag_of_Costa_Rica.svg.png" group-title="COSTA RICA",REPRETEL CANAL 4
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 channel-id="" channel-number="" tvg-country="CR" tvg-id="(no tvg-id)" tvg-name="SAN VITO TV" tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png" group-title="COSTA RICA",SAN VITO TV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w500555531.m3u8
 #EXTINF:-1 channel-id="5" channel-number="" tvg-country="CR" tvg-id="ExtremaTV.cr" tvg-name="EXTREMA TV" tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png" group-title="COSTA RICA",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 channel-id="" channel-number="" tvg-country="CR" tvg-id="Repretel.6.HDTV.(CR6HD).[766].cr" tvg-name="REPRETEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png" group-title="COSTA RICA",REPRETEL 6
+#EXTINF:-1 channel-id="" channel-number="" tvg-country="CR" tvg-id="Repretel.6.HDTV.(CR6HD).[766].cr" tvg-name="REPRETEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png" tvc-guide-art="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/320px-Flag_of_Costa_Rica.svg.png" group-title="COSTA RICA",REPRETEL 6
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
-#EXTINF:-1 channel-id="" channel-number="" tvg-country="CR" tvg-id="Repretel.6.HDTV.(CR6HD).[766].cr" tvg-name="REPRETEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png" group-title="COSTA RICA",REPRETEL 6
+#EXTINF:-1 channel-id="" channel-number="" tvg-country="CR" tvg-id="Repretel.6.HDTV.(CR6HD).[766].cr" tvg-name="REPRETEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/240px-Repretel_6_logo.png" tvc-guide-art="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/320px-Flag_of_Costa_Rica.svg.png" group-title="COSTA RICA",REPRETEL 6
 http://190.7.192.164:8002/play/s11
-#EXTINF:-1 channel-id="" channel-number="" tvg-country="CR" tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png" group-title="COSTA RICA",TELETICA
+#EXTINF:-1 channel-id="" channel-number="" tvg-country="CR" tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png" tvc-guide-art="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/320px-Flag_of_Costa_Rica.svg.png" group-title="COSTA RICA",TELETICA
 http://190.7.192.163:8006/play/s33
-#EXTINF:-1 channel-id="" channel-number=""tvg-country="CR" tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png" group-title="COSTA RICA",TELETICA
+#EXTINF:-1 channel-id="" channel-number=""tvg-country="CR" tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png" tvc-guide-art="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/320px-Flag_of_Costa_Rica.svg.png" group-title="COSTA RICA",TELETICA
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/TeleticaLiveStream/Stream7live3/chunks.m3u8
-#EXTINF:-1 channel-id="" channel-number=""tvg-country="CR" tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png" group-title="COSTA RICA",TELETICA
+#EXTINF:-1 channel-id="" channel-number=""tvg-country="CR" tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png" tvc-guide-art="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/320px-Flag_of_Costa_Rica.svg.png" group-title="COSTA RICA",TELETICA
 http://190.7.192.163:8007/play/s27
 #EXTINF:-1 channel-id="" channel-number=""tvg-country="CR" tvg-id="(no tvg-id)" tvg-name="TELETICA RADIO" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png" group-title="COSTA RICA",TELETICA RADIO
 http://190.7.192.163:8006/play/s34
