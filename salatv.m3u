@@ -1405,6 +1405,9 @@ http://181.189.243.254:8000/play/a0qi/index.m3u8
 http://138.117.4.70:8075/channel23/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE ANTILLAS | Rep.Dom" tvg-logo="https://seeklogo.com/images/T/teleantillas-canal-2-logo-196FA490A1-seeklogo.com.png" group-title="CENTROAMÉRICA",TELE ANTILLAS | Rep.Dom
 http://190.61.102.67:8000/play/a03m
+#EXTINF:-1 tvg-id="NitidaTV.do" tvg-name="NITIDA TV | Rep.Dom" tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="CENTROAMÉRICA",NITIDA TV | Rep.Dom
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UCV" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ucv-tv_m.png" group-title="ARGENTINA-CHILE-URUGUAY",UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXPREZION" tvg-logo="https://graph.facebook.com/Expreziontv7/picture?width=200&height=200" group-title="ARGENTINA-CHILE-URUGUAY",EXPREZION
@@ -1627,6 +1630,11 @@ https://streaming.trece.com.py/live/trece.m3u8
 http://170.83.242.152:5350/play/a01o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS (PY)" tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="PERÚ-BOLIVIA-PARAGUAY",TVS (PY)
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HECHICERA TV" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png" group-title="PERÚ-BOLIVIA-PARAGUAY",HECHICERA TV
+https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLANETA TV" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png" group-title="PERÚ-BOLIVIA-PARAGUAY",PLANETA TV
+https://live.obslivestream.com/planetatv/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTICANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRODh0wc6rMCpNyXjFJ5yddEZnPxFmVxsAsKM7hCgV2tiD11xF2&usqp=CAU" group-title="COLOMBIA-VENEZUELA-ECUADOR",MULTICANAL
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANELA" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/logo-696x392.png" group-title="COLOMBIA-VENEZUELA-ECUADOR",CANELA
@@ -1735,6 +1743,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
 https://video.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="UNOPLAY.co" tvg-name="UNO PLAY" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="COLOMBIA-VENEZUELA-ECUADOR",UNO PLAY
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1 tvg-id="UNOPLAY.co" tvg-name="" tvg-logo="https://i2.paste.pics/6ce00e14d50fd87b8553b9c96201de3d.png" group-title="COLOMBIA-VENEZUELA-ECUADOR",TELE SOL
+
 #EXTINF:-1 tvg-id="Canal.Once.XEIPN.(CANL11).mx" tvg-name="CANAL ONCE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/once_tv_mexico-mediano.png" group-title="NORTEAMERICA",CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="57 TV" tvg-logo="https://graph.facebook.com/canal57.tv/picture?width=200&height=200" group-title="NORTEAMERICA",57 TV
