@@ -355,9 +355,9 @@ http://181.189.243.254:8000/play/a0r8/index.m3u8
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TURISTIK TV" tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="CULTURA Y ESTILOS",TURISTIK TV
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.(Andes).(E!).[451].cr" tvg-name="E! ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="CULTURA Y ESTILOS",E! ENTERTAINMENT
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(Andes).(E!HD).[811].cr" tvg-name="E! ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="CULTURA Y ESTILOS",E! ENTERTAINMENT
 http://45.228.232.204:16000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.(Andes).(E!).[451].cr" tvg-name="E! ENTERTAINMENT HD" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="CULTURA Y ESTILOS",E! ENTERTAINMENT HD
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(Andes).(E!HD).[811].cr" tvg-name="E! ENTERTAINMENT HD" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="CULTURA Y ESTILOS",E! ENTERTAINMENT HD
 http://45.182.20.194:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.(International).(ANIMAL).[505].cr" tvg-name="ANIMAL PLANET SD | Panreg" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica.png" group-title="CULTURA Y ESTILOS",ANIMAL PLANET SD | Panreg
 http://45.182.20.194:8000/play/a06p/index.m3u8
@@ -680,7 +680,7 @@ http://181.189.243.254:8000/play/a0sk/index.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
 #EXTINF:-1 tvg-id="Axn.cl" tvg-name="AXN | Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png" group-title="CINE Y SERIES 2",AXN | Sur
 https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
-#EXTINF:-1 tvg-id="AXN.(CentroamÃ©rica).(AXN).[1040].cr" tvg-name="AXN | Andes" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png" group-title="CINE Y SERIES 2",AXN | Andes
+#EXTINF:-1 tvg-id="AXN.Latin.America.HDTV.(AXNHD).[926].cr" tvg-name="AXN | Andes" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png" group-title="CINE Y SERIES 2",AXN | Andes
 http://190.149.66.90:16000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="AXN.Latin.America.HDTV.(AXNHD).[926].cr" tvg-name="AXN HD | Andes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AXN_HD_Logo_2015.svg/320px-AXN_HD_Logo_2015.svg.png" group-title="CINE Y SERIES 2",AXN HD | Andes
 http://45.228.232.204:16000/play/a07o/index.m3u8
@@ -752,7 +752,7 @@ http://ky-iptv.com:80/agustin21/agustin21/514532.ts
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/29305
 #EXTINF:-1 tvg-id="hbo_mundi" tvg-name="HBO MUNDI" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi.png" group-title="CINE Y SERIES 2",HBO MUNDI
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/38701
-#EXTINF:-1 tvg-id="Cinemax.(Panamerican).(CINEMAXE).[352].cr" tvg-name="CINEMAXt | Panreg" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica.png" group-title="CINE Y SERIES 2",CINEMAXt | Panreg
+#EXTINF:-1 tvg-id="Cinemax.HDTV.(Panamerican).(CINEMAXE).[795].cr" tvg-name="CINEMAXt | Panreg" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica.png" group-title="CINE Y SERIES 2",CINEMAXt | Panreg
 http://45.228.232.204:16000/play/a07c/index.m3u8
 #EXTINF:-1 tvg-id="cinemax_mexico" tvg-name="CINEMAX | MX" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" group-title="CINE Y SERIES 2",CINEMAX | MX
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092596
