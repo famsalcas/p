@@ -96,7 +96,7 @@ https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3
 http://190.7.192.163:8004/play/s15
 #EXTINF:-1 tvg-id="LimÃ³n.TV.(LIMON).[111].cr" tvg-name="LIMÓN TV" tvg-logo="https://graph.facebook.com/limontv.cr/picture?width=200&height=200" group-title="COSTA RICA",LIMÓN TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV.36.Liberia.(TV36).[105].cr" tvg-name="TRIVISIÓN 36" tvg-logo="https://graph.facebook.com/trivision36/picture?width=200&height=200" group-title="COSTA RICA",TRIVISIÓN
+#EXTINF:-1 tvg-id="AnexiÃ³n.TV.(ANEX).[981].cr" tvg-name="TRIVISIÓN 36" tvg-logo="https://graph.facebook.com/trivision36/picture?width=200&height=200" group-title="COSTA RICA",TRIVISIÓN
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-900/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CURRÉ" tvg-logo="https://graph.facebook.com/TVCURRE/picture?width=200&height=200" group-title="COSTA RICA",TV CURRÉ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
@@ -961,15 +961,15 @@ http://45.225.95.171:7577/play/a0v3/index.m3u8
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).[117].cr" tvg-name="FOX SPORTS 3 | Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/100px-Fox_sports_3_logo.svg.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 3 | Sur
 http://190.149.66.90:16000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.CentroamÃ©rica.(ESPNCA).[1036].cr" tvg-name="ESPN 1 SD | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES ESPAÑOL",ESPN 1 SD | Norte
+#EXTINF:-1 tvg-id="ESPN+.(ESPN+).[1004].cr" tvg-name="ESPN 1 SD | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES ESPAÑOL",ESPN 1 SD | Norte
 http://181.189.243.254:8000/play/a0se/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.CentroamÃ©rica.HDTV.(ESPN2-HD).[901].cr" tvg-name="ESPN 1 HD | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES ESPAÑOL",ESPN 1 HD | Norte
+#EXTINF:-1 tvg-id="ESPN+.(ESPN+).[1004].cr" tvg-name="ESPN 1 HD | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES ESPAÑOL",ESPN 1 HD | Norte
 http://45.228.232.204:16000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2Colombia.co" tvg-name="ESPN 1 | Col" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="DEPORTES ESPAÑOL",ESPN 1 | Col
 http://190.60.37.69:8015/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="espn_sur" tvg-name="ESPN 1 | Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png" group-title="DEPORTES ESPAÑOL",ESPN 1 | Sur
 https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
-#EXTINF:-1 tvg-id="ESPN.2.Latin.Central.AmÃ©rica.(ESPN2L).[203].cr" tvg-name="ESPN 2 | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="DEPORTES ESPAÑOL",ESPN 2 | Norte
+#EXTINF:-1 tvg-id="ESPN.2.Latin.Central.AmÃ©rica.HD.(ESPN2HD).[810].cr" tvg-name="ESPN 2 | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="DEPORTES ESPAÑOL",ESPN 2 | Norte
 http://181.189.243.254:8000/play/a0t6/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.Latin.Central.AmÃ©rica.HD.(ESPN2HD).[810].cr" tvg-name="ESPN 2 HD | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="DEPORTES ESPAÑOL",ESPN 2 HD | Norte
 http://45.228.232.204:16000/play/a07t/index.m3u8
