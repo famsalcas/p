@@ -2938,8 +2938,7 @@ http://axr.life:80/openbox20/kafta145/40930
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEXY HOT" tvg-logo="https://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png" group-title="ADULTOS",SEXY HOT
 http://51.222.108.195:25461/Raulvaldes/123456/14495
 #EXTINF:-1 tvg-id="Sextreme.(SEXTR).[962].cr" tvg-name="SEXTREME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest/scale-to-width-down/250?cb=20130927203009" group-title="ADULTOS",SEXTREME
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJgoE2Sw-dXFIX0QPIRfBvr0/ts
-http://51.222.108.195:25461/Raulvaldes/123456/14494
+http://51.222.108.195:25461/Raulvaldes/123456/14494.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EROTIC" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic-logo.png" group-title="ADULTOS",EROTIC
 http://tv.a1promediastream.com:25461/0848592/8416758/18572
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIVATE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest?cb=20150315153455" group-title="ADULTOS",PRIVATE HD
@@ -2987,27 +2986,37 @@ http://51.222.108.195:25461/Raulvaldes/123456/14509
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLACKED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Blacked.png" group-title="ADULTOS",BLACKED
 http://tv.a1promediastream.com:25461/0848592/8416758/14743
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 1" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 1
-http://tv.a1promediastream.com:25461/0848592/8416758/15706
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54474.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 2" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 2
-http://tv.a1promediastream.com:25461/0848592/8416758/15598
+http://tv.a1promediastream.com:25461/0848592/8416758/15598.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 3" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 3
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54482.ts
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54482.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 4" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 4
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54489.ts
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54489.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 5" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 5
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54500.ts
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54500.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 6" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 6
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54501.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 7" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 7
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54504.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 8" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 7
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54501.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 7" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 9
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54504.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 8" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 10
 http://168.228.194.32:58001/play/a0ce/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 9" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 9" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 11
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54289.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 10" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 12
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54303.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 11" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 11
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54436.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 12" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 12
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54486.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 13" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 13
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54479.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 14" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 14
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54305.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 15" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 15
+http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54311.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 16" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 16
 http://168.228.194.32:58001/play/a0ch/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVIL ANGEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Evil_Angel_logo.svg/100px-Evil_Angel_logo.svg.png" group-title="ADULTOS",EVIL ANGEL
-http://vip.carpediemiptv.online:8080/alper1/alper1/17463
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REALITY KINGS" tvg-logo="https://1000logos.net/wp-content/uploads/2019/02/RealityKings.jpg" group-title="ADULTOS",REALITY KINGS
-https://nl01.spr24.net/22403/mpegts?token=uUVbSpF8Wv26Ux
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CH 1" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6" group-title="ADULTOS",ADULT CH 1
 http://vip.carpediemiptv.online:8080/alper1/alper1/17418
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CH 2" tvg-logo="https://us.123rf.com/450wm/aquir/aquir1611/aquir161102164/66677089-adults-only-square-stamp.jpg?ver=6" group-title="ADULTOS",ADULT CH 2
