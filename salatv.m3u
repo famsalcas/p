@@ -26,7 +26,7 @@ https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9a
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV).[1037].cr" tvg-name="MULTIMEDIOS CR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multimedios_costa_rica.png" group-title="COSTA RICA",MULTIMEDIOS CR
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica-.Canal.8.HDTV.(MMTVHD).[1038].cr" tvg-name="MULTIMEDIOS CR " tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multimedios_costa_rica.png" group-title="COSTA RICA",MULTIMEDIOS CR 
-http://190.7.192.164:8007/play/s23
+http://playhispano.org:25461/tv5full/ORuTvDJARP/86695
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-name="9 TV SUR" tvg-logo="https://i.postimg.cc/RZBNTMj2/TV-Sur-Canal-9-MODIF.png" group-title="COSTA RICA",9 TV SUR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesistema.9.(Costa.Rica).(TELESIS9).[788].cr" tvg-name="TELESISTEMA" tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-telesistema-en-vivo-300x193.jpg" group-title="COSTA RICA",TELESISTEMA
@@ -802,6 +802,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092586/playlist.m3u8
 http://181.189.243.254:8000/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="golden_premier_2" tvg-name="GOLDEN PREMIERE 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" group-title="CINE Y SERIES 2",GOLDEN PREMIERE 2
 http://181.189.243.254:8000/play/a0od/index.m3u8
+http://playhispano.org:25461/tv5full/ORuTvDJARP/130339
 #EXTINF:-1 tvg-id="multipremier" tvg-name="MULTIPREMIER" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="CINE Y SERIES 2",MULTIPREMIER
 http://45.228.232.204:16000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="Canal.DHE.HDTV.(DHEHD).do" tvg-name="DHE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe.png" group-title="CINE Y SERIES 2",DHE
@@ -2769,9 +2770,9 @@ http://PWx3OhvVyZLge2F5CjuMrE.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDkt
 http://BzVIslv9fWHeqXuAO1w3Uy.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26338&t=live&f=ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El CHAVO DEL 8" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png" group-title="24-7 ESP",El CHAVO DEL 8
-https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/playlist.m3u8
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091028
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS SIMPSONS" tvg-logo="https://sites.google.com/site/tvseriesmiguel/_/rsrc/1472679482278/los-simpson/los%20simpson.jpg?height=453&width=934" group-title="24-7 ESP",LOS SIMPSONS
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091013
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE WALKING DEAD" tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="24-7 ESP",THE WALKING DEAD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=false&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=40.7316&deviceLon=-73.9985&deviceMake=Chrome+Mobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=US&serverSideAds=true&sessionID=2f46e2e1-ab00-11eb-8236-0242ac110002&sid=2f46e2e1-ab00-11eb-8236-0242ac110002&userId=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCTOR WHO" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="24-7 ESP",DOCTOR WHO
@@ -2783,7 +2784,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007f
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CURRO JIMÉNEZ" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="24-7 ESP",CURRO JIMÉNEZ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Alfintro.jpg" group-title="24-7 ESP",ALF
-https://srv5.zcast.com.br/alf/alf/playlist.m3u8
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090973
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REN Y STIMPY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/The_Ren_and_Stimpy_Show_logo.jpg/revision/latest/scale-to-width-down/250?cb=20210323014754&path-prefix=es" group-title="24-7 ESP",REN Y STIMPY
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRIENDS" tvg-logo="http://atlantis-mx.com/logos/friends.png" group-title="24-7 ESP",FRIENDS
@@ -2797,19 +2798,19 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091003
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/320px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" group-title="24-7 ESP",DRAGON BALL
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFHMhCctQ3ykW7iZ62C9nnQs/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Logo_Dragon_Ball_Z.jpg" group-title="24-7 ESP",DRAGON BALL Z
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFI9QpTt6P4Py113-9AwLL_0/ts
+http://playhispano.org:25461/tv5full/ORuTvDJARP/87715
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/320px-Dragon_Ball_GT_logo.png" group-title="24-7 ESP",DRAGON BALL GT
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFJEwU1Ht1thgNHRPTCb3FSM/ts
+http://playhispano.org:25461/tv5full/ORuTvDJARP/130517
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/320px-Dragon_Ball_Super.png" group-title="24-7 ESP",DRAGON BALL SUPER
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFFL8vw2p_ye1Uf_hbc-2K4Y/ts
+http://playhispano.org:25461/tv5full/ORuTvDJARP/130501
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAILOR MOON" tvg-logo="http://l3d.us:25461/images/2510c39011c5be704182423e3a695e91.png" group-title="24-7 ESP",SAILOR MOON
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFGFpzr6-xL4r--gKrcRD3mE/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHESPIRITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/250px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24-7 ESP",CHESPIRITO
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMmidk8zvy8lCBXvLeBdJUA/ts
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090979
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WALKER TEXAS RANGER" tvg-logo="https://www.insp.com/content/uploads/2014/11/20-DCSM-0622_Showpage_eBanners-WalkerTR440x175-PNG.png" group-title="24-7 ESP",WALKER TEXAS RANGER
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37762
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA NIÑERA" tvg-logo="https://i.pinimg.com/originals/d6/28/71/d62871685a4f530422074d98f11b49ab.png" group-title="24-7 ESP",LA NIÑERA
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFGuZCTCAH9DSJcTdoiUl73Y/ts
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090977
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BONANZA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Bonanza_title_screen.jpg" group-title="24-7 ESP",BONANZA
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37820
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMANIACS" tvg-logo="https://i.ebayimg.com/images/g/rZgAAOSwX~dWhVH2/s-l400.jpg" group-title="24-7 ESP",ANIMANIACS
@@ -2821,9 +2822,9 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090899
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINKY Y CEREBRO" tvg-logo="http://l3d.us:25461/images/8fa14cdd754f91cc6554c9e71929cce7.png" group-title="24-7 ESP",PINKY Y CEREBRO
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090901
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CABALLEROS DEL ZODÍACO" tvg-logo="https://www.pngitem.com/pimgs/m/10-102597_caballeros-del-zodiaco-logo-png-transparent-png.png" group-title="24-7 ESP",CABALLEROS DEL ZODÍACO
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFKkGtOoGCr__djoukL3dLZI/ts
+http://playhispano.org:25461/tv5full/ORuTvDJARP/187945
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CORAGE PERRO COBARDE" tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" group-title="24-7 ESP",CORAGE PERRO COBARDE
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFLfXDBMh5JZ6bTKKbAK1hB8/ts
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090877
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRA. QUINN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Dr_Quinn%2C_Medicine_Woman.png/revision/latest?cb=20180727110912" group-title="24-7 ESP",DRA. QUINN
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFNCdwM21wqTVoJg1J30QvO0/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL HOMBRE NUCLEAR" tvg-logo="https://static.wikia.nocookie.net/bionic/images/2/2c/Agcomic.jpg/revision/latest?cb=20070114170120" group-title="24-7 ESP",EL HOMBRE NUCLEAR
@@ -2835,9 +2836,9 @@ http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFFiVXbgcuvq3Ze97w_yjLxU/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRES POR TRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Full_House_1987_TV_series_logo.png/320px-Full_House_1987_TV_series_logo.png" group-title="24-7 ESP",TRES POR TRES
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFDtxSAg0jamUqDRTZcgi84Q/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/320px-Futurama_1999_logo.svg.png" group-title="24-7 ESP",FUTURAMA
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFF7ADTuY03xB30y2xe-MwLg/ts
+http://playhispano.org:25461/tv5full/ORuTvDJARP/130648
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOCOS ADDAMS" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/eb99f5147464769.Y3JvcCwxNzM4LDEzNjAsMTI5LDA.png" group-title="24-7 ESP",LOCOS ADDAMS
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFFu-SFQYeREltMu1fdt25hk/ts
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090981
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOBO DEL AIRE" tvg-logo="https://i.pinimg.com/550x/46/c4/e4/46c4e46a5b4e7f6a69b033a88f0ac55d.jpg" group-title="24-7 ESP",LOBO DEL AIRE
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFD7eAhn25M2xTbz94r3Y8_0/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS PADRINOS MÁGICOS" tvg-logo="http://l3d.us:25461/images/6d2bbf8de91f746e82c8d55715374780.png" group-title="24-7 ESP",LOS PADRINOS MÁGICOS
@@ -2847,11 +2848,11 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090990
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAS NUEVAS AVENTURAS DE SUPERMAN" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/93/13/90/20237886.jpg" group-title="24-7 ESP",LAS NUEVAS AVENTURAS DE SUPERMAN
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMR8DfRNByklpkThaoUUIhU/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JOHNNY BRAVO" tvg-logo="https://seeklogo.com/images/J/Johnny_Bravo-logo-B4650E511E-seeklogo.com.png" group-title="24-7 ESP",JOHNNY BRAVO
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFHKsN6xGPe0LB7u9xwV5Mrw/ts
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090888
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XENA PRINCESA GUERRERA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVv-Vehrbu3aB-TIG09TGboAIArwZ8PyLbAVkknF5O4NAOheNBmHyFiF6qQVfD5NCrKp4&usqp=CAU" group-title="24-7 ESP",XENA PRINCESA GUERRERA
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFEov4MWLf7RAAskkkRPUKPU/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE BIG BANG THEORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/194px-TBBT_logo.svg.png" group-title="24-7 ESP",THE BIG BANG THEORY
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFB2WW5zDgSz6e2ZdFuvoMGU/ts
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091018
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RICK & MORTY (ESP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rick_and_Morty.svg/320px-Rick_and_Morty.svg.png" group-title="24-7 ESP",RICK & MORTY (ESP)
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFB7bUcLTKhDj76c7d4L43uE/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOUTH PARK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/201px-South_park_sign.svg.png" group-title="24-7 ESP",SOUTH PARK
@@ -2864,6 +2865,8 @@ http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFDgkWUNT9ZrLGhRHP2Dx6OI/ts
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/54954
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FAMILIA INGALLS" tvg-logo="https://www.diariodecultura.com.ar/wp-content/uploads/2020/05/ew.png" group-title="24-7 ESP",FAMILIA INGALLS
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37809
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMALLVILLE" tvg-logo="https://images.uncyclomedia.co/inciclopedia/es/3/3e/LTC.jpg" group-title="24-7 ESP",SMALLVILLE
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091024
 
 #EXTINF:-1 tvg-id="Survivor.us" tvg-name="SURVIVOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/400px-Survivor.borneo.logo.png/250px-400px-Survivor.borneo.logo.png" group-title="24-7 ENG",SURVIVOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=296&deviceId=5f21e7b24744c60007c1f6fc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -2931,15 +2934,15 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/578
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EROTIC" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic-logo.png" group-title="ADULTOS",EROTIC
 http://tv.a1promediastream.com:25461/0848592/8416758/18572
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIVATE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest?cb=20150315153455" group-title="ADULTOS",PRIVATE HD
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54334.ts
+http://playhispano.org:25461/tv5full/ORuTvDJARP/150659
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDLIGHT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Redlight_HD.png/revision/latest/scale-to-width-down/300?cb=20210517035141" group-title="ADULTOS",REDLIGHT
 http://51.222.108.195:25461/Raulvaldes/123456/14530
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUSTLER HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/HUSTLER_TV_HD.png/revision/latest/scale-to-width-down/200?cb=20150312135858" group-title="ADULTOS",HUSTLER HD
 http://vip.carpediemiptv.online:8080/alper1/alper1/17450
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT 1" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png" group-title="ADULTOS",HOT 1
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54348.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEX MEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/SexMex_logo.png" group-title="ADULTOS",SEX MEX
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFM4X6kFdN5uUY32ozbV5sGw/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERONE" tvg-logo="https://picon.ml/super-one.png" group-title="ADULTOS",SUPERONE
+http://playhispano.org:25461/tv5full/ORuTvDJARP/113324
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINKO" tvg-logo="https://www.pinkoclub.com/image/pinko600x400.png" group-title="ADULTOS",PINKO
 http://51.222.108.195:25461/Raulvaldes/123456/14509
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLACKED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Blacked.png" group-title="ADULTOS",BLACKED
@@ -2947,11 +2950,17 @@ http://tv.a1promediastream.com:25461/0848592/8416758/14743
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XMO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/XMO_2012_logo.png" group-title="ADULTOS",XMO
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54375.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVID RED" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Vivid.png/revision/latest?cb=20180213192129" group-title="ADULTOS",VIVID RED
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54340.ts
+http://playhispano.org:25461/tv5full/ORuTvDJARP/150662
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/XMO_2012_logo.png" group-title="ADULTOS",VIXEN
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54341.ts
+http://playhispano.org:25461/tv5full/ORuTvDJARP/150627
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALBA" tvg-logo="https://4vector.com/i/free-vector-xxx-tv-logo_089398_XXX_TV_logo.png" group-title="ADULTOS",ALBA
 http://vip.carpediemiptv.online:8080/alper1/alper1/17418
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XY PLUS" tvg-logo="https://invivo.tv/invivo/images/slider/xy_plus.png" group-title="ADULTOS",XY PLUS
+http://playhispano.org:25461/tv5full/ORuTvDJARP/113320
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XY MAX" tvg-logo="https://invivo.tv/invivo/images/slider/xy_max.png" group-title="ADULTOS",XY MAX
+http://playhispano.org:25461/tv5full/ORuTvDJARP/113321
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XY MIX" tvg-logo="https://invivo.tv/invivo/images/slider/xy_mix.png" group-title="ADULTOS",XY MAX
+http://playhispano.org:25461/tv5full/ORuTvDJARP/113322
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 1" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 1
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54474.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 2" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 2
