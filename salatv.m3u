@@ -934,7 +934,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sl
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN STORIES" tvg-logo="https://i.postimg.cc/Jnw674SS/RAKUTEN-SPOTLIGHT.png" group-title="DEPORTES ESPAÑOL",RAKUTEN STORIES
 https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="FUTV  SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" group-title="DEPORTES ESPAÑOL",FUTV  SD
-http://45.182.20.194:8000/play/a063/index.m3u8
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153877
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="FUTV  HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" group-title="DEPORTES ESPAÑOL",FUTV  HD
 http://181.189.243.254:8000/play/a0t3/index.m3u8
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="FUTV  HD (op2)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" group-title="DEPORTES ESPAÑOL",FUTV  HD (op2)
@@ -1390,7 +1390,7 @@ https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5 EL LÍDER | Hon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/177px-Canal_5_HN_logo_2019.png" group-title="CENTROAMÉRICA",5 EL LÍDER | Hon
 http://190.83.116.228:9010/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canal_6_Nicaraguense.png/195px-Canal_6_Nicaraguense.png" group-title="CENTROAMÉRICA",CANAL 6
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com//video/x7nngbi
+https://www.dailymotion.com//video/x7nngbi
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV ÉXITOS | Rep.Dom" tvg-logo="https://th.bing.com/th/id/OIP.pKgiQKEhBEYMVb79h0tzmAAAAA?pid=ImgDet&rs=1" group-title="CENTROAMÉRICA",TV ÉXITOS | Rep.Dom
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png" group-title="CENTROAMÉRICA",TVX
@@ -2822,7 +2822,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090899
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINKY Y CEREBRO" tvg-logo="http://l3d.us:25461/images/8fa14cdd754f91cc6554c9e71929cce7.png" group-title="24-7 ESP",PINKY Y CEREBRO
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090901
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CABALLEROS DEL ZODÍACO" tvg-logo="https://www.pngitem.com/pimgs/m/10-102597_caballeros-del-zodiaco-logo-png-transparent-png.png" group-title="24-7 ESP",CABALLEROS DEL ZODÍACO
-http://playhispano.org:25461/tv5full/ORuTvDJARP/187945
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37815
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CORAGE PERRO COBARDE" tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" group-title="24-7 ESP",CORAGE PERRO COBARDE
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090877
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRA. QUINN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Dr_Quinn%2C_Medicine_Woman.png/revision/latest?cb=20180727110912" group-title="24-7 ESP",DRA. QUINN
@@ -2850,13 +2850,13 @@ http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMR8DfRNByklpkThaoUUIhU/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JOHNNY BRAVO" tvg-logo="https://seeklogo.com/images/J/Johnny_Bravo-logo-B4650E511E-seeklogo.com.png" group-title="24-7 ESP",JOHNNY BRAVO
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090888
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XENA PRINCESA GUERRERA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVv-Vehrbu3aB-TIG09TGboAIArwZ8PyLbAVkknF5O4NAOheNBmHyFiF6qQVfD5NCrKp4&usqp=CAU" group-title="24-7 ESP",XENA PRINCESA GUERRERA
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFEov4MWLf7RAAskkkRPUKPU/ts
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37781
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE BIG BANG THEORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/194px-TBBT_logo.svg.png" group-title="24-7 ESP",THE BIG BANG THEORY
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091018
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RICK & MORTY (ESP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rick_and_Morty.svg/320px-Rick_and_Morty.svg.png" group-title="24-7 ESP",RICK & MORTY (ESP)
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFB7bUcLTKhDj76c7d4L43uE/ts
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37850
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOUTH PARK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/201px-South_park_sign.svg.png" group-title="24-7 ESP",SOUTH PARK
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFETdX-q9JJynDiXBW2Qo8dE/ts
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37754
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPARTACUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Spartacus%3B_Blood_and_Sand_2010_Intertitle.png" group-title="24-7 ESP",SPARTACUS
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37756
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PASO A PASO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Step-By-Step-Logo.png/revision/latest?cb=20220714171331" group-title="24-7 ESP",PASO A PASO
