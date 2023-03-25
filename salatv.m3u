@@ -30,11 +30,11 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/86695
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-name="9 TV SUR" tvg-logo="https://i.postimg.cc/RZBNTMj2/TV-Sur-Canal-9-MODIF.png" group-title="COSTA RICA",9 TV SUR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesistema.9.(Costa.Rica).(TELESIS9).[788].cr" tvg-name="TELESISTEMA" tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-telesistema-en-vivo-300x193.jpg" group-title="COSTA RICA",TELESISTEMA
-http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleredTelevision.cr" tvg-name="TELERED" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png" group-title="COSTA RICA",TELERED
 https://59ef525c24caa.streamlock.net/Telered/Telered/chunklist_w1843316871.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.HDTV.(RP11HD).[770].cr" tvg-name="REPRETEL 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png" group-title="COSTA RICA",REPRETEL 11 HD
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal1_720.m3u8
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.HDTV.(RP11HD).[770].cr" tvg-name="REPRETEL 11 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png" group-title="COSTA RICA",REPRETEL 11 SD
 http://181.189.243.254:8000/play/a0r0/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COTO BRUS TV" tvg-logo="https://graph.facebook.com/cotobrustv/picture?width=200&height=200" group-title="COSTA RICA",COTO BRUS TV
