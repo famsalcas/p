@@ -96,7 +96,7 @@ https://rtmp.info/zurquitva/envivo/chunklist_w952694774.m3u8
 #EXTINF:-1 tvg-id="LimÃ³n.TV.(LIMON).[111].cr" tvg-name="LIMÓN TV" tvg-logo="https://imgur.com/MmBpGZj.png" group-title="COSTA RICA",LIMÓN TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV.36.Liberia.(TV36).[105].cr" tvg-name="TRIVISIÓN 36" tvg-logo="https://imgur.com/GsKOXX9.png" group-title="COSTA RICA",TRIVISIÓN
-https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-900/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CURRÉ" tvg-logo="https://graph.facebook.com/TVCURRE/picture?width=200&height=200" group-title="COSTA RICA",TV CURRÉ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal38.cr" tvg-name="CANAL 38" tvg-logo="https://i.imgur.com/I5GOcaJ.jpg" group-title="COSTA RICA",CANAL 38
@@ -127,23 +127,23 @@ https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playist.m3u8
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GUATUSO TV" tvg-logo="https://i.imgur.com/DLA28mz.jpg" group-title="COSTA RICA",GUATUSO TV
 https://5cf4a2c2512a2.streamlock.net/8162/8162/chunklist.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="(no tvg-id)" tvg-name="TV NOSARA" tvg-logo="https://play-lh.googleusercontent.com/vraX_I-g49YRLsbpGQ6awvseNDHc4xmcr4TDNx-2zpGXvjOwTAObwrlYkl94qqv-6aUL" group-title="COSTA RICA",TV NOSARA
-https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="(no tvg-id)" tvg-name="TV NOSARA" tvg-logo="https://imgur.com/MsWb10T.png" group-title="COSTA RICA",TV NOSARA
+https://stmv.streamingvip.click/tvnosara/tvnosara/chunklist_w2123336232.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOS CARIBE" tvg-logo="http://somoscaribetv.com/wp-content/uploads/2021/01/cropped-135297098_2827430904137445_6870343697020229970_n.png" group-title="COSTA RICA",SOMOS CARIBE
 http://k4.usastreams.com/somoscaribetv/somoscaribetv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV SANTA CRUZ" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc.png" group-title="COSTA RICA",TV SANTA CRUZ
 https://rtmp.info/tvsantacruz/envivo/chunklist_w1520790363.m3u8
-#EXTINF:-1 tvg-id="RTTV.cr" tvg-name="RADIO TURRIALBA TV" tvg-logo="https://yt3.ggpht.com/tQvOygL7aJFqrOb14yNcrwulWaxM2QGx4uX1aEWiGOUSdFvSNHLL3lW1dZZqz75snBWE_LRvfQ=s900-c-k-c0x00ffffff-no-rj" group-title="COSTA RICA",RADIO TURRIALBA TV
+#EXTINF:-1 tvg-id="RTTV.cr" tvg-name="RADIO TURRIALBA TV" tvg-logo="https://i.imgur.com/XcEqRv9.png" group-title="COSTA RICA",RADIO TURRIALBA TV
 https://cloudvideo.servers10.com:19360/8212/8212.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="URBANO TV" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png" group-title="COSTA RICA",URBANO TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MORA TV" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQGNNc_SP0UOKQ/company-logo_200_200/0/1519922049922?e=2159024400&v=beta&t=4lP4qlmwYzbfnFtM7fXJiF7YMtgJNN6s7J1yh4lTgho" group-title="COSTA RICA",MORA TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MORA TV" tvg-logo="https://i.imgur.com/PeMzrpV.jpg" group-title="COSTA RICA",MORA TV
 https://stmv1.zcasthn.com.br/moratv1/moratv1/playlist.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="(no tvg-id)" tvg-name="TV GARABITO" tvg-logo="https://lh3.googleusercontent.com/-7XY3Fuygbgo/Y0unml46o1I/AAAAAAAAAi0/HnnaiL3tVGcwUgwpxjWWvTKOaIr0tYxGwCLQBGAYYCw/s239-c/TV%2BGARABITO%2BFULLHD-IPTVLATINACR.jpg" group-title="COSTA RICA",TV GARABITO
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-id="(no tvg-id)" tvg-name="TV GARABITO" tvg-logo="https://i.imgur.com/tnm0fzc.jpg" group-title="COSTA RICA",TV GARABITO
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w984438026.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CARTAGO DIGITAL" tvg-logo="https://sun9-86.userapi.com/c853516/v853516327/202ce5/QkXiljNSyRg.jpg" group-title="COSTA RICA",TV CARTAGO DIGITAL
 https://hls.robotstreamer.com/tv/5369.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 1O DEPORT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0_VsPWNQKMDU-EP-K3Gqhaf013uDRaYfDKOJxg24iKpTV-PF2JqmkZSUaqd9ihdYzCBKXnnYfJ8-4a_Y8etgsZmLPArWzb2tSqFprwypOmmXaFWfy8x4-Dzb6WAIKnuce9FJJQoVNGIoKrC0gpLoNm-lruAYrDFPhcC7sS3aV3tv56iFra2f70PJQ7A/s400/ICO" group-title="COSTA RICA",CANAL 1O DEPORT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 1O DEPORTES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0_VsPWNQKMDU-EP-K3Gqhaf013uDRaYfDKOJxg24iKpTV-PF2JqmkZSUaqd9ihdYzCBKXnnYfJ8-4a_Y8etgsZmLPArWzb2tSqFprwypOmmXaFWfy8x4-Dzb6WAIKnuce9FJJQoVNGIoKrC0gpLoNm-lruAYrDFPhcC7sS3aV3tv56iFra2f70PJQ7A/s400/ICO" group-title="COSTA RICA",CANAL 1O DEPORTES
 https://videosenlared.fullstreaming.ar:3015/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 10.1" tvg-logo="https://i.imgur.com/0eru0aH.png" group-title="COSTA RICA",CANAL 10.1
 https://videosenlared.fullstreaming.ar:3310/hybrid/play.m3u8
@@ -162,7 +162,7 @@ http://tv.esperanzatvcr.org:1935/WEB/WEB_source/chunklist_w918924677.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EWTN ENGLISH" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ewtn_en_espanol.png" group-title="VIDA Y RELIGIÓN",EWTN ENGLISH
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/whb7tbvs/1728/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIOS TE VE KIDS" tvg-logo="https://image.roku.com/developer_channels/prod/02505b330e44a59b5cbbf0b595e757d0dadc776b5c0aec342f53d571c766bc2d.png" group-title="VIDA Y RELIGIÓN",DIOS TE VE KIDS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIOS TE VE KIDS" tvg-logo="https://imgur.com/5DQL8Jk.png" group-title="VIDA Y RELIGIÓN",DIOS TE VE KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOLDADITOS DE JESÚS" tvg-logo="https://nebula.wsimg.com/d91e26fd5b7be58cdfa0723a323cde1a?AccessKeyId=742D4C102AC2984EB7E6&disposition=0&alloworigin=1" group-title="VIDA Y RELIGIÓN",SOLDADITOS DE JESÚS
 https://2nbyj587d53k-hls-live.5centscdn.com/13/597b5bed7fd3f225bcaa5c4a0cdc3ff6.sdp/playlist.m3u8
@@ -194,9 +194,9 @@ https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 https://pop-hls.iptv-global.net/loadbalancer/naciontv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBN ESPAÑOL" tvg-logo="https://i.imgur.com/VKYF66K.png" group-title="VIDA Y RELIGIÓN",CBN ESPAÑOL
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOGOS KIDS" tvg-logo="https://images.weserv.nl/?url=https://logostv.es/storage/channels/logo-kids.png&il&default=https://logostv.es/storage/channels/logo-kids.png" group-title="VIDA Y RELIGIÓN",LOGOS KIDS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOGOS KIDS" tvg-logo="https://imgur.com/i2wbT1Z.png" group-title="VIDA Y RELIGIÓN",LOGOS KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w309301863.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOGOS TV" tvg-logo="https://play-lh.googleusercontent.com/eK8-WNm5s5iIFMTvntzeLRoqicpXzN2NKdF_IMdlUjG1boEM9WqhOXER6L8bgT4ShhA" group-title="VIDA Y RELIGIÓN",LOGOS TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOGOS TV" tvg-logo="https://imgur.com/HaHu0lc.png" group-title="VIDA Y RELIGIÓN",LOGOS TV
 https://streamer1.streamhost.org/salive/logosH/chunklist_w1870193442.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIOCESANO" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/canal-diocesano-en-directo.png" group-title="VIDA Y RELIGIÓN",DIOCESANO
 https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
@@ -292,9 +292,10 @@ http://rtmp1.abnsat.com/hls/trinity.m3u8
 https://uni01rtmp.tulix.tv/watc57/watc57/chunklist_w1818480673.m3u8
 #EXTINF:-1 tvg-id="NRB.(K24HH-DT4).Wichita.Falls,.TX.us" tvg-name="NRB NETWORK" tvg-logo="https://nrbtv.org/wp-content/themes/nrb/images/show-default.jpg" group-title="VIDA Y RELIGIÓN",NRB NETWORK
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="175" tvg-id="(no tvg-id)" tvg-name="PEQUERADIO TV" tvg-logo="https://i.imgur.com/GwMeEbD.png" group-title="KIDS",PEQUERADIO TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-chno="176" tvg-id="(no tvg-id)" tvg-name="DUCK TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest/scale-to-width-down/200?cb=20191212111607" group-title="KIDS",DUCK TV
+#EXTINF:-1 tvg-chno="176" tvg-id="(no tvg-id)" tvg-name="DUCK TV" tvg-logo="https://imgur.com/ERpo226.png" group-title="KIDS",DUCK TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 tvg-chno="177" tvg-id="(no tvg-id)" tvg-name="TOON GOOGLES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="KIDS",TOON GOOGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
@@ -980,7 +981,7 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 http://170.239.188.253:50000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.CentroamÃ©rica.(ESPNCA).[1036].cr" tvg-name="ESPN 1 SD | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES ESPAÑOL",ESPN 1 SD | Norte
 http://181.189.243.254:8000/play/a0se/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.CentroamÃ©rica.HDTV.(ESPN2-HD).[901].cr" tvg-name="ESPN 1 HD | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES ESPAÑOL",ESPN 1 HD | Norte
+#EXTINF:-1 tvg-id="ESPN.CentroamÃ©rica.HDTV.(ESPN2-HD).[901].cr" tvg-name="ESPN 1 HD | Norte" tvg-logo="https://imgur.com/GQHfYVQ.png" group-title="DEPORTES ESPAÑOL",ESPN 1 HD | Norte
 http://45.228.232.204:16000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2Colombia.co" tvg-name="ESPN 1 | Col" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="DEPORTES ESPAÑOL",ESPN 1 | Col
 http://190.131.228.59:8000/play/a00c/index.m3u8
