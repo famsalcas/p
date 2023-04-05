@@ -17,11 +17,11 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.HDTV.(CR6HD).[766].cr" tvg-name="REPRETEL 6 SD" tvg-logo="https://i.imgur.com/1vcQReV.png" group-title="COSTA RICA",REPRETEL 6 SD
 http://45.5.118.213:16000/play/a0kp/index.m3u8
-#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imgur.com/6RBGT4l.png" group-title="COSTA RICA",TELETICA
+#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA
 https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA
 https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imgur.com/6RBGT4l.png" group-title="COSTA RICA",TELETICA
+#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA
 http://45.190.13.50:8002/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELETICA RADIO" tvg-logo="https://i.imgur.com/5rAOTR7.png" group-title="COSTA RICA",TELETICA RADIO
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/TeleticaLiveStreamTRadio/Streamtradio3/chunks.m3u8
@@ -29,9 +29,9 @@ https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9a
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-name="9 TV SUR" tvg-logo="https://imgur.com/wBmpKJr.png" group-title="COSTA RICA",9 TV SUR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesistema.9.(Costa.Rica).(TELESIS9).[788].cr" tvg-name="TELESISTEMA" tvg-logo="https://i.imgur.com/ruEUVMF.png" group-title="COSTA RICA",TELESISTEMA
+#EXTINF:-1 tvg-id="Telesistema.9.(Costa.Rica).(TELESIS9).[788].cr" tvg-name="TELESISTEMA" tvg-logo="https://imgur.com/CjRPr5K.png" group-title="COSTA RICA",TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
-#EXTINF:-1 tvg-id="TeleredTelevision.cr" tvg-name="TELERED" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png" group-title="COSTA RICA",TELERED
+#EXTINF:-1 tvg-id="TeleredTelevision.cr" tvg-name="TELERED" tvg-logo="https://imgur.com/pk7qECe.png" group-title="COSTA RICA",TELERED
 https://59ef525c24caa.streamlock.net/Telered/Telered/chunklist_w1843316871.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.HDTV.(RP11HD).[770].cr" tvg-name="REPRETEL 11 HD" tvg-logo="https://imgur.com/cd6YDip.png" group-title="COSTA RICA",REPRETEL 11 HD
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
@@ -95,12 +95,11 @@ https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3
 https://rtmp.info/zurquitva/envivo/chunklist_w952694774.m3u8
 #EXTINF:-1 tvg-id="LimÃ³n.TV.(LIMON).[111].cr" tvg-name="LIMÓN TV" tvg-logo="https://imgur.com/MmBpGZj.png" group-title="COSTA RICA",LIMÓN TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV.36.Liberia.(TV36).[105].cr" tvg-name="TRIVISIÓN 36" tvg-logo="https://graph.facebook.com/trivision36/picture?width=200&height=200" group-title="COSTA RICA",TRIVISIÓN
+#EXTINF:-1 tvg-id="TV.36.Liberia.(TV36).[105].cr" tvg-name="TRIVISIÓN 36" tvg-logo="https://imgur.com/GsKOXX9.png" group-title="COSTA RICA",TRIVISIÓN
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-900/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CURRÉ" tvg-logo="https://graph.facebook.com/TVCURRE/picture?width=200&height=200" group-title="COSTA RICA",TV CURRÉ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
-http://k6.usastreams.online/Tvcurre/Tvcurre/chunklist_w329173270.m3u8
-#EXTINF:-1 tvg-id="Canal38.cr" tvg-name="CANAL 38" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="COSTA RICA",CANAL 38
+#EXTINF:-1 tvg-id="Canal38.cr" tvg-name="CANAL 38" tvg-logo="https://i.imgur.com/I5GOcaJ.jpg" group-title="COSTA RICA",CANAL 38
 https://rtmp.info/canal38/envivo/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAN JOSÉ TV" tvg-logo="https://www.doutico.com/wpimages/wp33625199_05_06.jpg" group-title="COSTA RICA",SAN JOSÉ TV
 https://rtmp.info/sanjosetv/envivo/chunklist.m3u8
@@ -122,7 +121,7 @@ https://59ef525c24caa.streamlock.net//videotour/videotour/chunklist.m3u8
 https://tvdatta.com:3384/stream/play.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV PLUS" tvg-logo="https://i.imgur.com/BDyoWhT.png" group-title="COSTA RICA",TV PLUS
 http://190.7.192.164:8001/play/s49
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE BRUNCA" tvg-logo="https://graph.facebook.com/tele.brunca/picture?width=200&height=200" group-title="COSTA RICA",TELE BRUNCA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE BRUNCA" tvg-logo="https://imgur.com/tWiaudl.png" group-title="COSTA RICA",TELE BRUNCA
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOICE OVER CR" tvg-logo="https://graph.facebook.com/VoiceOverCostaRicaRadioTV/picture?width=200&height=200" group-title="COSTA RICA",VOICE OVER CR
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8
