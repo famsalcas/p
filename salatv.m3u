@@ -493,7 +493,7 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="ESBC1700004PX" tvg-name="TRAILERS" tvg-logo="https://i.imgur.com/0IDaEA3.jpg" group-title="CINE Y SERIES 1",TRAILERS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-ESBC2700002LO" tvg-id="ESBC2700002LO" tvg-name="PELÍCULAS DEL OESTE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20221214T044911SQUARE.png_20221214044912.png" group-title="CINE Y SERIES 1",PELÍCULAS DEL OESTE
+#EXTINF:-1 channel-id="samsung-ESBC2700002LO" tvg-id="ESBC2700002LO" tvg-name="GRJNGO TV PELÍCULAS DEL OESTE" tvg-logo="https://imgur.com/Ou8Io45.png" group-title="CINE Y SERIES 1",GRJNGO TV PELÍCULAS DEL OESTE
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="READY" tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="CINE Y SERIES 1",READY
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist.m3u8
@@ -978,12 +978,12 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).[800].cr" tvg-name="FOX SPORTS 2 | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 2 | Norte
 http://181.189.243.254:8000/play/a0sp/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2" tvg-name="FOX SPORTS 2 | Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Fox_Sports_2_%28Argentina%29_Logo_2022.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 2 | Sur
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="FOX SPORTS 2 | Sur" tvg-logo="https://imgur.com/YWonf6u.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 2 | Sur
 http://45.225.95.171:7577/play/a0v3/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Norte).(FOXSP3HD).[801].cr" tvg-name="FOX SPORTS 3 | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 3 | Norte
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).[117].cr" tvg-name="FOX SPORTS 3 | Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/100px-Fox_sports_3_logo.svg.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 3 | Sur
-http://170.239.188.253:50000/play/a03b/index.m3u8
+http://190.149.66.90:16000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).[117].cr" tvg-name="FOX SPORTS 3 | Sur" tvg-logo="https://imgur.com/ZbsypPY.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 3 | Sur
+http://sdmx.us:25461/Manuelf1303/Qmqak2ubbyuW/10958
 #EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="ESPN 1 SD | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES ESPAÑOL",ESPN 1 SD | Norte
 http://181.189.243.254:8000/play/a0se/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.CentroamÃ©rica.HDTV.(ESPN2-HD).[901].cr" tvg-name="ESPN 1 HD | Norte" tvg-logo="https://imgur.com/GQHfYVQ.png" group-title="DEPORTES ESPAÑOL",ESPN 1 HD | Norte
@@ -2279,7 +2279,7 @@ http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL NEWS ASIA" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200" group-title="NOTICIAS",CHANNEL NEWS ASIA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC WORLD NEWS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bbc_world_news.png" group-title="NOTICIAS",BBC WORLD NEWS
-http://ott-cdn.ucom.am/s24/index.m3u8
+http://190.149.66.90:16000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWSNET" tvg-logo="https://i.imgur.com/utnvRwO.png" group-title="NOTICIAS",NEWSNET
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REAL AMERICA'S VOICE" tvg-logo="https://cdn.americasvoice.news/static/images/home-logo/logo.png@138x70" group-title="NOTICIAS",REAL AMERICA'S VOICE
@@ -2735,71 +2735,71 @@ http://flysilo.top:8080/live/9141658943811873/2751658943811873/19951.m3u8
 #EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-name="MAGNOLIA NETWORK" tvg-logo="https://th.bing.com/th/id/OIP.tkP2pq__MPIdFCzHF8xsDwHaE8?pid=ImgDet&rs=1" group-title="USA",MAGNOLIA NETWORK
 http://tv.a1promediastream.com:25461/0848592/8416758/2408
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE PEDRO INFANTE" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINE PEDRO INFANTE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE PEDRO INFANTE" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE PEDRO INFANTE
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090942
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE CANTINFLAS" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINE CANTINFLAS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE CANTINFLAS" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE CANTINFLAS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090937
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ESTRENOS" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINE ESTRENOS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ESTRENOS" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE ESTRENOS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2133347
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE TERROR" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINE TERROR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE TERROR" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE TERROR
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090933
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE COMEDIA" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINE COMEDIA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE COMEDIA" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE COMEDIA
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090925
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ACCIÓN" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINE ACCIÓN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ACCIÓN" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE ACCIÓN
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090917
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ROMANCE" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINE ROMANCE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ROMANCE" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE ROMANCE
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090931
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 1" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 1" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 1
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210808
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 2" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 2" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 2
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210809
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 3" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 3" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 3
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210810
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 5" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 5" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 5
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210812
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 6" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 6" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 6
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210813
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 8" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 8" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 8
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210814
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 9" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 9" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 9
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210816
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 10" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 10" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 10
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210817
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 11" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 11
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 11" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 11
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210818
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 12" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 12" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 12
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210822
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 13" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 13
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 13" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 13
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/203983
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 14" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 14" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 14
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090917
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 15" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 15
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 15" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 15
 http://BdotLJIT7nY2RAgbpk4KZh.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26660&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 16" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 16
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 16" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 16
 http://rAefRT6c8KFpEwLNhDm1Za.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26658&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 17" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 17
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 17" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 17
 http://1iqnICYAPdo7QO4f90KTgU.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26648&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 18" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 18
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 18" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 18
 http://e37cR4OCPGlX6VMLjmKhsw.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26650&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 19" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 19
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 19" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 19
 http://d4jyhkQtTRiqsS16xBlV9o.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26167&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 20" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 20
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 20" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 20
 http://hSNPgYDFUmkEoJ5VpMXZ1T.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26168&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 21" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 21
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 21" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 21
 http://WIoZ0YC2TpzfNK9DOEm6Aq.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26169&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 22" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 22
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 22" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 22
 http://Pz2DmX4CrFjRiHNsLwd6Mk.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26170&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 23" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 23
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 23" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 23
 http://SEmu31GkRs4o9xhgwLF05D.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26217&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 24" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 24" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 24
 http://9kDL8SgWCcthem2EzlGFsX.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26088&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 25" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 25
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 25" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 25
 http://V2EdiXqyYfBDxJ8RvwWgZO.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26207&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 26" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 26
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 26" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 26
 http://w58zdAksLO0xF4RT6YiGPB.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26334&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 27" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 27
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 27" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 27
 http://PWx3OhvVyZLge2F5CjuMrE.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26335&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 28" tvg-logo="https://i.imgur.com/37rUngk.png" group-title="24/7 PELÍCULAS",CINEMA 28
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 28" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 28
 http://BzVIslv9fWHeqXuAO1w3Uy.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26338&t=live&f=ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El CHAVO DEL 8" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png" group-title="24-7 ESP",El CHAVO DEL 8
@@ -3030,25 +3030,3 @@ http://cdn.adultiptv.net/russian.m3u8
 http://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT TV 14" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="ADULTOS",ADULT TV 14
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 1" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 1
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54436.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 2" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 2
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54474.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 3" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 3
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54311.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 4" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 3
-http://39004323588419810.onames.xyz:80/play/vi1016547/8093713821/419810.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 5" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 5
-http://39004323588431581.onames.xyz:80/play/vi1016547/8093713821/431581.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 6" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 6
-http://lishb.com:8080/7924193672/8245089073/961701
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 7" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 7
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54489.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 8" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 8
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54501.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 9" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 9
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54507.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 10" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 10
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54450.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 11" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="ADULTOS",ADULT CLUB 24H 11
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54482.ts
