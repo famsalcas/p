@@ -1974,7 +1974,7 @@ http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/13992
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LATV" tvg-logo="https://latv.com/static/media/logo.1e50f885.png" group-title="NORTEAMERICA",LATV
 https://v-ca.mybtv.net/live/129.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CUBAVISIÓN INTERNACIONAL | CUBA" tvg-logo="https://i.imgur.com/OIXJ9hW.jpg" group-title="NORTEAMERICA",CUBAVISIÓN INTERNACIONAL | CUBA
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b596000.m3u8
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CUBAVISIÓN | CUBA" tvg-logo="https://i.postimg.cc/rFPLp0dX/Cubavisi-n-Logo.png" group-title="NORTEAMERICA",CUBAVISIÓN | CUBA
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/769448.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV MARTÍ | CUBA" tvg-logo="https://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo.png" group-title="NORTEAMERICA",TV MARTÍ | CUBA
@@ -2007,7 +2007,7 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m
 #EXTINF:-1 tvg-id="Antena.3.(Internacional).(ANTENA.3).[536].cr" tvg-name="ANTENA 3 INTERNACIONAL" tvg-logo="https://i.postimg.cc/mrxd3JMB/99px-Antena-3-Internacional-logo-2017-svg.png" group-title="ESPAÑA",ANTENA 3 INTERNACIONAL
 http://181.189.243.254:8000/play/a0nv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTENA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA",ANTENA 3
-http://50.7.66.234:8080/moontools/6548@89787/35494
+http://51.91.8.161:18000/Antena_3/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV GALICIA AMÉRICA" tvg-logo="https://th.bing.com/th/id/OIP.79DiUzpUebyD0gOVIbSuxQAAAA?pid=ImgDet&rs=1" group-title="ESPAÑA",TV GALICIA AMÉRICA
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARAGÓN TV" tvg-logo="https://media.tvalacarta.info/canales/256x256/aragontv.png" group-title="ESPAÑA",ARAGÓN TV
@@ -2837,9 +2837,33 @@ http://w58zdAksLO0xF4RT6YiGPB.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDkt
 http://PWx3OhvVyZLge2F5CjuMrE.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26335&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 28" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 28
 http://BzVIslv9fWHeqXuAO1w3Uy.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26338&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA ACCIÓN CLASSICS" tvg-logo="https://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="24/7 PELÍCULAS",CINEMA ACCIÓN CLASSICS
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50572
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA HORROR CLASSICS" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24/7 PELÍCULAS",CINEMA HORROR CLASSICS
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50574
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA COMEDIA" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24/7 PELÍCULAS",CINEMA COMEDIA
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50575
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DC COMICS" tvg-logo="https://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="Canales 24/7",CINEMA DC COMICS
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50576
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DC UNIVERSE" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24/7 PELÍCULAS",CINEMA DC UNIVERSE
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50577
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DISNEY FAMILY" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24/7 PELÍCULAS",CINEMA DISNEY FAMILY
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50578
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DISNEY PLUS" tvg-logo="https://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="24/7 PELÍCULAS",CINEMA DISNEY PLUS
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50579
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DREAMWORKS" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24/7 PELÍCULAS",CINEMA DREAMWORKS
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50580
+#EXTINF:-1 tvg-id="" tvg-name="CINAMA FAMILIAR" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24/7 PELÍCULAS",CINAMA FAMILIAR
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50581
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL PELICULAS" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24/7 PELÍCULAS",DRAGON BALL PELICULAS
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50597
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES CENTER ESTE" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24/7 PELÍCULAS",MOVIES CENTER ESTE
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50624
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES CENTER OESTE" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24/7 PELÍCULAS",MOVIES CENTER OESTE
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50625
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El CHAVO DEL 8" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png" group-title="24-7 ESP",El CHAVO DEL 8
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091028
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58120
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS SIMPSONS" tvg-logo="https://imgur.com/wPMRr3f.png" group-title="24-7 ESP",LOS SIMPSONS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091013
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-name="THE WALKING DEAD" tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="24-7 ESP",THE WALKING DEAD
@@ -2871,11 +2895,11 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090997
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL PRINCIPE DEL RAP" tvg-logo="http://atlantis-mx.com/logos/principe24.png" group-title="24-7 ESP",EL PRINCIPE DEL RAP
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091003
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/320px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" group-title="24-7 ESP",DRAGON BALL
-http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/13861
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58082
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Logo_Dragon_Ball_Z.jpg" group-title="24-7 ESP",DRAGON BALL Z
 http://sdmx.us:25461/Manuelf1303/Qmqak2ubbyuW/2133668
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/320px-Dragon_Ball_GT_logo.png" group-title="24-7 ESP",DRAGON BALL GT
-http://playhispano.org:25461/tv5full/ORuTvDJARP/130517
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35529
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/320px-Dragon_Ball_Super.png" group-title="24-7 ESP",DRAGON BALL SUPER
 http://sdmx.us:25461/Manuelf1303/Qmqak2ubbyuW/2091000
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAILOR MOON" tvg-logo="http://l3d.us:25461/images/2510c39011c5be704182423e3a695e91.png" group-title="24-7 ESP",SAILOR MOON
@@ -2936,7 +2960,7 @@ http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37754
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPARTACUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Spartacus%3B_Blood_and_Sand_2010_Intertitle.png" group-title="24-7 ESP",SPARTACUS
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37756
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PASO A PASO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Step-By-Step-Logo.png/revision/latest?cb=20220714171331" group-title="24-7 ESP",PASO A PASO
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFDgkWUNT9ZrLGhRHP2Dx6OI/ts
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49203
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA TREMENDA CORTE" tvg-logo="https://images.uncyclomedia.co/inciclopedia/es/3/3e/LTC.jpg" group-title="24-7 ESP",LA TREMENDA CORTE
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/54954
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FAMILIA INGALLS" tvg-logo="https://www.diariodecultura.com.ar/wp-content/uploads/2020/05/ew.png" group-title="24-7 ESP",FAMILIA INGALLS
