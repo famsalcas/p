@@ -697,8 +697,6 @@ http://190.83.116.230:9010/play/a0b7/index.m3u8
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Ame47.do" tvg-name="AMÉ 47" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg" group-title="CINE Y SERIES 1",AMÉ 47
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OLD TV" tvg-logo="https://i.imgur.com/sZhn4Iv.png" group-title="CINE Y SERIES 1",OLD TV
-https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PELIS Y POPCORN" tvg-logo="https://s10.s3c.es/imag/_v0/770x420/f/7/f/600x400_popcorn-time-1.jpg" group-title="CINE Y SERIES 1",PELIS Y POPCORN
 https://stitcher.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3d58fb61-7a32-11ed-b874-6aa111c95fb0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC DRAMA" tvg-logo="https://i.postimg.cc/nVXXRKBB/BBC-DRAMA.png" group-title="CINE Y SERIES 1",BBC DRAMA
@@ -717,6 +715,22 @@ https://d2vxs6a73h4kai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME" tvg-logo="https://i.postimg.cc/ZnQCsjnt/RUN-TIME-1.png" group-title="CINE Y SERIES 1",RUNTIME
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX OLD TV" tvg-logo="https://i.imgur.com/sZhn4Iv.png" group-title="CINE Y SERIES 1",MX OLD TV
+https://marine2.miplay.cl/old/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX SERIES" tvg-logo="https://imgur.com/g7V7QyD.png" group-title="CINE Y SERIES 1",MX SERIES
+http://45.181.122.169:8000/play/a03n
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX CLASSIC" tvg-logo="https://imgur.com/xCwJ710.png" group-title="CINE Y SERIES 1",MX CLASSIC
+http://45.181.122.169:8000/play/a02v
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX PRIME" tvg-logo="" group-title="CINE Y SERIES 1",MX PRIME
+http://45.181.122.169:8000/play/a02u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX FAMILY" tvg-logo="https://imgur.com/iJHEgw2.png" group-title="CINE Y SERIES 1",MX FAMILY
+http://45.181.122.169:8000/play/a02w
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH FAMILY" tvg-logo="https://i.postimg.cc/QVGCt247/logo-family.png" group-title="CINE Y SERIES 1",FMH FAMILY
+http://45.181.122.169:8000/play/a02i
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH MOVIES" tvg-logo="https://i.postimg.cc/zB2RJPYw/logo-movies.png" group-title="CINE Y SERIES 1",FMH MOVIES
+http://45.181.122.169:8000/play/a02k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH KIDS" tvg-logo="https://i.postimg.cc/Pq2C4FJG/logo-kids.png" group-title="CINE Y SERIES 1",FMH KIDS
+http://45.181.122.169:8000/play/a02j
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA MARVEL" tvg-logo="https://imgur.com/NC3yh5a.png" group-title="CINE Y SERIES 1",CINEMA MARVEL
 http://MzdyqwDBcN9n874RClgQiS.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26655&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE MEXICANO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cine_mexicano.png" group-title="CINE Y SERIES 1",CINE MEXICANO
@@ -2283,7 +2297,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/A24com/live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARACOL AHORA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/226px-Noticias_Caracol_imagotype.svg.png" group-title="NOTICIAS",CARACOL AHORA
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T13 Chile" tvg-logo="https://graph.facebook.com/teletrece/picture?width=200&height=200" group-title="NOTICIAS",T13 Chile
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T13 Chile" tvg-logo="https://i.imgur.com/nhJnWNk.png" group-title="NOTICIAS",T13 Chile
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/t13/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADN RADIO" tvg-logo="https://www.adnradio.cl/_templates/globals/img/placeholder.png" group-title="NOTICIAS",ADN RADIO
 https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
@@ -2442,7 +2456,9 @@ https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PROFOXMIX" tvg-logo="https://th.bing.com/th/id/OIP.f6nJ0-WnbNwfuHOz_3NtrgHaHa?w=154&h=180&c=7&o=5&dpr=1.1&pid=1.7" group-title="MÚSICA",PROFOXMIX
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REWIND" tvg-logo="https://i.postimg.cc/CxW400f7/image.png" group-title="MÚSICA",REWIND
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V CLASSIC TV" tvg-logo="https://i.imgur.com/iZAzhP3.png" group-title="MÚSICA",V CLASSIC TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC TOP" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="MÚSICA",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANTINA TV" tvg-logo="https://i.postimg.cc/SsMn3kyh/CANTINA-TV-ESP.png" group-title="MÚSICA",CANTINA TV
@@ -2552,7 +2568,7 @@ https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPIRIT TV" tvg-logo="https://play-lh.googleusercontent.com/g7Ul8xOO2Dqxe9Ycc02FVYxaHQweh_bV0Eov9eIEa7_6Y30P20dWTzYGBXG9eUjAfq8" group-title="MÚSICA",SPIRIT TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZAPPING MUSIC" tvg-logo="https://image.roku.com/developer_channels/prod/400d50b3629756417d6990cee86dd4493363c1cc96a7f6e14f5b6c36958940b0.png" group-title="MÚSICA",ZAPPING MUSIC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZAPPING MUSIC" tvg-logo="https://i.imgur.com/SLfGU9c.png" group-title="MÚSICA",ZAPPING MUSIC
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOLAHITS" tvg-logo="https://graph.facebook.com/molahitstv/picture?width=200&height=200" group-title="MÚSICA",MOLAHITS
 http://ventdelnord.tv:8080/mola/directe.m3u8
