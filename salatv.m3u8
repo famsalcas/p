@@ -1244,7 +1244,13 @@ http://ott-cdn.ucom.am/s86/index.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-name="MLB NETWORK" tvg-logo="https://imgur.com/SwQFbaE.png" group-title="DEPORTES INGLÉS",MLB NETWORK
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/2342
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE NETWORK" tvg-logo="https://i.postimg.cc/tTPHptrv/c-Yadkj-Ze-400x400.png" group-title="DEPORTES INGLÉS",WWE NETWORK
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-name="NBA TV" tvg-logo="https://i.postimg.cc/PxHf6R6X/image.png" group-title="DEPORTES INGLÉS",NBA TV
+http://tv.a1promediastream.com:25461/0848592/8416758/1190
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-name="NFL NETWORK" tvg-logo="https://i.postimg.cc/J09bv8SD/image.png" group-title="DEPORTES INGLÉS",NFL NETWORK
+http://tv.a1promediastream.com:25461/0848592/8416758/1197
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-name="NHL NETWORK" tvg-logo="https://i.postimg.cc/HLgCH7b3/image.png" group-title="DEPORTES INGLÉS",NHL NETWORK
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/168337
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE NETWORK" tvg-logo="https://i.postimg.cc/DyXDZwvN/image.png" group-title="DEPORTES INGLÉS",WWE NETWORK
 http://tv.a1promediastream.com:25461/0848592/8416758/167
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTY STUFF TV" tvg-logo="https://www.sportystuff.tv/content/images/2022/02/logo-l.png" group-title="DEPORTES INGLÉS",SPORTY STUFF TV
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
@@ -2945,7 +2951,7 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50625
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El CHAVO DEL 8" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png" group-title="24-7 ESP",El CHAVO DEL 8
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58120
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS SIMPSONS" tvg-logo="https://imgur.com/wPMRr3f.png" group-title="24-7 ESP",LOS SIMPSONS
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091013
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37767
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-name="THE WALKING DEAD" tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="24-7 ESP",THE WALKING DEAD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=false&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=40.7316&deviceLon=-73.9985&deviceMake=Chrome+Mobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=US&serverSideAds=true&sessionID=2f46e2e1-ab00-11eb-8236-0242ac110002&sid=2f46e2e1-ab00-11eb-8236-0242ac110002&userId=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCTOR WHO" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="24-7 ESP",DOCTOR WHO
@@ -2963,29 +2969,29 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c24
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CURRO JIMÉNEZ" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="24-7 ESP",CURRO JIMÉNEZ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Alfintro.jpg" group-title="24-7 ESP",ALF
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090973
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37766
 #EXTINF:-1 channel-id="" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-chno="" tvg-name="AMC EN ESPAÑOL" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="24-7 ESP",AMC EN ESPAÑOL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRIENDS" tvg-logo="http://atlantis-mx.com/logos/friends.png" group-title="24-7 ESP",FRIENDS
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/223069
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37800
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS AÑOS MARAVILLOSOS" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="24-7 ESP",LOS AÑOS MARAVILLOSOS
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090984
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37760
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DR. HOUSE" tvg-logo="http://atlantis-mx.com/logos/drhouse24.png" group-title="24-7 ESP",DR. HOUSE
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090997
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/54925
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL PRINCIPE DEL RAP" tvg-logo="http://atlantis-mx.com/logos/principe24.png" group-title="24-7 ESP",EL PRINCIPE DEL RAP
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091003
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37799
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/320px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" group-title="24-7 ESP",DRAGON BALL
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58082
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Logo_Dragon_Ball_Z.jpg" group-title="24-7 ESP",DRAGON BALL Z
-http://sdmx.us:25461/Manuelf1303/Qmqak2ubbyuW/2133668
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37826
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/320px-Dragon_Ball_GT_logo.png" group-title="24-7 ESP",DRAGON BALL GT
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35529
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/320px-Dragon_Ball_Super.png" group-title="24-7 ESP",DRAGON BALL SUPER
-http://sdmx.us:25461/Manuelf1303/Qmqak2ubbyuW/2091000
+http://sdmx.us:25461/belfast/belfast/2091000
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAILOR MOON" tvg-logo="http://l3d.us:25461/images/2510c39011c5be704182423e3a695e91.png" group-title="24-7 ESP",SAILOR MOON
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50636
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHESPIRITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/250px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24-7 ESP",CHESPIRITO
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090979
+http://sdmx.us:25461/belfast/belfast/2090979
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WALKER TEXAS RANGER" tvg-logo="https://www.insp.com/content/uploads/2014/11/20-DCSM-0622_Showpage_eBanners-WalkerTR440x175-PNG.png" group-title="24-7 ESP",WALKER TEXAS RANGER
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37762
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA NIÑERA" tvg-logo="https://i.pinimg.com/originals/d6/28/71/d62871685a4f530422074d98f11b49ab.png" group-title="24-7 ESP",LA NIÑERA
@@ -2993,24 +2999,23 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090977
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BONANZA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Bonanza_title_screen.jpg" group-title="24-7 ESP",BONANZA
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37820
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMANIACS" tvg-logo="https://i.ebayimg.com/images/g/rZgAAOSwX~dWhVH2/s-l400.jpg" group-title="24-7 ESP",ANIMANIACS
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFLW8Ft81e3vSesORFQwflvc/ts
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37879
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESCANDALOSOS" tvg-logo="http://l3d.us:25461/images/16c9583aee76a0d5cd47ff3dbadaf44b.png" group-title="24-7 ESP",ESCANDALOSOS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090886
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOONEY TUNES" tvg-logo="http://l3d.us:25461/images/20dfd75ca4f98a6a7e105b9f29f240df.png" group-title="24-7 ESP",LOONEY TUNES
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090899
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37848
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINKY Y CEREBRO" tvg-logo="http://l3d.us:25461/images/8fa14cdd754f91cc6554c9e71929cce7.png" group-title="24-7 ESP",PINKY Y CEREBRO
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090901
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CABALLEROS DEL ZODÍACO" tvg-logo="https://www.pngitem.com/pimgs/m/10-102597_caballeros-del-zodiaco-logo-png-transparent-png.png" group-title="24-7 ESP",CABALLEROS DEL ZODÍACO
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37815
-http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/9924
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CORAGE PERRO COBARDE" tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" group-title="24-7 ESP",CORAGE PERRO COBARDE
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090877
+http://sdmx.us:25461/belfast/belfast/2090877
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMALLVILLE" tvg-logo="https://imgur.com/kDmMnd7.png" group-title="24-7 ESP",SMALLVILEE
-http://sdmx.us:25461/Manuelf1303/Qmqak2ubbyuW/2091024
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37928
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPEER AGENTE 86" tvg-logo="https://i.imgur.com/F4G1mA5.png" group-title="24-7 ESP",SUPER AGENTE 86
-http://sdmx.us:25461/Manuelf1303/Qmqak2ubbyuW/2133394
+http://sdmx.us:25461/belfast/belfast/2133394
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MR.BEAN" tvg-logo="https://i.imgur.com/n4vay5W.png" group-title="24-7 ESP",MR. BEAN
-http://sdmx.us:25461/Manuelf1303/Qmqak2ubbyuW/2090988
+http://sdmx.us:25461/belfast/belfast/2090988
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COYOTE Y CORRECAMINOS" tvg-logo="https://imgur.com/hXZ1zWc.png" group-title="24-7 ESP",COYOTE Y CORRECAMINOS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090952
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRES POR TRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Full_House_1987_TV_series_logo.png/320px-Full_House_1987_TV_series_logo.png" group-title="24-7 ESP",TRES POR TRES
@@ -3020,17 +3025,17 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/130648
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOCOS ADDAMS" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/eb99f5147464769.Y3JvcCwxNzM4LDEzNjAsMTI5LDA.png" group-title="24-7 ESP",LOCOS ADDAMS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090981
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HÉRCULES LOS VIAJES LEGENDARIOS" tvg-logo="https://pics.filmaffinity.com/H_rcules_Sus_viajes_legendarios_Serie_de_TV-707865505-mmed.jpg" group-title="24-7 ESP",HÉRCULES LOS VIAJES LEGENDARIOS
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090983
+http://sdmx.us:25461/belfast/belfast/2090983
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XENA PRINCESA GUERRERA" tvg-logo="https://i.imgur.com/724M2Si.png" group-title="24-7 ESP",XENA PRINCESA GUERRERA
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37781
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS PADRINOS MÁGICOS" tvg-logo="http://l3d.us:25461/images/6d2bbf8de91f746e82c8d55715374780.png" group-title="24-7 ESP",LOS PADRINOS MÁGICOS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090909
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS SÚPERSÓNICOS" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="24-7 ESP",LOS SÚPERSÓNICOS
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090990
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAS NUEVAS AVENTURAS DE SUPERMAN" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/93/13/90/20237886.jpg" group-title="24-7 ESP",LAS NUEVAS AVENTURAS DE SUPERMAN
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMR8DfRNByklpkThaoUUIhU/ts
+http://sdmx.us:25461/belfast/belfast/2090990
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BATMAN LA SERIE ANIMADA" tvg-logo="https://i.postimg.cc/8PLD7SNZ/Animatedprint-Logo.png" group-title="24-7 ESP",BATMAN LA SERIE ANIMADA
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37868
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JOHNNY BRAVO" tvg-logo="https://seeklogo.com/images/J/Johnny_Bravo-logo-B4650E511E-seeklogo.com.png" group-title="24-7 ESP",JOHNNY BRAVO
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090888
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XENA PRINCESA GUERRERA" tvg-logo="https://i.imgur.com/724M2Si.png" group-title="24-7 ESP",XENA PRINCESA GUERRERA
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37781
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE BIG BANG THEORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/194px-TBBT_logo.svg.png" group-title="24-7 ESP",THE BIG BANG THEORY
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091018
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RICK & MORTY (ESP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rick_and_Morty.svg/320px-Rick_and_Morty.svg.png" group-title="24-7 ESP",RICK & MORTY (ESP)
@@ -3102,9 +3107,9 @@ http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/290291
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED LIPS" tvg-logo="https://i.postimg.cc/bvXcYYrN/image.png" group-title="ADULTOS",RED LIPS
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/296761
 #EXTINF:-1 tvg-id="Playboy.TV.Latin.America.&amp;.Iberia.(PLBOY).[959].cr" tvg-name="PLAYBOY LATINO" tvg-logo="https://imgur.com/GvREfzT.png" group-title="ADULTOS",PLAYBOY LATINO
-http://204.199.132.195:50000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="Venus.International.(VENUS).[1032].cr" tvg-name="VENUS" tvg-logo="https://i.postimg.cc/RCgs8Nvx/100px-Canal-Venus-logo-svg.png" group-title="ADULTOS",VENUS
 http://190.83.119.67:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="Venus.International.(VENUS).[1032].cr" tvg-name="VENUS" tvg-logo="https://i.postimg.cc/RCgs8Nvx/100px-Canal-Venus-logo-svg.png" group-title="ADULTOS",VENUS
+http://190.83.119.67:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EROXXX" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Eroxxx_HD_logo.png" group-title="ADULTOS",EROXXX
 http://tv.a1promediastream.com:25461/0848592/8416758/18571
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAZZERS" tvg-logo="https://i.postimg.cc/630jBQRR/image.png" group-title="ADULTOS",BRAZZERS
@@ -3129,9 +3134,9 @@ http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/296985
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/6028
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT 1" tvg-logo="https://imgur.com/RzaggSV.png" group-title="ADULTOS",HOT 1
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54348.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XMO" tvg-logo="https://i.imgur.com/Luc5hP6.jpg" group-title="ADULTOS",HOT 2
-http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/291250
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XMO" tvg-logo="https://i.imgur.com/i8ANSw1.jpg" group-title="ADULTOS",HOT 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT 2" tvg-logo="https://i.imgur.com/Luc5hP6.jpg" group-title="ADULTOS",HOT 2
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/290031
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT 3" tvg-logo="https://i.imgur.com/i8ANSw1.jpg" group-title="ADULTOS",HOT 3
 http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/291244
 #EXTINF:-1 tvg-id="Sextreme.(SEXTR).[962].cr" tvg-name="SUPERONE" tvg-logo="https://picon.ml/super-one.png" group-title="ADULTOS",SUPERONE
 http://84.17.61.203:8086/udp/238.2.25.83:1234
@@ -3146,7 +3151,7 @@ http://84.17.61.203:8086/udp/229.157.5.208:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALBA" tvg-logo="https://i.imgur.com/DEVIToO.png" group-title="ADULTOS",ALBA
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/8311
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BABES" tvg-logo="https://imgur.com/lp5XXG5.png" group-title="ADULTOS",BABES
-http://tv.a1promediastream.com:25461/0848592/8416758/15598
+http://tv.a1promediastream.com:25461/0848592/8416758/15677
 #EXTINF:-1 tvg-id="" tvg-name="BRASILERIHNAS" tvg-logo="https://imgur.com/pIpL6xY.png" group-title="ADULTOS",BRASILERINHAS
 http://lishb.com:8080/7924193672/8245089073/961699
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT TV 1" tvg-logo="https://i.imgur.com/t9DjnV7.jpg" group-title="ADULTOS",ADULT TV 1
@@ -3174,18 +3179,18 @@ http://mrtstream44.starspanel.xyz:8080/live/yunus2012/44312/4099.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 3" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 3
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54311.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 4" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 4
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54482.ts
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/296975
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 5" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 5
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54489.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 6" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 6
 http://mrtstream44.starspanel.xyz:8080/live/yunus2012/44312/4175.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 7" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 7" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 7
 http://mrtstream44.starspanel.xyz:8080/live/yunus2012/44312/4103.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 8" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 10
-http://zyon4.syscdn.xyz:8080/live/alexia8181/alexia24052022/619561.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 9" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 11
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 8" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 8
+http://zyon4.syscdn.xyz:8080/live/alexia8181/alexia24052022/619561
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 9" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 9
 http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54486.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 10" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 10" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 10
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765088.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 11" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 11
 http://zyon4.syscdn.xyz:8080/live/alexia8181/alexia24052022/619562.ts
