@@ -730,17 +730,11 @@ http://45.190.13.50:8003/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="Warner.Channel.HDTV.(Andes).(WARNERHD).[846].cr" tvg-name="WARNER SD | Panreg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png" group-title="CINE Y SERIES 2",WARNER | Panreg
 http://45.5.118.213:16000/play/a0mz/index.m3u8
 #EXTINF:-1 tvg-id="Warner.Channel.HDTV.(Andes).(WARNERHD).[846].cr" tvg-name="WARNER HD | Panreg" tvg-logo="https://i.postimg.cc/pTYrsXMg/Warner-Channel-HD.webp" group-title="CINE Y SERIES 2",WARNER HD | Panreg
-http://190.83.119.67:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="Warner.Hd.cl" tvg-name="WARNER | Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png" group-title="CINE Y SERIES 2",WARNER | Chile
-https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
+http://190.83.119.67:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Centro.America.feed).(SONY).[5].cr" tvg-name="SONY SD | Centro" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel.png" group-title="CINE Y SERIES 2",SONY | Centro
 http://45.228.232.204:16000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="Sony.Entertainment.Television.HDTV.(Centro.America.feed).(SONYHD).[931].cr" tvg-name="SONY HD | Centro" tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/19/Sony_Channel_HD_2019.png" group-title="CINE Y SERIES 2",SONY HD | Centro
 http://181.189.243.254:8000/play/a0sk/index.m3u8
-#EXTINF:-1 tvg-id="Sony.cl" tvg-name="SONY | Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel.png" group-title="CINE Y SERIES 2",SONY | Chile
-https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
-#EXTINF:-1 tvg-id="Axn.cl" tvg-name="AXN | Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png" group-title="CINE Y SERIES 2",AXN | Sur
-https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
 #EXTINF:-1 tvg-id="AXN.Latin.America.HDTV.(AXNHD).[926].cr" tvg-name="AXN SD | Andes" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png" group-title="CINE Y SERIES 2",AXN SD | Andes
 http://181.189.243.254:8000/play/a0pp/index.m3u8
 #EXTINF:-1 tvg-id="AXN.Latin.America.HDTV.(AXNHD).[926].cr" tvg-name="AXN HD | Andes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AXN_HD_Logo_2015.svg/320px-AXN_HD_Logo_2015.svg.png" group-title="CINE Y SERIES 2",AXN HD | Andes
@@ -883,7 +877,7 @@ http://45.228.232.204:16000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="Canal.DHE.HDTV.(DHEHD).do" tvg-name="DHE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe.png" group-title="CINE Y SERIES 2",DHE
 http://45.228.232.204:16000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="Universal.Cinema.HDTV.(UNICINE).do" tvg-name="UNIVERSAL+ CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ CINEMA
-http://177.93.46.167:8000/play/a00u
+http://190.83.119.67:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL.CINEMA.uy" tvg-name="UNIVERSAL+ CINEMA (op2)" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ CINEMA (op2)
 http://181.189.243.254:8000/play/a0v2/index.m3u8
 #EXTINF:-1 tvg-id="StarSeries.us" tvg-name="UNIVERSAL+ PREMIERE" tvg-logo="https://imgur.com/MeZ51m9.png" group-title="CINE Y SERIES 2",UNIVERSAL+ PREMIERE
@@ -891,7 +885,7 @@ http://181.189.243.254:8000/play/a0ui/index.m3u8
 #EXTINF:-1 tvg-id="StarSeries.us" tvg-name="UNIVERSAL+ PREMIERE | Oeste" tvg-logo="https://imgur.com/MeZ51m9.png" group-title="CINE Y SERIES 2",UNIVERSAL+ PREMIERE (op2)
 http://45.5.117.172:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-id="STAR.FUN.(STAR.FUN).co" tvg-name="UNIVERSAL+ COMEDY" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ COMEDY
-http://177.93.46.167:8000/play/a00v
+http://190.83.119.67:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL.COMEDY.uy" tvg-name="UNIVERSAL+ COMEDY (op2)" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ COMEDY (op2)
 http://190.61.102.67:8000/play/a06b
 #EXTINF:-1 tvg-id="Universal.Reality.HDTV.(UNIREA).do" tvg-name="UNIVERSAL+ REALITY" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="CINE Y SERIES 2",UNIVERSAL+ REALITY
@@ -913,11 +907,11 @@ http://200.41.79.165:8000/play/a0ht
 #EXTINF:-1 tvg-id="Cine.Latino.(Mexico.City).(CINELA).mx" tvg-name="CINE LATINO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino.png" group-title="CINE Y SERIES 2",CINE LATINO
 http://190.149.66.90:16000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.Dinamita.(DINAM)..ec" tvg-name="CINE DINAMITA" tvg-logo="https://imgur.com/w4IzEEO.png" group-title="CINE Y SERIES 2",CINE DINAMITA
-http://iptvtree.net:8080/1eae94e3/e22181ebb2/3010
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3010
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLOVER CHANNEL" tvg-logo="https://imgur.com/2ci7Vzw.png" group-title="CINE Y SERIES 2",CLOVER CHANNEL
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFOTcIVupHQOjPi9xgdLJoEE/ts
 #EXTINF:-1 tvg-id="MC.(Multicinema).(MC).mx" tvg-name="MC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mc.png" group-title="CINE Y SERIES 2",MC
-http://190.61.91.81:5000/play/a0co/index.m3u8
+http://190.83.119.67:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="Hallmark.Channel.HDTV.(East).(HALLHD).us" tvg-name="HALLMARK" tvg-logo="https://imgur.com/WuFAju1.png" group-title="CINE Y SERIES INGLÉS",HALLMARK
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
@@ -2065,7 +2059,7 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m
 #EXTINF:-1 tvg-id="Antena.3.(Internacional).(ANTENA.3).[536].cr" tvg-name="ANTENA 3 INTERNACIONAL" tvg-logo="https://i.postimg.cc/mrxd3JMB/99px-Antena-3-Internacional-logo-2017-svg.png" group-title="ESPAÑA",ANTENA 3 INTERNACIONAL
 http://181.189.243.254:8000/play/a0nv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTENA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA",ANTENA 3
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/117158
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/1173
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV GALICIA AMÉRICA" tvg-logo="https://th.bing.com/th/id/OIP.79DiUzpUebyD0gOVIbSuxQAAAA?pid=ImgDet&rs=1" group-title="ESPAÑA",TV GALICIA AMÉRICA
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARAGÓN TV" tvg-logo="https://media.tvalacarta.info/canales/256x256/aragontv.png" group-title="ESPAÑA",ARAGÓN TV
@@ -2476,13 +2470,14 @@ http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 https://distrib010.noisypeak.com/d/6BR5S1MENSS7CJVWNJH6/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV | Centro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png" group-title="MÚSICA",MTV | Centro
 http://190.122.186.88:8000/play/a0fd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV | Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png" group-title="MÚSICA",MTV | Sur
-https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 80s" tvg-logo="https://i.postimg.cc/XJrRgzKB/99px-MTV-80s-2020.png" group-title="MÚSICA",MTV 80s
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/19911
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 90s" tvg-logo="https://i.postimg.cc/gJqZgmVn/106px-MTV-90s-2022-svg.png" group-title="MÚSICA",MTV 90s
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/5352
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 00s SD" tvg-logo="https://i.postimg.cc/W4x1p2G9/150px-MTV-00s-remaster.png" group-title="MÚSICA",MTV 00s SD
 http://45.228.232.204:16000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 00s HD" tvg-logo="https://i.postimg.cc/W4x1p2G9/150px-MTV-00s-remaster.png" group-title="MÚSICA",MTV 00s HD
 http://190.149.66.90:16000/play/a03s/index.m3u8
-http://204.199.132.195:50000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/253px-MTV_Hits_2021.svg.png" group-title="MÚSICA",MTV HITS
 http://190.149.66.90:16000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV LIVE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv_live_hd.png" group-title="MÚSICA",MTV LIVE
@@ -3123,9 +3118,8 @@ http://84.17.61.203:8086/udp/238.2.25.83:1234
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/32056
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLACKED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Blacked.png" group-title="ADULTOS",BLACKED
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/297804
-http://tv.a1promediastream.com:25461/0848592/8416758/14743
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XMO" tvg-logo="https://i.postimg.cc/c1TT8kWx/x-mo-logo-01-2-400x400.png" group-title="ADULTOS",XMO
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54375.ts
+http://39004323588419810.onames.xyz:80/play/vi1016547/8093713821/419810.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVID RED" tvg-logo="https://i.postimg.cc/pLW11zFv/Vivid.png" group-title="ADULTOS",VIVID RED
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3989
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALBA" tvg-logo="https://i.imgur.com/DEVIToO.png" group-title="ADULTOS",ALBA
@@ -3162,30 +3156,20 @@ http://cdn.adultiptv.net/cuckold.m3u8
 http://live.reystream.us:8080/karen34xt/834vsxk5x/33345
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 2" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 2
 http://mrtstream44.starspanel.xyz:8080/live/yunus2012/44312/4099.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 5" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 5
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54489.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 6" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 6
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/76
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 7" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 7
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3324
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 8" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 8
 http://zyon4.syscdn.xyz:8080/live/alexia8181/alexia24052022/619561
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 9" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 9
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54486.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 10" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 10
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765088.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 11" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 11
 http://zyon4.syscdn.xyz:8080/live/alexia8181/alexia24052022/619562.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 12" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 12
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/146571
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 13" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 13
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54303.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 14" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 14
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3298
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 15" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 15
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54363.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 16" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 16
-http://tvprimer.cfd:8080/live/981676553736998069/9101676553736998/54432.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 17" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 17
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/297863
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 18" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 18
@@ -3196,5 +3180,3 @@ http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/297148
 http://tv.a1promediastream.com:25461/0848592/8416758/14743
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 21" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 21
 http://lishb.com:8080/7924193672/8245089073/961701
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT CLUB 24H 22" tvg-logo="https://imgur.com/5tWTCyv.png" group-title="ADULTOS",ADULT CLUB 24H 22
-http://39004323588419810.onames.xyz:80/play/vi1016547/8093713821/419810.ts
