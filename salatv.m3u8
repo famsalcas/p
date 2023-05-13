@@ -2196,7 +2196,7 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/chunk
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_globo_internacional-mediano.png" group-title="INTERNACIONAL",GLOBO
 http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/340574.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 MONDE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv5monde.png" group-title="INTERNACIONAL",TV5 MONDE
-http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/377632.ts
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/9303
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RASD TV" tvg-logo="https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200" group-title="INTERNACIONAL",RASD TV
 https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAFE 24" tvg-logo="https://www.cafetv24.it/wp-content/uploads/2021/05/logo-cafe-trasmissione_ARROTONDATO1.png" group-title="INTERNACIONAL",CAFE 24
@@ -2220,23 +2220,25 @@ https://dist4.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQxMjUzOSwiY
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DUBAI ONE" tvg-logo="https://graph.facebook.com/dubaionetv/picture?width=200&height=200" group-title="INTERNACIONAL",DUBAI ONE
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: Rai 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f24cae011b0a63d9a3c461492121154e.png" group-title="INTERNACIONAL",IT: Rai 1
-http://ky-iptv.com:80/agustin21/agustin21/175922.ts
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/898
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/320px-Rai_2_-_Logo_2016.svg.png" group-title="INTERNACIONAL",IT: Rai 2
-http://germanydnsx11.com:8000/engin223/njjuakkf/86832
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/899
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/320px-Rai_3_-_Logo_2016.svg.png" group-title="INTERNACIONAL",IT: Rai 3
-http://germanydnsx11.com:8000/engin223/njjuakkf/86835
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/1979
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: Rai 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/320px-Rai_4_-_Logo_2016.svg.png" group-title="INTERNACIONAL",IT: Rai 4
-http://germanydnsx11.com:8000/engin223/njjuakkf/86837
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/900
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/320px-BBC_One_logo_2021.svg.png" group-title="INTERNACIONAL",BBC 1
-http://germanydnsx11.com:8000/engin223/njjuakkf/86059
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/697
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/320px-BBC_One_logo_2021.svg.png" group-title="INTERNACIONAL",BBC ENTERTAINMENT
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/11663
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 4" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200" group-title="INTERNACIONAL",CHANNEL 4
-http://germanydnsx11.com:8000/engin223/njjuakkf/86072
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/1120
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/320px-ITV1_logo_%282022%29.svg.png" group-title="INTERNACIONAL",ITV 1
-http://germanydnsx11.com:8000/engin223/njjuakkf/86063
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/296931
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200" group-title="INTERNACIONAL",CGTN DOCUMENTARY
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-id="svt1.se" tvg-name="SE: SVT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b51525f9d756d5901cdcfc44ad36a7cd.png" group-title="INTERNACIONAL",SE: SVT 1
-http://germanydnsx11.com:8000/engin223/njjuakkf/85635
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b51525f9d756d5901cdcfc44ad36a7cd.png" group-title="INTERNACIONAL",SE: SVT 1
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/4584
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WORLD FASHING CHANNEL" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="INTERNACIONAL",WORLD FASHING CHANNEL
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEN'S UP TV" tvg-logo="https://64.media.tumblr.com/270a28739b52ffaf4c030126c449439b/tumblr_n0hntkV1l01ts7x0so1_400.jpg" group-title="INTERNACIONAL",MEN'S UP TV
@@ -2325,7 +2327,7 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/320px-Sky-news-logo.svg.png" group-title="NOTICIAS",SKY NEWS
 https://www.youtube.com/c/SkyNews/live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title="NOTICIAS",CNN INTERNATIONAL
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/753
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN GO" tvg-logo="https://i.imgur.com/6gSqmGr.png" group-title="NOTICIAS",CNN GO
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL JAZEERA ENGLISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzMnNdYmuus6s7FEL3tuC7iAz_14-v1dFAA&usqp=CAU" group-title="NOTICIAS",AL JAZEERA ENGLISH
