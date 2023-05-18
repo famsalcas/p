@@ -824,7 +824,7 @@ http://181.189.243.254:8000/play/a0sq/index.m3u8
 #EXTINF:-1 tvg-id="Space.HDTV.(Panamericano).(SPACEHD).[922].cr" tvg-name="SPACE | Panreg" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space.png" group-title="CINE Y SERIES 2",SPACE | Panreg
 http://181.189.243.254:8000/play/a0ph/index.m3u8
 #EXTINF:-1 tvg-id="Space.HDTV.(Panamericano).(SPACEHD).[922].cr" tvg-name="SPACE HD | Panreg" tvg-logo="https://cdn.mitvstatic.com/channels/br_space-hd_m.png" group-title="CINE Y SERIES 2",SPACE HD | Panreg
-http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/74409
+http://45.5.119.155:8000/play/a0iz/index.m3u8
 #EXTINF:-1 tvg-id="Space.cl" tvg-name="SPACE | Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space.png" group-title="CINE Y SERIES 2",SPACE | Sur
 https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 tvg-id="Studio.Universal.(Latin.America).(STUNI).[355].cr" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://imgur.com/haZeiaZ.png" group-title="CINE Y SERIES 2",STUDIO UNIVERSAL
@@ -2697,11 +2697,11 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPACE CHANNEL" tvg-logo="https://i.imgur.com/47iCsiM.png" group-title="USA",SPACE CHANNEL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CBS 2 (WCBS-DT1)" tvg-logo="https://i.postimg.cc/qBh98gNN/CBS.webp" group-title="USA",CBS (NEW YORK)
-http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/150674
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/35790
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS (ATLANTA)" tvg-logo="https://i.postimg.cc/qBh98gNN/CBS.webp" group-title="USA",CBS (ATLANTA)
-http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/281186
+http://2hubs.ddns.net:25461/BabNour/telegrramm/58485
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS" tvg-logo="https://i.postimg.cc/qBh98gNN/CBS.webp" group-title="USA",CBS
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/424635
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61137
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS WEST" tvg-logo="https://i.postimg.cc/qBh98gNN/CBS.webp" group-title="USA",CBS WEST
 http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/424636
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 ABC LAS VEGAS (KTNV)" tvg-logo="https://ewscripps.brightspotcdn.com/1a/33/e0101b564e938049fd46e65fd6f6/ktnv-app-logo.JPG" group-title="USA",13 ABC LAS VEGAS (KTNV)
@@ -3060,11 +3060,11 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLUE HUSTLER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png" group-title="ADULTOS",BLUE HUSTLER
-http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/37296
+http://46.166.171.183:8080/Viejo1/hPaUPsnrIX/150648
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O-LA-LA" tvg-logo="https://imgur.com/Syrk3A5.png" group-title="ADULTOS",O-LA-LA
 http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/36535
 #EXTINF:-1 tvg-id="" tvg-name="FRENCH LOVER" tvg-logo="https://imgur.com/ZCXVqGp.png" group-title="ADULTOS",FRENCH LOVER
-http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3334
+http://46.166.171.183:8080/Viejo1/hPaUPsnrIX/150640
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шалун TB" tvg-logo="https://i.postimg.cc/3x0NbwzK/image.png" group-title="ADULTOS",Шалун TB
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/290291
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED LIPS" tvg-logo="https://i.postimg.cc/bvXcYYrN/image.png" group-title="ADULTOS",RED LIPS
@@ -3080,7 +3080,7 @@ http://84.17.61.203:8086/udp/229.157.5.203:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANG BROS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bang_Bros_logo.png" group-title="ADULTOS",BANG BROS
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/298244
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DORCEL TV" tvg-logo="https://i.postimg.cc/g2s1YNWr/DORCEL-TV-2012.png" group-title="ADULTOS",DORCEL TV
-http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3283
+http://46.166.171.183:8080/Viejo1/hPaUPsnrIX/150637
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEXY HOT" tvg-logo="https://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png" group-title="ADULTOS",SEXY HOT
 http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/3310
 #EXTINF:-1 tvg-id="Sextreme.(SEXTR).[962].cr" tvg-name="SEXTREME" tvg-logo="https://i.postimg.cc/j55gdbhF/Sextreme.png" group-title="ADULTOS",SEXTREME
@@ -3090,7 +3090,7 @@ http://lishb.com:8080/7924193672/8245089073/980360
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EROTIC" tvg-logo="https://imgur.com/tuUKuzI.png" group-title="ADULTOS",EROTIC
 http://tv.a1promediastream.com:25461/0848592/8416758/18572
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIVATE HD" tvg-logo="https://i.postimg.cc/VkqHK46D/PRIVATE-TV.png" group-title="ADULTOS",PRIVATE HD
-http://84.17.61.203:8086/udp/229.157.5.219:1234
+http://46.166.171.183:8080/Viejo1/hPaUPsnrIX/150659
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDLIGHT" tvg-logo="https://i.postimg.cc/MHBhqw68/Redlight-HD.png" group-title="ADULTOS",REDLIGHT
 http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/296985
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUSTLER HD" tvg-logo="https://i.postimg.cc/NfrnHQwh/HUSTLER-TV-HD.png" group-title="ADULTOS",HUSTLER HD
@@ -3102,15 +3102,15 @@ http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/290031
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT 3" tvg-logo="https://i.imgur.com/i8ANSw1.jpg" group-title="ADULTOS",HOT 3
 http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/291244
 #EXTINF:-1 tvg-id="Sextreme.(SEXTR).[962].cr" tvg-name="SUPERONE" tvg-logo="https://picon.ml/super-one.png" group-title="ADULTOS",SUPERONE
-http://84.17.61.203:8086/udp/238.2.25.83:1234
+http://46.166.171.183:8080/Viejo1/hPaUPsnrIX/113324
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PENTHOUSE" tvg-logo="" group-title="ADULTOS",PENTHOUSE
-http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/32056
+http://46.166.171.183:8080/Viejo1/hPaUPsnrIX/150656
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLACKED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Blacked.png" group-title="ADULTOS",BLACKED
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/297804
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XMO" tvg-logo="https://i.postimg.cc/c1TT8kWx/x-mo-logo-01-2-400x400.png" group-title="ADULTOS",XMO
 http://39004323588419810.onames.xyz:80/play/vi1016547/8093713821/419810.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVID RED" tvg-logo="https://i.postimg.cc/pLW11zFv/Vivid.png" group-title="ADULTOS",VIVID RED
-http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/3989
+http://46.166.171.183:8080/Viejo1/hPaUPsnrIX/150662
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALBA" tvg-logo="https://i.imgur.com/DEVIToO.png" group-title="ADULTOS",ALBA
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/8311
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BABES" tvg-logo="https://imgur.com/lp5XXG5.png" group-title="ADULTOS",BABES
