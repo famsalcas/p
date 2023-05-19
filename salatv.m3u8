@@ -63,7 +63,7 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-name="NICOYA TV" tvg-logo="https://i.imgur.com/Xb22Xnz.png" group-title="COSTA RICA",NICOYA TV
 http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
 #EXTINF:-1 tvg-id="HBTVTicaVision.cr" tvg-name="TICAVISIÓN" tvg-logo="https://i.imgur.com/GRLDuNv.png" group-title="COSTA RICA",TICAVISIÓN
-https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/chunklist.m3u8
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="COLOSAL" tvg-logo="https://imgur.com/rqZ30Vu.png" group-title="COSTA RICA",COLOSAL
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="Asamblea.Legislativa.(ASAM).[52].cr" tvg-name="ASAMBLEA LEGISLATIVA" tvg-logo="https://imgur.com/jhuy27B.png" group-title="COSTA RICA",ASAMBLEA LEGISLATIVA
@@ -2021,8 +2021,7 @@ http://tvpanel.one:80/live/Fenix/DDD19PPP80/769449.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIVISIÓN | CUBA" tvg-logo="https://i.postimg.cc/PxjBp1zJ/250px-Multivisi-n-Cuba-svg.png" group-title="NORTEAMERICA",MULTIVISIÓN | CUBA
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE REBELDE | CUBA" tvg-logo="https://i.postimg.cc/TPzCpGxc/Telerebelde2011.png" group-title="NORTEAMERICA",TELE REBELDE | CUBA
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/769450.ts
-
+http://4L2e9ljsmw3pGXTJAWdMFU.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=3790&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMADRID" tvg-logo="https://i.postimg.cc/nLkLY85D/320px-Tele-Madrid-svg.png" group-title="ESPAÑA",TELEMADRID
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA OTRA TV" tvg-logo="https://i.postimg.cc/FsVsQXrn/170px-La-Otra-Logo.png" group-title="ESPAÑA",LA OTRA TV
@@ -2124,13 +2123,13 @@ https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/m
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA FABRICA TV" tvg-logo="https://i.postimg.cc/xd8bhK4V/LA-FABRICA-TV-ESP.png" group-title="ESPAÑA",LA FABRICA TV
 https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CUATRO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cuatro_de_espana.png" group-title="ESPAÑA",CUATRO
-http://51.91.8.161:18000/Cuatro/hls/playlist.m3u8
+http://ztlvZeLUHhAqQuSROW0cGV.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=351&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINCO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telecinco.png" group-title="ESPAÑA",TELECINCO
-http://51.91.8.161:18000/Telecinco/hls/playlist.m3u8
+http://KrxzLCYWEAc5HQqZds8Rma.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=3814&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA SEXTA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/la_sexta.png" group-title="ESPAÑA",LA SEXTA
-http://51.91.8.161:18000/La_Sexta/hls/playlist.m3u8
+http://vx8HNZ9sGVt3QAXfqKdjBe.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=356&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana.png" group-title="ESPAÑA",FOX ESPAÑA
-http://51.91.8.161:18000/Fox/hls/playlist.m3u8
+http://abvhJHw2Qx1BsP8kyjEO6e.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=353&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN WHITE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn_white.png" group-title="ESPAÑA",AXN WHITE
 http://944973747995321116.niceadom.xyz:80/play/1237/1237/321116.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN (ES)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png" group-title="ESPAÑA",AXN (ES)
@@ -2146,7 +2145,7 @@ http://iptvtree.net:8080/gerard/7cc1edb4/2217
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mega_espana.png" group-title="ESPAÑA",MEGA
 http://iptvtree.net:8080/gerard/7cc1edb4/2190
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CALLE 13" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/calle_13.png" group-title="ESPAÑA",CALLE 13
-http://51.91.8.161:18000/Calle_13/hls/playlist.m3u8
+http://HIwgneZM42QNmBqfSyCAtu.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=350&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEOX" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/neox.png" group-title="ESPAÑA",NEOX
 http://iptvtree.net:8080/gerard/7cc1edb4/2208
 
@@ -2828,40 +2827,30 @@ http://tv.a1promediastream.com:25461/0848592/8416758/2408
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090942
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE CANTINFLAS" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE CANTINFLAS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090937
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ESTRENOS" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE ESTRENOS
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2133347
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE TERROR" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE TERROR
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090933
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE COMEDIA" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE COMEDIA
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090925
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ACCIÓN" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE ACCIÓN
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090917
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ROMANCE" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE ROMANCE
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090931
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 1" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 1
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210808
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 2" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 2
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210809
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 3" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 3
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210810
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 5" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 5
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210812
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 6" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 6
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210813
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 8" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 8
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210814
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 9" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 9
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210816
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 10" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 10
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210817
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 11" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 11
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210818
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 12" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 12
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/210822
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 13" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 13
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/203983
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 14" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 14
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090917
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA LATINO 1" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA LATINO 1
+http://VFIne9YMApr4QUHwBhx1Wy.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26167&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA LATINO 2" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA LATINO 2
+http://Mk5UFIV3pAyqN0Qd1Xwlin.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26168&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA LATINO 3" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA LATINO 3
+http://VJOePbcwdBufYo19EUSLWH.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26169&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA LATINO 4" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA LATINO 4
+http://eVyLKNXnSbdZJRuA9wTsqx.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26170&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA LATINO 5" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA LATINO 5
+http://b4G7nRs9OPwkLr1E3DYlij.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26216&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA LATINO 6" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA LATINO 6
+http://SCoMRdzq0279FkGjmP5aQf.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26217&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA LATINO 7" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA LATINO 7
+http://tf14r6oLOSbaMuVQCw0sX5.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26218&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRENO ACCIÓN" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",ESTRENOS ACCIÓN
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/144548
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRENOS AVETURA" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",ESTRENOS AVENTURA
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/144550
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRENOS CIENCIA FICCIÓN" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",ESTRENOS CIENCIA FICCIÓN
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/144551
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRENOS ANIMACIÓN" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",ESTRENOS ANIMACIÓN
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/144552
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRENOS FAMILIAR" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",ESTRENOS FAMILIAR
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/144554
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 15" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 15
 http://BdotLJIT7nY2RAgbpk4KZh.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26660&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 16" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 16
@@ -2933,28 +2922,32 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b5950b515b000079e6b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CURRO JIMÉNEZ" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="24-7 ESP",CURRO JIMÉNEZ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Alfintro.jpg" group-title="24-7 ESP",ALF
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37766
 #EXTINF:-1 channel-id="" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-chno="" tvg-name="AMC EN ESPAÑOL" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="24-7 ESP",AMC EN ESPAÑOL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NCIS" tvg-logo="https://i.postimg.cc/Z5wCXZZc/png-clipart-michael-weatherly-ncis-los-angeles-special-agent-anthony-dinozzo-ziva-david-ncis-team-fi.png" group-title="24-7 ESP",NCIS
+http://tb8hRxkcFLO2r5w4pTusjG.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26358&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRIENDS" tvg-logo="http://atlantis-mx.com/logos/friends.png" group-title="24-7 ESP",FRIENDS
 http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37800
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS AÑOS MARAVILLOSOS" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="24-7 ESP",LOS AÑOS MARAVILLOSOS
 http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37760
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Alfintro.jpg" group-title="24-7 ESP",ALF
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37766
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DR. HOUSE" tvg-logo="http://atlantis-mx.com/logos/drhouse24.png" group-title="24-7 ESP",DR. HOUSE
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/54925
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/54925
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL PRINCIPE DEL RAP" tvg-logo="http://atlantis-mx.com/logos/principe24.png" group-title="24-7 ESP",EL PRINCIPE DEL RAP
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37799
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/37799
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/320px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" group-title="24-7 ESP",DRAGON BALL
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58082
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Logo_Dragon_Ball_Z.jpg" group-title="24-7 ESP",DRAGON BALL Z
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37826
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/37813
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/320px-Dragon_Ball_GT_logo.png" group-title="24-7 ESP",DRAGON BALL GT
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35529
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/320px-Dragon_Ball_Super.png" group-title="24-7 ESP",DRAGON BALL SUPER
 http://sdmx.us:25461/belfast/belfast/2091000
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAILOR MOON" tvg-logo="http://l3d.us:25461/images/2510c39011c5be704182423e3a695e91.png" group-title="24-7 ESP",SAILOR MOON
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50636
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAKURA CARD CAPTOR" tvg-logo="https://i.postimg.cc/rmbWKbj5/Sakura-Card-Captor.png" group-title="24-7 ESP",SAKURA CARD CAPTOR
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/37844
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHESPIRITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/250px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24-7 ESP",CHESPIRITO
 http://sdmx.us:25461/belfast/belfast/2090979
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WALKER TEXAS RANGER" tvg-logo="https://www.insp.com/content/uploads/2014/11/20-DCSM-0622_Showpage_eBanners-WalkerTR440x175-PNG.png" group-title="24-7 ESP",WALKER TEXAS RANGER
@@ -2964,11 +2957,11 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090977
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BONANZA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Bonanza_title_screen.jpg" group-title="24-7 ESP",BONANZA
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37820
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMANIACS" tvg-logo="https://i.ebayimg.com/images/g/rZgAAOSwX~dWhVH2/s-l400.jpg" group-title="24-7 ESP",ANIMANIACS
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37879
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/37879
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESCANDALOSOS" tvg-logo="http://l3d.us:25461/images/16c9583aee76a0d5cd47ff3dbadaf44b.png" group-title="24-7 ESP",ESCANDALOSOS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090886
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOONEY TUNES" tvg-logo="http://l3d.us:25461/images/20dfd75ca4f98a6a7e105b9f29f240df.png" group-title="24-7 ESP",LOONEY TUNES
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37848
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/37848
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PINKY Y CEREBRO" tvg-logo="http://l3d.us:25461/images/8fa14cdd754f91cc6554c9e71929cce7.png" group-title="24-7 ESP",PINKY Y CEREBRO
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090901
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CABALLEROS DEL ZODÍACO" tvg-logo="https://www.pngitem.com/pimgs/m/10-102597_caballeros-del-zodiaco-logo-png-transparent-png.png" group-title="24-7 ESP",CABALLEROS DEL ZODÍACO
@@ -2976,17 +2969,15 @@ http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37815
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CORAGE PERRO COBARDE" tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" group-title="24-7 ESP",CORAGE PERRO COBARDE
 http://sdmx.us:25461/belfast/belfast/2090877
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMALLVILLE" tvg-logo="https://imgur.com/kDmMnd7.png" group-title="24-7 ESP",SMALLVILEE
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/37928
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/37928
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPEER AGENTE 86" tvg-logo="https://i.imgur.com/F4G1mA5.png" group-title="24-7 ESP",SUPER AGENTE 86
 http://sdmx.us:25461/belfast/belfast/2133394
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MR.BEAN" tvg-logo="https://i.imgur.com/n4vay5W.png" group-title="24-7 ESP",MR. BEAN
 http://sdmx.us:25461/belfast/belfast/2090988
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COYOTE Y CORRECAMINOS" tvg-logo="https://imgur.com/hXZ1zWc.png" group-title="24-7 ESP",COYOTE Y CORRECAMINOS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090952
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRES POR TRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Full_House_1987_TV_series_logo.png/320px-Full_House_1987_TV_series_logo.png" group-title="24-7 ESP",TRES POR TRES
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFDtxSAg0jamUqDRTZcgi84Q/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/320px-Futurama_1999_logo.svg.png" group-title="24-7 ESP",FUTURAMA
-http://playhispano.org:25461/tv5full/ORuTvDJARP/130648
+http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/37835
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOCOS ADDAMS" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/eb99f5147464769.Y3JvcCwxNzM4LDEzNjAsMTI5LDA.png" group-title="24-7 ESP",LOCOS ADDAMS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090981
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HÉRCULES LOS VIAJES LEGENDARIOS" tvg-logo="https://pics.filmaffinity.com/H_rcules_Sus_viajes_legendarios_Serie_de_TV-707865505-mmed.jpg" group-title="24-7 ESP",HÉRCULES LOS VIAJES LEGENDARIOS
@@ -3015,8 +3006,22 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49203
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/54954
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FAMILIA INGALLS" tvg-logo="https://www.diariodecultura.com.ar/wp-content/uploads/2020/05/ew.png" group-title="24-7 ESP",FAMILIA INGALLS
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37809
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMALLVILLE" tvg-logo="https://images.uncyclomedia.co/inciclopedia/es/3/3e/LTC.jpg" group-title="24-7 ESP",SMALLVILLE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HAWAII 5-0" tvg-logo="https://i.postimg.cc/dVryfg3N/png-clipart-hawaii-five-folder-icon-hawaii-five-3.png" group-title="24-7 ESP",HAWAII 5-0
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091024
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NCIS: LOS ANGELES" tvg-logo="https://i.postimg.cc/MpnnkNTJ/442-4426147-ncis-los-angeles-2-ncis-los-angeles-logo.jpg" group-title="24-7 ESP",NCIS: LOS ANGELES
+http://P13kSKU0hrlMoTseZD7OE5.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26359&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BONES" tvg-logo="https://i.postimg.cc/G2wKTvN9/235-2359354-bones-e3-bones-tv-show-png.jpg" group-title="24-7 ESP",BONES
+http://roEhK4sbW7AY8jGyBNxq3l.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26350&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTACIÓN 19" tvg-logo="https://i.postimg.cc/6p6pwSpp/png-clipart-station-19-folder-icon-station-19-folder-icon-thumbnail.png" group-title="24-7 ESP",ESTACIÓN 19
+http://aMyBz0X3gRDowfLdlc7bue.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26279&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEXTER" tvg-logo="https://i.postimg.cc/43cchdr3/png-transparent-dexter-morgan-television-show-dexter-music-from-the-showtime-original-series-dexter.png" group-title="24-7 ESP",DEXTER
+http://3S0BPvRHuCwh25dyD79Azs.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26613&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MR. ROBOT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mr._Robot_Logo.svg/1985px-Mr._Robot_Logo.svg.png" group-title="24-7 ESP",MR. ROBOT
+http://EzhO7sCDXSxwmVolUuTaqj.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26614&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALERTA AEROPUERTO" tvg-logo="https://surtido.pe/wp-content/uploads/2019/08/alerta-aeropuerto-temporada-2019-Espa%C3%B1a-nat-geo-280x150.jpg" group-title="24-7 ESP",ALERTA AEROPUERTO
+http://sHCuzh1EwfRB4580kFbe7N.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26596&t=live&f=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEE" tvg-logo="https://i.postimg.cc/HnbHwGTX/See-TV-series-poster.jpg" group-title="24-7 ESP",SEE
+http://ySbPHCq91iNorBj23U0sAc.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26604&t=live&f=ts
 
 #EXTINF:-1 tvg-id="Survivor.us" tvg-name="SURVIVOR" tvg-logo="https://i.postimg.cc/fLVb7VKj/250px-400px-Survivor-borneo-logo.png" group-title="24-7 ENG",SURVIVOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=296&deviceId=5f21e7b24744c60007c1f6fc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
