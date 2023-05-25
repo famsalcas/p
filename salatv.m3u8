@@ -376,6 +376,8 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE NATURE ESPAÑOL" tvg-logo="https://i.imgur.com/bpHH6Wj.png" group-title="CULTURA Y ESTILOS",LOVE NATURE ESPAÑOL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE NATURE ESPAÑOL LAT" tvg-logo="https://i.postimg.cc/25v1yH08/love-nature-logo-white-rgb.png" group-title="CULTURA Y ESTILOS",LOVE NATURE LAT
+http://190.90.251.194:8921/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXPLORER" tvg-logo="https://i.postimg.cc/prRC4SYc/EXPLORE-ESP.png" group-title="CULTURA Y ESTILOS",EXPLORER
 https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Â¡Hola!.TV.HDTV.(US).(HOLAHD).[933].cr" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hola_tv.png" group-title="CULTURA Y ESTILOS",HOLA TV
@@ -384,7 +386,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLATZI" tvg-logo="https://imgur.com/fLPfoYb.png" group-title="CULTURA Y ESTILOS",PLATZI
 https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/5ba02fd50f8c3d0d79f7a665/playout/index-v1-a1.m3u8?aid=512e13acaca1ebcd2f000279&uid=iLyMT7WchWzmyhnsHMpEMgDtsVGZkOh3&sid=lse3WxRgryDbnPSRTHJ7BhagdglkcUL0&pid=p2MUGNMhJqmAS5X79CqBCPddw1oBwgKB&ref=https%3A%2F%2Fplatzi.com%2Flive%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1658449469118&ot=0HZkIAFCYjPA657wC_1vuA&proto=https&pz=us
-#EXTINF:-1 tvg-id="Classic.and.Arts.(ARTS).mx" tvg-name="CLASSIC ARTS SHOWCASE" tvg-logo="https://i.postimg.cc/DZMYtZH3/Artschannel.png" group-title="CULTURA Y ESTILOS",CLASSIC ARTS SHOWCASE
+#EXTINF:-1 tvg-id="Classic.and.Arts.(ARTS).mx" tvg-name="CLASSIC ARTS SHOWCASE" tvg-logo="https://imgur.com/hfNzgzD.png" group-title="CULTURA Y ESTILOS",CLASSIC ARTS SHOWCASE
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STINGRAY CLASSICA" tvg-logo="https://graph.facebook.com/StingrayClassica/picture?width=200&height=200" group-title="CULTURA Y ESTILOS",STINGRAY CLASSICA
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
@@ -562,7 +564,7 @@ https://inliveserver.com:1936/10016/10016/chunklist_w1524846218.m3u8
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY TIME MÉXICO" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="CINE Y SERIES 1",MY TIME MÉXICO
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TU CINE" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="CINE Y SERIES 1",TU CINE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TU CINE" tvg-logo="https://i.postimg.cc/1trZpKMq/TUCINE-ESP.png" group-title="CINE Y SERIES 1",TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANCIONERO" tvg-logo="https://th.bing.com/th/id/OIP.EXeoMB9iMLoNr6vuOXsWRgHaEc?w=296&h=180&c=7&o=5&dpr=1.1&pid=1.7" group-title="CINE Y SERIES 1",CANCIONERO
 http://89.140.229.4/hls1/cancionero.m3u8
@@ -582,13 +584,13 @@ http://181.78.27.188:5350/play/a00d
 http://190.61.102.67:8000/play/a013
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA+" tvg-logo="https://i.postimg.cc/T3qkN1z5/cinema-mas.png" group-title="CINE Y SERIES 1",CINEMA+
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CineReal.us" tvg-name="CINE REAL" tvg-logo="https://latinartv.com/sites/default/files/logos/cine-real.jpg" group-title="CINE Y SERIES 1",CINE REAL
+#EXTINF:-1 tvg-id="CineReal.us" tvg-name="CINE REAL" tvg-logo="https://i.postimg.cc/fyjzHNKB/CINE-REAL.png" group-title="CINE Y SERIES 1",CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-#EXTINF:-1 tvg-id="JuntosTV.us" tvg-name="JUNTOS" tvg-logo="https://global-uploads.webflow.com/6168435e70360dd423a7786f/6206ac45702ca3a7d1f56df6_Juntos_RS.png" group-title="CINE Y SERIES 1",JUNTOS
+#EXTINF:-1 tvg-id="JuntosTV.us" tvg-name="JUNTOS" tvg-logo="https://i.postimg.cc/3wcgxs8R/JUNTOS-ESP.png" group-title="CINE Y SERIES 1",JUNTOS
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOP CINE" tvg-logo="https://i.imgur.com/vpv1LdI.png" group-title="CINE Y SERIES 1",TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-id="Chiquilines.us" tvg-name="CHIQUILINES" tvg-logo="https://www.bing.com/th?id=AMMS_049935a96482c529916d1dd82fff34f5&w=110&h=110&c=7&rs=1&qlt=80&o=6&dpr=1.1&pid=SANGAM" group-title="CINE Y SERIES 1",CHIQUILINES
+#EXTINF:-1 tvg-id="Chiquilines.us" tvg-name="CHIQUILINES" tvg-logo="https://i.postimg.cc/jjVKknzq/CHIQUILINES.png" group-title="CINE Y SERIES 1",CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-name="CINE SUREÑO" tvg-logo="https://i.imgur.com/0tHU0hC.jpg" group-title="CINE Y SERIES 1",CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
@@ -1109,7 +1111,7 @@ http://45.190.13.50:8002/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="WinSports" tvg-name="WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/320px-WinSports2022.png" group-title="DEPORTES ESPAÑOL",WIN SPORTS
 http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="DEPORTES ESPAÑOL",WIN SPORTS PLUS
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155693
+http://190.90.251.194:8921/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="FOX DEPORTES" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fb81f6d360b9559d67705424e80b7ec9.png" group-title="DEPORTES ESPAÑOL",FOX DEPORTES
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/200284
 #EXTINF:-1 tvg-id="AymSports.mx" tvg-name="AyM SPORTS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/aym_sports.png" group-title="DEPORTES ESPAÑOL",AyM SPORTS
@@ -2440,7 +2442,7 @@ http://45.228.232.204:16000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 00s HD" tvg-logo="https://i.postimg.cc/W4x1p2G9/150px-MTV-00s-remaster.png" group-title="MÚSICA",MTV 00s HD
 http://190.149.66.90:16000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/253px-MTV_Hits_2021.svg.png" group-title="MÚSICA",MTV HITS
-http://190.149.66.90:16000/play/a012/index.m3u8
+http://190.83.119.67:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV LIVE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv_live_hd.png" group-title="MÚSICA",MTV LIVE
 http://190.122.186.88:8000/play/a0ie/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VHI ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/320px-LOGO_VH1_CLASSIC.svg.png" group-title="MÚSICA",VHI ITALIA
