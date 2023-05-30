@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz#format=xmltv" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz#format=xmltv"
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="CANAL 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",CANAL 1 CR
-https://video20.klm99.com:3993/live/canal1crlive.m3u8
-#EXTINF:-1 tvg-id="Telesistema.Nacional.-.TV./.Canal.2.(CRTV2).[2].cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
+https://video20.klm99.com:3993/hybrid/play.m3u8#EXTINF:-1 tvg-id="Telesistema.Nacional.-.TV./.Canal.2.(CRTV2).[2].cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 STEREO" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="COSTA RICA",88 STEREO
 http://k3.usastreams.com/CableLatino/88stereo/chunklist.m3u8
@@ -1512,7 +1511,7 @@ http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/22125
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIVISIÓN" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png" group-title="ARGENTINA",MULTIVISIÓN
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ORIGEN TV" tvg-logo="https://i.postimg.cc/2SfKbywX/ORIGEN-TV.png" group-title="ARGENTINA-CHILE-URUGUAY",ORIGEN TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ORIGEN TV" tvg-logo="https://i.postimg.cc/2SfKbywX/ORIGEN-TV.png" group-title="CHILE",ORIGEN TV
 https://tv.streaming-chile.com:19360/origentv/origentv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGA" tvg-logo="http://i3campus.co/CONTENIDOS/wikipedia/content/i/m/2015megaoficial.png" group-title="CHILE",MEGA
 https://unlimited10-cl.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
@@ -1553,7 +1552,7 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist.m3u8
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOLIDARIA TV" tvg-logo="https://i.postimg.cc/fyz3GctJ/solidaria-tv-en-vivo-web-argentina-250x250.jpg" group-title="ARGENTINA",SOLIDARIA TV
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CIUDAD TV CHACO" tvg-logo="https://appnew.megainfoapp.com/files/1/CiudadTV-Resistencia-Chaco.jpg" group-title="ARGENTINA-CHILE-URUGUAY",CIUDAD TV CHACO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CIUDAD TV CHACO" tvg-logo="https://appnew.megainfoapp.com/files/1/CiudadTV-Resistencia-Chaco.jpg" group-title="ARGENTINA",CIUDAD TV CHACO
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w594189072.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/e/ec/20220411193921%21Logo_Canal_13_200_8.png" group-title="ARGENTINA",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -1621,7 +1620,6 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UCL" tvg-logo="https://www.ipuntotv.com/Images/UCL-logo.jpg" group-title="URUGUAY",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEO TV" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture?width=200&height=200" group-title="BOLIVIA",SEO TV
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 https://live.seo.tv.bo/live/4SEO.m3u8
@@ -1631,6 +1629,21 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 https://live.seo.tv.bo/live/6SEO.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEO TV PELICULAS" tvg-logo="https://i.imgur.com/qy0naZY.png" group-title="BOLIVIA",SEO TV PELICULAS
 https://live.seo.tv.bo/live/4SEO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE ESTRELLA" tvg-logo="https://graph.facebook.com/TeleEstrellaHDBolivia/picture?width=200&height=200" group-title="BOLIVIA",TELE ESTRELLA
+https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w140648096.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOLIVISIÓN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="BOLIVIA",BOLIVISIÓN
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOLIVIA TV" tvg-logo="https://i.imgur.com/645q7Bw.jpg" group-title="BOLIVIA",BOLIVIA TV
+http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w352402513.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOLIVIA TV" tvg-logo="https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200" group-title="BOLIVIA",BOLIVIA TV
+https://video1.getstreamhosting.com:1936/8224/8224/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="ActivaTV.pe" tvg-name="ASIRI TV" tvg-logo="https://graph.facebook.com/Asiritv/picture?width=200&height=200" group-title="BOLIVIA",ASIRI TV
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEFE BOLIVIA" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/01/LOGO-ROJO-TRANS-1.png" group-title="BOLIVIA",TELEFE BOLIVIA
+https://solo.disfrutaenlared.com:1936/telefe/telefe/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINERAMA TV" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw=w240-h480-rw" group-title="BOLIVIA",CINERAMA TV
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ActivaTV.pe" tvg-name="ACTIVA TV" tvg-logo="https://graph.facebook.com/Activatvtarapoto/picture?width=200&height=200" group-title="PERÚ",ACTIVA TV
 https://cloudvideo.servers10.com:8081/8126/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/320px-ATV_logo_2020.png" group-title="PERÚ",ATV
@@ -1640,23 +1653,9 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONDA TV" tvg-logo="https://graph.facebook.com/ODTVGO/picture?width=200&height=200" group-title="PERÚ",ONDA TV
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GENIOS TV" tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png" group-title="PERÚ",GENIOS TV
-https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOS DEL ESTE TV" tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="PARAGUAY",SOMOS DEL ESTE TV
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MITV" tvg-logo="https://i.postimg.cc/ZRHb9n2P/MI-TV-PARAGUAY.png" group-title="PARAGUAY",MITV
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNICANAL PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-3EozzddZxGk/YTYVy-VG35I/AAAAAAAAQaU/NCzsUwnlU-gYsNdfbU4Lglv7kZlLFD8WwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Unicanal%2Ben%2Bvivo.jpg" group-title="PARAGUAY",UNICANAL PARAGUAY
-http://45.55.127.106/live/unicanal_mid.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIM TV" tvg-logo="https://i.postimg.cc/vBnCw8x2/2021-04-19.jpg" group-title="PARAGUAY",LIM TV
-https://live.limplay.ml/limtv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUCESO TV" tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" group-title="PARAGUAY",SUCESO TV
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE ESTRELLA" tvg-logo="https://graph.facebook.com/TeleEstrellaHDBolivia/picture?width=200&height=200" group-title="BOLIVIA",TELE ESTRELLA
-https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w140648096.m3u8
+https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV PERÚ" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="PERÚ",TV PERÚ
 https://cdnh74.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOLIVISIÓN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="BOLIVIA",BOLIVISIÓN
-https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTARES" tvg-logo="https://graph.facebook.com/AntaresTvRadioOficial/picture?width=200&height=200" group-title="PERÚ",ANTARES
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHTV" tvg-logo="https://appnew.megainfoapp.com/files/1/bhtv.png" group-title="PERÚ",BHTV
@@ -1665,28 +1664,14 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL IPE" tvg-logo="http://www.m3u.cl/logo/83648_Canal_IPE.png" group-title="PERÚ",CANAL IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV CANAL 12" tvg-logo="https://i.postimg.cc/3wHgJVv6/rtv.png" group-title="PARAGUAY",RTV CANAL 12
-https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PANAMERICANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zAoX4ykEPUn2ihI6QlGNcqflvOBLsUCmAv0Kv_xoyBvM4QiJ" group-title="PERÚ",PANAMERICANA
 https://cdnh71.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC TV" tvg-logo="https://graph.facebook.com/ABCTVpy/picture?width=200&height=200" group-title="PARAGUAY",ABC TV
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRECE" tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" group-title="PERÚ-BOLIVIA-PARAGUAY",TRECE
-https://stream.rpc.com.py/live/trece_src.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED PAT" tvg-logo="https://graph.facebook.com/patboliviahd/picture?width=200&height=200" group-title="PERÚ-BOLIVIA-PARAGUAY",RED PAT
-https://master.tucableip.com/pat/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOLIVIA TV" tvg-logo="https://i.imgur.com/645q7Bw.jpg" group-title="BOLIVIA",BOLIVIA TV
-http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w352402513.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CABLE IMAGEN ARMSTRONG" tvg-logo="https://graph.facebook.com/CIArmstrong/picture?width=200&height=200" group-title="PERÚ",CABLE IMAGEN ARMSTRONG
 https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1169271894.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIVA TV" tvg-logo="https://i.postimg.cc/RFJW0sr0/NATIVA-TV.png" group-title="PERÚ",NATIVA TV
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOLIVIA TV" tvg-logo="https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200" group-title="BOLIVIA",BOLIVIA TV
-https://video1.getstreamhosting.com:1936/8224/8224/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC CAJAMARCA" tvg-logo="https://graph.facebook.com/cncsenaldigital/picture?width=200&height=200" group-title="PERÚ",CNC CAJAMARCA
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-id="ActivaTV.pe" tvg-name="ASIRI TV" tvg-logo="https://graph.facebook.com/Asiritv/picture?width=200&height=200" group-title="PERÚ-BOLIVIA-PARAGUAY",ASIRI TV
-https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.pe" tvg-name="ATM TELEVISIÓN" tvg-logo="https://graph.facebook.com/ATMTelevisionApurimac/picture?width=200&height=200" group-title="PERÚ",ATM TELEVISIÓN
 https://v4.tustreaming.cl/atmtv/index.m3u8
 #EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-name="BEST CABLE PERÚ" tvg-logo="https://graph.facebook.com/BestCablePeruOficial/picture?width=200&height=200" group-title="PERÚ",BEST CABLE PERÚ
@@ -1699,25 +1684,44 @@ https://ca2.inka.net.pe/bestcablemusic/tracks-v1a1/mono.m3u8
 https://ca2.inka.net.pe/mascumbiatvonline/index.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.pe" tvg-name="AMÉRICA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/america_television_peru.png" group-title="PERÚ",AMÉRICA TV
 http://181.65.154.170:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LATINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo-latina-2014.png/120px-Logo-latina-2014.png" group-title="PERÚ",LATINA
-http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/69822
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINERAMA TV" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw=w240-h480-rw" group-title="BOLIVIA",CINERAMA TV
-https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VENUS MEDIA" tvg-logo="https://i.imgur.com/kywYWuD.png" group-title="PARAGUAY",VENUS MEDIA
-https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
-#EXTINF:-1 tvg-id="CreoTV.pe" tvg-name="CREO TV" tvg-logo="https://graph.facebook.com/CanalCreoTv/picture?width=200&height=200" group-title="PERÚ",CREO TV
-https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SNT" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/snt_paraguay-mediano.png" group-title="PARAGUAY",SNT
-https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEFUTURO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",TELEFUTURO
-http://200.41.79.165:8000/play/a0hy/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERÚ CHANNEL" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="PERÚ",PERÚ CHANNEL
-https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TROPICAL TV" tvg-logo="https://i.postimg.cc/Twm7WhX8/TROPICAL-TV-PERU-ESP.png" group-title="PERÚ",TROPICAL TV
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV EN LÍNEA CUSCO" tvg-logo="https://i.postimg.cc/ZKVyN0Hd/TV-EN-LINEA-CUSCO.png" group-title="PERÚ",TV EN LÍNEA CUSCO
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUR" tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="PERÚ-BOLIVIA-PARAGUAY",SUR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LATINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo-latina-2014.png/120px-Logo-latina-2014.png" group-title="PERÚ",LATINA
+http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/69822
+#EXTINF:-1 tvg-id="CreoTV.pe" tvg-name="CREO TV" tvg-logo="https://graph.facebook.com/CanalCreoTv/picture?width=200&height=200" group-title="PERÚ",CREO TV
+https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERÚ CHANNEL" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="PERÚ",PERÚ CHANNEL
+https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLANETA TV" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png" group-title="PERÚ",PLANETA TV
+https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOS DEL ESTE TV" tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="PARAGUAY",SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MITV" tvg-logo="https://i.postimg.cc/ZRHb9n2P/MI-TV-PARAGUAY.png" group-title="PARAGUAY",MITV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNICANAL PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-3EozzddZxGk/YTYVy-VG35I/AAAAAAAAQaU/NCzsUwnlU-gYsNdfbU4Lglv7kZlLFD8WwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Unicanal%2Ben%2Bvivo.jpg" group-title="PARAGUAY",UNICANAL PARAGUAY
+http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIM TV" tvg-logo="https://i.postimg.cc/vBnCw8x2/2021-04-19.jpg" group-title="PARAGUAY",LIM TV
+https://live.limplay.ml/limtv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUCESO TV" tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" group-title="PARAGUAY",SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV CANAL 12" tvg-logo="https://i.postimg.cc/3wHgJVv6/rtv.png" group-title="PARAGUAY",RTV CANAL 12
+https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC TV" tvg-logo="https://graph.facebook.com/ABCTVpy/picture?width=200&height=200" group-title="PARAGUAY",ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRECE" tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" group-title="PARAGUAY",TRECE
+https://stream.rpc.com.py/live/trece_src.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED PAT" tvg-logo="https://graph.facebook.com/patboliviahd/picture?width=200&height=200" group-title="PARAGUAY",RED PAT
+https://master.tucableip.com/pat/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VENUS MEDIA" tvg-logo="https://i.imgur.com/kywYWuD.png" group-title="PARAGUAY",VENUS MEDIA
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SNT" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/snt_paraguay-mediano.png" group-title="PARAGUAY",SNT
+https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEFUTURO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",TELEFUTURO
+http://200.41.79.165:8000/play/a0hy/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUR" tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="PARAGUAY",SUR
 http://170.83.242.152:5350/play/a025
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRECE  (PY)" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="PARAGUAY",TRECE  (PY)
 https://streaming.trece.com.py/live/trece.m3u8
@@ -1727,10 +1731,6 @@ http://170.83.242.152:5350/play/a01o
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HECHICERA TV" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png" group-title="PERÚ",HECHICERA TV
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLANETA TV" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png" group-title="PERÚ",PLANETA TV
-https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEFE BOLIVIA" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/01/LOGO-ROJO-TRANS-1.png" group-title="BOLIVIA",TELEFE BOLIVIA
-https://solo.disfrutaenlared.com:1936/telefe/telefe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTICANAL" tvg-logo="https://imgur.com/GLCveOd.png" group-title="COLOMBIA",MULTICANAL
 https://multicanal.streamseguro.com/hls/streaming.m3u8
@@ -1742,10 +1742,6 @@ https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
 https://video13.virtualtronics.com/streamer/canal2.m3u8
 #EXTINF:-1 tvg-id="TelecafÃ©.(Telecafe).co" tvg-name="TELECAFÉ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Telecafe11.png/130px-Telecafe11.png" group-title="COLOMBIA",TELECAFÉ
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL I" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal_i.png/200px-Canal_i.png" group-title="COLOMMBIA",CANAL I
-https://vcp.myplaytv.com/canali/canali/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEAMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/320px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/121623
 #EXTINF:-1 tvg-id="Caracol.(Caracol.HD).co" tvg-name="CARACOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",CARACOL
 http://45.190.13.50:8002/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.(Caracol.HD).co" tvg-name="CARACOL op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",CARACOL op2
@@ -1764,28 +1760,58 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURAM TV" tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="COLOMBIA",SURAM TV
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTU" tvg-logo="https://graph.facebook.com/CanalRTU/picture?width=200&height=200" group-title="ECUADOR",RTU
-https://streamingwowza.com:19360/rtutv/rtutv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VE PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="VENEZUELA",VE PLUS
-http://190.122.96.187:8888/http/006
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CALI TV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png" group-title="COLOMBIA",CALI TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA TELE TUYA" tvg-logo="https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200" group-title="COLOMBIA",LA TELE TUYA
-https://vcp4.myplaytv.com/tlt-ve/17122022.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TDI COLOMBIA" tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="COLOMBIA",TDI COLOMBIA
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VENEVISIÓN" tvg-logo="https://www.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",VENEVISIÓN
-http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVC" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC
-https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
 #EXTINF:-1 tvg-id="SeÃ±al.Colombia.(SeÃ±al.Colombia.HD).co" tvg-name="SEÑAL COLOMBIA" tvg-logo="https://rtvcplay-v2.s3.amazonaws.com/s3fs-public/inline-images/Logo-Senal-Colombia.png" group-title="COLOMBIA",SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PROMAR" tvg-logo="https://www.m3u.cl/logo/146_Promar_TV.png" group-title="VENEZUELA",PROMAR
-http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TC ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tc_logo.png/120px-Tc_logo.png" group-title="ECUADOR",TC ECUADOR
-https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 #EXTINF:-1 tvg-id="Canal.Trece.(Canal.Trece).co" tvg-name="TRECE" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-logo-4378208A33-seeklogo.com.png" group-title="COLOMBIA",TRECE
 https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VISIÓN DORADA" tvg-logo="https://television-planet.tv/uploads/posts/sdvsdgsdggsdgplanet-television.png" group-title="COLOMBIA",VISIÓN DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSMOVISIÓN" tvg-logo="https://c9b8m4u3.rocketcdn.me/wp-content/uploads/2021/02/Canal-cosmovision-copy-1.png" group-title="COLOMBIA",COSMOVISIÓN
+https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE PACIFICO" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/ic3e4da461fb34b4f/version/1478234178/image.png" group-title="COLOMBIA",TELE PACIFICO
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC TULUA" tvg-logo="https://cnctulua.tv/wp-content/uploads/2022/07/cropped-CANAL-CNC-TULUA.png" group-title="COLOMBIA",CNC TULUA
+https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV AGRO" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i68da126d0ebe33bb/version/1470081080/image.png" group-title="COLOMBIA",TV AGRO
+http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w310295254.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANALNETS TV" tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png" group-title="COLOMBIA",CANALNETS TV
+https://video.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE CARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA",TELE CARIBE
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CITY TV" tvg-logo="https://cdn.mitvstatic.com/channels/0a25f3c8-0d46-465d-8705-fee139872f8b_m.jpg" group-title="COLOMBIA",CITY TV
+http://181.78.11.238:8000/play/01/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV CAPRICHO TV" tvg-logo="https://graph.facebook.com/caprichotvOficial/picture?width=200&height=200" group-title="COLOMBIA",CTV CAPRICHO TV
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUNDO+" tvg-logo="https://graph.facebook.com/canalMundomas/picture?width=200&height=200" group-title="COLOMBIA",MUNDO+
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZOOM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Canal_ZOOM_2008.png/revision/latest/scale-to-width-down/250?cb=20210501194336&path-prefix=es" group-title="COLOMBIA",ZOOM
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE ISLAS" tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/03/Teleislas.png" group-title="COLOMBIA",TELE ISLAS
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://www.caracastelevisionnetwork.com/images/logo-footer.png" group-title="COLOMBIA",CTN
+https://5bf8041cb3fed.streamlock.net/CTNTV/CTNTV/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MÁS TV" tvg-logo="https://i.postimg.cc/k4RPyrjX/MAS-TELEVISION-ESP.png" group-title="COLOMBIA",MÁS TV
+https://video.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="UNOPLAY.co" tvg-name="UNO PLAY" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="COLOMBIA",UNO PLAY
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENLACE" tvg-logo="https://graph.facebook.com/enlacetelevision/picture?width=200&height=200" group-title="COLOMBIA",ENLACE
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://teveo.com.co/player/AcAAAgAFAADLA1IAyADIQCAAAAAAAAAA.js
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL I" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal_i.png/200px-Canal_i.png" group-title="VENEZUELA",CANAL I
+https://vcp.myplaytv.com/canali/canali/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VE PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="VENEZUELA",VE PLUS
+http://190.122.96.187:8888/http/006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA TELE TUYA" tvg-logo="https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200" group-title="VENEZUELA",LA TELE TUYA
+https://vcp4.myplaytv.com/tlt-ve/17122022.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VENEVISIÓN" tvg-logo="https://www.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",VENEVISIÓN
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PROMAR" tvg-logo="https://www.m3u.cl/logo/146_Promar_TV.png" group-title="VENEZUELA",PROMAR
+http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="11 ZULIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Channel_11_%28Zulia%2C_Venezuela%29_logo.svg/150px-Channel_11_%28Zulia%2C_Venezuela%29_logo.svg.png" group-title="VENEZUELA",11 ZULIA
 http://200.6.154.43:1935/canal11/live/chunklist_w1914746883.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS MARACAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png" group-title="VENEZUELA",TVS MARACAY
@@ -1794,54 +1820,31 @@ https://vcp3.myplaytv.com/tvs/tvs/chunklist_w1221283968.m3u8
 https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARACOLA TV" tvg-logo="https://graph.facebook.com/Caracolatv/picture?width=200&height=200" group-title="VENEZUELA",CARACOLA TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL SOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXWryEQqFmWZWi5aFQmuZuaI-hx0kgk84379t0mVxb5tODqtiT7kFg4eWgVYvcpSn0N8&usqp=CAU" group-title="ECUADOR",EL SOL
-http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VISIÓN DORADA" tvg-logo="https://television-planet.tv/uploads/posts/sdvsdgsdggsdgplanet-television.png" group-title="COLOMBIA",VISIÓN DORADA
-https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEVEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="VENEZUELA",TELEVEN
 http://181.78.24.67:8010/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSMOVISIÓN" tvg-logo="https://c9b8m4u3.rocketcdn.me/wp-content/uploads/2021/02/Canal-cosmovision-copy-1.png" group-title="COLOMBIA",COSMOVISIÓN
-https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE PACIFICO" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/ic3e4da461fb34b4f/version/1478234178/image.png" group-title="COLOMBIA",TELE PACIFICO
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VENEZOLANA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/VTV_logo.PNG/320px-VTV_logo.PNG" group-title="VENEZUELA",VENEZOLANA TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEAMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/320px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/121623
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTU" tvg-logo="https://graph.facebook.com/CanalRTU/picture?width=200&height=200" group-title="ECUADOR",RTU
+https://streamingwowza.com:19360/rtutv/rtutv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVC" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC
+https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TC ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tc_logo.png/120px-Tc_logo.png" group-title="ECUADOR",TC ECUADOR
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL SOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXWryEQqFmWZWi5aFQmuZuaI-hx0kgk84379t0mVxb5tODqtiT7kFg4eWgVYvcpSn0N8&usqp=CAU" group-title="ECUADOR",EL SOL
+http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WUAN+" tvg-logo="https://graph.facebook.com/WuanPlus/picture?width=200&height=200" group-title="ECUADOR",WUAN+
 https://streamingwowza.com:1936/wuanplus/wuanplus/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC TULUA" tvg-logo="https://cnctulua.tv/wp-content/uploads/2022/07/cropped-CANAL-CNC-TULUA.png" group-title="COLOMBIA",CNC TULUA
-https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EDUCA TV" tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="ECUADOR",EDUCA TV
 https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV AGRO" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i68da126d0ebe33bb/version/1470081080/image.png" group-title="COLOMBIA",TV AGRO
-http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w310295254.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANALNETS TV" tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png" group-title="COLOMBIA-VENEZUELA-ECUADOR",CANALNETS TV
-https://video.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE CARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA",TELE CARIBE
-https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CITY TV" tvg-logo="https://cdn.mitvstatic.com/channels/0a25f3c8-0d46-465d-8705-fee139872f8b_m.jpg" group-title="COLOMBIA",CITY TV
-http://190.131.247.82:8000/play/a01m
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV CAPRICHO TV" tvg-logo="https://graph.facebook.com/caprichotvOficial/picture?width=200&height=200" group-title="COLOMBIA",CTV CAPRICHO TV
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUNDO+" tvg-logo="https://graph.facebook.com/canalMundomas/picture?width=200&height=200" group-title="COLOMBIA",MUNDO+
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENLACE" tvg-logo="https://graph.facebook.com/enlacetelevision/picture?width=200&height=200" group-title="COLOMBIA",ENLACE
-https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://teveo.com.co/player/AcAAAgAFAADLA1IAyADIQCAAAAAAAAAA.js
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBOVISIÓN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="ECUADOR",GLOBOVISIÓN
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZOOM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Canal_ZOOM_2008.png/revision/latest/scale-to-width-down/250?cb=20210501194336&path-prefix=es" group-title="COLOMBIA",ZOOM
-https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS
 https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REC TV DOCU" tvg-logo="https://i.postimg.cc/MZjtr35m/REC-TV-ONLINE.png" group-title="ECUADOR",REC TV DOCU
-https://video.misistemareseller.com/Jonnytv/Jonnytv/chunklist_w2000568782.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE ISLAS" tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/03/Teleislas.png" group-title="VENEZUELA",TELE ISLAS
-https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://www.caracastelevisionnetwork.com/images/logo-footer.png" group-title="COLOMBIA",CTN
-https://5bf8041cb3fed.streamlock.net/CTNTV/CTNTV/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VENEZOLANA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/VTV_logo.PNG/320px-VTV_logo.PNG" group-title="VENEZUELA",VENEZOLANA TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MÁS TV" tvg-logo="https://i.postimg.cc/k4RPyrjX/MAS-TELEVISION-ESP.png" group-title="COLOMBIA",MÁS TV
-https://video.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-id="UNOPLAY.co" tvg-name="UNO PLAY" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="COLOMBIA",UNO PLAY
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+https://video.misistemareseller.com/Jonnytv/Jonnytv/chunklist_w2000568782.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Once.XEIPN.(CANL11).mx" tvg-name="CANAL ONCE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/once_tv_mexico-mediano.png" group-title="NORTEAMERICA",CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -3081,9 +3084,9 @@ http://hidra.live:80/usvhppwq/4C3D7fuen2/35402
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT 3" tvg-logo="https://i.imgur.com/i8ANSw1.jpg" group-title="ADULTOS",HOT 3
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765356.ts
 #EXTINF:-1 tvg-id="" tvg-name="SUPERONE" tvg-logo="https://picon.ml/super-one.png" group-title="ADULTOS",SUPERONE
-http://46.166.171.183:8080/Viejo1/hPaUPsnrIX/113324
+http://tvpanel.one:80/live/Fenix/DDD19PPP80/765422.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PENTHOUSE" tvg-logo="https://i.postimg.cc/RV9t1Zdp/Penthouse-TV.png" group-title="ADULTOS",PENTHOUSE
-http://46.166.171.183:8080/Viejo1/hPaUPsnrIX/150656
+http://tvpanel.one:80/live/Fenix/DDD19PPP80/765023.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLACKED" tvg-logo="https://i.postimg.cc/0ynfz5YM/f164c370-4e8d-4c47-8fbf-0242814678e8.png" group-title="ADULTOS",BLACKED
 http://tv.a1promediastream.com:25461/0848592/8416758/15598
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XMO" tvg-logo="https://i.postimg.cc/c1TT8kWx/x-mo-logo-01-2-400x400.png" group-title="ADULTOS",XMO
