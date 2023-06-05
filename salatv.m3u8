@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz#format=xmltv" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz#format=xmltv"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="CANAL 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",CANAL 1 CR
 https://video20.klm99.com:3993/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Telesistema.Nacional.-.TV./.Canal.2.(CRTV2).[2].cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
@@ -394,14 +394,14 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/5ba02fd50f8c3d0d79f7a665/playout/index-v1-a1.m3u8?aid=512e13acaca1ebcd2f000279&uid=iLyMT7WchWzmyhnsHMpEMgDtsVGZkOh3&sid=lse3WxRgryDbnPSRTHJ7BhagdglkcUL0&pid=p2MUGNMhJqmAS5X79CqBCPddw1oBwgKB&ref=https%3A%2F%2Fplatzi.com%2Flive%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1658449469118&ot=0HZkIAFCYjPA657wC_1vuA&proto=https&pz=us
 #EXTINF:-1 tvg-id="Classic.and.Arts.(ARTS).mx" tvg-name="CLASSIC ARTS SHOWCASE" tvg-logo="https://imgur.com/hfNzgzD.png" group-title="CULTURA Y ESTILOS",CLASSIC ARTS SHOWCASE
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STINGRAY CLASSICA" tvg-logo="https://graph.facebook.com/StingrayClassica/picture?width=200&height=200" group-title="CULTURA Y ESTILOS",STINGRAY CLASSICA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STINGRAY CLASSICA" tvg-logo="https://i.postimg.cc/FFBnQp7s/stingray-classica-vector-logo.png" group-title="CULTURA Y ESTILOS",STINGRAY CLASSICA
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:-1 channel-id="samsung-ESBC3500001LY" tvg-id="ESBC3500001LY" tvg-name="VIVALDI TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500001LY_20221012T021027SQUARE.png_20221012021028.png" group-title="CULTURA Y ESTILOS",VIVALDI TV
+#EXTINF:-1 channel-id="samsung-ESBC3500001LY" tvg-id="ESBC3500001LY" tvg-name="VIVALDI TV" tvg-logo="https://i.postimg.cc/wxJbggz7/vivaldi-logo.png" group-title="CULTURA Y ESTILOS",VIVALDI TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QWEST CLASSICAL" tvg-logo="https://i.postimg.cc/KcWFsnbt/QWEST-TV-CLASSICAL-300x300.png" group-title="MÚSICA",QWEST CLASSICAL
+https://qwestclassic-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60c8fe07e6a4225c985c8e13_qwestclassic-live/d506ca8b-f7b9-4b76-89bf-c37a19b4a669/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SABER MÁS" tvg-logo="https://i.postimg.cc/C5vVmRF3/SABER-MAS.png" group-title="CULTURA Y ESTILOS",SABER MÁS
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TDN" tvg-logo="https://play-lh.googleusercontent.com/5fnEHVYAxaoQ6IeFy4BrlrRAJ-B6KvZH66lK0oki9fOa5wqG2woVy5asg3a7nQLGxMIX" group-title="CULTURA Y ESTILOS",TDN
-http://castv10.plugstreaming.com:1935/clc/clc/chunklist_w1873517667.m3u8
 #EXTINF:-1 tvg-id="Elgourmet.com.(Norte).(GOURMT).[983].cr" tvg-name="EL GOURMET" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png" group-title="CULTURA Y ESTILOS",EL GOURMET
 http://181.189.243.254:8000/play/a0r8/index.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-name="TASTEMADE ESPAÑOL" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="CULTURA Y ESTILOS",TASTEMADE ESPAÑOL
@@ -554,8 +554,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEN TV" tvg-logo="http://www.gentvoficial.com/img/publicidades/Bot%C3%B3n_vivo_1.png" group-title="CINE Y SERIES 1",GEN TV
 https://inliveserver.com:1936/14056/14056/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLANETA MOVIES" tvg-logo="https://i.imgur.com/0mlpgOn.png" group-title="CINE Y SERIES 1",PLANETA MOVIES
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO PLAY" tvg-logo="https://i.postimg.cc/26s1cHpk/Retro-Play-TV-MODIF.png" group-title="CINE Y SERIES 1",RETRO PLAY
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGAVISIÓN" tvg-logo="https://3.bp.blogspot.com/-ZuCp5RmcFwA/XbcT2NFUdiI/AAAAAAAAohE/qfgI5E9bQAwHeTIj7b-16ZQb4Qsw_PddgCLcBGAsYHQ/s200/MegaVision%2B%2528RD%2529.jpg" group-title="CINE Y SERIES 1",MEGAVISIÓN
@@ -1524,17 +1522,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1275
 #EXTINF:-1 tvg-id="The.Country.Network.(KHDT-LD5).Denver,.CO.us" tvg-name="THE COUNTRY NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="MÚSICA",THE COUNTRY NETWORK
 https://d39uqn16w2n0w1.cloudfront.net/scte35/index.m3u8
 #EXTINF:-1 tvg-id="Vevo.&apos;70s.us" tvg-name="VEVO 70's" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="MÚSICA",VEVO 70's
-https://dqwknz5qopbgu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cjz27alv8s5dq/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+https://d1jg19cd16tz4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx7h5jeuhw79b-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="Vevo.&apos;80s.us" tvg-name="VEVO 80'S" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="MÚSICA",VEVO 80'S
 https://d36tolctzl3cf9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ooxwuk06xi7af/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="Vevo.&apos;90s.us" tvg-name="VEVO 90's" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="MÚSICA",VEVO 90's
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true
+https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="Vevo.Pop.us" tvg-name="VEVO POP" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="MÚSICA",VEVO POP
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
+https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="Vevo.Country.us" tvg-name="VEVO COUNTRY" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="MÚSICA",VEVO COUNTRY
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tmtp539lujxbj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="Vevo.2K.us" tvg-name="VEVO 2K" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="MÚSICA",VEVO 2K
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
+https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="Vevo.ReggaetÃ³n.\u0026.Trap.us" tvg-name="VEVO TRAP REGGAETON" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="MÚSICA",VEVO TRAP REGGAETON
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 #EXTINF:-1 channel-id="samsung-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20230322T000040SQUARE.png_20230322000041.png" group-title="MÚSICA",VEVO RETRO ROCK
@@ -1649,8 +1647,6 @@ https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 https://qwestmix-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60c8fd3f7a7f98174f6142c5_qwestmix-live/5a63669b-5766-49ba-bb65-0e2f761bb212/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QWEST BEYOND JAZZ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/Qwest_TV_Logo.jpg/120px-Qwest_TV_Logo.jpg" group-title="MÚSICA",QWEST BEYOND JAZZ
 https://qwestjazz-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60c8fc645ae0c478d6617eaa_qwestjazz-live/8f16bedb-ab20-499c-988a-4aa48e0c6a94/2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QWEST CLASSICAL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/Qwest_TV_Logo.jpg/120px-Qwest_TV_Logo.jpg" group-title="MÚSICA",QWEST CLASSICAL
-https://qwestclassic-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60c8fe07e6a4225c985c8e13_qwestclassic-live/d506ca8b-f7b9-4b76-89bf-c37a19b4a669/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STINGRAY HOT COUNTRY" tvg-logo="https://i.imgur.com/M5zq693.png" group-title="MÚSICA",STINGRAY HOT COUNTRY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STINGRAY ALTERNATIVE" tvg-logo="https://i.imgur.com/M5zq693.png" group-title="MÚSICA",STINGRAY ALTERNATIVE
@@ -3130,7 +3126,7 @@ http://976200623170285005.of913.xyz:80/play/vi1016547/8093713821/285005.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUSTLER HD" tvg-logo="https://i.postimg.cc/NfrnHQwh/HUSTLER-TV-HD.png" group-title="ADULTOS",HUSTLER HD
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/244/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT 1" tvg-logo="https://imgur.com/RzaggSV.png" group-title="ADULTOS",HOT 1
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/765261.ts
+http://hidra.live:80/jqrrcnjz/21fs5J9hLs/35377
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT 2" tvg-logo="https://i.imgur.com/Luc5hP6.jpg" group-title="ADULTOS",HOT 2
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6276/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT 3" tvg-logo="https://i.imgur.com/i8ANSw1.jpg" group-title="ADULTOS",HOT 3
@@ -3140,19 +3136,19 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6298/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PENTHOUSE" tvg-logo="https://i.postimg.cc/RV9t1Zdp/Penthouse-TV.png" group-title="ADULTOS",PENTHOUSE
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765023.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLACKED" tvg-logo="https://i.postimg.cc/0ynfz5YM/f164c370-4e8d-4c47-8fbf-0242814678e8.png" group-title="ADULTOS",BLACKED
-http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6178/index.m3u8
+http://fuzzyunicorns.net:80/live/austin/austin/788421.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XMO" tvg-logo="https://i.postimg.cc/c1TT8kWx/x-mo-logo-01-2-400x400.png" group-title="ADULTOS",XMO
-http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6285/index.m3u8
+http://tvpanel.one:80/live/Fenix/DDD19PPP80/765350.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVID RED" tvg-logo="https://i.postimg.cc/pLW11zFv/Vivid.png" group-title="ADULTOS",VIVID RED
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765308.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BABES" tvg-logo="https://imgur.com/lp5XXG5.png" group-title="ADULTOS",BABES
-http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6172/index.m3u8
+http://tvpanel.one:80/live/Fenix/DDD19PPP80/765613.ts
 #EXTINF:-1 tvg-id="" tvg-name="LEO TV" tvg-logo="https://imgur.com/KHwAxd8.png" group-title="ADULTOS",LEO TV
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765606.ts
 #EXTINF:-1 tvg-id="" tvg-name="LEO TV GOLD" tvg-logo="https://imgur.com/yn3S8Gr.png" group-title="ADULTOS",LEO GOLD
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765608.ts
 #EXTINF:-1 tvg-id="" tvg-name="HOT GUYS FUCK" tvg-logo="https://imgur.com/R1pCh5p.png" group-title="ADULTOS",HOT GUYS FUCK
-http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6223/index.m3u8
+http://fuzzyunicorns.net:80/live/austin/austin/788440.ts
 #EXTINF:-1 tvg-id="" tvg-name="XY MAX" tvg-logo="https://i.imgur.com/goyWQbG.png" group-title="ADULTOS",XY MAX
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6286/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XY MIX" tvg-logo="https://i.imgur.com/fmJUAoC.png" group-title="ADULTOS",XY MIX
@@ -3166,9 +3162,9 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6270/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LETSDOEIT" tvg-logo="https://i.imgur.com/FX4rhAe.png" group-title="ADULTOS",LETSDOEIT
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765048.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAIDEN VAN HOLLAND" tvg-logo="https://i.imgur.com/dtFtMXy.png" group-title="ADULTOS",MAIDEN VAN HOLLAND
-http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6297/index.m3u8
+http://fuzzyunicorns.net:80/live/austin/austin/788457.ts
 #EXTINF:-1 tvg-id="" tvg-name="MYLF TV" tvg-logo="https://i.imgur.com/LwEJGJT.png" group-title="ADULTOS",MYLF TV
-http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6216/index.m3u8
+http://tvpanel.one:80/live/Fenix/DDD19PPP80/765188.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOFOS" tvg-logo="https://i.postimg.cc/QCGCBVvR/Xe-Uf-Brve-400x400.png" group-title="ADULTOS",MOFOS
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765053.ts
 #EXTINF:-1 tvg-id="" tvg-name="SEXNEX" tvg-logo="https://imgur.com/AsIOSCH.png" group-title="ADULTOS",SEXMEX
@@ -3176,7 +3172,7 @@ http://tvpanel.one:80/live/Fenix/DDD19PPP80/765099.ts
 #EXTINF:-1 tvg-id="" tvg-name="REALITY KINGS" tvg-logo="https://i.postimg.cc/sD2731FT/image.png" group-title="ADULTOS",REALITY KINGS
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6247/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXXOTICA TV" tvg-logo="https://i.postimg.cc/15WsDzdn/exxxotica.png" group-title="ADULTOS",EXXXOTICA TV
-http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9346/index.m3u8
+http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/150680
 #EXTINF:-1 tvg-id="" tvg-name="EVIL ANGEL" tvg-logo="https://i.postimg.cc/fyPZn2m7/Evil-Angel-Logo.png" group-title="ADULTOS",EVIL ANGEL
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6199/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAUGHTY AMERICA" tvg-logo="https://i.postimg.cc/9MwVMks0/Naughty-America-horizontal-transparent.png" group-title="ADULTOS",NAUGTHY AMERICA
