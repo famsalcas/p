@@ -1498,17 +1498,17 @@ http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ROCKOLA TELEVISIÓN" tvg-logo="https://i.postimg.cc/vZHHQHgX/3116-294x165-FFFFFF.png" group-title="MÚSICA",ROCKOLA TELEVISIÓN
 https://distrib010.noisypeak.com/d/6BR5S1MENSS7CJVWNJH6/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV | Centro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png" group-title="MÚSICA",MTV | Centro
-http://190.122.186.88:8000/play/a0fd/index.m3u8
+http://190.83.119.67:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV CLASSIC" tvg-logo="https://i.postimg.cc/43PCLzN1/245px-MTV-Classic-2017-logo-svg.png" group-title="MÚSICA",MTV CLASSIC
 http://tv.a1promediastream.com:25461/0848592/8416758/2441
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 00s SD" tvg-logo="https://i.postimg.cc/W4x1p2G9/150px-MTV-00s-remaster.png" group-title="MÚSICA",MTV 00s SD
 http://45.228.232.204:16000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 00s HD" tvg-logo="https://i.postimg.cc/W4x1p2G9/150px-MTV-00s-remaster.png" group-title="MÚSICA",MTV 00s HD
-http://190.149.66.90:16000/play/a03s/index.m3u8
+http://181.189.243.254:8000/play/a0sw/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/253px-MTV_Hits_2021.svg.png" group-title="MÚSICA",MTV HITS
 http://190.83.119.67:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV LIVE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv_live_hd.png" group-title="MÚSICA",MTV LIVE
-http://190.122.186.88:8000/play/a0ie/index.m3u8
+http://181.189.243.254:8000/play/a0sv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VHI ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/320px-LOGO_VH1_CLASSIC.svg.png" group-title="MÚSICA",VHI ITALIA
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="4FUN.TV.pl" tvg-name="4FUN TV" tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="MÚSICA",4FUN TV
@@ -1625,6 +1625,8 @@ http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1 MUS" tvg-logo="http://www.giniko.com/logos/190x110/1043.jpg" group-title="MÚSICA",1 MUS
 http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ROTANA" tvg-logo="https://imgur.com/HxKMmLw.png" group-title="MÚSICA",ROTANA
+https://daiconnect.com/live/hls/rotana/music/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC PLUS" tvg-logo="https://i.postimg.cc/rF5nQgZz/Musicplus.jpg" group-title="MÚSICA",MUSIC PLUS
 http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAMIR TV" tvg-logo="https://tvtvtv.ru/icons/pamir_tv.png" group-title="MÚSICA",PAMIR TV
@@ -2674,6 +2676,22 @@ http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/296931
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b51525f9d756d5901cdcfc44ad36a7cd.png" group-title="INTERNACIONAL",SE: SVT 1
 http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/4584
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV ART" tvg-logo="https://i.imgur.com/tWVxCui.jpg" group-title="INTERNACIONAL",TV ART
+https://stream.osc.bg/tvart/Stream3/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PACI COMTEMPORARY CHANNEL" tvg-logo="https://i.imgur.com/KRrwS9C.png" group-title="INTERNACIONAL",PACI COMTEMPORARY CHANNEL
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDE CULTURA DE PARÁ" tvg-logo="https://i.imgur.com/gF8owJV.png" group-title="INTERNACIONAL",REDE CULTURA DE PARÁ
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INTERNATIONAL TOURISM TV" tvg-logo="https://imgur.com/thLo7qq.png" group-title="INTERNACIONAL",INTERNATIONAL TOURISM TV
+https://itthls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.imgur.com/KzNqCYG.png" group-title="INTERNACIONAL",MNN - MANHATTAN NEIGHBORHOOD NETWORK
+https://playback2.akamaized.net/streams/6478935_10721179_lsip5i6qmfosiraqwkk_1/master.m3u8?dw=14400&hdnts=exp=1686083589~acl=/streams/6478935_10721179_lsip5i6qmfosiraqwkk_1/master.m3u8*~hmac=d11ecbf16b52321ca00b720ef3e736c49ec309bf2ab93dc4925df8537f0ce045
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FDR" tvg-logo="https://i.postimg.cc/7hGsmdnG/Logotipo-do-Canal-FDR.png" group-title="INTERNACIONAL",FDR
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LUXURY" tvg-logo="https://i.postimg.cc/6QHLGzx8/logo-luxury.png" group-title="INTERNACIONAL",LUXURY
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TANZANIA SAFARI TV" tvg-logo="https://i.postimg.cc/tTMKDhWT/LOGO-SAFARI3.png" group-title="INTERNACIONAL",TANZANIA SAFARI TV
+https://134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_0a6ef900ad0511ed8f65a940024f638d/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WORLD FASHING CHANNEL" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="INTERNACIONAL",WORLD FASHING CHANNEL
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEN'S UP TV" tvg-logo="https://64.media.tumblr.com/270a28739b52ffaf4c030126c449439b/tumblr_n0hntkV1l01ts7x0so1_400.jpg" group-title="INTERNACIONAL",MEN'S UP TV
@@ -3116,17 +3134,17 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLUE HUSTLER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png" group-title="ADULTOS",BLUE HUSTLER
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/765113.ts
+http://193428623679405101.of2100.xyz:80/play/vi1016547/8093713821/405101.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O-LA-LA" tvg-logo="https://imgur.com/Syrk3A5.png" group-title="ADULTOS",O-LA-LA
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/2161/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FRENCH LOVER" tvg-logo="https://imgur.com/ZCXVqGp.png" group-title="ADULTOS",FRENCH LOVER
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/765420.ts
+http://tvpanel.one:80/live/Fenix/DDD19PPP80/765259.ts
 #EXTINF:-1 tvg-id="" tvg-name="BARELY LEGAL" tvg-logo="https://imgur.com/6UzqYrV.png" group-title="ADULTOS",BARELY LEGAL
 http://976200623170392470.of913.xyz:80/play/vi1016547/8093713821/392470.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шалун TB" tvg-logo="https://i.postimg.cc/3x0NbwzK/image.png" group-title="ADULTOS",Шалун TB
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765089.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUSSIAN NIGHT" tvg-logo="https://i.imgur.com/ZqcPaV4.jpg" group-title="ADULTOS",RUSSIAN NIGHT
-http://51.15.190.156:8000/live?channelId=2132&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+http://kuchini.site:8080/multi5496/c088eecc/49168
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED LIPS" tvg-logo="https://i.postimg.cc/bvXcYYrN/image.png" group-title="ADULTOS",RED LIPS
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6271/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLAYBOY TV" tvg-logo="https://i.postimg.cc/mk5p2KdD/image.png" group-title="ADULTOS",PLAYBOY TV
@@ -3136,12 +3154,11 @@ http://190.83.119.67:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="Venus.International.(VENUS).[1032].cr" tvg-name="VENUS" tvg-logo="https://i.postimg.cc/RCgs8Nvx/100px-Canal-Venus-logo-svg.png" group-title="ADULTOS",VENUS
 http://190.83.119.67:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EROXXX" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Eroxxx_HD_logo.png" group-title="ADULTOS",EROXXX
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/765493.ts
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6296/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAZZERS" tvg-logo="https://i.postimg.cc/630jBQRR/image.png" group-title="ADULTOS",BRAZZERS
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/910/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANG BROS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bang_Bros_logo.png" group-title="ADULTOS",BANG BROS
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/765026.ts
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6173/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DORCEL TV" tvg-logo="https://i.postimg.cc/g2s1YNWr/DORCEL-TV-2012.png" group-title="ADULTOS",DORCEL TV
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/878/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEXY HOT" tvg-logo="https://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png" group-title="ADULTOS",SEXY HOT
@@ -3166,10 +3183,12 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6276/index.m3u8
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765356.ts
 #EXTINF:-1 tvg-id="" tvg-name="SUPERONE" tvg-logo="https://picon.ml/super-one.png" group-title="ADULTOS",SUPERONE
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6298/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PENTHOUSE" tvg-logo="https://i.postimg.cc/RV9t1Zdp/Penthouse-TV.png" group-title="ADULTOS",PENTHOUSE
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/765023.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PENTHOUSE" tvg-logo="https://i.postimg.cc/QddYFVsh/image.png" group-title="ADULTOS",PENTHOUSE
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE PASSION" tvg-logo="https://i.postimg.cc/136V2WvG/image.png" group-title="ADULTOS",PENTHOUSE PASSION
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5010/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLACKED" tvg-logo="https://i.postimg.cc/0ynfz5YM/f164c370-4e8d-4c47-8fbf-0242814678e8.png" group-title="ADULTOS",BLACKED
-http://fuzzyunicorns.net:80/live/austin/austin/788421.ts
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6178/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XMO" tvg-logo="https://i.postimg.cc/c1TT8kWx/x-mo-logo-01-2-400x400.png" group-title="ADULTOS",XMO
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6285/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVID RED" tvg-logo="https://i.postimg.cc/pLW11zFv/Vivid.png" group-title="ADULTOS",VIVID RED
@@ -3197,23 +3216,21 @@ http://tvpanel.one:80/live/Fenix/DDD19PPP80/765048.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAIDEN VAN HOLLAND" tvg-logo="https://i.imgur.com/dtFtMXy.png" group-title="ADULTOS",MAIDEN VAN HOLLAND
 http://fuzzyunicorns.net:80/live/austin/austin/788457.ts
 #EXTINF:-1 tvg-id="" tvg-name="MYLF TV" tvg-logo="https://i.imgur.com/LwEJGJT.png" group-title="ADULTOS",MYLF TV
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/765188.ts
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6203/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOFOS" tvg-logo="https://i.postimg.cc/QCGCBVvR/Xe-Uf-Brve-400x400.png" group-title="ADULTOS",MOFOS
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765053.ts
 #EXTINF:-1 tvg-id="" tvg-name="SEXNEX" tvg-logo="https://imgur.com/AsIOSCH.png" group-title="ADULTOS",SEXMEX
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/765099.ts
+http://tvpanel.one:80/live/Fenix/DDD19PPP80/765285.ts
 #EXTINF:-1 tvg-id="" tvg-name="REALITY KINGS" tvg-logo="https://i.postimg.cc/sD2731FT/image.png" group-title="ADULTOS",REALITY KINGS
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6247/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXXOTICA TV" tvg-logo="https://i.postimg.cc/15WsDzdn/exxxotica.png" group-title="ADULTOS",EXXXOTICA TV
-http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/150680
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9346/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EVIL ANGEL" tvg-logo="https://i.postimg.cc/fyPZn2m7/Evil-Angel-Logo.png" group-title="ADULTOS",EVIL ANGEL
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6199/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAUGHTY AMERICA" tvg-logo="https://i.postimg.cc/9MwVMks0/Naughty-America-horizontal-transparent.png" group-title="ADULTOS",NAUGTHY AMERICA
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765385.ts
 #EXTINF:-1 tvg-id="" tvg-name="TEAM SKEET" tvg-logo="https://i.imgur.com/tmFAc9Z.jpg" group-title="ADULTOS",TEAM SKEET
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765041.ts
-#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE PASSION" tvg-logo="https://i.postimg.cc/136V2WvG/image.png" group-title="ADULTOS",PENTHOUSE PASSION
-http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5010/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VIXEN" tvg-logo="https://imgur.com/sUIqFe9.png" group-title="ADULTOS",VIXEN
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6265/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT TV 1" tvg-logo="https://i.imgur.com/t9DjnV7.jpg" group-title="ADULTOS",ADULT TV 1
