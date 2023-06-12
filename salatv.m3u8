@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/costaricapremium.xml" x-tvg-url="https://www.bevy.be/bevyfiles/costaricapremium.xml"
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="CANAL 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",CANAL 1 CR
-https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist_w550004873.m3u8
+https://video20.klm99.com:3993/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Telesistema.Nacional.-.TV./.Canal.2.(CRTV2).[2].cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 STEREO" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="COSTA RICA",88 STEREO
@@ -17,12 +17,12 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal6_720.m3u8
 #EXTINF:-1 tvg-id="Canal 6 de Costa Rica" tvg-name="REPRETEL 6 SD" tvg-logo="https://i.imgur.com/1vcQReV.png" group-title="COSTA RICA",REPRETEL 6 SD
 http://45.5.118.213:16000/play/a0kp/index.m3u8
-#EXTINF:-1 tvg-id="Canal 7 de Costa Rica (Teletica)" tvg-name="TELETICA" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA
+#EXTINF:-1 tvg-id="Canal 7 de Costa Rica (Teletica)" tvg-name="TELETICA HD" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA HD
 https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
 #EXTINF:-1 tvg-id="Canal 7 de Costa Rica (Teletica)" tvg-name="TELETICA FHD" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA FHD
 https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 7 de Costa Rica (Teletica)" tvg-name="TELETICA HD" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA HD
-http://45.190.13.50:8002/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="Canal 7 de Costa Rica (Teletica)" tvg-name="TELETICA" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA
+http://tv.a1promediastream.com:25461/0848592/8416758/16061
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELETICA RADIO" tvg-logo="https://i.imgur.com/5rAOTR7.png" group-title="COSTA RICA",TELETICA RADIO
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/TeleticaLiveStreamTRadio/Streamtradio3/chunks.m3u8
 #EXTINF:-1 tvg-id="Canal Multimedios (Costa Rica)" tvg-name="MULTIMEDIOS CR" tvg-logo="https://imgur.com/nBXv04d.png" group-title="COSTA RICA",MULTIMEDIOS CR
@@ -764,7 +764,7 @@ http://181.78.11.117:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="Canal Syfy (Costa Rica)" tvg-name="SYFY" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2018/02/syfy_2017_logo-777x398.png" group-title="CINE Y SERIES 2",SYFY
 http://181.189.243.254:8000/play/a0s9/index.m3u8
 #EXTINF:-1 tvg-id="Canal Syfy (Costa Rica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Syfy-hd-tp.png" group-title="CINE Y SERIES 2",SYFY (op2)
-http://tv.a1promediastream.com:25461/0848592/8416758/16246
+http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/45876
 #EXTINF:-1 tvg-id="Canal TBS (Costa Rica)" tvg-name="TBS SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tbs.png" group-title="CINE Y SERIES 2",TBS SD
 http://45.5.118.213:16000/play/a0lz/index.m3u8
 #EXTINF:-1 tvg-id="Canal TBS (Costa Rica)" tvg-name="TBS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tbs.png" group-title="CINE Y SERIES 2",TBS HD
@@ -1429,7 +1429,7 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEMORIAS TV" tvg-logo="https://i.postimg.cc/jSQtnhGL/MEMORIAS-TV-esp.png" group-title="MÚSICA",MEMORIAS TV
 https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA DESPECHADA TV" tvg-logo="https://i.postimg.cc/50S75Zn6/LA-DESPECHADA-BLANCO.png" group-title="MÚSICA",LA DESPECHADA TV
-https://servidordevideo.com:3077/stream/play.m3u8
+https://servidordevideo.com:3077/live/despechadalive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RANCHENATO TV" tvg-logo="https://i.imgur.com/T1w7dSu.png" group-title="MÚSICA",RANCHENATO TV
 http://iptvcolombia.ddns.net:1936/ranchenato/ranchenato_360p/chunklist_w1171414734.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELERITMO" tvg-logo="https://pbs.twimg.com/profile_images/1433119225065967624/HNUddBal_200x200.jpg" group-title="MÚSICA",TELERITMO
@@ -3231,7 +3231,6 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6247/index.m3u8
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9346/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EVIL ANGEL" tvg-logo="https://i.postimg.cc/fyPZn2m7/Evil-Angel-Logo.png" group-title="ADULTOS",EVIL ANGEL
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6199/index.m3u8
-http://193428623679431569.of2100.xyz:80/play/vi1016547/8093713821/431569.ts
 #EXTINF:-1 tvg-id="" tvg-name="NAUGHTY AMERICA" tvg-logo="https://i.postimg.cc/9MwVMks0/Naughty-America-horizontal-transparent.png" group-title="ADULTOS",NAUGTHY AMERICA
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765385.ts
 #EXTINF:-1 tvg-id="" tvg-name="TEAM SKEET" tvg-logo="https://i.imgur.com/tmFAc9Z.jpg" group-title="ADULTOS",TEAM SKEET
@@ -3242,6 +3241,7 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6265/index.m3u8
 http://193428623679491947.of2100.xyz:80/play/vi1016547/8093713821/491947.ts
 #EXTINF:-1 tvg-id="" tvg-name="CUM 4K" tvg-logo="https://imgur.com/ttjDQIu.png" group-title="ADULTOS",CUM 4K
 http://193428623679495034.of2100.xyz:80/play/vi1016547/8093713821/495034.ts
+http://tvpanel.one:80/live/Fenix/DDD19PPP80/765183.ts
 #EXTINF:-1 tvg-id="" tvg-name="FAP TV" tvg-logo="https://i.postimg.cc/FRjyHzbV/image.png" group-title="ADULTOS",FAP TV
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6191/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TUSHY" tvg-logo="https://i.postimg.cc/Xq6x9gRR/Tushy.png" group-title="ADULTOS",TUSHY
