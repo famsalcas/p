@@ -86,11 +86,12 @@ https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRISTOVISIÓN" tvg-logo="https://cristovision31.org/imagenes/Logo.png" group-title="COSTA RICA",CRISTOVISIÓN
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VISIÓN AMERICA" tvg-logo="https://i.imgur.com/PRxZHRd.png" group-title="COSTA RICA",VISIÓN AMERICA
-http://190.7.192.163:8004/play/s13#8000/play/a03h/index.m3u8
+https://rtmp.info/fulltv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSTA RICA CHANNEL" tvg-logo="https://i.imgur.com/QPBmOIj.png" group-title="COSTA RICA",COSTA RICA CHANNEL
 https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZURQUI TVA" tvg-logo="https://i.imgur.com/pfT3xfF.jpg" group-title="COSTA RICA",ZURQUI TVA
-https://rtmp.info/zurquitva/envivo/chunklist_w952694774.m3u8
+https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/chunklist_w811831700.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZURQUI TVA" tvg-logo="https://i.postimg.cc/j541TBqq/HIun-Lc-Am2-Enb-Wrd-Uu-NHbcj-AD6-Bcw-X1y-OHGa-K1-Vjg.jpg" group-title="COSTA RICA",ZURQUI TVA
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-id="LimÃ³n.TV.(LIMON).[111].cr" tvg-name="LIMÓN TV" tvg-logo="https://imgur.com/MmBpGZj.png" group-title="COSTA RICA",LIMÓN TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV.36.Liberia.(TV36).[105].cr" tvg-name="TRIVISIÓN 36" tvg-logo="https://imgur.com/GsKOXX9.png" group-title="COSTA RICA",TRIVISIÓN
@@ -99,6 +100,8 @@ https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal38.cr" tvg-name="CANAL 38" tvg-logo="https://i.imgur.com/I5GOcaJ.jpg" group-title="COSTA RICA",CANAL 38 (OFF LINE)
 https://rtmp.info/canal38/envivo/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CABINA RADIO FIDES" tvg-logo="https://i.imgur.com/336WIBj.png" group-title="COSTA RICA",CABINA RADIO FIDES
+https://rtmp.info/cabinafides/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAN JOSÉ TV" tvg-logo="https://i.imgur.com/rOylu0Z.jpg" group-title="COSTA RICA",SAN JOSÉ TV
 https://rtmp.info/sanjosetv/envivo/chunklist.m3u8
 #EXTINF:-1 tvg-id="Telefides.(Costa.Rica).(TELFD).[100].cr" tvg-name="TELEFIDES" tvg-logo="http://telefides.com/wp-content/uploads/2017/06/telefides-logo.png" group-title="COSTA RICA",TELEFIDES
@@ -111,8 +114,8 @@ http://181.189.243.254:8000/play/a0oi/index.m3u8
 https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NORTE INFORMATIVO" tvg-logo="https://i2.paste.pics/0965c9e6c38022659717eeaac157e453.png" group-title="COSTA RICA",NORTE INFORMATIVO
 https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLUMBIA DIGITAL" tvg-logo="https://i.postimg.cc/8zrQvRvx/image.jpg" group-title="COSTA RICA",COLUMBIA DIGITAL
-https://www.youtube.com/@ColumbiaDigital/live
+#EXTINF:-1 tvg-id="" tvg-name="RETROX TV" tvg-logo="https://i.postimg.cc/KzP3cSHW/AWKoxz2-HVNXOFACj-EWewm1-CCp-Xz5q-COd-YIm1-SVLw.png" group-title="COSTA RICA",RETROX TV
+https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIDEO TOUR CHANNEL" tvg-logo="https://imgur.com/jNSISg6.png" group-title="COSTA RICA",VIDEO TOUR CHANNEL
 https://59ef525c24caa.streamlock.net//videotour/videotour/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTAGO MEDIOS TV" tvg-logo="https://i.imgur.com/4Xtsi7q.png" group-title="COSTA RICA",CARTAGO MEDIOS TV
@@ -126,7 +129,7 @@ https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GUATUSO TV" tvg-logo="https://i.postimg.cc/13pwxfWJ/GTV-GUATUSO.jpg" group-title="COSTA RICA",GUATUSO TV
 https://5cf4a2c2512a2.streamlock.net/8162/8162/chunklist_w197775298.m3u8
 #EXTINF:-1 tvg-chno="88" tvg-id="(no tvg-id)" tvg-name="TV NOSARA" tvg-logo="https://imgur.com/MsWb10T.png" group-title="COSTA RICA",TV NOSARA
-https://stmv.streamingvip.click/tvnosara/tvnosara/chunklist.m3u8
+https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOS CARIBE" tvg-logo="https://i.postimg.cc/s27rkYD5/cropped-135297098-2827430904137445-6870343697020229970-n.png" group-title="COSTA RICA",SOMOS CARIBE
 http://k4.usastreams.com/somoscaribetv/somoscaribetv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV SANTA CRUZ" tvg-logo="https://imgur.com/3yGzifX.png" group-title="COSTA RICA",TV SANTA CRUZ
@@ -135,8 +138,6 @@ https://rtmp.info/tvsantacruz/envivo/chunklist_w1520790363.m3u8
 https://stmv.streamingvip.click/turrialbatv/turrialbatv/chunklist_w1883799021.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="URBANO TV" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png" group-title="COSTA RICA",URBANO TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="(no tvg-id)" tvg-name="TV GARABITO" tvg-logo="https://i.imgur.com/tnm0fzc.jpg" group-title="COSTA RICA",TV GARABITO
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CARTAGO DIGITAL" tvg-logo="https://i.postimg.cc/9MPc7G6c/Qk-Xilj-NSy-Rg.jpg" group-title="COSTA RICA",TV CARTAGO DIGITAL
 https://hls.robotstreamer.com/tv/5369.m3u8?
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 1O" tvg-logo="https://i.postimg.cc/nc43rTpB/CANAL-10-LOGO-NEGRO.png" group-title="COSTA RICA",CANAL 1O
@@ -153,8 +154,18 @@ https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/playlist.m3u8
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w1133401258.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KMK RADIO TV" tvg-logo="https://i.postimg.cc/k56MF2jN/LOGO-2023.png" group-title="COSTA RICA",KMK RADIO TV
 https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MORA TV" tvg-logo="https://i.imgur.com/PeMzrpV.jpg" group-title="COSTA RICA",MORA TV
-https://stmv1.zcasthn.com.br/moratv1/moratv1/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XPRESO JÓVEN RADIO" tvg-logo="https://i.postimg.cc/xjh94bZs/Xpreso-Joven-Radio-logo-Mesa-de-trabajo-1-copia-5.png" group-title="COSTA RICA",XPRESO JÓVEN RADIO
+https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TD TV" tvg-logo="https://i.postimg.cc/mrnbWzD2/h-Oql4-FVm-Yfu7xs-KVo-D41sltd-Vory-Vs5c-VGI9-Jxt-B.jpg" group-title="COSTA RICA",TD TV
+https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGA TV" tvg-logo="https://i.postimg.cc/HLnQm4Fy/ufg-Gxzlj-BKL6-D9-LKLQk-Zp-N5-Xc-ZGd-SW13-FQze-XUq-P.png" group-title="COSTA RICA",MEGA TV
+https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="TV GARABITO" tvg-logo="https://i.imgur.com/tnm0fzc.jpg" group-title="COSTA RICA",TV GARABITO
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w1522019794.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLUMBIA DIGITAL" tvg-logo="https://i.postimg.cc/8zrQvRvx/image.jpg" group-title="COSTA RICA",COLUMBIA DIGITAL
+https://www.youtube.com/@ColumbiaDigital/live
+#EXTINF:-1 tvg-id="" tvg-name="LA NACIONAL" tvg-logo="https://imgur.com/Zzko2CM,png" group-title="COSTA RICA",LA NACIONAL
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRUC2Ot75tfnAv7cX_Tb7PZf7mS5JJKK-O15usphsfo9)/dm/3/x7vkvk1/d/live-1.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPERANZA TV" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="VIDA Y RELIGIÓN",ESPERANZA TV
 http://tv.esperanzatvcr.org:1935/WEB/WEB_source/chunklist_w918924677.m3u8
@@ -308,10 +319,6 @@ https://6110f70ea8d0e.streamlock.net/1691/1691/playlist.m3u8
 https://cdnhd.iblups.com/hls/5UBxf6lk13.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRISTO TV RADIO" tvg-logo="https://i.imgur.com/P3orCLJ.png" group-title="VIDA Y RELIGIÓN",CRISTO TV RADIO
 https://vsrv2.az-streamingserver.com:3352/live/clarovisiontvradiolive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="VIDA Y RELIGIÓN",
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="VIDA Y RELIGIÓN",
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FETV" tvg-logo="https://imgur.com/wdooxot.png" group-title="VIDA Y RELIGIÓN",FETV
 https://live-ak.vimeocdn.com/exp=1614090310~acl=%2Ffae3e7a3-0288-44ae-b6ae-4cf0a1df8996%2F%2A~hmac=4c62a612483a14eba2761286974cfe2b862fca87cf354864652ace78b99ceecf/fae3e7a3-0288-44ae-b6ae-4cf0a1df8996/chunklist_b3256000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV2000" tvg-logo="https://www.revistaecclesia.com/wp-content/uploads/2014/12/Logo_di_TV2000.png" group-title="VIDA Y RELIGIÓN",TV2000
@@ -1504,7 +1511,7 @@ http://tv.a1promediastream.com:25461/0848592/8416758/16024
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONUS FM" tvg-logo="https://imgur.com/Jcndj2f.png" group-title="MÚSICA",SONUS FM
 http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ROCKOLA TELEVISIÓN" tvg-logo="https://i.postimg.cc/vZHHQHgX/3116-294x165-FFFFFF.png" group-title="MÚSICA",ROCKOLA TELEVISIÓN
-https://distrib010.noisypeak.com/d/6BR5S1MENSS7CJVWNJH6/hls3/now_-1m_15s/m.m3u8
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/b81688cb-4d17-4334-a9ac-59c60fa3c49f/0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV | Centro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png" group-title="MÚSICA",MTV | Centro
 http://190.83.119.67:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV CLASSIC" tvg-logo="https://imgur.com/BIGULYP.png" group-title="MÚSICA",MTV CLASSIC
