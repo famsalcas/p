@@ -166,7 +166,7 @@ https://stmv.streamingvip.click/exitotv/exitotv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLUMBIA DIGITAL" tvg-logo="https://i.postimg.cc/8zrQvRvx/image.jpg" group-title="COSTA RICA",COLUMBIA DIGITAL
 https://www.youtube.com/@ColumbiaDigital/live
 #EXTINF:-1 tvg-id="" tvg-name="LA NACIONAL" tvg-logo="https://imgur.com/Zzko2CM.png" group-title="COSTA RICA",LA NACIONAL
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRUC2Ot75tfnAv7cX_Tb7PZf7mS5JJKK-O15usphsfo9)/dm/3/x7vkvk1/d/live-1.m3u8
+https://dailymotion.com/video/x7vkvk1.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPERANZA TV" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="VIDA Y RELIGIÓN",ESPERANZA TV
 http://tv.esperanzatvcr.org:1935/WEB/WEB_source/chunklist_w918924677.m3u8
@@ -846,14 +846,14 @@ http://45.5.119.155:8000/play/a0iz/index.m3u8
 #EXTINF:-1 tvg-id="Canal Studio Universal (Costa Rica)" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://imgur.com/haZeiaZ.png" group-title="CINE Y SERIES 2",STUDIO UNIVERSAL
 http://45.5.118.213:16000/play/a0o8/index.m3u8
 #EXTINF:-1 tvg-id="Canal Studio Universal (Costa Rica)" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://imgur.com/tqcU0p9.png" group-title="CINE Y SERIES 2",STUDIO UNIVERSAL HD
-http://45.5.119.155:8000/play/a0go/index.m3u8
+http://181.189.243.254:8000/play/a0q2/index.m3u8
 #EXTINF:-1 tvg-id="De.PelÃ­cula.(DPELI).[400].cr" tvg-name="DE PELÍCULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula.png" group-title="CINE Y SERIES 2",DE PELÍCULA
-http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/69583
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155786
 #EXTINF:-1 tvg-id="De.PelÃ­cula.(DPELI).[400].cr" tvg-name="DE PELÍCULA PLUS" tvg-logo="https://imgur.com/mnVhZVy.png" group-title="CINE Y SERIES 2",DE PELÍCULA PLUS
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155788
-#EXTINF:-1 tvg-id="Canal TCM (Costa Rica)" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/240px-TCM_Latam_logo.svg.png" group-title="CINE Y SERIES 2",TCM
+#EXTINF:-1 tvg-id="Canal TCM (Costa Rica)" tvg-name="TCM" tvg-logo="https://i.imgur.com/K2BsLtn.png" group-title="CINE Y SERIES 2",TCM
 http://45.228.232.204:16000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="Canal TCM (Costa Rica)" tvg-name="TCM (op2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/240px-TCM_Latam_logo.svg.png" group-title="CINE Y SERIES 2",TCM (op2)
+#EXTINF:-1 tvg-id="Canal TCM (Costa Rica)" tvg-name="TCM (op2)" tvg-logo="https://i.imgur.com/K2BsLtn.png" group-title="CINE Y SERIES 2",TCM (op2)
 http://181.189.243.254:8000/play/a0ri/index.m3u8
 #EXTINF:-1 tvg-id="Canal Paramount Channel (Costa Rica)" tvg-name="PARAMOUNT" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/paramount_channel.png" group-title="CINE Y SERIES 2",PARAMOUNT
 http://181.189.243.254:8000/play/a0ol/index.m3u8
@@ -1093,7 +1093,7 @@ https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="ProgramaciÃ³n.Deportes.TD+.(TD+).[112].cr" tvg-name="TD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png" group-title="DEPORTES ESPAÑOL",TD+
 http://181.189.243.254:8000/play/a0o9/index.m3u8
 #EXTINF:-1 tvg-id="ProgramaciÃ³n.Deportes.TD+.(TD+).[112].cr" tvg-name="TD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png" group-title="DEPORTES ESPAÑOL",TD+ HD
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/60365
+http://181.189.243.254:8000/play/a0o9/index.m3u8
 #EXTINF:-1 tvg-id="TD+2.HDTV.(TD+2.HD).[847].cr" tvg-name="TD+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/320px-TD_M%C3%A1s_2_Logo.svg.png" group-title="DEPORTES ESPAÑOL",TD+ 2 HD
 https://m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d8785f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TD+2.HDTV.(TD+2.HD).[847].cr" tvg-name="TD+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/320px-TD_M%C3%A1s_2_Logo.svg.png" group-title="DEPORTES ESPAÑOL",TD+ 2 
@@ -1840,7 +1840,7 @@ http://181.189.243.254:8000/play/a0rx/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 4" tvg-logo="https://i.postimg.cc/CLKdyngt/320px-Logo-Canal-4-La-Mejor-Televisi-n.png" group-title="CENTROAMÉRICA",CANAL 4
 http://45.5.118.213:16000/play/a0nk/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 6 | Nic" tvg-logo="https://1.bp.blogspot.com/-e2BCRc2yt6M/YSgPYvMdQnI/AAAAAAAAQRI/_PHm3V6VhBonN8DndCVIS5S-W3sef5DlQCLcBGAsYHQ/s612/Canal%2B6%2Ben%2Bvivo.png" group-title="CENTROAMÉRICA",CANAL 6 | Nic
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153931
+http://181.189.243.254:8000/play/a0qs/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 9" tvg-logo="https://i.postimg.cc/52gVfnSS/image.png" group-title="CENTROAMÉRICA",CANAL 9
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/127530.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 10" tvg-logo="https://i.postimg.cc/s2PZfF00/304px-Canal-10-Nicaragua.png" group-title="CENTROAMÉRICA",CANAL 10
@@ -2348,11 +2348,7 @@ https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
 https://oracle.streaminghd.cl/torococotelevision/torococotelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEAMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/320px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/320
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/7532
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTU" tvg-logo="https://imgur.com/ERvJ7lm.png" group-title="ECUADOR",RTU
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVC" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC
@@ -2549,9 +2545,9 @@ http://tvpanel.one:80/live/Fenix/DDD19PPP80/769449.ts
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE REBELDE | CUBA" tvg-logo="https://i.postimg.cc/TPzCpGxc/Telerebelde2011.png" group-title="NORTEAMERICA",TELE REBELDE | CUBA
 http://4L2e9ljsmw3pGXTJAWdMFU.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=3790&t=live&f=ts
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMADRID" tvg-logo="https://i.postimg.cc/nLkLY85D/320px-Tele-Madrid-svg.png" group-title="ESPAÑA",TELEMADRID
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_3.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA OTRA TV" tvg-logo="https://i.postimg.cc/FsVsQXrn/170px-La-Otra-Logo.png" group-title="ESPAÑA",LA OTRA TV
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 1 TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/269px-Logo_TVE-1.svg.png" group-title="ESPAÑA",LA 1 TVE
@@ -2573,7 +2569,7 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m
 #EXTINF:-1 tvg-id="Antena.3.(Internacional).(ANTENA.3).[536].cr" tvg-name="ANTENA 3 INTERNACIONAL" tvg-logo="https://i.postimg.cc/mrxd3JMB/99px-Antena-3-Internacional-logo-2017-svg.png" group-title="ESPAÑA",ANTENA 3 INTERNACIONAL
 http://181.189.243.254:8000/play/a0nv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTENA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA",ANTENA 3
-http://kuchini.site:8080/GenIptvLast/NQfNDZ8f27uhJhMv/1173
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/35494
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV GALICIA AMÉRICA" tvg-logo="https://th.bing.com/th/id/OIP.79DiUzpUebyD0gOVIbSuxQAAAA?pid=ImgDet&rs=1" group-title="ESPAÑA",TV GALICIA AMÉRICA
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARAGÓN TV" tvg-logo="https://media.tvalacarta.info/canales/256x256/aragontv.png" group-title="ESPAÑA",ARAGÓN TV
@@ -2991,16 +2987,8 @@ http://b4G7nRs9OPwkLr1E3DYlij.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QA
 http://SCoMRdzq0279FkGjmP5aQf.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26217&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA LATINO 7" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA LATINO 7
 http://tf14r6oLOSbaMuVQCw0sX5.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26218&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRENO ACCIÓN" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",ESTRENOS ACCIÓN
-http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/144548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRENOS AVETURA" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",ESTRENOS AVENTURA
-http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/144550
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRENOS CIENCIA FICCIÓN" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",ESTRENOS CIENCIA FICCIÓN
-http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/144551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRENOS ANIMACIÓN" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",ESTRENOS ANIMACIÓN
-http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/144552
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRENOS FAMILIAR" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",ESTRENOS FAMILIAR
-http://tv.kis2.xyz:43201/guadalupee/BPYZwsn5Qj/144554
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA FAMILIA" tvg-logo="https://i.imgur.com/azMonvt.jpg" group-title="24/7 PELÍCULAS",CINEMA FAMILIA
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156760
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 15" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 15
 http://BdotLJIT7nY2RAgbpk4KZh.green.onerunthisway.me/live/sun.php?z=997&u=8ZvDktjzef&s=8353633113&id=26660&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA 16" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA 16
