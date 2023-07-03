@@ -794,21 +794,19 @@ http://45.5.118.213:16000/play/a0ly/index.m3u8
 #EXTINF:-1 tvg-id="Canal TNT Series (Costa Rica)" tvg-name="TNT SERIES HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series.png" group-title="CINE Y SERIES 2",TNT SERIES HD
 http://45.228.232.204:16000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="Teen.Nick.Global.(Latin.America/Pan-regional).HDTV.(NICK2).mx" tvg-name="TEEN NICK" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teen_nick.png" group-title="CINE Y SERIES 2",TEEN NICK
-http://190.83.119.67:8000/play/a01p/index.m3u8
+http://181.189.243.254:8000/play/a0q1/index.m3u8
 #EXTINF:-1 tvg-id="Canal Comedy Central (Costa Rica)" tvg-name="COMEDY CENTRAL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/comedy_central_latinoamerica.png" group-title="CINE Y SERIES 2",COMEDY CENTRAL
-http://190.61.102.67:8000/play/a064
+http://181.189.243.254:8000/play/a0su/index.m3u8
 #EXTINF:-1 tvg-id="Canal HBO (Costa Rica)" tvg-name="HBO | Latam" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png" group-title="CINE Y SERIES 2",HBO | Latam
 http://45.5.117.182:8000/play/a0e8/index.m3u8
-#EXTINF:-1 tvg-id="Canal HBO (Costa Rica)" tvg-name="HBO HD | Latam (op2)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png" group-title="CINE Y SERIES 2",HBO FHD | Latam
-http://45.228.232.204:16000/play/a041/index.m3u8
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO HD | Col" tvg-logo="https://www.seekpng.com/png/full/223-2235566_hbo-hd-hbo-hd-logo-png.png" group-title="CINE Y SERIES 2",HBO HD | Col
-http://181.78.24.67:8010/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="Canal HBO (Costa Rica)" tvg-name="HBO HD | Latam (op2)" tvg-logo="https://www.seekpng.com/png/full/223-2235566_hbo-hd-hbo-hd-logo-png.png" group-title="CINE Y SERIES 2",HBO FHD | Latam
+http://45.228.232.204:16000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="Hbo.Hd.cl" tvg-name="HBO | Chi" tvg-logo="https://imgur.com/eti7cer.png" group-title="CINE Y SERIES 2",HBO | Chi
-http://181.78.24.67:8010/play/a02f/index.m3u8
+http://181.78.12.162:9000/play/a04c
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 | Arg" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica.png" group-title="CINE Y SERIES 2",HBO 2 | Arg
 http://45.5.117.182:8000/play/a0et/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2  | Arg  (op2)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica.png" group-title="CINE Y SERIES 2",HBO 2  | Arg  (op2)
-http://190.83.119.67:8000/play/a00q/index.m3u8
+http://45.228.232.204:16000/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Plus.HDTV.(Mexico).(HBO+HD).[824].cr" tvg-name="HBO PLUS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus.png" group-title="CINE Y SERIES 2",HBO PLUS
 http://45.5.117.182:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Plus.HDTV.(Mexico).(HBO+HD).[824].cr" tvg-name="HBO PLUS (op2)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus.png" group-title="CINE Y SERIES 2",HBO PLUS (op2)
@@ -816,11 +814,11 @@ http://190.83.119.67:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="HBO XREME tvg-name="HBO XTREME" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme.png" group-title="CINE Y SERIES 2",HBO XTREME
 http://45.228.232.204:16000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-id="HBO XREME" tvg-name="HBO XTREME (op2)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme.png" group-title="CINE Y SERIES 2",HBO XTREME (op2)
-http://190.83.119.67:8000/play/a00t/index.m3u8
+http://181.189.243.254:8000/play/a0ov/index.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family.png" group-title="CINE Y SERIES 2",HBO FAMILY
-http://190.83.119.67:8000/play/a00s/index.m3u8
+http://181.189.243.254:8000/play/a0ou/index.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY (op2)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family.png" group-title="CINE Y SERIES 2",HBO FAMILY (op2)
-http://181.78.24.67:8010/play/a044/index.m3u8
+http://45.228.232.204:16000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop.png" group-title="CINE Y SERIES 2",HBO POP
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/47445
 #EXTINF:-1 tvg-id="HBO.Signature.(Panamerican).(HBOSG).[973].cr" tvg-name="HBO SIGNATURE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature.png" group-title="CINE Y SERIES 2",HBO SIGNATURE
@@ -1452,7 +1450,7 @@ https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QELLO CONCERTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Qello_Concerts_Logo.png/220px-Qello_Concerts_Logo.png" group-title="MÚSICA",QELLO CONCERTS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONCERT CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/concert_channel.png" group-title="MÚSICA",CONCERT CHANNEL
-http://45.5.119.155:8000/play/a02r/index.m3u8
+http://45.5.117.172:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV POP" tvg-logo="https://i.postimg.cc/vHKN4jjZ/tvpop.jpg" group-title="MÚSICA",TV POP
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITALIANISSIMO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f918a8791af7e9f7e6faac88873f0a19.webp" group-title="MÚSICA",ITALIANISSIMO
@@ -1528,7 +1526,7 @@ http://45.228.232.204:16000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 00s HD" tvg-logo="https://imgur.com/UI5dWxu.png" group-title="MÚSICA",MTV 00s HD
 http://181.189.243.254:8000/play/a0sw/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HITS" tvg-logo="https://i.postimg.cc/mgckyWgc/253px-MTV-Hits-2021-svg.png" group-title="MÚSICA",MTV HITS
-http://190.83.119.67:8000/play/a01b/index.m3u8
+http://45.5.117.172:8000/play/a0gd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV LIVE" tvg-logo="https://imgur.com/cggCHeu.png" group-title="MÚSICA",MTV LIVE
 http://181.189.243.254:8000/play/a0sv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 80s" tvg-logo="https://imgur.com/fNBYRYX.png" group-title="MÚSICA",MTV 80s
@@ -3348,6 +3346,7 @@ http://tvpanel.one:80/live/Fenix/DDD19PPP80/765048.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAIDEN VAN HOLLAND" tvg-logo="https://i.imgur.com/dtFtMXy.png" group-title="ADULTOS",MAIDEN VAN HOLLAND
 http://fuzzyunicorns.net:80/live/austin/austin/788457.ts
 #EXTINF:-1 tvg-id="" tvg-name="MYLF TV" tvg-logo="https://i.imgur.com/LwEJGJT.png" group-title="ADULTOS",MYLF TV
+#EXTVLCOPT:http-referrer=http://kuchini.site/
 http://kuchini.site:8080/05add9be/df28c0b5be/297797
 #EXTINF:-1 tvg-id="" tvg-name="MOFOS" tvg-logo="https://i.postimg.cc/QCGCBVvR/Xe-Uf-Brve-400x400.png" group-title="ADULTOS",MOFOS
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/7128
@@ -3369,11 +3368,11 @@ http://376992223152520580.of2304.xyz:80/play/vi1016547/8093713821/520580.ts
 #EXTINF:-1 tvg-id="" tvg-name="FASTBOYZ" tvg-logo="https://imgur.com/FPNmoqJ.png" group-title="ADULTOS",FASTBOYZ
 http://376992223152513355.of2304.xyz:80/play/vi1016547/8093713821/513355.ts
 #EXTINF:-1 tvg-id="" tvg-name="CUM 4K" tvg-logo="https://imgur.com/ttjDQIu.png" group-title="ADULTOS",CUM 4K
-#EXTVLCOPT:http-referrer=http://kuchini.site/
-http://kuchini.site:8080/05add9be/df28c0b5be/298232
+http://tvpanel.one:80/live/Fenix/DDD19PPP80/765183.ts
 #EXTINF:-1 tvg-id="" tvg-name="FAP TV" tvg-logo="https://i.postimg.cc/FRjyHzbV/image.png" group-title="ADULTOS",FAP TV
+#EXTVLCOPT:http-referrer=http://48af2cd5.edemist.com/iptv/
 #EXTVLCOPT:network-caching=1000
-http://fuzzyunicorns.net:80/live/austin/austin/788435.ts
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6191/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TUSHY" tvg-logo="https://i.postimg.cc/Xq6x9gRR/Tushy.png" group-title="ADULTOS",TUSHY
 http://376992223152509292.of2304.xyz:80/play/vi1016547/8093713821/509292.ts
 #EXTINF:-1 tvg-id="" tvg-name="PINKO" tvg-logo="https://imgur.com/pm2kPyt.png" group-title="ADULTOS",PINKO
