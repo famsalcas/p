@@ -751,6 +751,7 @@ http://45.5.117.182:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-id="Canal Sony (Costa Rica)" tvg-name="SONY SD | Centro" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel.png" group-title="CINE Y SERIES 2",SONY | Centro
 http://45.228.232.204:16000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="Canal Sony (Costa Rica)" tvg-name="SONY HD | Centro" tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/19/Sony_Channel_HD_2019.png" group-title="CINE Y SERIES 2",SONY HD | Centro
+#EXTVLCOPT:network-caching=1000
 http://181.189.243.254:8000/play/a0sk/index.m3u8
 #EXTINF:-1 tvg-id="Canal AXN (Costa Rica)" tvg-name="AXN SD | Andes" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png" group-title="CINE Y SERIES 2",AXN SD | Andes
 http://181.189.243.254:8000/play/a0pp/index.m3u8
@@ -781,6 +782,7 @@ http://45.228.232.204:16000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="Canal Universal TV (Costa Rica)" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/yYnnX1jz/320px-Universal-TV-HD-svg.png" group-title="CINE Y SERIES 2",UNIVERSAL TV HD
 http://190.60.39.198:8000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="Canal Universal TV (Costa Rica)" tvg-name="UNIVERSAL TV | Mex" tvg-logo="https://imgur.com/pxML0Ll.png" group-title="CINE Y SERIES 2",UNIVERSAL TV | Mex
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4054
 #EXTINF:-1 tvg-id="Canal Syfy (Costa Rica)" tvg-name="SYFY SD" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2018/02/syfy_2017_logo-777x398.png" group-title="CINE Y SERIES 2",SYFY SD
 http://181.189.243.254:8000/play/a0s9/index.m3u8
@@ -1302,60 +1304,88 @@ https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUNTSTREAM" tvg-logo="https://i.imgur.com/SORXZAp.jpg" group-title="DEPORTES INGLÉS",HUNTSTREAM
 https://huntstream-viewlift.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | RAYS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | RAYS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/18541
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | YANKEES" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | YANKEES
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156414
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | DODGERS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | DODGERS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/18558
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | BRAVES" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | BRAVES
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156389
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | CARDINALS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | CARDINALS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156391
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | BLUE JAYS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | BLUE JAYS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/18585
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | ASTROS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | ASTROS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156386
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | RANGERS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | RANGERS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156405
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | RED SOX" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | RED SOX
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156407
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | PHILLIES" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | PHILLIES
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156403
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | PADRES" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | PADRES
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/18547
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | ANGELS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | ANGELS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156385
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | TWINS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | TWINS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/8171
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | NATIONALS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | NATIONALS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/18551
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | MARLINS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | MARLINS
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156398
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | METS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | METS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/18552
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | GIANTS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | GIANTS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156395
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | MARINERS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | MARINERS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/18555
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | CUBS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | CUBS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/18562
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | ATHLETICS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | ATHLETICS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156387
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | BLUE JAYS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | BLUE JAYS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/18585
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | WHITE SOX" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | WHITE SOX
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156413
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | REDS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | REDS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156408
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | ROCKIES" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | ROCKIES
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156409
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | TIGERS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | TIGERS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156411
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | D-BACKS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | D-BACKS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156393
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | GUARDIANS CLEVELAND" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | GUARDIANS CLEVELAND
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156396
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | ROYALS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | ROYALS
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156410
 
 
@@ -1528,8 +1558,8 @@ http://iptvcolombia.ddns.net:1936/ranchenato/ranchenato_360p/chunklist_w11714147
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANDAMAX" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bandamax.png" group-title="MÚSICA",BANDAMAX
 http://200.229.147.76:4000/play/a0hw/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONECTA TV" tvg-logo="https://i.imgur.com/wB2YEs4.png" group-title="MÚSICA",CONECTA TV
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC BOX RUSSIA" tvg-logo="https://imgur.com/gA7DtWP.png" group-title="MÚSICA",MUSIC BOX RUSSIA
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS MUSIC" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="MÚSICA",TVS MUSIC
 https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO PLUS TV 1" tvg-logo="https://imgur.com/wLu4Jxu.png" group-title="MÚSICA",RETRO PLUS TV 1
@@ -1648,8 +1678,8 @@ https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE (BE)" tvg-logo="https://graph.facebook.com/XITENL/picture?width=200&height=200" group-title="MÚSICA",XITE (BE)
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEXY K-POP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65OUGMlPULxBGuFtMNJwN4d0rYrmk7spUgw&usqp=CAU" group-title="MÚSICA",SEXY K-POP
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шансон ТВ" tvg-logo="https://imgur.com/3RgT7dX.png" group-title="MÚSICA",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K POP" tvg-logo="https://i.postimg.cc/vB8LdqnC/image.png" group-title="MÚSICA",K POP
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGA MUNDIAL" tvg-logo="http://channels.roku.com/images/b3b836fe445a4ad1917e32c3b2c194a4-hd.jpg" group-title="MÚSICA",MEGA MUNDIAL
@@ -3389,8 +3419,10 @@ http://tvpanel.one:80/live/Fenix/DDD19PPP80/765613.ts
 #EXTINF:-1 tvg-id="" tvg-name="LEO TV" tvg-logo="https://imgur.com/KHwAxd8.png" group-title="ADULTOS",LEO TV
 http://376992223152444924.of2304.xyz:80/play/vi1016547/8093713821/444924.ts
 #EXTINF:-1 tvg-id="" tvg-name="LEO TV GOLD" tvg-logo="https://imgur.com/yn3S8Gr.png" group-title="ADULTOS",LEO GOLD
-http://376992223152519072.of2304.xyz:80/play/vi1016547/8093713821/519072.ts
+#EXTVLCOPT:network-caching=1000
+http://kuchini.site:8080/05add9be/df28c0b5be/283826
 #EXTINF:-1 tvg-id="" tvg-name="HOT GUYS FUCK" tvg-logo="https://imgur.com/R1pCh5p.png" group-title="ADULTOS",HOT GUYS FUCK
+#EXTVLCOPT:network-caching=1000
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6223/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XY MAX" tvg-logo="https://i.imgur.com/goyWQbG.png" group-title="ADULTOS",XY MAX
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6286/index.m3u8
@@ -3426,7 +3458,7 @@ http://tvpanel.one:80/live/Fenix/DDD19PPP80/765041.ts
 #EXTINF:-1 tvg-id="" tvg-name="VIXEN" tvg-logo="https://imgur.com/sUIqFe9.png" group-title="ADULTOS",VIXEN
 http://376992223152520580.of2304.xyz:80/play/vi1016547/8093713821/520580.ts
 #EXTINF:-1 tvg-id="" tvg-name="FASTBOYZ" tvg-logo="https://imgur.com/FPNmoqJ.png" group-title="ADULTOS",FASTBOYZ
-http://cdn.adultiptv.net/pornstar.m3u8
+http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CUM 4K" tvg-logo="https://imgur.com/ttjDQIu.png" group-title="ADULTOS",CUM 4K
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765183.ts
 #EXTINF:-1 tvg-id="" tvg-name="FAP TV" tvg-logo="https://i.postimg.cc/FRjyHzbV/image.png" group-title="ADULTOS",FAP TV
