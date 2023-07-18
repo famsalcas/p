@@ -98,9 +98,9 @@ https://rtmp.info/trivision36/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CURRÉ" tvg-logo="https://i.postimg.cc/vTxSY7Xb/cropped-logo-curre-pajaro-pz.png" group-title="COSTA RICA",TV CURRÉ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="¡OPA!" tvg-logo="https://imgur.com/QSq6EF8.png" group-title="COSTA RICA",¡OPA!
-#EXTVLCOPT:http-referrer=https://stream.castr.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://stream.castr.com/6499ec857df5bf9d55b5849f/live_9246a0201b5b11ee8e1f3b15c8f64f35/index.m3u8
+#EXTVLCOPT:http-referrer=https://stream.castr.com/
+https://stream.castr.com/6499ec857df5bf9d55b5849f/live_9246a0201b5b11ee8e1f3b15c8f64f35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CABINA RADIO FIDES" tvg-logo="https://i.imgur.com/336WIBj.png" group-title="COSTA RICA",CABINA RADIO FIDES
 https://rtmp.info/cabinafides/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAN JOSÉ TV" tvg-logo="https://i.imgur.com/rOylu0Z.jpg" group-title="COSTA RICA",SAN JOSÉ TV
@@ -404,10 +404,8 @@ http://hidra.live:80/usvhppwq/4C3D7fuen2/302633
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE NATURE ESPAÑOL" tvg-logo="https://i.imgur.com/bpHH6Wj.png" group-title="CULTURA Y ESTILOS",LOVE NATURE ESPAÑOL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE NATURE ESPAÑOL LAT" tvg-logo="https://i.postimg.cc/25v1yH08/love-nature-logo-white-rgb.png" group-title="CULTURA Y ESTILOS",LOVE NATURE LAT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE NATURE ESPAÑOL TV" tvg-logo="https://i.postimg.cc/25v1yH08/love-nature-logo-white-rgb.png" group-title="CULTURA Y ESTILOS",LOVE NATURE TV
 http://190.90.251.194:8921/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXPLORER" tvg-logo="https://i.postimg.cc/prRC4SYc/EXPLORE-ESP.png" group-title="CULTURA Y ESTILOS",EXPLORER
-https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Â¡Hola!.TV.HDTV.(US).(HOLAHD).[933].cr" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hola_tv.png" group-title="CULTURA Y ESTILOS",HOLA TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="¡HOLA! PLAY TV" tvg-logo="https://i.postimg.cc/gJxBV9tR/HOLA-PLAY-ESP.png" group-title="CULTURA Y ESTILOS",¡HOLA! PLAY TV
@@ -570,16 +568,16 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 https://stm1.rootuy.xyz:19360/envivotv/envivotv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MOVIES" tvg-logo="https://i.postimg.cc/L5GQ9BKf/1200px-Sony-Movies-Logo-svg.png" group-title="CINE Y SERIES 1",SONY MOVIES
 http://181.189.243.254:8000/play/a0qc/index.m3u8
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=932123331&_cdn_timestamp=1688433601&_cdn_token=da4dc61e3180dffc49ae050c674da55109cfb4a7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY CINE" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE Y SERIES 1",SONY CINE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY COMEDIAS" tvg-logo="https://www.ipuntotv.com/IMAGES/sony-channel-logo.png" group-title="CINE Y SERIES 1",SONY COMEDIAS
-https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ORBIT TV" tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="CINE Y SERIES 1",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANELA CLÁSICOS" tvg-logo="https://play-lh.googleusercontent.com/nGSJiclhwDVCsZSRlniu24xUhtI30Q-c7ODuTQv7MK5uiaZkT0fbXaC-Tf49_lKwCzs" group-title="CINE Y SERIES 1",CANELA CLÁSICOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEN TV" tvg-logo="http://www.gentvoficial.com/img/publicidades/Bot%C3%B3n_vivo_1.png" group-title="CINE Y SERIES 1",GEN TV
 https://inliveserver.com:1936/14056/14056/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO PLAY" tvg-logo="https://i.postimg.cc/26s1cHpk/Retro-Play-TV-MODIF.png" group-title="CINE Y SERIES 1",RETRO PLAY
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGAVISIÓN" tvg-logo="https://3.bp.blogspot.com/-ZuCp5RmcFwA/XbcT2NFUdiI/AAAAAAAAohE/qfgI5E9bQAwHeTIj7b-16ZQb4Qsw_PddgCLcBGAsYHQ/s200/MegaVision%2B%2528RD%2529.jpg" group-title="CINE Y SERIES 1",MEGAVISIÓN
@@ -652,6 +650,8 @@ https://809319b2b7064d85940128773157bd6f.mediatailor.us-east-1.amazonaws.com/v1/
 https://1306133dcf0640fe9a264e1537bb9782.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_Local/playlist.m3u8?ads.wurl_channel=794&ads.wurl_name=Local&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FM COSMOS" tvg-logo="https://i.postimg.cc/dV4CRXfr/COSMOS-TV.png" group-title="CINE Y SERIES 1",FM COSMOS
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MI TV CLÁSICA" tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png" group-title="CINE Y SERIES 1",MI TV CLÁSICA
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 tvg-id="Rakuten.VIKI.es" tvg-name="VIKI RAKUTEN" tvg-logo="https://graph.facebook.com/viki/picture?width=200&height=200" group-title="CINE Y SERIES 1",VIKI RAKUTEN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINDIE LITE" tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="CINE Y SERIES 1",CINDIE LITE
@@ -675,7 +675,7 @@ https://stmvideo1.livecastv.com/magic-2023/magic-2023/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KANADE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoT4p7B38Xj4SPMyLKNAX_Am0x2vkwzgqtKw&usqp=CAU" group-title="CINE Y SERIES 1",KANADE TV
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FANPOP" tvg-logo="https://pbs.twimg.com/profile_images/893232254067003392/pZiwY-_W_400x400.jpg" group-title="CINE Y SERIES 1",FANPOP
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENERGEEK 2" tvg-logo="https://chileip.tv/wp-content/uploads/2022/01/energeek-e1641660179143.jpeg" group-title="CINE Y SERIES 1",ENERGEEK 2
 https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VARIEDTV" tvg-logo="https://imgur.com/4zYZinQ.png" group-title="CINE Y SERIES 1",VARIEDTV
@@ -692,14 +692,12 @@ https://i.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
 https://i.mjh.nz/PlutoTV/5cf96b1c4f1ca3f0629f4bf0-alt.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ADRENALINA" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG-1623101979398.png" group-title="CINE Y SERIES 1",CINE ADRENALINA
 https://i.mjh.nz/PlutoTV/5d8d164d92e97a5e107638d2-alt.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE XOXO" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG.png" group-title="CINE Y SERIES 1",CINE XOXO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ¡¡jaja!!" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png" group-title="CINE Y SERIES 1",CINE ¡¡jaja!!
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f513564e4622a0007c578c0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC DRAMA" tvg-logo="https://i.postimg.cc/nVXXRKBB/BBC-DRAMA.png" group-title="CINE Y SERIES 1",BBC DRAMA
 https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8?ads.wurl_channel=988&ads.wurl_name=BBCDrama&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE FAMILIAR" tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png" group-title="CINE Y SERIES 1",CINE FAMILIAR
-http://190.90.18.161:15087/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE HISPANO" tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE-HISPANO.png" group-title="CINE Y SERIES 1",CINE HISPANO
-http://190.90.18.161:15087/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE PREMIUM" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE-PREMIUM.png" group-title="CINE Y SERIES 1",CINE PREMIUM
-http://190.90.18.161:15087/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="ESBC2700012RP" tvg-name="CINE FEEL GOOD TV" tvg-logo="https://i.imgur.com/rP3ToHr.jpg" group-title="CINE Y SERIES 1",CINE FEEL GOOD TV
 https://dfekb8hx1gqcg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nmsvybp4gie0j-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="ESBC2700011AZ" tvg-name="CINES VERDI TV" tvg-logo="https://i.imgur.com/v0YwdRR.jpg" group-title="CINE Y SERIES 1",CINES VERDI TV
@@ -712,6 +710,20 @@ https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6348a34c1159f6a5ce819b81.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=y3T5vKAmSMGUEmyEEiXQ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX OLD TV" tvg-logo="https://i.imgur.com/sZhn4Iv.png" group-title="CINE Y SERIES 1",MX OLD TV
 https://marine2.miplay.cl/old/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX CLASSICS" tvg-logo="https://i.imgur.com/nxuc6NZ.jpg" group-title="CINE Y SERIES 1",MX CLASSICS
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX PRIME" tvg-logo="https://i.imgur.com/VCqBVCU.jpg" group-title="CINE Y SERIES 1",MX PRIME
+https://marine2.miplay.cl/mxprime/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX FAMILY" tvg-logo="https://i.imgur.com/NamJ0zc.jpg" group-title="CINE Y SERIES 1",MX FAMILY
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE FAMILIAR" tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png" group-title="CINE Y SERIES 1",CINE FAMILIAR
+http://190.90.18.161:15087/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE HISPANO" tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE-HISPANO.png" group-title="CINE Y SERIES 1",CINE HISPANO
+http://190.90.18.161:15087/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE PREMIUM" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE-PREMIUM.png" group-title="CINE Y SERIES 1",CINE PREMIUM
+http://190.90.18.161:15087/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FILMEX CLÁSICO" tvg-logo="https://i.postimg.cc/Dw95xQ9D/image.png" group-title="CINE Y SERIES 1",FILMEX CLÁSICO
+https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/17.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH FAMILY" tvg-logo="https://i.postimg.cc/QVGCt247/logo-family.png" group-title="CINE Y SERIES 1",FMH FAMILY
 http://45.181.122.169:8000/play/a02i
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH MOVIES" tvg-logo="https://i.postimg.cc/zB2RJPYw/logo-movies.png" group-title="CINE Y SERIES 1",FMH MOVIES
@@ -1511,7 +1523,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARTY TIME KARAOKE ESPAÑOL 2" tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="MÚSICA",PARTY TIME KARAOKE ESPAÑOL 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1301
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECUERDOS RETRO" tvg-logo="https://i.postimg.cc/SRB9G9yq/cropped-logo-new-web10.png" group-title="MÚSICA",RECUERDOS RETRO
-https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QELLO CONCERTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Qello_Concerts_Logo.png/220px-Qello_Concerts_Logo.png" group-title="MÚSICA",QELLO CONCERTS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONCERT CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/concert_channel.png" group-title="MÚSICA",CONCERT CHANNEL
