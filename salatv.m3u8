@@ -530,12 +530,12 @@ http://tv.a1promediastream.com:25461/0848592/8416758/16227
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PASIONES | LATAM" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones.png" group-title="NOVELAS Y SERIES",PASIONES
 http://45.5.117.172:8000/play/a0kq/index.m3u8
 #EXTINF:-1 tvg-id="Canal TBS (Costa Rica)" tvg-name="TNT NOVELAS" tvg-logo="https://i.postimg.cc/jj7vjnDc/7f334d87-5d5a-9854-2f73-d4959739d42c.png" group-title="NOVELAS Y SERIES",TBS NOVELAS
-http://190.6.203.198:8000/play/a01i/index.m3u8
+http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/1907
 #EXTINF:-1 tvg-id="Tele.Novelas.(Latin.America).(TLNOV).[19].cr" tvg-name="TLNOVELAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlnovelas.png" group-title="NOVELAS Y SERIES",TLNOVELAS
 http://181.78.24.67:8010/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CORAZÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_corazon.png" group-title="NOVELAS Y SERIES",AZ CORAZÓN
 http://45.228.232.204:16000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEVISA VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/220px-Logotipo_de_Televisa.svg.png" group-title="NOVELAS Y SERIES",TELEVISA VARIEDADES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEVISA VARIEDADES" tvg-logo="https://imgur.com/kfKggXI.png" group-title="NOVELAS Y SERIES",TELEVISA VARIEDADES
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima(Spanish).us" tvg-name="NOVELÍSIMA" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="NOVELAS Y SERIES",NOVELÍSIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
@@ -547,8 +547,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="" tvg-id="5e84dc59026b9b000766f9a2" tvg-chno="" tvg-name="BADASS NOVELASS" tvg-logo="https://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="NOVELAS Y SERIES",BADASS NOVELAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="samsung-ESBC43000013T" tvg-id="ESBC43000013T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230308T021501SQUARE.png_20230308021502.png" group-title="NOVELAS Y SERIES",FRECUENCIA NOVELAS
+#EXTINF:-1 channel-id="samsung-ESBC43000013T" tvg-id="ESBC43000013T" tvg-logo="https://i.imgur.com/5qfOxTK.png" group-title="NOVELAS Y SERIES",FRECUENCIA NOVELAS
 https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 SERIES" tvg-logo="https://i.imgur.com/0LainB5.png" group-title="NOVELAS Y SERIES",13 SERIES
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO PLUS TV 3" tvg-logo="https://i.postimg.cc/ryhTQDn0/RETRO-PLUS-MOVIES.png" group-title="CINE Y SERIES 1",RETRO PLUS TV 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1515946969.m3u8
@@ -993,7 +995,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sl
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN STORIES" tvg-logo="https://i.postimg.cc/Jnw674SS/RAKUTEN-SPOTLIGHT.png" group-title="DEPORTES ESPAÑOL",RAKUTEN STORIES
 https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="FUTV  SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" group-title="DEPORTES ESPAÑOL",FUTV  SD
-http://190.83.119.67:8000/play/a03t/index.m3u8
+http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/153877
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="FUTV  HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" group-title="DEPORTES ESPAÑOL",FUTV  HD
 http://181.189.243.254:8000/play/a0t3/index.m3u8
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="FUTV  HD (op2)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" group-title="DEPORTES ESPAÑOL",FUTV  HD (op2)
@@ -1008,7 +1010,6 @@ http://190.60.39.198:8000/play/a03j/index.m3u8
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1090741
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 | Mex" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 3 | Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156757
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 tvg-id="Canal Fox Sports 3 (Costa Rica)" tvg-name="FOX SPORTS 3 | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 3 | Norte
 http://45.5.117.182:8000/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-id="Canal Fox Sports 3 (Costa Rica)" tvg-name="FOX SPORTS 3 HD | Norte" tvg-logo="https://i.postimg.cc/q7bTJBPL/Fox-Sports-3-hd.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 3 HD | Norte
@@ -1275,14 +1276,6 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32265
 http://bandookk.xyz:8000/Geniptv/persian_share/32266
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FITE" tvg-logo="https://i.postimg.cc/RFWGkkn6/1971-294x165-FFFFFF.png" group-title="DEPORTES INGLÉS",FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT SPORT 1" tvg-logo="https://i.postimg.cc/sfwwnhYm/BTSPORT-1-2018-WHITE-RGB.png" group-title="DEPORTES INGLÉS",BT SPORT 1
-http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT SPORT 2" tvg-logo="https://i.postimg.cc/qqP0f5fV/BTSPORT-2-2018-WHITE-RGB.png" group-title="DEPORTES INGLÉS",BT SPORT 2
-http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT SPORT 3" tvg-logo="https://i.postimg.cc/pL1w3SK0/BTSPORT-3-2018-WHITE-RGB.png" group-title="DEPORTES INGLÉS",BT SPORT 3
-http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT SPORT 4" tvg-logo="https://i.postimg.cc/YSWsZCr9/BTSPORT-4-2022-WHITE-RGB.png" group-title="DEPORTES INGLÉS",BT SPORT 4
-http://198.16.100.90:8278/btespn/playlist.m3u8?tid=MA7A3153817131538171&ct=19225&tsum=9452e06c1cdd6935e85cb94a95212a9a
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHUKKER TV" tvg-logo="https://imgur.com/ktNzMd7.png" group-title="DEPORTES INGLÉS",CHUKKER TV
 https://the-chukker-channel-tv-vivalive.evrideo.tv/ee1f7251-f83f-4a8e-b132-6da0d79f8d34_1000014578_HLS/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HNC SPORTS" tvg-logo="https://i.imgur.com/KjkuzFF.jpg" group-title="DEPORTES INGLÉS",HNC SPORTS
@@ -1388,7 +1381,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="euronews.(EUNEWS).ar" tvg-name="EURONEWS ESPAÑOL" tvg-logo="https://i.postimg.cc/qBxLQXBp/Logo-Euronews-stacked-white-on-spanish-1500x1000wht.png" group-title="NOTICIAS",EURONEWS ESPAÑOL
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="France.24.(North.America.-.French).(F24).ar" tvg-name="FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="NOTICIAS",FRANCE 24
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/26977
 #EXTINF:-1 tvg-id="TeleSur.(TELESUR).[984].cr" tvg-name="TELESUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/219px-TeleSUR-Logo.svg.png" group-title="NOTICIAS",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable.News.Network.(CNN).[796].cr" tvg-name="CNN ESPAÑOL" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" group-title="NOTICIAS",CNN ESPAÑOL
@@ -1428,7 +1421,7 @@ https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 NOTICIAS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_24-7-canal-de-noticias_m.png" group-title="NOTICIAS",24/7 NOTICIAS
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C5N" tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS",C5N
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/22097
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="NEWSMAX" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="NOTICIAS",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE FIRST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_First_TV_logo.png/220px-The_First_TV_logo.png" group-title="NOTICIAS",THE FIRST
