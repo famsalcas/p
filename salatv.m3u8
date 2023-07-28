@@ -98,7 +98,7 @@ https://rtmp.info/trivision36/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CURRÉ" tvg-logo="https://i.postimg.cc/vTxSY7Xb/cropped-logo-curre-pajaro-pz.png" group-title="COSTA RICA",TV CURRÉ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="¡OPA!" tvg-logo="https://imgur.com/QSq6EF8.png" group-title="COSTA RICA",¡OPA!
-#EXTVLCOPT:http-referrer=https://stream.castr.com/
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_9246a0201b5b11ee8e1f3b15c8f64f35
 https://stream.castr.com/6499ec857df5bf9d55b5849f/live_9246a0201b5b11ee8e1f3b15c8f64f35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CABINA RADIO FIDES" tvg-logo="https://i.imgur.com/336WIBj.png" group-title="COSTA RICA",CABINA RADIO FIDES
 https://rtmp.info/cabinafides/envivo/playlist.m3u8
@@ -383,7 +383,7 @@ http://181.189.243.254:8000/play/a0pa/index.m3u8
 #EXTINF:-1 tvg-chno="188" tvg-id="Disney.Junior.(North.Feed).(DISJR).[304].cr" tvg-name="DISNEY JUNIOR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_junior.png" group-title="KIDS",DISNEY JUNIOR
 http://190.83.116.230:9010/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="Nick.Jr..(NICKJR).[311].cr" tvg-name="NICK JUNIOR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nick_jr.png" group-title="KIDS",NICK JUNIOR
-http://45.228.232.204:16000/play/a02b/index.m3u8
+http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/1387
 #EXTINF:-1 tvg-chno="190" tvg-id="Discovery.Kids.HDTV.(Latin.America).(DKIDSHD).[856].cr" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/150px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="KIDS",DISCOVERY KIDS
 http://181.189.243.254:8000/play/a0ob/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.(Latin.America.-.Panregional).HDTV.(TOONHD).[794].cr" tvg-name="CARTOON NETWORK (ATL S)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK (ATL S)
@@ -497,8 +497,6 @@ https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVENTURA" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="CULTURA Y ESTILOS",AVENTURA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="ESBC3500002PW" tvg-name="IDEAS EN 5 MINUTOS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="CULTURA Y ESTILOS",IDEAS EN 5 MINUTOS
-https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
 #EXTINF:-1 tvg-id="" tvg-name="TRAVELXP" tvg-logo="https://i.postimg.cc/rytzVZPK/travelxplogo1.png" group-title="CULTURA Y ESTILOS",TRAVELXP
 http://190.40.198.134:9192/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLITZ" tvg-logo="https://i.postimg.cc/ncps3Y3r/120px-Glitz-logo.png" group-title="CULTURA Y ESTILOS",GLITZ
@@ -523,7 +521,7 @@ https://d1jgsg6cns4jzy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY NOVELAS" tvg-logo="https://imgur.com/imczxBH.png" group-title="NOVELAS Y SERIES",SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="RCN.Novelas.(RCNNOV)..ec" tvg-name="RCN NOVELAS" tvg-logo="https://graph.facebook.com/RCNnovelas/picture?width=200&height=200" group-title="NOVELAS Y SERIES",RCN NOVELAS
-http://181.78.27.188:5350/play/a016
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155809
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PASIONES | USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones.png" group-title="NOVELAS Y SERIES",PASIONES
 http://tv.a1promediastream.com:25461/0848592/8416758/16227
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PASIONES | LATAM" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones.png" group-title="NOVELAS Y SERIES",PASIONES
@@ -769,11 +767,10 @@ http://181.189.243.254:8000/play/a0q8/index.m3u8
 #EXTINF:-1 tvg-id="Canal Universal TV (Costa Rica)" tvg-name="UNIVERSAL TV SD | Panreg" tvg-logo="https://i.postimg.cc/8Cvh3NRc/100px-Universal-TV-logo-svg.png" group-title="CINE Y SERIES 2",UNIVERSAL TV | Panreg
 http://45.5.118.213:16000/play/a0o3/index.m3u8
 #EXTINF:-1 tvg-id="Canal Universal TV (Costa Rica)" tvg-name="UNIVERSAL TV SD | Panreg (op2)" tvg-logo="https://i.postimg.cc/8Cvh3NRc/100px-Universal-TV-logo-svg.png" group-title="CINE Y SERIES 2",UNIVERSAL TV | Panreg (op2)
-http://45.228.232.204:16000/play/a078/index.m3u8
+http://45.5.119.202:54321/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="Canal Universal TV (Costa Rica)" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/yYnnX1jz/320px-Universal-TV-HD-svg.png" group-title="CINE Y SERIES 2",UNIVERSAL TV HD
 http://190.60.39.198:8000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="Canal Universal TV (Costa Rica)" tvg-name="UNIVERSAL TV | Mex" tvg-logo="https://imgur.com/pxML0Ll.png" group-title="CINE Y SERIES 2",UNIVERSAL TV | Mex
-#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4054
 #EXTINF:-1 tvg-id="Canal Syfy (Costa Rica)" tvg-name="SYFY SD" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2018/02/syfy_2017_logo-777x398.png" group-title="CINE Y SERIES 2",SYFY SD
 http://181.189.243.254:8000/play/a0s9/index.m3u8
@@ -890,7 +887,7 @@ http://181.189.243.254:8000/play/a0oj/index.m3u8
 #EXTINF:-1 tvg-id="Film&amp;Arts.(Latin.America).(F&amp;A).do" tvg-name="FILM & ARTS HD" tvg-logo="https://www.filmandarts.tv/theme/assets/fa-logo.png" group-title="CINE Y SERIES 2",FILM & ARTS HD
 http://181.189.243.254:8000/play/a0q6/index.m3u8
 #EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-name="EUROPA EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE Y SERIES 2",EUROPA EUROPA
-http://190.149.66.90:16000/play/a01p/index.m3u8
+http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/26755
 #EXTINF:-1 tvg-id="Eurochannel.(EUROCHN).ar" tvg-name="EURO CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurochannel-mediano.png" group-title="CINE Y SERIES 2",EURO CHANNEL
 http://45.5.118.213:16000/play/a0kx/index.m3u8
 #EXTINF:-1 tvg-id="I-SAT.(Pan-Regional).(I-SAT).[448].cr" tvg-name="iSAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/100px-I.Sat_logo.svg.png" group-title="CINE Y SERIES 2",iSAT
@@ -936,10 +933,6 @@ https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
 https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/manifest/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/0d14dc99-cc30-4c0e-8531-40cdfe650694/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS WESTERN MOVIE" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="CINE Y SERIES INGLÉS",TVS WESTERN MOVIE
 https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COWBOY THEATER" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2276-294x165-FFFFFF.jpg" group-title="CINE Y SERIES INGLÉS",COWBOY THEATER
-https://simultv.s.llnwi.net/o054/CowboyTheater/interlink.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FILMRISE WESTERN" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="CINE Y SERIES INGLÉS",FILMRISE WESTERN
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILD WEST" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60bf95316d3e6127a77bdcc2/900" group-title="CINE Y SERIES INGLÉS",WILD WEST
 https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LONE STAR" tvg-logo="https://i.imgur.com/fA2SZWI.png" group-title="CINE Y SERIES INGLÉS",LONE STAR
@@ -971,10 +964,6 @@ https://cinedigm-elrey-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FREEBIE TV" tvg-logo="https://imgur.com/90McOLS.png" group-title="CINE Y SERIES INGLÉS",FREEBIE TV
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 
-#EXTINF:-1 tvg-id="El.Garage.TV.-.South.(Latin.America).(GARAG).ar" tvg-name="GARAJE TV" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="DEPORTES ESPAÑOL",GARAJE TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN STORIES" tvg-logo="https://i.postimg.cc/Jnw674SS/RAKUTEN-SPOTLIGHT.png" group-title="DEPORTES ESPAÑOL",RAKUTEN STORIES
-https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="FUTV  SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" group-title="DEPORTES ESPAÑOL",FUTV  SD
 http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/153877
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="FUTV  HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" group-title="DEPORTES ESPAÑOL",FUTV  HD
@@ -983,10 +972,8 @@ http://181.189.243.254:8000/play/a0t3/index.m3u8
 http://181.175.41.170:8000/play/a0gk
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/135px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 1
 http://tv.nousiptv.com:8080/marcosmazzutti/MM9197962/1155912
-#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).[800].cr" tvg-name="FOX SPORTS 2 | Mex" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 2 | Mex
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156756
 #EXTINF:-1 tvg-id="Canal Fox Sports 2 (Costa Rica)" tvg-name="FOX SPORTS 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 2
-http://190.60.39.198:8000/play/a03j/index.m3u8
+http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/1518
 #EXTINF:-1 tvg-id="FoxSports2" tvg-name="FOX SPORTS 2 | Sur" tvg-logo="https://imgur.com/YWonf6u.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 2 | Sur
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1090741
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 | Mex" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3.png" group-title="DEPORTES ESPAÑOL",FOX SPORTS 3 | Mex
@@ -1055,6 +1042,8 @@ http://tvpanel.one:80/live/Fenix/DDD19PPP80/517167.ts
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/18594
 #EXTINF:-1 tvg-id="Canal Tigo Sports (Costa Rica)" tvg-name="TIGO SPORTS COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png" group-title="DEPORTES ESPAÑOL",TIGO SPORTS COSTA RICA (op2)
 http://181.189.243.254:8000/play/a0sn/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN STORIES" tvg-logo="https://i.postimg.cc/Jnw674SS/RAKUTEN-SPOTLIGHT.png" group-title="DEPORTES ESPAÑOL",RAKUTEN STORIES
+https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/245px-MX_logo.png" group-title="DEPORTES ESPAÑOL",LIGA MX
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="ProgramaciÃ³n.Deportes.TD+.(TD+).[112].cr" tvg-name="TD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png" group-title="DEPORTES ESPAÑOL",TD+
@@ -1118,8 +1107,10 @@ http://200.52.154.125:8000/play/a06q/index.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Top.Gear.en.espaÃ±ol.e" tvg-name="TOP GEAR" tvg-logo="https://www.pngkey.com/png/detail/74-740359_top-gear-logo-www-top-gear-logo-png.png" group-title="DEPORTES ESPAÑOL",TOP GEAR
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://i.postimg.cc/kM2wPRL8/320px-Movistar-Deportes-svg.png" group-title="DEPORTES ESPAÑOL",MOVISTAR DEPORTES
-http://200.119.222.198:25470/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX DEPORTES" tvg-logo="https://i.postimg.cc/k4c4D4PD/800px-FOX-Deportes-logo.png" group-title="DEPORTES ESPAÑOL",FOX DEPORTES
+http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/69983
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://i.postimg.cc/kM2wPRL8/320px-Movistar-Deportes-svg.png" group-title="DEPORTES ESPAÑOL",MOVISTAR DEPORTES
+http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/59863
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOL TV" tvg-logo="https://imgur.com/f2ic9k2.png" group-title="DEPORTES ESPAÑOL",GOL TV
 http://190.83.60.34:1414/play/a04f
 
