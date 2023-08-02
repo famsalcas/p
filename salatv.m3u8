@@ -98,11 +98,7 @@ https://rtmp.info/trivision36/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CURRÉ" tvg-logo="https://i.postimg.cc/vTxSY7Xb/cropped-logo-curre-pajaro-pz.png" group-title="COSTA RICA",TV CURRÉ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="¡OPA!" tvg-logo="https://imgur.com/QSq6EF8.png" group-title="COSTA RICA",¡OPA!
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer= https://player.castr.com/
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://stream.castr.com/6499ec857df5bf9d55b5849f/live_9246a0201b5b11ee8e1f3b15c8f64f35/index.m3u8
+https://202527.global.ssl.fastly.net/6499ec857df5bf9d55b5849f/live_9246a0201b5b11ee8e1f3b15c8f64f35/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CABINA RADIO FIDES" tvg-logo="https://i.imgur.com/336WIBj.png" group-title="COSTA RICA",CABINA RADIO FIDES
 https://rtmp.info/cabinafides/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAN JOSÉ TV" tvg-logo="https://i.imgur.com/rOylu0Z.jpg" group-title="COSTA RICA",SAN JOSÉ TV
@@ -1356,11 +1352,11 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Confidencial" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="NOTICIAS",El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA NACIÓN +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="NOTICIAS",LA NACIÓN +
-https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 NOTICIAS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_24-7-canal-de-noticias_m.png" group-title="NOTICIAS",24/7 NOTICIAS
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C5N" tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS",C5N
-http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/22097
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="NEWSMAX" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="NOTICIAS",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE FIRST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_First_TV_logo.png/220px-The_First_TV_logo.png" group-title="NOTICIAS",THE FIRST
@@ -1843,11 +1839,11 @@ http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/153930
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOSTV | Nic" tvg-logo="https://imgur.com/j5IRmfv.png" group-title="CENTROAMÉRICA",VOSTV | Nic
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 2" tvg-logo="https://imgur.com/U4TbBL5.png" group-title="CENTROAMÉRICA",CANAL 2
-http://181.189.243.254:8000/play/a0rx/index.m3u8
+http://138.59.177.34:8000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 4" tvg-logo="https://i.postimg.cc/CLKdyngt/320px-Logo-Canal-4-La-Mejor-Televisi-n.png" group-title="CENTROAMÉRICA",CANAL 4
 http://45.5.118.213:16000/play/a0nk/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 6 | Nic" tvg-logo="https://1.bp.blogspot.com/-e2BCRc2yt6M/YSgPYvMdQnI/AAAAAAAAQRI/_PHm3V6VhBonN8DndCVIS5S-W3sef5DlQCLcBGAsYHQ/s612/Canal%2B6%2Ben%2Bvivo.png" group-title="CENTROAMÉRICA",CANAL 6 | Nic
-http://181.189.243.254:8000/play/a0qs/index.m3u8
+ http://138.59.177.34:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 9" tvg-logo="https://i.postimg.cc/52gVfnSS/image.png" group-title="CENTROAMÉRICA",CANAL 9
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/127530.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 10" tvg-logo="https://i.postimg.cc/s2PZfF00/304px-Canal-10-Nicaragua.png" group-title="CENTROAMÉRICA",CANAL 10
@@ -1861,7 +1857,7 @@ http://181.189.243.254:8000/play/a0qt/index.m3u8
 #EXTINF:-1 tvg-id="Canal.3.de.Guatemala.(CANL3).[958].cr" tvg-name="CANAL 3 | Gua" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/3_de_guatemala.png" group-title="CENTROAMÉRICA",CANAL 3 | Gua
 http://190.83.119.67:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="Canal.7.de.Guatemala.(Televisiete).mx" tvg-name="TELEVISIETE | Gua" tvg-logo="https://i.postimg.cc/15Zn1ZFL/320px-Televisiete.png" group-title="CENTROAMÉRICA",TELEVISIETE | Gua
-https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
+http://138.59.177.34:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS RETRO | Gua" tvg-logo="https://graph.facebook.com/canaltvsgt/picture?width=200&height=200" group-title="CENTROAMÉRICA",TVS RETRO | Gua
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GUATEVISIÓN | Gua" tvg-logo="https://graph.facebook.com/GuatevisionOficial/picture?width=200&height=200" group-title="CENTROAMÉRICA",GUATEVISIÓN | Gua
@@ -1887,9 +1883,9 @@ http://190.83.119.67:8000/play/a0rq/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALSACIAS TV | Gua" tvg-logo="https://graph.facebook.com/AlsaciasTv/picture?width=200&height=200" group-title="CENTROAMÉRICA",ALSACIAS TV | Gua
 https://emisoras.hn:8081/atv/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEONCE | Gua" tvg-logo="https://graph.facebook.com/TeleOnce/picture?width=200&height=200" group-title="CENTROAMÉRICA",TELEONCE | Gua
-http://181.189.243.254:8000/play/a0qj/index.m3u8
+http://138.59.177.34:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRECEVISIÓN | Gua" tvg-logo="https://imgur.com/8ZeKOB8.png" group-title="CENTROAMÉRICA",TRECEVISIÓN | Gua
-http://181.189.243.254:8000/play/a0qi/index.m3u8
+http://138.59.177.34:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BARBE TV | Gua" tvg-logo="https://imgur.com/XZInUfK.png" group-title="CENTROAMÉRICA",BARBE TV | Gua
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 100TV CHINIQUE | Gua" tvg-logo="https://i.imgur.com/8dRW4kr.png" group-title="CENTROAMÉRICA",CANAL 100TV CHINIQUE | Gua
@@ -2983,10 +2979,6 @@ http://flysilo.top:8080/live/9141658943811873/2751658943811873/19951.m3u8
 #EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-name="MAGNOLIA NETWORK" tvg-logo="https://i.postimg.cc/506Y27Q3/Magnolia-Network-Small-Tan-Side.png" group-title="USA",MAGNOLIA NETWORK
 http://tv.a1promediastream.com:25461/0848592/8416758/2408
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE PEDRO INFANTE" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE PEDRO INFANTE
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87745
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE CANTINFLAS" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINE CANTINFLAS
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/1144258
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA LATINO 1" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA LATINO 1
 http://VFIne9YMApr4QUHwBhx1Wy.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26167&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA LATINO 2" tvg-logo="https://i.imgur.com/7a35mxn.jpg" group-title="24/7 PELÍCULAS",CINEMA LATINO 2
