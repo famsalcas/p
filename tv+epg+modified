@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="CANAL 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",CANAL 1 CR
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/chunklist_w550004873.m3u8
