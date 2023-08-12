@@ -35,7 +35,7 @@ http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
 #EXTINF:-1 tvg-id="TeleredTelevision.cr" tvg-name="TELERED" tvg-logo="https://imgur.com/pk7qECe.png" group-title="COSTA RICA",TELERED
 https://59ef525c24caa.streamlock.net/Telered/Telered/chunklist_w1843316871.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.HDTV.(RP11HD).[770].cr" tvg-name="REPRETEL 11 HD" tvg-logo="https://imgur.com/cd6YDip.png" group-title="COSTA RICA",REPRETEL 11 HD
-https://d2t46xrpai3it5.cloudfront.net/Canal11CR/b3e2798525101c45f84a48573676853a.sdp/chunks.m3u8
+https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11).[11].cr" tvg-name="REPRETEL 11 SD" tvg-logo="https://imgur.com/cd6YDip.png" group-title="COSTA RICA",REPRETEL 11 SD
 http://45.228.234.193:16000/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COTO BRUS TV" tvg-logo="https://graph.facebook.com/cotobrustv/picture?width=200&height=200" group-title="COSTA RICA",COTO BRUS TV
