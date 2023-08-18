@@ -1748,7 +1748,7 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HM TV" tvg-logo="https://pbs.twimg.com/profile_images/1047677295/300X300_400x400.jpg" group-title="REPÚBLICA DOMINICANA",HM TV
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8 PUNTA CANA" tvg-logo="https://i.postimg.cc/tRsTP33M/PUNTA-CANA-TV-ESP.png" group-title="REPÚBLICA DOMINICANA",8 PUNTA CANA
-https://cdn4.hostlagarto.com/static/puntacanatv/chunks.m3u8
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAN ISIDRO TV" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1.png" group-title="REPÚBLICA DOMINICANA",SAN ISIDRO TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Vegateve.(VEGATV).do" tvg-name="VEGAVISIÓN" tvg-logo="https://i.postimg.cc/FHFj3Qxh/vegavisión_canal_18.png" group-title="REPÚBLICA DOMINICANA",VEGAVISIÓN
@@ -2232,7 +2232,7 @@ https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w1952058252.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SNT" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/snt_paraguay-mediano.png" group-title="PARAGUAY",SNT
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEFUTURO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",TELEFUTURO
-http://200.41.79.165:8000/play/a0hy/index.m3u8
+https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUR" tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="PARAGUAY",SUR
 http://170.83.242.152:5350/play/a025
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRECE  (PY)" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="PARAGUAY",TRECE  (PY)
@@ -3230,9 +3230,6 @@ http://EzhO7sCDXSxwmVolUuTaqj.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QA
 http://sHCuzh1EwfRB4580kFbe7N.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26596&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEE" tvg-logo="https://i.postimg.cc/HnbHwGTX/See-TV-series-poster.jpg" group-title="24-7 ESP",SEE
 http://ySbPHCq91iNorBj23U0sAc.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=26604&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CUENTOS DE LA CRIPTA" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24-7 ESP",CUENTOS DE LA CRIPTA
-http://hidra.live:80/usvhppwq/4C3D7fuen2/50589
-
 
 #EXTINF:-1 tvg-id="Survivor.us" tvg-name="SURVIVOR" tvg-logo="https://i.postimg.cc/fLVb7VKj/250px-400px-Survivor-borneo-logo.png" group-title="24-7 ENG",SURVIVOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=296&deviceId=5f21e7b24744c60007c1f6fc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -3340,7 +3337,7 @@ http://tvpanel.one:80/live/Fenix/DDD19PPP80/765308.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BABES" tvg-logo="https://imgur.com/lp5XXG5.png" group-title="ADULTOS",BABES
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6171/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LEO TV" tvg-logo="https://imgur.com/KHwAxd8.png" group-title="ADULTOS",LEO TV
-http://376992223152444924.of2304.xyz:80/play/vi1016547/8093713821/444924.ts
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/290294
 #EXTINF:-1 tvg-id="" tvg-name="PORNBOX" tvg-logo="https://imgur.com/LWQoXXj.png" group-title="ADULTOS",PORNBOX
 http://kuchini.site:8080/05add9be/df28c0b5be/298251
 #EXTINF:-1 tvg-id="" tvg-name="HOT GUYS FUCK" tvg-logo="https://imgur.com/R1pCh5p.png" group-title="ADULTOS",HOT GUYS FUCK
@@ -3372,7 +3369,6 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9346/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EVIL ANGEL" tvg-logo="https://i.postimg.cc/fyPZn2m7/Evil-Angel-Logo.png" group-title="ADULTOS",EVIL ANGEL
 http://kuchini.site:8080/05add9be/df28c0b5be/146259
 #EXTINF:-1 tvg-id="" tvg-name="NAUGHTY AMERICA" tvg-logo="https://i.postimg.cc/9MwVMks0/Naughty-America-horizontal-transparent.png" group-title="ADULTOS",NAUGTHY AMERICA
-http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6237/index.m3u8
 http://530687223860431572.of3805.xyz:80/play/vi1016547/8093713821/431572.ts
 #EXTINF:-1 tvg-id="" tvg-name="TEAM SKEET" tvg-logo="https://i.imgur.com/tmFAc9Z.jpg" group-title="ADULTOS",TEAM SKEET
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765041.ts
@@ -3420,3 +3416,4 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6292/index.m3u8
 http://976200623170431614.of913.xyz:80/play/vi1016547/8093713821/431614.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLBY KNOX" tvg-logo="https://imgur.com/8c2hdEG.png" group-title="ADULTOS",COLBY KNOX
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765351.ts
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/174207
