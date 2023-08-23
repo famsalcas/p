@@ -146,7 +146,7 @@ https://servercanal10.radiosportstv.online:3384/stream/play.m3u8
 https://video.misistemareseller.com/tvtica/tvtica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV RETRO PALMARES" tvg-logo="https://i.imgur.com/KDxhJGm.jpg" group-title="COSTA RICA",TV RETRO PALMARES
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="META VERSUS" tvg-logo="https://imgur.com/9Qav4b1" group-title="COSTA RICA",META VERSUS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="META VERSUS" tvg-logo="https://imgur.com/9Qav4b1.png" group-title="COSTA RICA",META VERSUS
 https://stream8.mexiserver.com:1936/metaversuscr/metaversuscr/chunklist_w1199551126.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADIO PUERTO TV" tvg-logo="https://i.imgur.com/m5OnN2G.jpg" group-title="COSTA RICA",RADIO PUERTO TV
 https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/playlist.m3u8
@@ -167,9 +167,9 @@ https://stmv.streamingvip.click/exitotv/exitotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="RADIO CAÑAS TV" tvg-logo="https://i.imgur.com/BELmZNF.png" group-title="COSTA RICA",RADIO CAÑAS TV
 https://vdo.panelchs.com:3629/stream/play.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="YOK RADIO" tvg-logo="https://i.postimg.cc/BQFh0j96/image.png" group-title="COSTA RICA",YOK RADIO
-https://panel.tvstream.cl:1936/8006/8006/playlist.m3u8
+https://panel.tvstream.cl:1936/8006/8006/chunklist_w150693222.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="ELITE TV" tvg-logo="https://i.imgur.com/GTbSKZU.png" group-title="COSTA RICA",ELITE TV
-http://k10.usastreams.com/elitetv/elitetv/playlist.m3u8
+https://62fc643fbf1aa.streamlock.net/elitetv/elitetv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="BETHEL COSTA RICA" tvg-logo="https://i.postimg.cc/SRh1BZ1Y/OIP.jpg" group-title="COSTA RICA",BETHEL COSTA RICA
 https://pop-ts.iptv-global.net/BethelCostaRica/tracks-v1a1/mono.m3u8
 
@@ -633,8 +633,10 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOP CINE" tvg-logo="https://i.imgur.com/vpv1LdI.png" group-title="CINE Y SERIES 1",TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-id="Chiquilines.us" tvg-name="CHIQUILINES" tvg-logo="https://i.postimg.cc/jjVKknzq/CHIQUILINES.png" group-title="CINE Y SERIES 1",CHIQUILINES
+#EXTINF:-1 tvg-id="Chiquilines.us" tvg-name="FREE TV" tvg-logo="https://imgur.com/BgCLSWm.png" group-title="CINE Y SERIES 1",FREE TV
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO PLUS TV 3" tvg-logo="https://i.postimg.cc/ryhTQDn0/RETRO-PLUS-MOVIES.png" group-title="CINE Y SERIES 1",RETRO PLUS TV 3
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1093116063.m3u8
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-name="CINE SUREÑO" tvg-logo="https://i.imgur.com/0tHU0hC.jpg" group-title="CINE Y SERIES 1",CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 channel-id="" tvg-id="60fb3087fbbc120007fc46be" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/colorLogoPNG.png" group-title="CINE Y SERIES 1",SERIES CON Ñ
@@ -757,9 +759,6 @@ https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fgcph1khrr3ct/rc_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="RUNTIME ROMANCE"tvg-logo="https://i.postimg.cc/XqLYSsf2/Runtime-Romance-ESP.png" group-title="CINE Y SERIES 1",RUNTIME ROMANCE
 https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO PLUS TV 3" tvg-logo="https://i.postimg.cc/ryhTQDn0/RETRO-PLUS-MOVIES.png" group-title="CINE Y SERIES 1",RETRO PLUS TV 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Warner.Channel.HDTV.(Andes).(WARNERHD).[846].cr" tvg-name="WARNER SD | Panreg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png" group-title="CINE Y SERIES 2",WARNER | Panreg
 http://45.228.232.219:16000/play/a0mz/index.m3u8
@@ -1493,9 +1492,9 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS MUSIC" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="MÚSICA",TVS MUSIC
 https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO PLUS TV 1" tvg-logo="https://imgur.com/wLu4Jxu.png" group-title="MÚSICA",RETRO PLUS TV 1
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1854712805.m3u8
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w279526997.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO PLUS TV 2" tvg-logo="https://imgur.com/wLu4Jxu.png" group-title="MÚSICA",RETRO PLUS TV 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1679472817.m3u8
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w723682666.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO MUSIC TV" tvg-logo="https://i.postimg.cc/xTx9wCcJ/7c8320451943ed08265872510644e800.webp" group-title="MÚSICA",RETRO MUSIC TV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w218923425_b750000.m3u8
 #EXTINF:-1 tvg-id="Exa.TV.(EXATV).mx" tvg-name="EXA TV" tvg-logo="https://imgur.com/LbnKLFX.png" group-title="MÚSICA",EXA TV
@@ -1993,17 +1992,17 @@ https://www.dailymotion.com//video/x7nngbi
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UCV" tvg-logo="https://i.postimg.cc/FK7kXxkQ/320px-Ucvtvlogo2014mejorado.png" group-title="CHILE",UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXPREZION" tvg-logo="https://graph.facebook.com/Expreziontv7/picture?width=200&height=200" group-title="CHILE",EXPREZION
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+https://vdochile.com:3774/live/cnrhiawklive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HIPER TV" tvg-logo="https://i.imgur.com/2vrUrib.png" group-title="CHILE",HIPER TV
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+https://inliveserver.com:1936/11010/11010/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 CHILE" tvg-logo="https://imgur.com/4uc8YLO.png" group-title="CHILE",13 CHILE
-https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/4b5f7d51-1520-4fd2-bf9c-154921c903a7:DLS/master.m3u8
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL PINGUINO" tvg-logo="https://imgur.com/TTxXG1k.png" group-title="CHILE",EL PINGUINO
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIVISIÓN" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png" group-title="ARGENTINA",MULTIVISIÓN
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ORIGEN TV" tvg-logo="https://i.postimg.cc/2SfKbywX/ORIGEN-TV.png" group-title="CHILE",ORIGEN TV
-https://tv.streaming-chile.com:19360/origentv/origentv.m3u8
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGA" tvg-logo="http://i3campus.co/CONTENIDOS/wikipedia/content/i/m/2015megaoficial.png" group-title="CHILE",MEGA
 https://unlimited10-cl.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLU MEDIOS TV" tvg-logo="https://i.postimg.cc/bvnxRz62/blu-medios.png" group-title="CHILE",BLU MEDIOS TV
