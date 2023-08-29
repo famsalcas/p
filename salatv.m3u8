@@ -1277,17 +1277,18 @@ http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/177466
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | BLUE JAYS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | BLUE JAYS
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/18585
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | ASTROS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | ASTROS
-http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/177456
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/18589
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | RANGERS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | RANGERS
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156405
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | RED SOX" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | RED SOX
 http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/177449
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | PHILLIES" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | PHILLIES
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156403
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/18545
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | PADRES" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | PADRES
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/18547
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | ANGELS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | ANGELS
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156385
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/18588
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | TWINS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | TWINS
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/8171
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB | NATIONALS" tvg-logo="https://i.postimg.cc/pdY8j4sJ/MLB-TEAM-CHANNEL.png" group-title="DEPORTES INGLÉS",MLB | NATIONALS
@@ -3202,7 +3203,7 @@ http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/37276.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAZZERS EUROPE" tvg-logo="https://i.postimg.cc/jjyFWSwN/BRAZZERS-TV-2015.png" group-title="ADULTOS",BRAZZERS EUROPE
 http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/79.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAZZERS" tvg-logo="https://i.postimg.cc/630jBQRR/image.png" group-title="ADULTOS",BRAZZERS
-http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6181/index.m3u8
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6182/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANG BROS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bang_Bros_logo.png" group-title="ADULTOS",BANG BROS
 http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/3284.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DORCEL TV" tvg-logo="https://i.postimg.cc/g2s1YNWr/DORCEL-TV-2012.png" group-title="ADULTOS",DORCEL TV
@@ -3232,9 +3233,9 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6277/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT TABOO" tvg-logo="https://i.imgur.com/Luc5hP6.jpg" group-title="ADULTOS",HOT TABOO
 http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/290031.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SUPERONE" tvg-logo="https://i.postimg.cc/T2mTjdh3/Super-One-2020-n-v.png" group-title="ADULTOS",SUPERONE
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/3286.m3u8
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6298/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PENTHOUSE GOLD" tvg-logo="https://i.postimg.cc/QddYFVsh/image.png" group-title="ADULTOS",PENTHOUSE GOLD
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/32056.m3u8
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5011/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLACKED" tvg-logo="https://i.postimg.cc/0ynfz5YM/f164c370-4e8d-4c47-8fbf-0242814678e8.png" group-title="ADULTOS",BLACKED
 http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/297804.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XMO" tvg-logo="https://i.postimg.cc/c1TT8kWx/x-mo-logo-01-2-400x400.png" group-title="ADULTOS",XMO
@@ -3293,7 +3294,6 @@ http://376992223152513347.of2304.xyz:80/play/vi1016547/8093713821/513347.ts
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6166/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALBA XXX" tvg-logo="https://imgur.com/t7oymz9.png" group-title="ADULTOS",ALBA XXX
 http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/296945.m3u8
-##http://tvpanel.one:80/live/Fenix/DDD19PPP80/764966.ts
 #EXTINF:-1 tvg-id="" tvg-name="MEN" tvg-logo="https://i.postimg.cc/0j2Trz2X/320px-Men-com-logo-svg.png" group-title="ADULTOS",MEN
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765356.ts
 #EXTINF:-1 tvg-id="" tvg-name="21SEXTURY" tvg-logo="https://imgur.com/L3gXQLi.png" group-title="ADULTOS",21SEXTURY
