@@ -341,8 +341,6 @@ http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/playlist.m3u8
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 #EXTINF:-1 tvg-id="GOD.Channel.uk" tvg-name="GOD TV" tvg-logo="https://play-lh.googleusercontent.com/c5_G8hqnPCaLLT6jgnpYuKUiaUnJl51HB5WVktoIfxiQTxdmNAVuIaoIW6Z7B_Mg6CA" group-title="VIDA Y RELIGIÓN",GOD TV
 https://zypelive-lh.akamaihd.net/i/default_1@745545/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="CBN.News.Channel.(KUGB-CD).us" tvg-name="CBN NEWS" tvg-logo="https://archive.org/download/cbn-news-logo/cbn-news-logo.jpg" group-title="VIDA Y RELIGIÓN",CBN NEWS
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CYC" tvg-logo="https://pbs.twimg.com/profile_images/583236170936492032/g37_6aHa.jpg" group-title="VIDA Y RELIGIÓN",CYC
 https://597f64b67707a.streamlock.net/cycnow.com/cyc.smil/chunklist_w1451135663_b928000_slar.m3u8
 #EXTINF:-1 tvg-id="TBN.us" tvg-name="TBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/120px-TBN_logo_2015.jpg" group-title="VIDA Y RELIGIÓN",TBN
@@ -547,7 +545,7 @@ http://45.228.232.205:16000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEVISA VARIEDADES" tvg-logo="https://imgur.com/kfKggXI.png" group-title="NOVELAS Y SERIES",TELEVISA VARIEDADES
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima(Spanish).us" tvg-name="NOVELÍSIMA" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="NOVELAS Y SERIES",NOVELÍSIMA
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+https://stream.krgv.com/krgv-english/krgv-somos.smil/chunklist_b3000000_sleng.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CORAZÓN TURCO" tvg-logo="https://i.postimg.cc/cJ2wzYcM/CORAZON-TURCO-ESP.png" group-title="NOVELAS Y SERIES",CORAZÓN TURCO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAMAS COREANOS" tvg-logo="https://i.postimg.cc/bJ9994rW/DRAMAS-COREANOS-ESP.png" group-title="NOVELAS Y SERIES",DRAMAS COREANOS
@@ -1383,18 +1381,18 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFRICANEWS" tvg-logo="https://i.imgur.com/VKyfE7G.png" group-title="NOTICIAS",AFRICANEWS
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CBN.News.Channel.(KUGB-CD).us" tvg-name="CBN NEWS" tvg-logo="https://archive.org/download/cbn-news-logo/cbn-news-logo.jpg" group-title="NOTICIAS",CBN NEWS
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TYT NETWORK" tvg-logo="https://i.imgur.com/XDNXJCl.png" group-title="NOTICIAS",TYT NETWORK
 https://tyt-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS NEWS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0020/8236/brand.gif?itok=1jtUx9lK" group-title="NOTICIAS",CBS NEWS
-https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FREE SPEECH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="NOTICIAS",FREE SPEECH TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SALEM NEWS CHANNEL" tvg-logo="https://imgur.com/pX9hJwF.png" group-title="NOTICIAS",SALEM NEWS CHANNEL
 https://snc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AUSTRALIA CHANNEL" tvg-logo="https://cdn.one.accedo.tv/files/5e60392da0e845000ffa83eb?sessionKey=01FYJMPR5YWAWDAF0XWNNB7BSJ1925596262#asset" group-title="NOTICIAS",AUSTRALIA CHANNEL
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/320px-Sky-news-logo.svg.png" group-title="NOTICIAS",SKY NEWS
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/09_hd30.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS NEWS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0020/8236/brand.gif?itok=1jtUx9lK" group-title="NOTICIAS",CBS NEWS
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-name="CNN INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title="NOTICIAS",CNN INTERNATIONAL
 http://tv.a1promediastream.com:25461/0848592/8416758/206
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN GO" tvg-logo="https://i.imgur.com/6gSqmGr.png" group-title="NOTICIAS",CNN GO
@@ -3183,8 +3181,8 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/2161/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BARELY LEGAL" tvg-logo="https://imgur.com/6UzqYrV.png" group-title="ADULTOS",BARELY LEGAL
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/871/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шалун TB" tvg-logo="https://i.postimg.cc/3x0NbwzK/image.png" group-title="ADULTOS",Шалун TB
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/290291.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUSSIAN NIGHT" tvg-logo="https://i.imgur.com/ZqcPaV4.jpg" group-title="ADULTOS",RUSSIAN NIGHT
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290291
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUSSKAYA NOCH" tvg-logo="https://i.imgur.com/ZqcPaV4.jpg" group-title="ADULTOS",RUSSKAYA NOCH
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765104.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED LIPS" tvg-logo="https://i.postimg.cc/bvXcYYrN/image.png" group-title="ADULTOS",RED LIPS
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6271/index.m3u8
@@ -3192,18 +3190,22 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6271/index.m3u8
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5010/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VIVID TOUCH" tvg-logo="https://i.postimg.cc/jqhszTZ8/vivid-touch.png" group-title="ADULTOS",VIVID TOUCH
 http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/3295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SECRET CIRCLE" tvg-logo="https://imgur.com/dMZlvuO.png" group-title="ADULTOS",SECRET CIRCLE
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290298
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLAYBOY TV" tvg-logo="https://i.postimg.cc/mk5p2KdD/image.png" group-title="ADULTOS",PLAYBOY TV
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/290342.m3u8
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6242/index.m3u8
 #EXTINF:-1 tvg-id="Playboy.ar" tvg-name="PLAYBOY LATINO" tvg-logo="https://imgur.com/GvREfzT.png" group-title="ADULTOS",PLAYBOY LATINO
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6280/index.m3u8
 #EXTINF:-1 tvg-id="Venus.International.(VENUS).[1032].cr" tvg-name="VENUS" tvg-logo="https://i.postimg.cc/RCgs8Nvx/100px-Canal-Venus-logo-svg.png" group-title="ADULTOS",VENUS
 http://45.228.232.205:16000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EROXXX" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Eroxxx_HD_logo.png" group-title="ADULTOS",EROXXX
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/37276.m3u8
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6296/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAZZERS EUROPE" tvg-logo="https://i.postimg.cc/jjyFWSwN/BRAZZERS-TV-2015.png" group-title="ADULTOS",BRAZZERS EUROPE
 http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/79.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAZZERS" tvg-logo="https://i.postimg.cc/630jBQRR/image.png" group-title="ADULTOS",BRAZZERS
-http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6182/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAZZERS" tvg-logo="https://i.postimg.cc/PxxYTkd3/image.png" group-title="ADULTOS",BRAZZERS
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/291234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAZZERS ESPAÑOL" tvg-logo="https://i.postimg.cc/630jBQRR/image.png" group-title="ADULTOS",BRAZZERS ESPAÑOL
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/291241
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANG BROS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bang_Bros_logo.png" group-title="ADULTOS",BANG BROS
 http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/3284.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DORCEL TV" tvg-logo="https://i.postimg.cc/g2s1YNWr/DORCEL-TV-2012.png" group-title="ADULTOS",DORCEL TV
@@ -3227,17 +3229,17 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6275/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT XXL" tvg-logo="https://i.imgur.com/Luc5hP6.jpg" group-title="ADULTOS",HOT XXL
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6276/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT MAN" tvg-logo="https://i.imgur.com/i8ANSw1.jpg" group-title="ADULTOS",HOT MAN
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/291244.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/291244
 #EXTINF:-1 tvg-id="" tvg-name="HOT PLEASSURE" tvg-logo="https://imgur.com/VdjIsey.png" group-title="ADULTOS",HOT PLEASSURE
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6277/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT TABOO" tvg-logo="https://i.imgur.com/Luc5hP6.jpg" group-title="ADULTOS",HOT TABOO
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/290031.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290031
 #EXTINF:-1 tvg-id="" tvg-name="SUPERONE" tvg-logo="https://i.postimg.cc/T2mTjdh3/Super-One-2020-n-v.png" group-title="ADULTOS",SUPERONE
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6298/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PENTHOUSE GOLD" tvg-logo="https://i.postimg.cc/QddYFVsh/image.png" group-title="ADULTOS",PENTHOUSE GOLD
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5011/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLACKED" tvg-logo="https://i.postimg.cc/0ynfz5YM/f164c370-4e8d-4c47-8fbf-0242814678e8.png" group-title="ADULTOS",BLACKED
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/297804.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/297804
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XMO" tvg-logo="https://i.postimg.cc/c1TT8kWx/x-mo-logo-01-2-400x400.png" group-title="ADULTOS",XMO
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6285/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVID RED" tvg-logo="https://i.postimg.cc/pLW11zFv/Vivid.png" group-title="ADULTOS",VIVID RED
@@ -3246,10 +3248,10 @@ http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/3989.m3u8
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6171/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LUST PUR" tvg-logo="https://i.postimg.cc/Sxwr9qkL/301-3017582-open-lust-pur.png" group-title="ADULTOS",LUST PUR
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/290294
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX" tvg-logo="https://imgur.com/LWQoXXj.png" group-title="ADULTOS",PORNBOX
-http://kuchini.site:8080/05add9be/df28c0b5be/298251
+#EXTINF:-1 tvg-id="" tvg-name="DIGITAL PLAYGROUND" tvg-logo="https://imgur.com/XV1zQti.png" group-title="ADULTOS",DIGITAL PLAYGROUND
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/298251
 #EXTINF:-1 tvg-id="" tvg-name="HOT GUYS FUCK" tvg-logo="https://imgur.com/R1pCh5p.png" group-title="ADULTOS",HOT GUYS FUCK
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/296975.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/296975
 #EXTINF:-1 tvg-id="" tvg-name="XY MAX" tvg-logo="https://i.imgur.com/goyWQbG.png" group-title="ADULTOS",XY MAX
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6286/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XY MIX" tvg-logo="https://i.imgur.com/fmJUAoC.png" group-title="ADULTOS",XY MIX
@@ -3257,57 +3259,57 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6287/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XY PLUS" tvg-logo="https://i.imgur.com/eTkz9K5.png" group-title="ADULTOS",XY PLUS
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6288/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FAKE TAXI" tvg-logo="https://i.postimg.cc/26rP9YpP/1280px-Fake-Taxi-logo-svg.png" group-title="ADULTOS",FAKE TAXI
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/297129.m3u8
+hhttp://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/63499
 #EXTINF:-1 tvg-id="Balkan Erotic HD" tvg-name="BALKAN EROTIC" tvg-logo="https://i.postimg.cc/7Pgp8fPj/Balkan-Erotic-1-150x150.png" group-title="ADULTOS",BALKAN EROTIC
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/3320.m3u8
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6270/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LETSDOEIT" tvg-logo="https://i.imgur.com/FX4rhAe.png" group-title="ADULTOS",LETSDOEIT
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765048.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAIDEN VAN HOLLAND" tvg-logo="https://i.imgur.com/dtFtMXy.png" group-title="ADULTOS",MAIDEN VAN HOLLAND
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/3311.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/3311
 #EXTINF:-1 tvg-id="" tvg-name="MYLF TV" tvg-logo="https://i.imgur.com/LwEJGJT.png" group-title="ADULTOS",MYLF TV
-http://kuchini.site:8080/05add9be/df28c0b5be/297797
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/297797
 #EXTINF:-1 tvg-id="" tvg-name="MOFOS" tvg-logo="https://i.postimg.cc/QCGCBVvR/Xe-Uf-Brve-400x400.png" group-title="ADULTOS",MOFOS
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1071030
-#EXTINF:-1 tvg-id="" tvg-name="SEXNEX" tvg-logo="https://imgur.com/AsIOSCH.png" group-title="ADULTOS",SEXMEX
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/297098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WHITE BOXXX" tvg-logo="https://i.postimg.cc/tC3hykhx/1561468211-300x169.jpg" group-title="ADULTOS",WHITE BOXXX
+http://memotv.xyz:8080/4mWEbVs6ae/T88VGJDHyY/192000
 #EXTINF:-1 tvg-id="Reality.Kings.(RKTV).us" tvg-name="REALITY KINGS" tvg-logo="https://i.postimg.cc/sD2731FT/image.png" group-title="ADULTOS",REALITY KINGS
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/383.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/298303
 #EXTINF:-1 tvg-id="" tvg-name="EXXXOTICA TV" tvg-logo="https://i.postimg.cc/15WsDzdn/exxxotica.png" group-title="ADULTOS",EXXXOTICA TV
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9346/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EVIL ANGEL" tvg-logo="https://i.postimg.cc/fyPZn2m7/Evil-Angel-Logo.png" group-title="ADULTOS",EVIL ANGEL
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/296962.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/146259
 #EXTINF:-1 tvg-id="" tvg-name="NAUGHTY AMERICA" tvg-logo="https://i.postimg.cc/9MwVMks0/Naughty-America-horizontal-transparent.png" group-title="ADULTOS",NAUGTHY AMERICA
 http://530687223860431572.of3805.xyz:80/play/vi1016547/8093713821/431572.ts
 #EXTINF:-1 tvg-id="" tvg-name="TEAM SKEET" tvg-logo="https://i.imgur.com/tmFAc9Z.jpg" group-title="ADULTOS",TEAM SKEET
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765041.ts
 #EXTINF:-1 tvg-id="" tvg-name="VIXEN" tvg-logo="https://imgur.com/sUIqFe9.png" group-title="ADULTOS",VIXEN
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/290296.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290296
 #EXTINF:-1 tvg-id="Fastboyz HD" tvg-name="FASTBOYZ" tvg-logo="https://imgur.com/FPNmoqJ.png" group-title="ADULTOS",FASTBOYZ
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CUM 4K" tvg-logo="https://imgur.com/ttjDQIu.png" group-title="ADULTOS",CUM 4K
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765183.ts
-#EXTINF:-1 tvg-id="" tvg-name="PINKO" tvg-logo="https://imgur.com/pm2kPyt.png" group-title="ADULTOS",PINKO
-http://530687223860513374.of3805.xyz:80/play/vi1016547/8093713821/513374.ts
 #EXTINF:-1 tvg-id="" tvg-name="DUSK" tvg-logo="https://i.imgur.com/sp11ynr.png" group-title="ADULTOS",DUSK
 http://376992223152513347.of2304.xyz:80/play/vi1016547/8093713821/513347.ts
 #EXTINF:-1 tvg-id="" tvg-name="ADULT TIME" tvg-logo="https://i.postimg.cc/nVmqr6nK/2428291187-1593640700-large.png" group-title="ADULTOS",ADULT TIME
 http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6166/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALBA XXX" tvg-logo="https://imgur.com/t7oymz9.png" group-title="ADULTOS",ALBA XXX
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/296945.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/8310
 #EXTINF:-1 tvg-id="" tvg-name="MEN" tvg-logo="https://i.postimg.cc/0j2Trz2X/320px-Men-com-logo-svg.png" group-title="ADULTOS",MEN
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/765356.ts
 #EXTINF:-1 tvg-id="" tvg-name="21SEXTURY" tvg-logo="https://imgur.com/L3gXQLi.png" group-title="ADULTOS",21SEXTURY
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/290296.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/299566
 #EXTINF:-1 tvg-id="" tvg-name="HUSTLER TV RED" tvg-logo="https://imgur.com/dSU3whg.png" group-title="ADULTOS",HUSTLER TV RED
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/290277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PASSION XXX" tvg-logo="https://imgur.com/EsSKWmw.png" group-title="ADULTOS",PASSION XXX
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/48.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290277
 #EXTINF:-1 tvg-id="" tvg-name="CLASSIC" tvg-logo="https://i.postimg.cc/rwZfZ0Pm/vintageclassicporn.png" group-title="ADULTOS",CLASSIC
 http://530687223860433805.of3805.xyz:80/play/vi1016547/8093713821/433805.ts
-#EXTINF:-1 tvg-id="" tvg-name="HOT CLUB" tvg-logo="https://imgur.com/oAuRPvr.png" group-title="ADULTOS",HOT CLUB
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/297527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HARDX" tvg-logo="https://i.postimg.cc/3NN7JnqF/100px-Hard-X-logo-svg.png" group-title="ADULTOS",HARDX
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6218/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOT CLUB" tvg-logo="https://imgur.com/oAuRPvr.png" group-title="ADULTOS",HOT CLUB 1
+http://memotv.xyz:8080/4mWEbVs6ae/T88VGJDHyY/192002
+#EXTINF:-1 tvg-id="" tvg-name="HOT CLUB" tvg-logo="https://imgur.com/oAuRPvr.png" group-title="ADULTOS",HOT CLUB 2
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/297526
 #EXTINF:-1 tvg-id="" tvg-name=""PRIVATE TV tvg-logo="https://i.postimg.cc/tCx1WgPm/Private-Media-Group-Logo.png" group-title="ADULTOS",PRIVATE TV
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/297794.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/297794
 #EXTINF:-1 tvg-id="" tvg-name="FAP TV" tvg-logo="https://i.postimg.cc/FRjyHzbV/image.png" group-title="ADULTOS",FAP TV
 http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/153946
 #EXTINF:-1 tvg-id="" tvg-name="FAP TV 2" tvg-logo="https://i.postimg.cc/kgb8Q2KK/image.jpg" group-title="ADULTOS",FAP TV 2
@@ -3315,10 +3317,10 @@ http://530687223860414123.of3805.xyz:80/play/vi1016547/8093713821/414123.ts
 #EXTINF:-1 tvg-id="" tvg-name="EROTIC 2" tvg-logo="https://i.postimg.cc/440jy05y/Pink-Erotic-2.png" group-title="ADULTOS",EROTIC 2
 http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/76.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EROTIC 3" tvg-logo="https://i.postimg.cc/nh4Wdht9/Pink-Erotic-3.png" group-title="ADULTOS",EROTIC 3
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/3317.m3u8
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6240/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EROTIC 4" tvg-logo="https://i.postimg.cc/BZdskbRm/Pink-Erotic-4.png" group-title="ADULTOS",EROTIC 4
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/52.m3u8
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6241/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PASSIE XXX" tvg-logo="https://i.postimg.cc/hPw7bnc3/passie-tv-logo.png" group-title="ADULTOS",PASSIE XXX
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/48.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/28298
 #EXTINF:-1 tvg-id="" tvg-name="COLBY KNOX" tvg-logo="https://imgur.com/8c2hdEG.png" group-title="ADULTOS",COLBY KNOX
-http://kuchini.site:8080/live/bigboss/dF2SUPPUwzmZ8prS/174207.m3u8
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/174207
