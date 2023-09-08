@@ -627,10 +627,6 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/100px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES 1",CINEAR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w637865763.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLARO CINEMA" tvg-logo="https://i.postimg.cc/520Vm5CR/1548084110290-Imagen.png" group-title="CINE Y SERIES 1",CLARO CINEMA
-http://45.5.118.213:16000/play/a0na/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL CLARO" tvg-logo="https://i.postimg.cc/DZmwY6qw/image.jpg" group-title="CINE Y SERIES 1",CANAL CLARO
-https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3368/stream/play.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA +" tvg-logo="https://i.postimg.cc/T3qkN1z5/cinema-mas.png" group-title="CINE Y SERIES 1",CINEMA +
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CineReal.us" tvg-name="CINE REAL" tvg-logo="https://i.postimg.cc/fyjzHNKB/CINE-REAL.png" group-title="CINE Y SERIES 1",CINE REAL
@@ -691,6 +687,8 @@ https://streaming.ath.cx:1936/chinolatv/chinolatv/chunklist_w107691558.m3u8
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLASSIC CHANNEL" tvg-logo="https://i.imgur.com/hHcJ3wP.png" group-title="CINE Y SERIES 1",CLASSIC CHANNEL
 https://paneltv.online:1936/8046/8046/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XTREMA ANIME" tvg-logo="https://imgur.com/LvxfGAA.png" group-title="CINE Y SERIES 1",XTREMA ANIME
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/chunklist_w349013997.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIME ZONE" tvg-logo="http://azxtv.com/aztv.png" group-title="CINE Y SERIES 1",ANIME ZONE
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOCOMOTION" tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="CINE Y SERIES 1",LOCOMOTION
@@ -707,9 +705,11 @@ https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="bitMe.(BITME).[312].cr" tvg-name="BITME" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bitme.png" group-title="CINE Y SERIES 1",BITME
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/47698
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XTREMA RETRO CARTOONS" tvg-logo="https://i.postimg.cc/g0yF9dWz/bc4b7e61e1dc1d6e21310964acd99139.webp" group-title="CINE Y SERIES 1",XTREMA RETRO CARTOONS
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOL TV" tvg-logo="https://i.imgur.com/bZXj7S3.png" group-title="CINE Y SERIES 1",SOL TV
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6p7Ck0ds/JIMANI.png" group-title="CINE Y SERIES 1",JIMANI TV 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/6p7Ck0ds/JIMANI.png" group-title="CINE Y SERIES 1",JIMANI TV 
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Amé.47.TV.(AMé).do" tvg-name="AMÉ 47" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg" group-title="CINE Y SERIES 1",AMÉ 47
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist.m3u8
@@ -767,6 +767,10 @@ https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="" tvg-name="A3 SERIES"tvg-logo="https://imgur.com/qPZgZ7d.png" group-title="CINE Y SERIES 1",A3 SERIES
 http://191.98.179.21:50000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLARO CINEMA" tvg-logo="https://i.postimg.cc/520Vm5CR/1548084110290-Imagen.png" group-title="CINE Y SERIES 1",CLARO CINEMA
+http://45.228.234.41:16000/play/a0b8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL CLARO" tvg-logo="https://i.postimg.cc/DZmwY6qw/image.jpg" group-title="CINE Y SERIES 1",CANAL CLARO
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/12011
 
 #EXTINF:-1 tvg-id="Warner.Channel.HDTV.(Andes).(WARNERHD).[846].cr" tvg-name="WARNER SD | Panreg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/100px-Warner_TV_logo.svg.png" group-title="CINE Y SERIES 2",WARNER | Panreg
 http://45.228.232.219:16000/play/a0mz/index.m3u8
@@ -1057,11 +1061,11 @@ http://45.190.13.50:8003/play/a01c/index.m3u8
 #EXTINF:-1 channel-id="pluto-6140a074a99e79000738162a" tvg-id="6140a074a99e79000738162a" tvg-name="PLUTO FITNESS" tvg-logo="https://images.pluto.tv/channels/6140a074a99e79000738162a/colorLogoPNG.png" group-title="DEPORTES ESPAÑOL",PLUTO FITNESS
 https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FITMAXX" tvg-logo="https://multicontenidos.cl/wp-content/uploads/2023/01/FITMAXX-1.png" group-title="DEPORTES ESPAÑOL",FITMAXX
-http://45.181.122.169:8005/play/a03m
-#EXTINF:-1 tvg-id="Claro.Sports.(CLAROSP).do" tvg-name="CLARO SPORTS HD" tvg-logo="https://i.postimg.cc/JnKTZyVJ/claro-logo-161532-1536x330.png" group-title="DEPORTES ESPAÑOL",CLARO SPORTS HD
-https://dai.google.com/linear/hls/pa/event/t5TzXj8rQTCKAEpUMbP9_Q/stream/bed11026-1982-41b8-a843-ae0da188645d:CBF2/master.m3u8
-#EXTINF:-1 tvg-id="Claro.Sports.(CLAROSP).do" tvg-name="CLARO SPORTS SD" tvg-logo="https://i.postimg.cc/JnKTZyVJ/claro-logo-161532-1536x330.png" group-title="DEPORTES ESPAÑOL",CLARO SPORTS SD
-http://177.53.155.236:8000/play/a0ab/index.m3u8
+https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+#EXTINF:-1 tvg-id="Claro.Sports.(CLAROSP).do" tvg-name="CLARO SPORTS" tvg-logo="https://i.postimg.cc/JnKTZyVJ/claro-logo-161532-1536x330.png" group-title="DEPORTES ESPAÑOL",CLARO SPORTS
+http://45.228.234.41:16000/play/a07x/index.m3u8
+#EXTINF:-1 tvg-id="Claro.Sports.(CLAROSP).do" tvg-name="CLARO SPORTS 2" tvg-logo="https://i.postimg.cc/JnKTZyVJ/claro-logo-161532-1536x330.png" group-title="DEPORTES ESPAÑOL",CLARO SPORTS 2
+http://181.189.243.217:8000/play/a0on/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/320px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES ESPAÑOL",DIRECTV SPORTS
 http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/166831
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/320px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES ESPAÑOL",DIRECTV SPORTS
@@ -1725,6 +1729,8 @@ http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SENSE" tvg-logo="https://imgur.com/fmmrk9t.png" group-title="MÚSICA",SENSE
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4 KURD" tvg-logo="https://i.postimg.cc/VNKzdM7r/4kurd.png" group-title="MÚSICA",4 KURD
+https://4kurd.icdndhcp.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOS CULTURA 24/7" tvg-logo="https://imgur.com/uffUTfa.png" group-title="MÚSICA",SOMOS CULTURA 24/7
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QWEST MIX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png" group-title="MÚSICA",QWEST MIX
@@ -1806,6 +1812,8 @@ https://emisoras.hn:8081/dtv/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE CARIBE | Rep.Dom" tvg-logo="https://graph.facebook.com/telecariberd/picture?width=200&height=200" group-title="REPÚBLICA DOMINICANA",TELE CARIBE | Rep.Dom
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LEÑA RADIO TV" tvg-logo="https://imgur.com/601rbIo.png" group-title="REPÚBLICA DOMINICANA",LA LEÑA RADIO TV
+https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/chunklist_w1732236301.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELESUR 10" tvg-logo="http://www.telesur.com.do/images/telesur_canal_10_logo2.png" group-title="REPÚBLICA DOMINICANA",TELESUR 10
 https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELENORD 8" tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA",TELENORD 8
