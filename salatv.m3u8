@@ -70,7 +70,7 @@ https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="COLOSAL" tvg-logo="https://imgur.com/rqZ30Vu.png" group-title="COSTA RICA",COLOSAL
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="Asamblea.Legislativa.(ASAM).[52].cr" tvg-name="ASAMBLEA LEGISLATIVA" tvg-logo="https://imgur.com/jhuy27B.png" group-title="COSTA RICA",ASAMBLEA LEGISLATIVA
-https://www.youtube.com/@AsambleaCRC/live
+https://ythlsgo.onrender.com/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8
 #EXTINF:-1 tvg-id="IQChannel.cr" tvg-name="IQ CHANNEL" tvg-logo="https://i.postimg.cc/xTFvNHyr/IQ-Channel-logo.png" group-title="COSTA RICA",IQ CHANNEL
 https://vcp8.myplaytv.com/iqchannel/iqchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE).[56].cr" tvg-name="ENLACE INTERNACIONAL" tvg-logo="https://imgur.com/rJBofVP.png" group-title="COSTA RICA",ENLACE INTERNACIONAL
@@ -102,7 +102,7 @@ https://rtmp.info/trivision36/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CURRÉ" tvg-logo="https://i.postimg.cc/vTxSY7Xb/cropped-logo-curre-pajaro-pz.png" group-title="COSTA RICA",TV CURRÉ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="¡OPA!" tvg-logo="https://imgur.com/QSq6EF8.png" group-title="COSTA RICA",¡OPA!
-https://202527.global.ssl.fastly.net/6499ec857df5bf9d55b5849f/live_9246a0201b5b11ee8e1f3b15c8f64f35/index.m3u8
+https://cageu.bozztv.com/ssh101/ssh101/opacanal38/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CABINA RADIO FIDES" tvg-logo="https://i.imgur.com/336WIBj.png" group-title="COSTA RICA",CABINA RADIO FIDES
 https://rtmp.info/cabinafides/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAN JOSÉ TV" tvg-logo="https://i.imgur.com/rOylu0Z.jpg" group-title="COSTA RICA",SAN JOSÉ TV
@@ -523,6 +523,8 @@ https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-id="GLITZ.Panregional.(Norte).(GLITZ).do" tvg-name="GLITZ" tvg-logo="https://i.postimg.cc/ncps3Y3r/120px-Glitz-logo.png" group-title="CULTURA Y ESTILOS",GLITZ
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4045
+#EXTINF:-1 tvg-id="" tvg-name="13 CULTURA" tvg-logo="https://i.postimg.cc/V6KjFZKd/image.png" group-title="CULTURA Y ESTILOS",13 CULTURA
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png" group-title="NOVELAS Y SERIES",TELEMUNDO NOVELAS
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
@@ -553,7 +555,7 @@ http://45.228.232.219:16000/play/a0lz/index.m3u8
 #EXTINF:-1 tvg-id="Tele.Novelas.(Latin.America).(TLNOV).[19].cr" tvg-name="TLNOVELAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlnovelas.png" group-title="NOVELAS Y SERIES",TLNOVELAS
 http://181.78.8.90:16123/play/ch45
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CORAZÓN" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_corazon.png" group-title="NOVELAS Y SERIES",AZ CORAZÓN
-http://45.228.232.205:16000/play/a02i/index.m3u8
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEVISA VARIEDADES" tvg-logo="https://imgur.com/kfKggXI.png" group-title="NOVELAS Y SERIES",TELEVISA VARIEDADES
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima(Spanish).us" tvg-name="NOVELÍSIMA" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="NOVELAS Y SERIES",NOVELÍSIMA
@@ -1312,7 +1314,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="euronews.(EUNEWS).ar" tvg-name="EURONEWS ESPAÑOL" tvg-logo="https://i.postimg.cc/qBxLQXBp/Logo-Euronews-stacked-white-on-spanish-1500x1000wht.png" group-title="NOTICIAS",EURONEWS ESPAÑOL
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="France.24.(North.America.-.French).(F24).ar" tvg-name="FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="NOTICIAS",FRANCE 24
-http://45.228.232.219:16000/play/a0ma/index.m3u8
+https://ythlsgo.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="TeleSur.(TELESUR).[984].cr" tvg-name="TELESUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/219px-TeleSUR-Logo.svg.png" group-title="NOTICIAS",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable.News.Network.en.Español.(Latin.America).(CNNESP).[525].cr" tvg-name="CNN ESPAÑOL" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" group-title="NOTICIAS",CNN ESPAÑOL
@@ -1355,6 +1357,10 @@ https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C5N" tvg-logo="https://i.postimg.cc/jdRdfG7c/243px-C5-N-2017.png" group-title="NOTICIAS",C5N
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGANOTICIAS MX" tvg-logo="https://i.postimg.cc/W1CHN75M/914921-8c.png" group-title="NOTICIAS",MEGANOTICIAS MX
+https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHILEVISIÓN NOTICIAS" tvg-logo="https://i.postimg.cc/qqcTn55V/320px-Logotipo-de-Chilevisi-n-Noticias-svg.png" group-title="NOTICIAS",CHILEVISIÓN NOTICIAS
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?did=b1311878331652c4927ae377
 #EXTINF:-1 tvg-id="RaiN.TV" tvg-name="RAI NEWS" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="NOTICIAS",RAI NEWS
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-id="Newsmax.(NEWSM).us" tvg-name="NEWSMAX" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="NOTICIAS",NEWSMAX
@@ -2485,20 +2491,18 @@ https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
 https://vdo.grupolimalive.com:3272/live/cadenalive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EFEKTO TV" tvg-logo="https://i.postimg.cc/JzBmvzBT/Efekto-TV-2015.png" group-title="NORTEAMERICA",EFEKTO TV
 https://cdn.jwplayer.com/manifests/bez1terN.m3u8
-#EXTINF:-1 tvg-id="AZ.Mundo.(AZMUNDO).[985].cr" tvg-name="AZ MUNDO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_mundo-mediano.png" group-title="NORTEAMERICA",AZ MUNDO
-http://45.228.232.219:16000/play/a0mx/index.m3u8
+#EXTINF:-1 tvg-id="AZ.Mundo.(AZMUNDO).[985].cr" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://i.postimg.cc/hjXxM2Nb/Azteca-Internacional-logo-2023.png" group-title="NORTEAMERICA",AZTECA INTERNACIONAL
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="AZClic.mx" tvg-name="AZ CLIC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_clic.png" group-title="NORTEAMERICA",AZ CLIC
-http://tv.p1a.xyz:43201/az6177/6J4tnpqj7x/26691
+https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 #EXTINF:-1 tvg-id="AZCinema.mx" tvg-name="AZ CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/TV_Azteca_Cinema_logo_2021.png/revision/latest?cb=20220316003349&path-prefix=es" group-title="NORTEAMERICA",AZ CINEMA
-http://tv.p1a.xyz:43201/az6177/6J4tnpqj7x/26963
+http://200.59.188.3:8000/play/a026
 #EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7-mediano.png" group-title="NORTEAMERICA",AZTECA 7
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4027
 #EXTINF:-1 tvg-id="XHDF.Ciudad.de.MÃ©xico.(Azteca.Uno).DF.(AZUNO).mx" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" group-title="NORTEAMERICA",AZTECA UNO
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678.m3u8
 #EXTINF:-1 tvg-id="XHDF.Ciudad.de.MÃ©xico.(Azteca.Uno).DF.(AZUNO).mx" tvg-name="AZTECA UNO op2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" group-title="NORTEAMERICA",AZTECA UNO op2
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155859
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://i.postimg.cc/hjXxM2Nb/Azteca-Internacional-logo-2023.png" group-title="NORTEAMERICA",AZTECA INTERNACIONAL
-https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMAR" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i2eee083b9645b453/version/1470081080/image.png" group-title="NORTEAMERICA",TELEMAR
 https://cloudvideo.servers10.com:8081/8148/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="N+ MEDIA TELEVISA" tvg-logo="https://i.postimg.cc/x8LHzFwt/MEDIA-ESP.png" group-title="NORTEAMERICA",N+ MEDIA TELEVISA
