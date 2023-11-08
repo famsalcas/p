@@ -39,7 +39,7 @@ https://59ef525c24caa.streamlock.net/Telered/Telered/chunklist_w1843316871.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.HDTV.(RP11HD).[770].cr" tvg-name="REPRETEL 11 ᴴᴰ" tvg-logo="https://imgur.com/cd6YDip.png" group-title="COSTA RICA",REPRETEL 11 ᴴᴰ
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11).[11].cr" tvg-name="REPRETEL 11 ˢᴰ" tvg-logo="https://imgur.com/cd6YDip.png" group-title="COSTA RICA",REPRETEL 11 ˢᴰ
-http://181.189.243.217:8000/play/a0r0/index.m3u8
+http://45.5.118.154:16000/play/a0kq/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COTO BRUS TV" tvg-logo="https://i.imgur.com/Sw3t9Gx.jpg" group-title="COSTA RICA",COTO BRUS TV
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VM.Latino./.El.Canal.de.la.Música.(VMLAT).[611].cr" tvg-name="VM LATINO" tvg-logo="https://imgur.com/CKjmxnJ.png" group-title="COSTA RICA",VM LATINO
@@ -49,7 +49,7 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w2004455276.m3u8
 #EXTINF:-1 tvg-id="VintageMusic.cr" tvg-name="VINTAGE MUSIC TV" tvg-logo="https://i.imgur.com/P0VqQ8M.jpg" group-title="COSTA RICA",VINTAGE MUSIC TV
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD).[986].cr" tvg-name="SINART" tvg-logo="https://imgur.com/NwgE9MX.png" group-title="COSTA RICA",SINART
-http://181.189.243.217:8000/play/a0oh/index.m3u8
+http://201.222.44.219:4226/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD).[986].cr" tvg-name="SINART *" tvg-logo="https://imgur.com/NwgE9MX.png" group-title="COSTA RICA",SINART *
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 http://138.59.177.34:8000/play/a01d/index.m3u8
@@ -112,7 +112,7 @@ https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OLDIES HITS CR" tvg-logo="https://imgur.com/h2b6wwr.png" group-title="COSTA RICA",OLDIES HITS CR
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 #EXTINF:-1 tvg-id="Extra.TV.42.(Costa.Rica).(EXTRA).[14].cr" tvg-name="EXTRA TV" tvg-logo="https://imgur.com/KZIrAsL.png" group-title="COSTA RICA",EXTRA TV
-http://181.189.243.217:8000/play/a0oi/index.m3u8
+http://138.59.177.34:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIZONAS" tvg-logo="https://i.postimg.cc/nztnjmsG/MULTIZONAS.png" group-title="COSTA RICA",MULTIZONAS
 https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NORTE INFORMATIVO" tvg-logo="https://i2.paste.pics/0965c9e6c38022659717eeaac157e453.png" group-title="COSTA RICA",NORTE INFORMATIVO
@@ -516,7 +516,7 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/4045
 #EXTINF:-1 tvg-id="" tvg-name="13 CULTURA" tvg-logo="https://i.postimg.cc/V6KjFZKd/image.png" group-title="CULTURA Y ESTILOS",13 CULTURA
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png" group-title="NOVELAS Y SERIES",TELEMUNDO NOVELAS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO NOVELAS" tvg-logo="https://i.imgur.com/ycWKwXs.png" group-title="NOVELAS Y SERIES",TELEMUNDO NOVELAS
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANELA TELENOVELAS" tvg-logo="https://i.postimg.cc/XJcH2QQG/CANELA-TV-NOVELAS.png" group-title="NOVELAS Y SERIES",CANELA TELENOVELAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
@@ -764,7 +764,7 @@ https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e455
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLARO CINEMA" tvg-logo="https://i.postimg.cc/520Vm5CR/1548084110290-Imagen.png" group-title="CINE Y SERIES 1",CLARO CINEMA
 http://45.228.234.41:16000/play/a0b8/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL CLARO" tvg-logo="https://i.postimg.cc/DZmwY6qw/image.jpg" group-title="CINE Y SERIES 1",CANAL CLARO
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/12011
+http://45.5.117.182:8000/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH FAMILY" tvg-logo="https://i.postimg.cc/QVGCt247/logo-family.png" group-title="CINE Y SERIES 1",FMH FAMILY
 http://190.211.250.148:8000/play/a03s
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH MOVIES" tvg-logo="https://i.postimg.cc/zB2RJPYw/logo-movies.png" group-title="CINE Y SERIES 1",FMH MOVIES
@@ -785,7 +785,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/53.m3u8
 #EXTINF:-1 tvg-id="AXN.(Centroamérica).(AXN).[1040].cr" tvg-name="AXN ˢᴰ| Andes" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png" group-title="CINE Y SERIES 2",AXN ˢᴰ| Andes
 http://45.228.232.219:16000/play/a0m5/index.m3u8
 #EXTINF:-1 tvg-id="AXN.HDTV.(Centroamérica).(AXNHD).[1041].cr" tvg-name="AXN ᴴᴰ| Andes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AXN_HD_Logo_2015.svg/320px-AXN_HD_Logo_2015.svg.png" group-title="CINE Y SERIES 2",AXN ᴴᴰ| Andes
-http://167.250.222.35:16000/play/a07o/index.m3u8
+http://45.5.117.182:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-id="Canal AXN (Costa Rica)" tvg-name="AXN ᴴᴰ| Mex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AXN_HD_Logo_2015.svg/320px-AXN_HD_Logo_2015.svg.png" group-title="CINE Y SERIES 2",AXN ᴴᴰ| Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4038
 #EXTINF:-1 tvg-id="Canal A&amp;E (Costa Rica)" tvg-name="A&E ˢᴰ| Mex" tvg-logo="https://imgur.com/kPZLwTd.png" group-title="CINE Y SERIES 2",A&E ˢᴰ| Mex
@@ -896,7 +896,7 @@ http://167.250.222.35:16000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="Golden.Plus.HDTV.(GLDHD).[915].cr" tvg-name="GOLDEN PLUS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png" group-title="CINE Y SERIES 2",GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden.Edge.(Panregional).(GLDELA).[401].cr" tvg-name="GOLDEN EDGE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="CINE Y SERIES 2",GOLDEN EDGE
-http://187.102.208.108:50001/play/a04a/index.m3u8
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/181.m3u8
 #EXTINF:-1 tvg-id="Golden.Premier.HD.(GDNPHD).[980].cr" tvg-name="GOLDEN PREMIERE 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" group-title="CINE Y SERIES 2",GOLDEN PREMIERE 1
 http://138.59.177.34:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="golden_premier_2" tvg-name="GOLDEN PREMIERE 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" group-title="CINE Y SERIES 2",GOLDEN PREMIERE 2
@@ -1309,9 +1309,9 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTVE 24 HORAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/24_horas_tve.png" group-title="NOTICIAS",RTVE 24 HORAS
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="euronews.(EUNEWS).ar" tvg-name="EURONEWS ESPAÑOL" tvg-logo="https://i.postimg.cc/qBxLQXBp/Logo-Euronews-stacked-white-on-spanish-1500x1000wht.png" group-title="NOTICIAS",EURONEWS ESPAÑOL
-https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live
+http://190.242.46.20:8000/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="France.24.(North.America.-.French).(F24).ar" tvg-name="FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="NOTICIAS",FRANCE 24
-http://190.90.251.194:8921/play/a04p/index.m3u8
+https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSur.(TELESUR).[984].cr" tvg-name="TELESUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/219px-TeleSUR-Logo.svg.png" group-title="NOTICIAS",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable.News.Network.en.Español.(Latin.America).(CNNESP).[525].cr" tvg-name="CNN ESPAÑOL" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" group-title="NOTICIAS",CNN ESPAÑOL
@@ -1446,7 +1446,7 @@ https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW ENGLISH" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/deutsche_welle.png" group-title="NOTICIAS",DW ENGLISH
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT AMERICA" tvg-logo="https://www.bing.com/th?id=AMMS_2a06f9fa8627b2223474fe26b794380f&w=110&h=110&c=7&rs=1&qlt=95&pcl=f9f9f9&o=6&cdv=1&dpr=1.1&pid=16.1" group-title="NOTICIAS",RT AMERICA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT AMERICA" tvg-logo="https://i.imgur.com/z7w9igo.png" group-title="NOTICIAS",RT AMERICA
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARTY TIME KARAOKE ESPAÑOL 2" tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="MÚSICA",PARTY TIME KARAOKE ESPAÑOL 2
@@ -1518,7 +1518,7 @@ http://190.149.66.90:4000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="MTV.&apos;00s.HDTV.Latin.America.(North).(MTVLAHD).[957].cr" tvg-name="MTV 00s HD" tvg-logo="https://imgur.com/UI5dWxu.png" group-title="MÚSICA",MTV 00s HD
 http://138.59.177.34:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HITS" tvg-logo="https://i.postimg.cc/mgckyWgc/253px-MTV-Hits-2021-svg.png" group-title="MÚSICA",MTV HITS
-http://45.5.117.172:8000/play/a0gd/index.m3u8
+http://181.78.105.146:6060/play/a01w
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV LIVE" tvg-logo="https://imgur.com/cggCHeu.png" group-title="MÚSICA",MTV LIVE
 http://138.59.177.34:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="MTV.80s.(North.America).(MTV80).[613].cr" tvg-name="MTV 80s" tvg-logo="https://imgur.com/fNBYRYX.png" group-title="MÚSICA",MTV 80s
@@ -2560,8 +2560,7 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m
 #EXTINF:-1 tvg-id="Antena.3.(Internacional).(ANTENA.3).[536].cr" tvg-name="ANTENA 3 INTERNACIONAL" tvg-logo="https://i.postimg.cc/mrxd3JMB/99px-Antena-3-Internacional-logo-2017-svg.png" group-title="ESPAÑA",ANTENA 3 INTERNACIONAL
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4108
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTENA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA",ANTENA 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://Noiz5bApu67WC93scyv2fm.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=348&t=live&f=ts
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/96.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTENA 3 op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA",ANTENA 3 op2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/35494
