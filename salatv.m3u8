@@ -402,7 +402,7 @@ http://45.228.232.219:16000/play/a0mw/index.m3u8
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4004
 #EXTINF:-1 tvg-chno="" tvg-id="Nickelodeon.(Latin.America./.Central).(NICK).[307].cr" tvg-name="NICKELODEON" tvg-logo="https://imgur.com/uULnO13.png" group-title="KIDS",NICKELODEON
 http://170.82.37.21:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="MONI TV" tvg-logo="http://www.m3u.cl/logo/1300_Moni_TV.png" group-title="KIDS",MONI TV
+#EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="MONI TV" tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="KIDS",MONI TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="DREAMWORKS" tvg-logo="https://i.imgur.com/uV9AQOA.png" group-title="KIDS",DREAMWORKS
 http://161.132.243.192:50001/play/a03x/index.m3u8
@@ -522,12 +522,8 @@ https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="Kanal.D.Drama.(KDDRAMA)..ec" tvg-name="KANAL D DRAMA" tvg-logo="https://i.postimg.cc/nLG0hzvG/kanal-D-Drama.png" group-title="NOVELAS Y SERIES",KANAL D DRAMA
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1167673
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS EN FAMILIA" tvg-logo="https://i.postimg.cc/X75DrGNz/Vix-novelas-en-familia.png" group-title="NOVELAS Y SERIES",NOVELAS EN FAMILIA
-https://d31faiqgbicbr8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yobrysbthi0p4-prod/dist/samsungtv/195/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS DE ROMANCE" tvg-logo="https://i.postimg.cc/VN03WGzz/Vix-novelas-Romance.png" group-title="NOVELAS Y SERIES",NOVELAS DE ROMANCE
 https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0m7q1oxxje3uu-prod/dist/samsungtv/194/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS DE ORO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/320px-ViX_Logo.png" group-title="NOVELAS Y SERIES",NOVELAS DE ORO
-https://d1jgsg6cns4jzy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ilvjz7r1nrgb-prod/dist/samsungtv/196/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-name="SONY NOVELAS" tvg-logo="https://i.postimg.cc/fLs5SSkD/SONY-NOVELAS.png" group-title="NOVELAS Y SERIES",SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="RCN.Novelas.(RCNNOV)..ec" tvg-name="RCN NOVELAS" tvg-logo="https://graph.facebook.com/RCNnovelas/picture?width=200&height=200" group-title="NOVELAS Y SERIES",RCN NOVELAS
@@ -620,7 +616,7 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WOW TV" tvg-logo="https://i.postimg.cc/SNKMY2Mm/WOW-TV-SALVADOR.png" group-title="CINE Y SERIES 1",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/100px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES 1",CINEAR
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w637865763.m3u8
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA +" tvg-logo="https://i.postimg.cc/T3qkN1z5/cinema-mas.png" group-title="CINE Y SERIES 1",CINEMA +
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CineReal.us" tvg-name="CINE REAL" tvg-logo="https://i.postimg.cc/fyjzHNKB/CINE-REAL.png" group-title="CINE Y SERIES 1",CINE REAL
@@ -685,8 +681,8 @@ https://paneltv.online:1936/8046/8046/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/chunklist_w349013997.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIME ZONE" tvg-logo="http://azxtv.com/aztv.png" group-title="CINE Y SERIES 1",ANIME ZONE
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOCOMOTION" tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="CINE Y SERIES 1",LOCOMOTION
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMESTATION" tvg-logo="https://i.imgur.com/np7eCLT.jpg" group-title="CINE Y SERIES 1",ANIMESTATION
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGIC KIDS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Magic-2003.gif/revision/latest/scale-to-width-down/250?cb=20220402153154" group-title="CINE Y SERIES 1",MAGIC KIDS TV
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENERGEEK FANPOP" tvg-logo="https://i2.paste.pics/4b8fc07c5509133947987dc74a770eab.png" group-title="CINE Y SERIES 1",ENERGEEK FANPOP
@@ -759,6 +755,8 @@ https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e450
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLARO CINEMA" tvg-logo="https://i.postimg.cc/520Vm5CR/1548084110290-Imagen.png" group-title="CINE Y SERIES 1",CLARO CINEMA
 http://45.228.234.41:16000/play/a0b8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIDEOCLUB TV" tvg-logo="https://i.imgur.com/BLYchHK.jpg" group-title="CINE Y SERIES 1",VIDEOCLUB TV
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL CLARO" tvg-logo="https://i.postimg.cc/DZmwY6qw/image.jpg" group-title="CINE Y SERIES 1",CANAL CLARO
 http://45.5.117.182:8000/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH FAMILY" tvg-logo="https://i.postimg.cc/QVGCt247/logo-family.png" group-title="CINE Y SERIES 1",FMH FAMILY
@@ -3102,7 +3100,7 @@ http://sansat.net:25461/02049643230193/vtRFuaSlij0bZIT/94567
 #EXTINF:-1 tvg-id="" tvg-name="DIGITAL PLAYGROUND" tvg-logo="https://imgur.com/XV1zQti.png" group-title="ADULTOS",DIGITAL PLAYGROUND
 http://fullloadedtv.com:8080/tgtom/sfX2pkmu5L/549473
 #EXTINF:-1 tvg-id="" tvg-name="HOT GUYS FUCK" tvg-logo="https://imgur.com/R1pCh5p.png" group-title="ADULTOS",HOT GUYS FUCK
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296975
+http://mn.appserv19.xyz:2095/Xplus-1-6YMlqYoGAq/GP2pZowW4o/663
 #EXTINF:-1 tvg-id="" tvg-name="XY MAX" tvg-logo="https://i.imgur.com/goyWQbG.png" group-title="ADULTOS",XY MAX
 http://cdn.adultiptv.net/pornstar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XY MIX" tvg-logo="https://i.imgur.com/fmJUAoC.png" group-title="ADULTOS",XY MIX
@@ -3148,13 +3146,13 @@ http://fullloadedtv.com:8080/tgtom/sfX2pkmu5L/549414
 #EXTINF:-1 tvg-id="" tvg-name="ALBA XXX" tvg-logo="https://imgur.com/t7oymz9.png" group-title="ADULTOS",ALBA XXX
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/8312
 #EXTINF:-1 tvg-id="" tvg-name="21SEXTURY" tvg-logo="https://imgur.com/L3gXQLi.png" group-title="ADULTOS",21SEXTURY
-http://uniplayuhd.cdn23.click:80/45125607/7542264/260470
+http://mn.appserv19.xyz:2095/Xplus-1-6YMlqYoGAq/GP2pZowW4o/583
 #EXTINF:-1 tvg-id="" tvg-name="HUSTLER TV RED" tvg-logo="https://imgur.com/dSU3whg.png" group-title="ADULTOS",HUSTLER TV RED
 http://sansat.net:25461/02049643230193/vtRFuaSlij0bZIT/94553
 #EXTINF:-1 tvg-id="" tvg-name="HARDX" tvg-logo="https://i.postimg.cc/3NN7JnqF/100px-Hard-X-logo-svg.png" group-title="ADULTOS",HARDX
 https://cdn.adultiptv.net/hardcore.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""PRIVATE TV tvg-logo="https://i.postimg.cc/tCx1WgPm/Private-Media-Group-Logo.png" group-title="ADULTOS",PRIVATE TV
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297794
+http://webkingtv.xyz:8080/MrEEhMyRqU/HnhYBztqUM/82614.ts
 #EXTINF:-1 tvg-id="" tvg-name="FAP TV" tvg-logo="https://i.postimg.cc/FRjyHzbV/image.png" group-title="ADULTOS",FAP TV
 https://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FAP TV 2" tvg-logo="https://i.postimg.cc/kgb8Q2KK/image.jpg" group-title="ADULTOS",FAP TV 2
