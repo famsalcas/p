@@ -2,13 +2,13 @@
 
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="CANAL 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",CANAL 1 CR
 #EXTVLCOPT:network-caching=1000
-https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+https://video20.klm99.com:3993/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Telesistema.Nacional.-.TV./.Canal.2.(CRTV2).[2].cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 STEREO" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="COSTA RICA",88 STEREO
 http://k3.usastreams.com/CableLatino/88stereo/chunklist.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4).[4].cr" tvg-name="REPRETEL 4 ᴴᴰ" tvg-logo="https://imgur.com/x28zu8f.png" group-title="COSTA RICA",REPRETEL 4 ᴴᴰ
-https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/Canal4CR/Canal4CR1/chunks.m3u8
+https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4).[4].cr" tvg-name="REPRETEL 4 ˢᴰ" tvg-logo="https://imgur.com/x28zu8f.png" group-title="COSTA RICA",REPRETEL 4 ˢᴰ
 http://45.228.232.219:16000/play/a0mv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAN VITO TV" tvg-logo="https://imgur.com/xHWQyE6.png" group-title="COSTA RICA",SAN VITO TV
@@ -1166,8 +1166,6 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB CHANNEL" tvg-logo="https://www.houstononthecheap.com/wp-content/uploads/2020/07/mlb-tv-schedule.png" group-title="DEPORTES INGLÉS",MLB CHANNEL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FREE SPORTS TV" tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo-light.png" group-title="DEPORTES INGLÉS",FREE SPORTS TV
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL CHANNEL" tvg-logo="https://i.imgur.com/R8RfzOZ.jpg" group-title="DEPORTES INGLÉS",NFL CHANNEL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS TV" tvg-logo="https://imgur.com/Kls4dnq.png" group-title="DEPORTES INGLÉS",MLS TV
@@ -1344,11 +1342,11 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL CONFIDENCIAL" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="NOTICIAS",EL CONFIDENCIAL
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA NACIÓN +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="NOTICIAS",LA NACIÓN +
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+http://45.186.252.17:8000/play/a0a1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 NOTICIAS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_24-7-canal-de-noticias_m.png" group-title="NOTICIAS",24/7 NOTICIAS
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C5N" tvg-logo="https://i.postimg.cc/jdRdfG7c/243px-C5-N-2017.png" group-title="NOTICIAS",C5N
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://45.186.252.17:8000/play/a09y
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGANOTICIAS MX" tvg-logo="https://i.postimg.cc/W1CHN75M/914921-8c.png" group-title="NOTICIAS",MEGANOTICIAS MX
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL PAÍS" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="NOTICIAS",EL PAÍS
@@ -1718,8 +1716,6 @@ https://streaming.ath.cx:1936/lunatv/lunatv/playlist.m3u8
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HM TV" tvg-logo="https://pbs.twimg.com/profile_images/1047677295/300X300_400x400.jpg" group-title="REPÚBLICA DOMINICANA",HM TV
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8 PUNTA CANA" tvg-logo="https://i.postimg.cc/tRsTP33M/PUNTA-CANA-TV-ESP.png" group-title="REPÚBLICA DOMINICANA",8 PUNTA CANA
-https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAN ISIDRO TV" tvg-logo="https://i.imgur.com/vpnrJh9.jpg" group-title="REPÚBLICA DOMINICANA",SAN ISIDRO TV
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
 #EXTINF:-1 tvg-id="Vegateve.(VEGATV).do" tvg-name="VEGAVISIÓN" tvg-logo="https://i.postimg.cc/FHFj3Qxh/vegavisión_canal_18.png" group-title="REPÚBLICA DOMINICANA",VEGAVISIÓN
@@ -2542,7 +2538,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 2 TVE (op2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/257px-Logo_TVE-2.svg.png" group-title="ESPAÑA",LA 2 TVE (op2)
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="TVE.Internacional.(North.&amp;.South.America).(TVE).[535].cr" tvg-name="STAR TVE" tvg-logo="https://i.postimg.cc/85LgBLsn/Star-TVE-2016-n-v.png" group-title="ESPAÑA",STAR TVE
-http://181.189.243.254:8000/play/a0qf/index.m3u8
+http://138.59.177.34:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOLIDARIA TV" tvg-logo="https://i.postimg.cc/sgM845N9/solidaria-tv-en-vivo-web-espana-250x250.jpg" group-title="ESPAÑA",SOLIDARIA TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MÍRAME TV" tvg-logo="https://www.mirametv.com/public/wSystem/images/logo-white.png" group-title="ESPAÑA",MÍRAME TV
