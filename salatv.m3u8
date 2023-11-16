@@ -23,7 +23,8 @@ http://45.228.232.219:16000/play/a0kp/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 http://45.166.92.22:58001/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA ᶠᴴᴰ" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA ᶠᴴᴰ
-http://tv.a1promediastream.com:25461/0848592/8416758/16061
+#EXTVLCOPT:http-referrer=https://bradmax.com
+https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamCR/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.(CR7).[7].cr" tvg-name="TELETICA ᴴᴰ *" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA ᴴᴰ *
 http://168.181.122.234:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELETICA RADIO" tvg-logo="https://i.imgur.com/5rAOTR7.png" group-title="COSTA RICA",TELETICA RADIO
@@ -161,7 +162,7 @@ https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist
 https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="TV GARABITO" tvg-logo="https://i.imgur.com/tnm0fzc.jpg" group-title="COSTA RICA",TV GARABITO
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w1522019794.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="COMUNICACIONES JIMÉNEZ" tvg-logo="https://i.postimg.cc/9F6c1kHF/Canal-Comunicaciones-Jimenez.webp" group-title="COSTA RICA",COMUNICACIONES JIMÉNEZ
+#EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="COMUNICACIONES JIMÉNEZ" tvg-logo="https://i.imgur.com/4AvgY72.jpeg" group-title="COSTA RICA",COMUNICACIONES JIMÉNEZ
 https://cloudvideo.servers10.com:8081/8146/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="CR PRENSA" tvg-logo="https://i.imgur.com/cCEQYkQ.jpg" group-title="COSTA RICA",CR PRENSA
 https://stmv.streamingvip.click/exitotv/exitotv/playlist.m3u8
@@ -3095,7 +3096,7 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297793
 #EXTINF:-1 tvg-id="" tvg-name="LUST PUR" tvg-logo="https://i.postimg.cc/Sxwr9qkL/301-3017582-open-lust-pur.png" group-title="ADULTOS",LUST PUR
 http://sansat.net:25461/02049643230193/vtRFuaSlij0bZIT/94567
 #EXTINF:-1 tvg-id="" tvg-name="DIGITAL PLAYGROUND" tvg-logo="https://imgur.com/XV1zQti.png" group-title="ADULTOS",DIGITAL PLAYGROUND
-http://fullloadedtv.com:8080/tgtom/sfX2pkmu5L/549473
+http://uniplayuhd.cdn23.click:80/45125607/7542264/260454
 #EXTINF:-1 tvg-id="" tvg-name="HOT GUYS FUCK" tvg-logo="https://imgur.com/R1pCh5p.png" group-title="ADULTOS",HOT GUYS FUCK
 http://mn.appserv19.xyz:2095/Xplus-1-6YMlqYoGAq/GP2pZowW4o/663
 #EXTINF:-1 tvg-id="" tvg-name="XY MAX" tvg-logo="https://i.imgur.com/goyWQbG.png" group-title="ADULTOS",XY MAX
