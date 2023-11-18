@@ -756,10 +756,10 @@ https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e450
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLARO CINEMA" tvg-logo="https://i.postimg.cc/520Vm5CR/1548084110290-Imagen.png" group-title="CINE Y SERIES 1",CLARO CINEMA
 http://45.228.234.41:16000/play/a0b8/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIDEOCLUB TV" tvg-logo="https://i.imgur.com/BLYchHK.jpg" group-title="CINE Y SERIES 1",VIDEOCLUB TV
-https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL CLARO" tvg-logo="https://i.postimg.cc/DZmwY6qw/image.jpg" group-title="CINE Y SERIES 1",CANAL CLARO
 http://45.5.117.182:8000/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIDEOCLUB TV" tvg-logo="https://i.imgur.com/BLYchHK.jpg" group-title="CINE Y SERIES 1",VIDEOCLUB TV
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH FAMILY" tvg-logo="https://i.postimg.cc/QVGCt247/logo-family.png" group-title="CINE Y SERIES 1",FMH FAMILY
 http://190.211.250.148:8000/play/a03s
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH MOVIES" tvg-logo="https://i.postimg.cc/zB2RJPYw/logo-movies.png" group-title="CINE Y SERIES 1",FMH MOVIES
@@ -844,7 +844,7 @@ http://167.250.222.35:16000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="HBO.POP.HDTV.(Mexico).(HBOPOP).[975].cr" tvg-name="HBO POP" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop.png" group-title="CINE Y SERIES 2",HBO POP
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/47445
 #EXTINF:-1 tvg-id="HBO.Signature.(Panamerican).(HBOSG).[973].cr" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/Z9UHOH9.png" group-title="CINE Y SERIES 2",HBO SIGNATURE
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155796
+http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/95002
 #EXTINF:-1 tvg-id="HBO.MUNDI.(Mexico).(HBOMUN).[976].cr" tvg-name="HBO MUNDI" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi.png" group-title="CINE Y SERIES 2",HBO MUNDI
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1143815
 #EXTINF:-1 tvg-id="Cinemax.(Panamerican).(CINEMAXE).[352].cr" tvg-name="CINEMAXt ˢᴰ| Panreg" tvg-logo="https://imgur.com/ay3iZUG.png" group-title="CINE Y SERIES 2",CINEMAXt ˢᴰ| Panreg
@@ -868,7 +868,6 @@ http://167.250.222.35:16000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="Studio.Universal.HDTV.(Latin.America).(STUNIHD).[1048].cr" tvg-name="STUDIO UNIVERSAL ᴴᴰ" tvg-logo="https://imgur.com/tqcU0p9.png" group-title="CINE Y SERIES 2",STUDIO UNIVERSAL ᴴᴰ
 http://45.228.232.205:16000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" tvg-name="DE PELÍCULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula.png" group-title="CINE Y SERIES 2",DE PELÍCULA
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155786
 http://190.242.46.20:8000/play/a08w/index.m3u8
 #EXTINF:-1 tvg-id="De.PelÃ­cula.(DPELI).[400].cr" tvg-name="DE PELÍCULA PLUS" tvg-logo="https://imgur.com/mnVhZVy.png" group-title="CINE Y SERIES 2",DE PELÍCULA PLUS
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155788
@@ -884,10 +883,10 @@ http://138.59.177.34:8000/play/a075/index.m3u8
 http://45.228.232.219:16000/play/a0m1/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.HDTV.(Latin.America).(LIFETIMEHD).[827].cr" tvg-name="LIFETIME LATIN AMERICA ᴴᴰ" tvg-logo="https://i.postimg.cc/SKWhD1K8/150px-Logo-Lifetime-2020-svg.png" group-title="CINE Y SERIES 2",LIFETIME LATAM ᴴᴰ
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155873
-#EXTINF:-1 tvg-id="Golden.(Latin.America).(GOLDL).[314].cr" tvg-name="GOLDEN ˢᴰ| Panreg" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png" group-title="CINE Y SERIES 2",GOLDEN ˢᴰ| Panreg
+#EXTINF:-1 tvg-id="Golden.(Latin.America).(GOLDL).[314].cr" tvg-name="GOLDEN ˢᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png" group-title="CINE Y SERIES 2",GOLDEN ˢᴰ
 http://167.250.222.35:16000/play/a05l/index.m3u8
-#EXTINF:-1 tvg-id="golden" tvg-name="GOLDEN | Mex" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png" group-title="CINE Y SERIES 2",GOLDEN | Mex
-http://167.250.222.35:16000/play/a05l/index.m3u8
+#EXTINF:-1 tvg-id="golden" tvg-name="GOLDEN ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png" group-title="CINE Y SERIES 2",GOLDEN ᴴᴰ
+http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/95049
 #EXTINF:-1 tvg-id="Golden.Plus.HDTV.(GLDHD).[915].cr" tvg-name="GOLDEN PLUS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png" group-title="CINE Y SERIES 2",GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden.Edge.(Panregional).(GLDELA).[401].cr" tvg-name="GOLDEN EDGE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="CINE Y SERIES 2",GOLDEN EDGE
@@ -923,13 +922,13 @@ http://167.250.222.35:16000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="Film&amp;Arts.(Latin.America).(F&amp;A).do" tvg-name="FILM & ARTS ᴴᴰ" tvg-logo="https://www.filmandarts.tv/theme/assets/fa-logo.png" group-title="CINE Y SERIES 2",FILM & ARTS ᴴᴰ
 http://138.59.177.34:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-name="EUROPA EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE Y SERIES 2",EUROPA EUROPA
-http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/26755
+http://138.59.177.34:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="Eurochannel.(EUROCHN).ar" tvg-name="EURO CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurochannel-mediano.png" group-title="CINE Y SERIES 2",EURO CHANNEL
 http://45.228.232.219:16000/play/a0kx/index.m3u8
 #EXTINF:-1 tvg-id="I-SAT.(Pan-Regional).(I-SAT).[448].cr" tvg-name="iSAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/100px-I.Sat_logo.svg.png" group-title="CINE Y SERIES 2",iSAT
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4098
 #EXTINF:-1 tvg-id="Cine.Latino.(Mexico.City).(CINELA).mx" tvg-name="CINE LATINO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino.png" group-title="CINE Y SERIES 2",CINE LATINO
-http://190.122.186.88:8000/play/a0j5/index.m3u8
+http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/94985
 #EXTINF:-1 tvg-id="Cinema.Dinamita.(DINAM)..ec" tvg-name="CINE DINAMITA" tvg-logo="https://imgur.com/w4IzEEO.png" group-title="CINE Y SERIES 2",CINE DINAMITA
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4142
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLOVER CHANNEL" tvg-logo="https://imgur.com/2ci7Vzw.png" group-title="CINE Y SERIES 2",CLOVER CHANNEL
@@ -1303,7 +1302,7 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTVE 24 HORAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/24_horas_tve.png" group-title="NOTICIAS",RTVE 24 HORAS
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="euronews.(EUNEWS).ar" tvg-name="EURONEWS ESPAÑOL" tvg-logo="https://i.postimg.cc/qBxLQXBp/Logo-Euronews-stacked-white-on-spanish-1500x1000wht.png" group-title="NOTICIAS",EURONEWS ESPAÑOL
-http://190.242.46.20:8000/play/a07f/index.m3u8
+https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="France.24.(North.America.-.French).(F24).ar" tvg-name="FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="NOTICIAS",FRANCE 24
 https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSur.(TELESUR).[984].cr" tvg-name="TELESUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/219px-TeleSUR-Logo.svg.png" group-title="NOTICIAS",TELESUR
@@ -1424,7 +1423,8 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDIA TODAY" tvg-logo="https://graph.facebook.com/IndiaToday/picture?width=200&height=200" group-title="NOTICIAS",INDIA TODAY
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TALK TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/TalkTV_New_Logo.png/revision/latest/scale-to-width-down/300?cb=20220504114009" group-title="NOTICIAS",TALK TV
+#EXTINF:-1 tvg-id="(no tvg-id)" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"tvg-name="TALK TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/TalkTV_New_Logo.png/revision/latest/scale-to-width-down/300?cb=20220504114009" group-title="NOTICIAS",TALK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC NEWS" tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="NOTICIAS",ABC NEWS
 https://c.mjh.nz/101002210220
@@ -2231,12 +2231,16 @@ https://video13.virtualtronics.com/streamer/canal2.m3u8
 #EXTINF:-1 tvg-id="TelecafÃ©.(Telecafe).co" tvg-name="TELECAFÉ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Telecafe11.png/130px-Telecafe11.png" group-title="COLOMBIA",TELECAFÉ
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155810
 #EXTINF:-1 tvg-id="Caracol.(Caracol.HD).co" tvg-name="CARACOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",CARACOL
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155783
-#EXTINF:-1 tvg-id="Caracol.(Caracol.HD).co" tvg-name="CARACOL op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",CARACOL op2
+#EXTINF:-1 tvg-id="Caracol.(Caracol.HD).co" tvg-name="CARACOL *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",CARACOL *
+#EXTVLCOPT:network-caching=1000
 http://190.61.57.2:1010/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="RCN.(RCN.HD).co" tvg-name="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN
+#EXTVLCOPT:network-caching=1000
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155793
-#EXTINF:-1 tvg-id="RCN.(RCN.HD).co" tvg-name="RCN op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN op2
+#EXTINF:-1 tvg-id="RCN.(RCN.HD).co" tvg-name="RCN *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN *
+#EXTVLCOPT:network-caching=1000
 http://190.61.57.2:1010/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN MÁS" tvg-logo="https://i.postimg.cc/0ymNQCXG/RCN-MAS.png" group-title="COLOMBIA",RCN MÁS
 https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMR
@@ -2349,8 +2353,6 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/7532
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVC" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/53460
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ECUAVISA INTERNACIONAL" tvg-logo="https://i.postimg.cc/zXDhxVKj/Ecuavisa-Internacional.png" group-title="ECUADOR",ECUAVISA INTERNACIONAL
-http://tv.a1promediastream.com:25461/0848592/8416758/16157
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ECUAVISA" tvg-logo="https://imgur.com/A7pl4lu.png" group-title="ECUADOR",ECUAVISA
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/53455
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TC ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tc_logo.png/120px-Tc_logo.png" group-title="ECUADOR",TC ECUADOR
@@ -2632,44 +2634,21 @@ http://89.140.229.5/hls1/cancionero.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA FABRICA TV" tvg-logo="https://i.postimg.cc/xd8bhK4V/LA-FABRICA-TV-ESP.png" group-title="ESPAÑA",LA FABRICA TV
 https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CUATRO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cuatro_de_espana.png" group-title="ESPAÑA",CUATRO
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://ztlvZeLUHhAqQuSROW0cGV.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=351&t=live&f=ts
+http://sansat.net:25461/RZDZUYRYXS/QTOPFZTT3A/127641
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINCO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telecinco.png" group-title="ESPAÑA",TELECINCO
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://KrxzLCYWEAc5HQqZds8Rma.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=3814&t=live&f=ts
+http://sansat.net:25461/RZDZUYRYXS/QTOPFZTT3A/127642
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA SEXTA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/la_sexta.png" group-title="ESPAÑA",LA SEXTA
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://vx8HNZ9sGVt3QAXfqKdjBe.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=356&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX ESPAÑA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana.png" group-title="ESPAÑA",FOX ESPAÑA
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://abvhJHw2Qx1BsP8kyjEO6e.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=353&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN WHITE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn_white.png" group-title="ESPAÑA",AXN WHITE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://2baJcG6rYDLNefOsyC9RAK.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=382&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN (ES)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn.png" group-title="ESPAÑA",AXN (ES)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://Vb4c6PLjDsyoW2vz8Y1X7l.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=349&t=live&f=ts
+http://sansat.net:25461/RZDZUYRYXS/QTOPFZTT3A/127643
 #EXTINF:-1 tvg-id="CMM.TV" tvg-name="XTRM" tvg-logo="https://graph.facebook.com/canalXTRM/picture?width=200&height=200" group-title="ESPAÑA",XTRM
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://NkdUy4szWtGoYAguERbwF6.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=27178&t=live&f=ts
-#EXTINF:-1 tvg-id="CMM.TV" tvg-name="#0" tvg-logo="https://culturapolis.es/wp-content/uploads/2020/03/Movistar_0.png" group-title="ESPAÑA",#0
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://PxMqIy2CthLsQO4KUGSmgl.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=3818&t=live&f=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIVINITY" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/divinity.png" group-title="ESPAÑA",DIVINITY
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://xp8Crs5McQFOvSfdh3jDJH.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=3839&t=live&f=ts
+http://sansat.net:25461/RZDZUYRYXS/QTOPFZTT3A/127736
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENERGY" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/energy.png" group-title="ESPAÑA",ENERGY
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://XJFve3pALEshVIrBn16KOd.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=3840&t=live&f=ts
+http://sansat.net:25461/RZDZUYRYXS/QTOPFZTT3A/127712
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mega_espana.png" group-title="ESPAÑA",MEGA
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://Ns6hFEQGoxiRjUOP319tn8.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=25854&t=live&f=ts
+http://sansat.net:25461/RZDZUYRYXS/QTOPFZTT3A/127644
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CALLE 13" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/calle_13.png" group-title="ESPAÑA",CALLE 13
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://HIwgneZM42QNmBqfSyCAtu.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=350&t=live&f=ts
+http://sansat.net:25461/RZDZUYRYXS/QTOPFZTT3A/127727
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEOX" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/neox.png" group-title="ESPAÑA",NEOX
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://bsNEH7QY8dWvq01Iw52jrT.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=3851&t=live&f=ts
+http://sansat.net:25461/RZDZUYRYXS/QTOPFZTT3A/127648
 
 #EXTINF:-1 tvg-id="CCTV.4.(Chile).(CCTV4).[1049].cr" tvg-name="CGTN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CGTN_English.png/120px-CGTN_English.png" group-title="INTERNACIONAL",CGTN ESPAÑOL
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
