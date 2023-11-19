@@ -2529,17 +2529,17 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 http://4L2e9ljsmw3pGXTJAWdMFU.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=3790&t=live&f=ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMADRID" tvg-logo="https://i.postimg.cc/nLkLY85D/320px-Tele-Madrid-svg.png" group-title="ESPAÑA",TELEMADRID
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_3.m3u8
+https://telemadridcfi-downloads.secure.footprint.net/104403117001/TMDVID20231119_0018/910/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA OTRA TV" tvg-logo="https://i.postimg.cc/FsVsQXrn/170px-La-Otra-Logo.png" group-title="ESPAÑA",LA OTRA TV
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+https://new-international-23.secure2.footprint.net/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 1 TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/269px-Logo_TVE-1.svg.png" group-title="ESPAÑA",LA 1 TVE
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/127637
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 1 TVE (op2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/269px-Logo_TVE-1.svg.png" group-title="ESPAÑA",LA 1 TVE (op2)
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+https://rtvelivestream.akamaized.net/eventual/oca/irtve24_main_1080.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 2 TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/257px-Logo_TVE-2.svg.png" group-title="ESPAÑA",LA 2 TVE
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/127638
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 2 TVE (op2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/257px-Logo_TVE-2.svg.png" group-title="ESPAÑA",LA 2 TVE (op2)
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="TVE.Internacional.(North.&amp;.South.America).(TVE).[535].cr" tvg-name="STAR TVE" tvg-logo="https://i.postimg.cc/85LgBLsn/Star-TVE-2016-n-v.png" group-title="ESPAÑA",STAR TVE
 http://138.59.177.34:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOLIDARIA TV" tvg-logo="https://i.postimg.cc/sgM845N9/solidaria-tv-en-vivo-web-espana-250x250.jpg" group-title="ESPAÑA",SOLIDARIA TV
