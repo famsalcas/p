@@ -20,7 +20,6 @@ https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.
 #EXTINF:-1 tvg-id="Repretel.6.(CR6).[6].cr" tvg-name="REPRETEL 6 ˢᴰ" tvg-logo="https://i.imgur.com/1vcQReV.png" group-title="COSTA RICA",REPRETEL 6 ˢᴰ
 http://45.228.232.219:16000/play/a0kp/index.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA ᴴᴰ" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA ᴴᴰ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 http://45.166.92.22:58001/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA ᶠᴴᴰ" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA ᶠᴴᴰ
 #EXTVLCOPT:http-referrer=https://bradmax.com
@@ -90,8 +89,6 @@ https://59ef525c24caa.streamlock.net//impactotv/impactotv/playlist.m3u8
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRISTOVISIÓN" tvg-logo="https://cristovision31.org/imagenes/Logo.png" group-title="COSTA RICA",CRISTOVISIÓN
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VISIÓN AMERICA" tvg-logo="https://i.imgur.com/PRxZHRd.png" group-title="COSTA RICA",VISIÓN AMERICA
-https://rtmp.info/fulltv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSTA RICA CHANNEL" tvg-logo="https://i.imgur.com/QPBmOIj.png" group-title="COSTA RICA",COSTA RICA CHANNEL
 https://5fa5de1a545ae.streamlock.net/8006/8006/chunklist_w1105449295.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-name="ZURQUI TV" tvg-logo="https://i.postimg.cc/j541TBqq/HIun-Lc-Am2-Enb-Wrd-Uu-NHbcj-AD6-Bcw-X1y-OHGa-K1-Vjg.jpg" group-title="COSTA RICA",ZURQUI TV
@@ -172,7 +169,7 @@ https://vdo.panelchs.com:3629/stream/play.m3u8
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="ELITE TV" tvg-logo="https://i.imgur.com/GTbSKZU.png" group-title="COSTA RICA",ELITE TV
 https://62fc643fbf1aa.streamlock.net/elitetv/elitetv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="BETHEL COSTA RICA" tvg-logo="https://i.postimg.cc/SRh1BZ1Y/OIP.jpg" group-title="COSTA RICA",BETHEL COSTA RICA
+#EXTINF:-1 tvg-chno="" tvg-id="(no tvg-id)" tvg-name="BETHEL COSTA RICA" tvg-logo="https://i.postimg.cc/fymS29C1/logo-2dbethel.png" group-title="COSTA RICA",BETHEL COSTA RICA
 https://pop-ts.iptv-global.net/BethelCostaRica/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPERANZA TV" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="VIDA Y RELIGIÓN",ESPERANZA TV
@@ -583,7 +580,7 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w4209325.m3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVES SAN JOSE" tvg-logo="https://i.postimg.cc/2jhpVPJZ/TVES-SAN-JOSE.png" group-title="CINE Y SERIES 1",TVES SAN JOSE
 https://vivo.solumedia.com:19360/tves/tves.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MOVIES" tvg-logo="https://i.postimg.cc/L5GQ9BKf/1200px-Sony-Movies-Logo-svg.png" group-title="CINE Y SERIES 1",SONY MOVIES
-http://190.122.186.88:8000/play/a0fr/index.m3u8
+http://190.211.102.42:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY CINE" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE Y SERIES 1",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyCanalComedias.us" tvg-name="SONY COMEDIAS" tvg-logo="https://www.ipuntotv.com/IMAGES/sony-channel-logo.png" group-title="CINE Y SERIES 1",SONY COMEDIAS
@@ -776,7 +773,7 @@ http://45.5.117.182:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Centro.America.feed).(SONY).[5].cr" tvg-name="SONY ˢᴰ| Centro" tvg-logo="https://i.imgur.com/k0Tz15z.png" group-title="CINE Y SERIES 2",SONY ˢᴰ| Centro
 http://45.228.232.205:16000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Centro.America.feed).(SONY).[5].cr" tvg-name="SONY ᴴᴰ| Centro" tvg-logo="https://i.postimg.cc/QxqnfdBr/Sony-Channel-HD-2019.png" group-title="CINE Y SERIES 2",SONY ᴴᴰ| Centro
-http://167.250.222.35:16000/play/a06n/index.m3u8
+http://190.211.102.42:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY | Mex" tvg-logo="https://i.imgur.com/k0Tz15z.png" group-title="CINE Y SERIES 2",SONY | Mex
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/53.m3u8
 #EXTINF:-1 tvg-id="AXN.(Centroamérica).(AXN).[1040].cr" tvg-name="AXN ˢᴰ| Andes" tvg-logo="https://i.imgur.com/YxuMW9e.png" group-title="CINE Y SERIES 2",AXN ˢᴰ| Andes
@@ -792,7 +789,7 @@ http://167.250.222.35:16000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="Star.International.(Centroamérica).(STARC).[353].cr" tvg-name="STAR CHANNELˢᴰ| Centro" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel.png" group-title="CINE Y SERIES 2",STAR CHANNEL ˢᴰ| Mex
 http://138.59.177.34:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="Star.International.HDTV.(Centroamérica).(STARHD).[814].cr" tvg-name="STAR CHANNEL ᴴᴰ|  Centro" tvg-logo="https://i.imgur.com/w3kaZtN.png" group-title="CINE Y SERIES 2",STAR CHANNEL ᴴᴰ|  Centro
-http://190.216.162.154:8000/play/a023
+http://190.211.102.42:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="FX.Latin.America.(Colombia).(FX).[405].cr" tvg-name="FX ˢᴰ| Centro" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx.png" group-title="CINE Y SERIES 2",FX ˢᴰ| Centro
 http://45.5.117.182:8000/play/a0gb/index.m3u8
 #EXTINF:-1 tvg-id="FX.Latin.America.HDTV.(Colombia).(FXHD).[927].cr" tvg-name="FX ᴴᴰ| Centro" tvg-logo="https://i.postimg.cc/Gpz0dq7k/image.png" group-title="CINE Y SERIES 2",FX ᴴᴰ| Centro
@@ -1424,8 +1421,7 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDIA TODAY" tvg-logo="https://graph.facebook.com/IndiaToday/picture?width=200&height=200" group-title="NOTICIAS",INDIA TODAY
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"tvg-name="TALK TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/TalkTV_New_Logo.png/revision/latest/scale-to-width-down/300?cb=20220504114009" group-title="NOTICIAS",TALK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TALK TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/TalkTV_New_Logo.png/revision/latest/scale-to-width-down/300?cb=20220504114009" group-title="NOTICIAS",TALK TV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC NEWS" tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="NOTICIAS",ABC NEWS
 https://c.mjh.nz/101002210220
@@ -1435,6 +1431,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWSY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/1200px-Newsy_2021.svg.png" group-title="NOTICIAS",NEWSY
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GB NEWS" tvg-logo="https://i.imgur.com/GKe2qr8.png" group-title="NOTICIAS",GB NEWS
+https://videostitcher.googleapis.com/v1/projects/286166234322/locations/europe-west1/daiLiveSessions/aa40ef99-5ce1-4990-ba48-c0efe257d545-gam/manifest.m3u8?vsauth=AZc7-kZtfO4t2fS7m_p4q8TGNJ6S
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REAL VISION" tvg-logo="https://i.imgur.com/tjwDyUD.png" group-title="NOTICIAS",REAL VISION
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMERICA'S VOICE" tvg-logo="https://i.imgur.com/tjwDyUD.png" group-title="NOTICIAS",AMERICA'S VOICE
@@ -2730,8 +2728,8 @@ https://134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_0a6ef900ad051
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AGORA TV" tvg-logo="https://imgur.com/KuwmFXZ.png" group-title="INTERNACIONAL",AGORA TV
 https://agoratv-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JASMIN TV" tvg-logo="https://i.imgur.com/3VdU9r0.png" group-title="INTERNACIONAL",JASMIN TV
-http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEBENDICIÓN" tvg-logo="https://i.imgur.com/Vz7SqlH.png" group-title="INTERNACIONAL",TELEBENDICIÓN
+https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FASHION MIDNIGHT SECRETS" tvg-logo="https://cms.fashiontv.com/wp-content/themes/fashiontvplus/images/fashiontvlogo.png" group-title="INTERNACIONAL",FASHION MIDNIGHT SECRETS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KALOOPY" tvg-logo="https://i.postimg.cc/nznq9rF7/KALOOPY.png" group-title="INTERNACIONAL",KALOOPY
@@ -2812,7 +2810,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/43290
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS *" tvg-logo="https://i.postimg.cc/qBh98gNN/CBS.webp" group-title="USA",CBS *
 #EXTVLCOPT:network-caching=1000
-http://tv.a1promediastream.com:25461/0848592/8416758/17203
+http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/157674
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 ABC LAS VEGAS (KTNV)" tvg-logo="https://ewscripps.brightspotcdn.com/1a/33/e0101b564e938049fd46e65fd6f6/ktnv-app-logo.JPG" group-title="USA",13 ABC LAS VEGAS (KTNV)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC  7 (KTNV)" tvg-logo="https://www.bloomenergy.com/wp-content/uploads/abc-seven-news.jpg" group-title="USA",ABC  7 (KTNV)
