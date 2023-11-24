@@ -1480,8 +1480,12 @@ https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PROFOXMIX" tvg-logo="https://th.bing.com/th/id/OIP.f6nJ0-WnbNwfuHOz_3NtrgHaHa?w=154&h=180&c=7&o=5&dpr=1.1&pid=1.7" group-title="MÚSICA",PROFOXMIX
 https://video.streamingchilenos.cl:1936/8026/8026/chunklist_w1616500667.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REWIND" tvg-logo="https://i.postimg.cc/CxW400f7/image.png" group-title="MÚSICA",REWIND
-https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOW 70s" tvg-logo="https://i.imgur.com/zaUdXSI.png" group-title="MÚSICA",NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOW 80s" tvg-logo="https://i.postimg.cc/SKqjhF7Z/200px-NOW-80s-logo.png" group-title="MÚSICA",NOW 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOW ROCK" tvg-logo="https://i.postimg.cc/YCvh3z23/200px-NOW-Rock-logo.png" group-title="MÚSICA",NOW ROCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ROCK TV" tvg-logo="https://i.postimg.cc/k5snZxN3/R.png" group-title="MÚSICA",ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V CLASSIC TV" tvg-logo="https://i.imgur.com/iZAzhP3.png" group-title="MÚSICA",V CLASSIC TV
@@ -1575,11 +1579,11 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шансон ТВ" tvg-logo="https://imgur.com/3RgT7dX.png" group-title="MÚSICA",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K POP" tvg-logo="https://i.postimg.cc/vB8LdqnC/image.png" group-title="MÚSICA",K POP
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGA MUNDIAL" tvg-logo="http://channels.roku.com/images/b3b836fe445a4ad1917e32c3b2c194a4-hd.jpg" group-title="MÚSICA",MEGA MUNDIAL
-https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
+https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MÁXIMA FM" tvg-logo="https://i.imgur.com/GQWiS9Q.png" group-title="MÚSICA",MÁXIMA FM
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+https://server1.oklanet.cl:1936/maximafmchile/ngrp:maximafmchile_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1 MUSIC CHANNEL RUS" tvg-logo="https://w7.pngwing.com/pngs/113/310/png-transparent-television-channel-music-high-definition-television-live-television-others-thumbnail.png" group-title="MÚSICA",1 MUSIC CHANNEL RUS
 https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POWER TURK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/PowerTurk_TV.png/revision/latest/scale-to-width-down/250?cb=20220108110609" group-title="MÚSICA",POWER TURK
@@ -3047,7 +3051,7 @@ http://883011766480431628.of1030ok.xyz:80/play/vi913363/C5aFau8@D4/431628.ts
 #EXTINF:-1 tvg-id="PrivateTV.ro" tvg-name="PRIVATE HD" tvg-logo="https://i.postimg.cc/VkqHK46D/PRIVATE-TV.png" group-title="ADULTOS",PRIVATE HD
 http://883011766480681077.of1030ok.xyz:80/play/vi913363/C5aFau8@D4/681077.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDLIGHT" tvg-logo="https://i.postimg.cc/MHBhqw68/Redlight-HD.png" group-title="ADULTOS",REDLIGHT
-http://883011766480285005.of1030ok.xyz:80/play/vi913363/C5aFau8@D4/285005.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61483
 #EXTINF:-1 tvg-id="Hustler.HD.(Dish).(HUSLRH).us" tvg-name="HUSTLER HD" tvg-logo="https://i.postimg.cc/NfrnHQwh/HUSTLER-TV-HD.png" group-title="ADULTOS",HUSTLER HD
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/47989
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT" tvg-logo="https://imgur.com/RzaggSV.png" group-title="ADULTOS",HOT
