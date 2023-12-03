@@ -1569,12 +1569,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 https://livedge-st1.video.bustream.com/coopetv/smil:rates.smil/chunklist_w515107706_b1496000_slen.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FARRA PLAY" tvg-logo="https://i.postimg.cc/G2KjG4CM/FARRA-PLAY.png" group-title="MÚSICA",FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALEGRÍA TV" tvg-logo="https://i.imgur.com/MyhPvmc.png" group-title="MÚSICA",ALEGRÍA TV
-https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KARIBEÑA" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=200&height=200" group-title="MÚSICA",KARIBEÑA
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RADIO JAVAN" tvg-logo="https://www.radiojavan.com/images/default_fb.png" group-title="MÚSICA",RADIO JAVAN
-http://51.210.199.6/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE 90's THROWBACK" tvg-logo="https://graph.facebook.com/XITENL/picture?width=200&height=200" group-title="MÚSICA",XITE 90's THROWBACK
 https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE 80's FLASHBACK" tvg-logo="https://graph.facebook.com/XITENL/picture?width=200&height=200" group-title="MÚSICA",XITE 80's FLASHBACK
@@ -1639,10 +1635,8 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PJ RADIO TV" tvg-name="PJ RADIO TV" tvg-logo="https://i.postimg.cc/pd1LNFhW/radiotvpj-5865-th.jpg" group-title="MÚSICA",PJ RADIO TV
 https://vdo.panelstreaming.live:3363/stream/play.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOX HITS" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/box_hits.png" group-title="MÚSICA",BOX HITS
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERSIANA MUSIC" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png" group-title="MÚSICA",PERSIANA MUSIC
-http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERSIANA MUSIC" tvg-logo="https://i.imgur.com/28jVSqv.png" group-title="MÚSICA",PERSIANA MUSIC
+https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVM 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/320px-Logo_TVM3_2015.png" group-title="MÚSICA",TVM 3
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GO TV" tvg-logo="https://www.go-rtv.nl/template/assets/img/logo.png" group-title="MÚSICA",GO TV
@@ -1651,8 +1645,6 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ROTANA" tvg-logo="https://imgur.com/HxKMmLw.png" group-title="MÚSICA",ROTANA
 https://daiconnect.com/live/hls/rotana/music/.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC PLUS" tvg-logo="https://i.postimg.cc/rF5nQgZz/Musicplus.jpg" group-title="MÚSICA",MUSIC PLUS
-http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAMIR TV" tvg-logo="https://tvtvtv.ru/icons/pamir_tv.png" group-title="MÚSICA",PAMIR TV
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BARAZA TV" tvg-logo="https://barazaradio.com/wp-content/uploads/2019/10/logo-300x300.png" group-title="MÚSICA",BARAZA TV
@@ -1661,14 +1653,8 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV TURKLY" tvg-logo="https://i.postimg.cc/Prqmcb04/itv-logo.png" group-title="MÚSICA",ITV TURKLY
 https://itv.streams.ovh/magictv/magictv/chunklist_w824092799.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOW BOX" tvg-logo="https://i.postimg.cc/PrNwKX8V/Show-Box-TV-logo.png" group-title="MÚSICA",SHOW BOX
-https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA TALKIES" tvg-logo="https://i.postimg.cc/Vv0zrVdg/bang-2-2.jpg" group-title="MÚSICA",BANGLA TALKIES
-http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STEELBIRD MUSIC" tvg-logo="http://steelbirdmusic.tv/assets/images/logo1.png" group-title="MÚSICA",STEELBIRD MUSIC
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAZRANA TV" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/10/Nazrana.jpg" group-title="MÚSICA",NAZRANA TV
-https://live.hungama.com/linear/nazrana/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="https://i.imgur.com/GT6PBP4.png" group-title="MÚSICA",BOOGLE BOLLYWOOD
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUZZIK TV" tvg-logo="https://i.imgur.com/r0gF1Tw.png" group-title="MÚSICA",MUZZIK TV
 http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ROCK n ROLL" tvg-logo="https://imgur.com/cN6P0DD.png" group-title="MÚSICA",ROCK n ROLL
@@ -1692,7 +1678,7 @@ https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SENSE" tvg-logo="https://imgur.com/fmmrk9t.png" group-title="MÚSICA",SENSE
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4 KURD" tvg-logo="https://i.postimg.cc/Sxd9L1Tc/c535da0125bf6d2d6cf11f8112cbbdce.jpg" group-title="MÚSICA",4 KURD
-https://4kurd.icdndhcp.com/hls/stream.m3u8
+https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT MUZIK" tvg-logo="https://i.postimg.cc/HLjPP5mn/512px-TRT-M-zik-logo-svg.png" group-title="MÚSICA",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEROUNO TV MUSIC" tvg-logo="https://i.imgur.com/srW77C8.png" group-title="MÚSICA",ZEROUNO MUSIC TV
