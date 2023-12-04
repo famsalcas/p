@@ -17,7 +17,6 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w500555531.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.HDTV.(CR6HD).[766].cr" tvg-name="REPRETEL 6 ᴴᴰ" tvg-logo="https://i.imgur.com/Zdmfq9O.png" group-title="COSTA RICA",REPRETEL 6 ᴴᴰ
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/Canal6CR/Canal6CR1/chunks.m3u8
-https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.(CR6).[6].cr" tvg-name="REPRETEL 6 ˢᴰ" tvg-logo="https://i.imgur.com/1vcQReV.png" group-title="COSTA RICA",REPRETEL 6 ˢᴰ
 http://45.228.232.219:16000/play/a0kp/index.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="TELETICA ᴴᴰ" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",TELETICA ᴴᴰ
@@ -602,8 +601,6 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1341240833.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DANTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg" group-title="CINE Y SERIES 1",DANTV
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE ROMÁNTICO" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/71/USBA3800001E0_20220712T041440.png" group-title="CINE Y SERIES 1",CINE ROMÁNTICO
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_cineromantico_001.m3u8?ads.caid=CineRomantico&ads.csid=samsungtvplus_us_cineromantico_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=movies&ads._fw_content_language=en%2Ces%2Cfr&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2068&ads.xumo_contentName=UpTVCineRomantico&ads.xumo_provid
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMTV SUPER CINE" tvg-logo="https://i.postimg.cc/ncrvJvcQ/FRECUENCIA-MUSICAL-FUSION.png" group-title="CINE Y SERIES 1",FMTV SUPER CINE
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT +" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="CINE Y SERIES 1",PARAMOUNT +
@@ -622,8 +619,6 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/100px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES 1",CINEAR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA +" tvg-logo="https://i.postimg.cc/T3qkN1z5/cinema-mas.png" group-title="CINE Y SERIES 1",CINEMA +
-https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CineReal.us" tvg-name="CINE REAL" tvg-logo="https://i.postimg.cc/fyjzHNKB/CINE-REAL.png" group-title="CINE Y SERIES 1",CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1 tvg-id="JuntosTV.us" tvg-name="JUNTOS" tvg-logo="https://i.postimg.cc/3wcgxs8R/JUNTOS-ESP.png" group-title="CINE Y SERIES 1",JUNTOS
@@ -847,11 +842,11 @@ http://167.250.222.35:16000/play/a043/index.m3u8
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/47445
 #EXTINF:-1 tvg-id="HBO.Signature.(Panamerican).(HBOSG).[973].cr" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/Z9UHOH9.png" group-title="CINE Y SERIES 2",HBO SIGNATURE
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/95002
-#EXTINF:-1 tvg-id="HBO.MUNDI.(Mexico).(HBOMUN).[976].cr" tvg-name="HBO MUNDI" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi.png" group-title="CINE Y SERIES 2",HBO MUNDI
+#EXTINF:-1 tvg-id="HBO.MUNDI.(Mexico).(HBOMUN).[976].cr" tvg-name="HBO MUNDI" audio-track="spa" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi.png" group-title="CINE Y SERIES 2",HBO MUNDI
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1143815
 #EXTINF:-1 tvg-id="Cinemax.(Panamerican).(CINEMAXE).[352].cr" tvg-name="CINEMAXt ˢᴰ| Panreg" tvg-logo="https://imgur.com/ay3iZUG.png" group-title="CINE Y SERIES 2",CINEMAXt ˢᴰ| Panreg
 http://138.59.177.34:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.HDTV.(Panamerican).(CINEMAXE).[795].cr" tvg-name="CINEMAX ᴴᴰ| Panreg" tvg-logo="https://i.postimg.cc/mkx1ZNCB/320px-Cinemax-LA.png" group-title="CINE Y SERIES 2",CINEMAX ᴴᴰ| Panreg
+#EXTINF:-1 tvg-id="Cinemax.HDTV.(Panamerican).(CINEMAXE).[795].cr" tvg-name="CINEMAX ᴴᴰ| Panreg" audio-track="spa" tvg-logo="https://i.postimg.cc/mkx1ZNCB/320px-Cinemax-LA.png" group-title="CINE Y SERIES 2",CINEMAX ᴴᴰ| Panreg
 http://190.90.251.194:8921/play/a00d/index.m3u8
 http://187.102.208.108:50001/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.(Latin.America).(CINEC).[791].cr" tvg-name="CINECANAL | Pacif" tvg-logo="https://imgur.com/yCoyB0m.png" group-title="CINE Y SERIES 2",CINECANAL | Pacif
@@ -1593,7 +1588,7 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 https://server1.oklanet.cl:1936/maximafmchile/ngrp:maximafmchile_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POWER TURK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/PowerTurk_TV.png/revision/latest/scale-to-width-down/250?cb=20220108110609" group-title="MÚSICA",POWER TURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POWER HD" tvg-logo="https://i.imgur.com/keJlTlO.jpg" group-title="MÚSICA",POWER HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POWER HD" tvg-logo="https://i.postimg.cc/gj1Qr48L/image.png" group-title="MÚSICA",POWER HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RADIO U TV" tvg-logo="https://i.imgur.com/ITiVxrP.png" group-title="MÚSICA",RADIO U TV
 https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
@@ -1689,6 +1684,12 @@ https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KRAL" tvg-logo="https://i.imgur.com/2F8oiYe.png" group-title="MÚSICA",KRAL
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 tvg-id="DeluxeDance.de" tvg-name="DELUXE DANCE" tvg-logo="https://i.postimg.cc/nhhKgR2G/image.png" group-title="MÚSICA",DELUXE DANCE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="DELUXE MUSIC" tvg-logo="https://i.postimg.cc/2yBj1DC7/image.png" group-title="MÚSICA",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="DELUXE FLASHBACK" tvg-logo="https://i.postimg.cc/dtmqfvtg/image.png" group-title="MÚSICA",DELUXE FLASHBACK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOS CULTURA 24/7" tvg-logo="https://imgur.com/uffUTfa.png" group-title="MÚSICA",SOMOS CULTURA 24/7
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QWEST MIX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png" group-title="MÚSICA",QWEST MIX
