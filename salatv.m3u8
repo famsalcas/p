@@ -773,7 +773,7 @@ http://45.5.117.182:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Centro.America.feed).(SONY).[5].cr" tvg-name="SONY ˢᴰ| Centro" tvg-logo="https://i.imgur.com/k0Tz15z.png" group-title="CINE Y SERIES 2",SONY ˢᴰ| Centro
 http://45.228.232.205:16000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Centro.America.feed).(SONY).[5].cr" tvg-name="SONY ᴴᴰ| Centro" tvg-logo="https://i.postimg.cc/QxqnfdBr/Sony-Channel-HD-2019.png" group-title="CINE Y SERIES 2",SONY ᴴᴰ| Centro
-http://190.211.102.42:8000/play/a05i/index.m3u8
+http://138.59.177.34:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY | Mex" tvg-logo="https://i.imgur.com/k0Tz15z.png" group-title="CINE Y SERIES 2",SONY | Mex
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/53.m3u8
 #EXTINF:-1 tvg-id="AXN.(Centroamérica).(AXN).[1040].cr" tvg-name="AXN ˢᴰ| Andes" tvg-logo="https://i.imgur.com/YxuMW9e.png" group-title="CINE Y SERIES 2",AXN ˢᴰ| Andes
@@ -848,7 +848,6 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/1143815
 http://138.59.177.34:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(Panamerican).(CINEMAXE).[795].cr" tvg-name="CINEMAX ᴴᴰ| Panreg" audio-track="spa" tvg-logo="https://i.postimg.cc/mkx1ZNCB/320px-Cinemax-LA.png" group-title="CINE Y SERIES 2",CINEMAX ᴴᴰ| Panreg
 http://190.90.251.194:8921/play/a00d/index.m3u8
-http://187.102.208.108:50001/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.(Latin.America).(CINEC).[791].cr" tvg-name="CINECANAL | Pacif" tvg-logo="https://imgur.com/yCoyB0m.png" group-title="CINE Y SERIES 2",CINECANAL | Pacif
 http://167.250.222.35:16000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.+.HDTV.(Latin.America).(CIN+H).[350].cr" tvg-name="CINECANAL ᴴᴰ| Pacif" tvg-logo="https://imgur.com/yCoyB0m.png" group-title="CINE Y SERIES 2",CINECANAL ᴴᴰ| Pacif
@@ -862,7 +861,7 @@ http://45.228.232.219:16000/play/a0lx/index.m3u8
 #EXTINF:-1 tvg-id="Space.HDTV.(Panamericano).(SPACEHD).[922].cr" tvg-name="SPACE ᴴᴰ| Panreg" tvg-logo="https://cdn.mitvstatic.com/channels/br_space-hd_m.png" group-title="CINE Y SERIES 2",SPACE ᴴᴰ | Panreg
 http://167.250.222.35:16000/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="Studio.Universal.(Latin.America).(STUNI).[355].cr" tvg-name="STUDIO UNIVERSAL ˢᴰ" tvg-logo="https://imgur.com/haZeiaZ.png" group-title="CINE Y SERIES 2",STUDIO UNIVERSAL ˢᴰ
-http://167.250.222.35:16000/play/a047/index.m3u8
+http://190.90.251.194:8921/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="Studio.Universal.HDTV.(Latin.America).(STUNIHD).[1048].cr" tvg-name="STUDIO UNIVERSAL ᴴᴰ" tvg-logo="https://imgur.com/tqcU0p9.png" group-title="CINE Y SERIES 2",STUDIO UNIVERSAL ᴴᴰ
 http://45.228.232.205:16000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" tvg-name="DE PELÍCULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula.png" group-title="CINE Y SERIES 2",DE PELÍCULA
