@@ -385,7 +385,7 @@ https://marine2.miplay.cl/itv/mono.m3u8
 #EXTINF:-1 tvg-chno="187" tvg-id="Cartoonito.(Latin.America).(CTNO).[309].cr" tvg-name="CARTOONITO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoonito.png" group-title="KIDS",CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-chno="188" tvg-id="Disney.Junior.(North.Feed).(DISJR).[304].cr" tvg-name="DISNEY JUNIOR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_junior.png" group-title="KIDS",DISNEY JUNIOR
-http://45.163.139.42:8000/play/a0bx/index.m3u8
+http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/100226
 #EXTINF:-1 tvg-id="Nick.Jr..(NICKJR).[311].cr" tvg-name="NICK JUNIOR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nick_jr.png" group-title="KIDS",NICK JUNIOR
 http://45.228.232.205:16000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOB ESPONJA" tvg-logo="https://imgur.com/8GAukOD.png" group-title="KIDS",BOB ESPONJA
@@ -470,11 +470,11 @@ http://168.181.122.234:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Home.&amp;.Health.(Latin.America).(DH&amp;H).[454].cr" tvg-name="DISCOVERY H&H ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/100px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA Y ESTILOS",DISCOVERY H&H ˢᴰ
 http://45.228.232.219:16000/play/a0nw/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Home.&amp;.Health.HDTV.(Latin.America).(DH&amp;HHD).[936].cr" tvg-name="DISCOVERY H&H ᴴᴰ" tvg-logo="https://imgur.com/3CaI0qc.png" group-title="CULTURA Y ESTILOS",DISCOVERY H&H ᴴᴰ
-http://45.163.139.42:8000/play/a0b3/index.m3u8
+http://45.166.92.22:58001/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(Latin.America).(IDHD).[928].cr" tvg-name="DISCOVERY ID" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURA Y ESTILOS",DISCOVERY ID
 http://45.228.232.219:16000/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.World.HDTV.(Latin.America).(DWORLD).[948].cr" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/100px-World_Discovery_HD_logo.svg.png" group-title="CULTURA Y ESTILOS",DISCOVERY WORLD
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/4076
+http://45.166.92.22:58001/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.Latin.America.SDTV.(Panregional).(HGTVSD).[1042].cr" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/320px-HGTV_US_Logo_2015.svg.png" group-title="CULTURA Y ESTILOS",HGTV
 http://168.181.122.234:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Science.International.(DSCI).[511].cr" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science.png" group-title="CULTURA Y ESTILOS",DISCOVERY SCIENCE
@@ -2238,10 +2238,8 @@ https://video13.virtualtronics.com/streamer/canal2.m3u8
 #EXTINF:-1 tvg-id="TelecafÃ©.(Telecafe).co" tvg-name="TELECAFÉ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Telecafe11.png/130px-Telecafe11.png" group-title="COLOMBIA",TELECAFÉ
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155810
 #EXTINF:-1 tvg-id="Caracol.(Caracol.HD).co" tvg-name="CARACOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",CARACOL
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155783
+http://45.177.53.7:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.(Caracol.HD).co" tvg-name="CARACOL *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",CARACOL *
-#EXTVLCOPT:network-caching=1000
 http://190.61.57.2:1010/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="RCN.(RCN.HD).co" tvg-name="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN
 #EXTVLCOPT:network-caching=1000
