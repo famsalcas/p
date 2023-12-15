@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/gatotv.com.xml"
+#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/gatotv.com.xml#format=xmltv"
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://imgur.com/x0qR3r8.png" tvg-name="CANAL 1 CR" group-title="COSTA RICA",CANAL 1 CR
 #EXTVLCOPT:network-caching=1000
 https://video20.klm99.com:3993/hybrid/play.m3u8
