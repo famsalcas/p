@@ -378,25 +378,25 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="186" tvg-logo="https://graph.facebook.com/ITVPatagonia/picture?width=200&height=200" tvg-name="ITV" group-title="KIDS",ITV
 https://marine2.miplay.cl/itv/mono.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.(Latin.America).(CTNO).[309].cr" tvg-chno="187" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoonito.png" tvg-name="CARTOONITO" group-title="KIDS",CARTOONITO
+#EXTINF:-1 tvg-id="cartoonito_panregional" tvg-chno="187" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoonito.png" tvg-name="CARTOONITO" group-title="KIDS",CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="Disney.Junior.(North.Feed).(DISJR).[304].cr" tvg-chno="188" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_junior.png" tvg-name="DISNEY JUNIOR" group-title="KIDS",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DisneyJuniorNorth.us" tvg-chno="188" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_junior.png" tvg-name="DISNEY JUNIOR" group-title="KIDS",DISNEY JUNIOR
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/100226
-#EXTINF:-1 tvg-id="Nick.Jr..(NICKJR).[311].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nick_jr.png" tvg-name="NICK JUNIOR" group-title="KIDS",NICK JUNIOR
+#EXTINF:-1 tvg-id="nick_junior_latinoamerica" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nick_jr.png" tvg-name="NICK JUNIOR" group-title="KIDS",NICK JUNIOR
 http://45.228.232.205:16000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imgur.com/8GAukOD.png" tvg-name="BOB ESPONJA" group-title="KIDS",BOB ESPONJA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Discovery.Kids.HDTV.(Latin.America).(DKIDSHD).[856].cr" tvg-chno="190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/150px-Discovery_Kids_Logo_2021-Presente.webp.png" tvg-name="DISCOVERY KIDS" group-title="KIDS",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="discovery_kids_latinoamerica" tvg-chno="190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/150px-Discovery_Kids_Logo_2021-Presente.webp.png" tvg-name="DISCOVERY KIDS" group-title="KIDS",DISCOVERY KIDS
 http://45.228.232.205:16000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="Cartoon.Network.(Latin.America.-.Panregional).(TOON).[305].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" tvg-name="CARTOON NETWORK (ATL S)" group-title="KIDS",CARTOON NETWORK (ATL S)
+#EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" tvg-name="CARTOON NETWORK" group-title="KIDS",CARTOON NETWORK
 http://45.228.232.205:16000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="Cartoon.Network.(Latin.America.-.Panregional).HDTV.(TOONHD).[794].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" tvg-name="CARTOON NETWORK (PA)" group-title="KIDS",CARTOON NETWORK (PA)
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" tvg-name="CARTOON NETWORK (MX)" group-title="KIDS",CARTOON NETWORK (MX)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="Tooncast.Latin.America.(TOONC).[310].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png" tvg-name="TOONCAST" group-title="KIDS",TOONCAST
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png" tvg-name="TOONCAST" group-title="KIDS",TOONCAST
 http://45.228.232.219:16000/play/a0mw/index.m3u8
-#EXTINF:-1 tvg-id="Disney.en.Español.(Central.feed/Multi.country).(DISNEY).[306].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel.png" tvg-name="DISNEY CHANNEL" group-title="KIDS",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DisneyChannelCenter.us tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel.png" tvg-name="DISNEY CHANNEL" group-title="KIDS",DISNEY CHANNEL
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4004
-#EXTINF:-1 tvg-id="Nickelodeon.(Latin.America./.Central).(NICK).[307].cr" tvg-chno="" tvg-logo="https://imgur.com/uULnO13.png" tvg-name="NICKELODEON" group-title="KIDS",NICKELODEON
+#EXTINF:-1 tvg-id="nickelodeon_centro" tvg-chno="" tvg-logo="https://imgur.com/uULnO13.png" tvg-name="NICKELODEON" group-title="KIDS",NICKELODEON
 http://170.82.37.21:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="" tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" tvg-name="MONI TV" group-title="KIDS",MONI TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
@@ -434,33 +434,33 @@ https://stmv5.livecastv.com/manualtman/manualtman/chunklist.m3u8
 http://45.228.232.219:16000/play/a0n0/index.m3u8
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(Andes).(E!HD).[811].cr" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" tvg-name="E! ENTERTAINMENT ᴴᴰ" group-title="CULTURA Y ESTILOS",E! ENTERTAINMENT ᴴᴰ
 http://45.5.117.182:8000/play/a0fk/index.m3u8
-#EXTINF:-1 tvg-id="Animal.Planet.(International).(ANIMAL).[505].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica.png" tvg-name="ANIMAL PLANET ˢᴰ| Panreg" group-title="CULTURA Y ESTILOS",ANIMAL PLANET ˢᴰ| Panreg
+#EXTINF:-1 tvg-id="animal_planet_panregional" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica.png" tvg-name="ANIMAL PLANET ˢᴰ| Panreg" group-title="CULTURA Y ESTILOS",ANIMAL PLANET ˢᴰ| Panreg
 http://190.211.102.42:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(International).(APHD).[941].cr" tvg-logo="https://imgur.com/P8OKH9X.png" tvg-name="ANIMAL PLANET ᴴᴰ| Panreg" group-title="CULTURA Y ESTILOS",ANIMAL PLANET ᴴᴰ| Panreg
+#EXTINF:-1 tvg-id="animal_planet_panregional" tvg-logo="https://imgur.com/P8OKH9X.png" tvg-name="ANIMAL PLANET ᴴᴰ| Panreg" group-title="CULTURA Y ESTILOS",ANIMAL PLANET ᴴᴰ| Panreg
 http://138.59.177.34:8000/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(Latin.America).(DCKHD).[940].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" tvg-name="DISCOVERY ˢᴰ| Centro" group-title="CULTURA Y ESTILOS",DISCOVERY ˢᴰ| Centro
+#EXTINF:-1 tvg-id="DiscoveryenEspanol.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" tvg-name="DISCOVERY ˢᴰ| Centro" group-title="CULTURA Y ESTILOS",DISCOVERY ˢᴰ| Centro
 http://181.189.243.217:8000/play/a0sa/index.m3u8
-#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(Latin.America).(DCKHD).[940].cr" tvg-logo="https://imgur.com/c3olpry.png" tvg-name="DISCOVERY ᴴᴰ| Centro" group-title="CULTURA Y ESTILOS",DISCOVERY ᴴᴰ| Centro
+#EXTINF:-1 tvg-id="DiscoveryenEspanol.us" tvg-logo="https://imgur.com/c3olpry.png" tvg-name="DISCOVERY ᴴᴰ| Centro" group-title="CULTURA Y ESTILOS",DISCOVERY ᴴᴰ| Centro
 http://138.59.177.34:8000/play/a077/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" tvg-name="DISCOVERY | Chile" group-title="CULTURA Y ESTILOS",DISCOVERY | Chile
+#EXTINF:-1 tvg-id="DiscoveryChannel.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" tvg-name="DISCOVERY | Chile" group-title="CULTURA Y ESTILOS",DISCOVERY | Chile
 http://190.90.251.194:8921/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="National.Geographic.Channel.HD(Andina./.Colombia).(NGCHD).[942].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" tvg-name="NATIONAL GEOGRAPHIC ˢᴰ| Centro" group-title="CULTURA Y ESTILOS",NATIONAL GEOGRAPHIC ˢᴰ| Centro
+#EXTINF:-1 tvg-id="national_geographic_centro" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" tvg-name="NATIONAL GEOGRAPHIC ˢᴰ| Centro" group-title="CULTURA Y ESTILOS",NATIONAL GEOGRAPHIC ˢᴰ| Centro
 http://181.189.243.217:8000/play/a0pk/index.m3u8
-#EXTINF:-1 tvg-id="National.Geographic.Channel.HD(Andina./.Colombia).(NGCHD).[942].cr" tvg-logo="https://imgur.com/SS2Wkf4.png" tvg-name="NATIONAL GEOGRAPHIC ᴴᴰ| Centro" group-title="CULTURA Y ESTILOS",NATIONAL GEOGRAPHIC ᴴᴰ| Centro
+#EXTINF:-1 tvg-id="national_geographic_centro" tvg-logo="https://imgur.com/SS2Wkf4.png" tvg-name="NATIONAL GEOGRAPHIC ᴴᴰ| Centro" group-title="CULTURA Y ESTILOS",NATIONAL GEOGRAPHIC ᴴᴰ| Centro
 http://45.5.117.182:8000/play/a0jr/index.m3u8
-#EXTINF:-1 tvg-id="Fox.International.(Mexico).(FOX).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" tvg-name="NATIONAL GEOGRAPHIC | Mex" group-title="CULTURA Y ESTILOS",NATIONAL GEOGRAPHIC | Mex
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" tvg-name="NATIONAL GEOGRAPHIC | Mex" group-title="CULTURA Y ESTILOS",NATIONAL GEOGRAPHIC | Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4097
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MKJLPx6C/image.png" tvg-name="NATGEO MUNDO" group-title="CULTURA Y ESTILOS",NATGEO MUNDO
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598.m3u8
-#EXTINF:-1 tvg-id="The.History.Channel.HDTV.(Andes).(THCHD).[857].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png" tvg-name="HISTORY ˢᴰ| Panreg" group-title="CULTURA Y ESTILOS",HISTORY ˢᴰ| Panreg
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png" tvg-name="HISTORY ˢᴰ| Panreg" group-title="CULTURA Y ESTILOS",HISTORY ˢᴰ| Panreg
 http://45.228.232.219:16000/play/a0n5/index.m3u8
-#EXTINF:-1 tvg-id="The.History.Channel.HDTV.(Andes).(THCHD).[857].cr" tvg-logo="https://imgur.com/LoCyEVL.png" tvg-name="HISTORY ᴴᴰ| Panreg" group-title="CULTURA Y ESTILOS",HISTORY ᴴᴰ| Panreg
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://imgur.com/LoCyEVL.png" tvg-name="HISTORY ᴴᴰ| Panreg" group-title="CULTURA Y ESTILOS",HISTORY ᴴᴰ| Panreg
 http://45.5.117.182:8000/play/a0fb/index.m3u8
-#EXTINF:-1 tvg-id="The.History.Channel.HDTV.(THCINHD).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png" tvg-name="HISTORY | Mex" group-title="CULTURA Y ESTILOS",HISTORY | Mex
+#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png" tvg-name="HISTORY | Mex" group-title="CULTURA Y ESTILOS",HISTORY | Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4093
-#EXTINF:-1 tvg-id="History.2.(Latin.America).(H2).[858].cr" tvg-logo="https://upload. wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" tvg-name="H2" group-title="CULTURA Y ESTILOS",H2
+#EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload. wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" tvg-name="H2" group-title="CULTURA Y ESTILOS",H2
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4005
-#EXTINF:-1 tvg-id="History.2.(Latin.America).(H2).do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" tvg-name="H2 *" group-title="CULTURA Y ESTILOS",H2 *
+#EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" tvg-name="H2 *" group-title="CULTURA Y ESTILOS",H2 *
 http://168.181.122.234:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Home.&amp;.Health.(Latin.America).(DH&amp;H).[454].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/100px-Discovery_Home_%26_Health_logo.svg.png" tvg-name="DISCOVERY H&H ˢᴰ" group-title="CULTURA Y ESTILOS",DISCOVERY H&H ˢᴰ
 http://45.228.232.219:16000/play/a0nw/index.m3u8
@@ -468,23 +468,23 @@ http://45.228.232.219:16000/play/a0nw/index.m3u8
 http://45.166.92.22:58001/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(Latin.America).(IDHD).[928].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" tvg-name="DISCOVERY ID" group-title="CULTURA Y ESTILOS",DISCOVERY ID
 http://45.228.232.219:16000/play/a0nx/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.World.HDTV.(Latin.America).(DWORLD).[948].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/100px-World_Discovery_HD_logo.svg.png" tvg-name="DISCOVERY WORLD" group-title="CULTURA Y ESTILOS",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="DiscoveryWorldLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/100px-World_Discovery_HD_logo.svg.png" tvg-name="DISCOVERY WORLD" group-title="CULTURA Y ESTILOS",DISCOVERY WORLD
 http://45.166.92.22:58001/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.Latin.America.SDTV.(Panregional).(HGTVSD).[1042].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/320px-HGTV_US_Logo_2015.svg.png" tvg-name="HGTV" group-title="CULTURA Y ESTILOS",HGTV
 http://168.181.122.234:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.Science.International.(DSCI).[511].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science.png" tvg-name="DISCOVERY SCIENCE" group-title="CULTURA Y ESTILOS",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science.png" tvg-name="DISCOVERY SCIENCE" group-title="CULTURA Y ESTILOS",DISCOVERY SCIENCE
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155818
-#EXTINF:-1 tvg-id="Discovery.Turbo.International.(DTUR).[300].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo.png" tvg-name="DISCOVERY TURBO" group-title="CULTURA Y ESTILOS",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="discovery_turbo_latinoamerica" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo.png" tvg-name="DISCOVERY TURBO" group-title="CULTURA Y ESTILOS",DISCOVERY TURBO
 http://45.228.232.219:16000/play/a0nv/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.Theater.HDTV.(Latin.America).(THEATER).[949].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/100px-2015_Discovery_theater_HD_logo.svg.png" tvg-name="DISCOVERY THEATER" group-title="CULTURA Y ESTILOS",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/100px-2015_Discovery_theater_HD_logo.svg.png" tvg-name="DISCOVERY THEATER" group-title="CULTURA Y ESTILOS",DISCOVERY THEATER
 http://45.228.232.219:16000/play/a0nv/index.m3u8
-#EXTINF:-1 tvg-id="TLC.(Latin.America).(TLC).[455].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlc-mediano.png" tvg-name="TLC" group-title="CULTURA Y ESTILOS",TLC
+#EXTINF:-1 tvg-id="TLCPanregional.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlc-mediano.png" tvg-name="TLC" group-title="CULTURA Y ESTILOS",TLC
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155820
 #EXTINF:-1 tvg-id="Food.Network.HD.(Latin.America).(FOODHD).[938].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png" tvg-name="FOOD NETWORK" group-title="CULTURA Y ESTILOS",FOOD NETWORK
 http://190.90.251.194:8921/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="Más.Chic.TV.International.(MASCHINT).do" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png" tvg-name="MÁS CHIC" group-title="CULTURA Y ESTILOS",MÁS CHIC
+#EXTINF:-1 tvg-id="mas_chic_latinoamerica" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png" tvg-name="MÁS CHIC" group-title="CULTURA Y ESTILOS",MÁS CHIC
 http://190.90.251.194:8921/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="Sun.Channel.TV.(SUNTV).ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sun_channel.png" tvg-name="SUN CHANNEL" group-title="CULTURA Y ESTILOS",SUN CHANNEL
+#EXTINF:-1 tvg-id="sun_channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sun_channel.png" tvg-name="SUN CHANNEL" group-title="CULTURA Y ESTILOS",SUN CHANNEL
 http://190.90.251.194:8921/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/HQxKLlK.png" tvg-name="XTREMA ANIMAL" group-title="CULTURA Y ESTILOS",XTREMA ANIMAL
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
@@ -748,7 +748,7 @@ https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e450
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/520Vm5CR/1548084110290-Imagen.png" tvg-name="CLARO CINEMA" group-title="CINE Y SERIES 1",CLARO CINEMA
 http://45.228.234.41:16000/play/a0b8/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/DZmwY6qw/image.jpg" tvg-name="CANAL CLARO" group-title="CINE Y SERIES 1",CANAL CLARO
+#EXTINF:-1 tvg-id="claro_tv" tvg-logo="https://i.postimg.cc/DZmwY6qw/image.jpg" tvg-name="CANAL CLARO" group-title="CINE Y SERIES 1",CANAL CLARO
 http://45.5.117.182:8000/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/BLYchHK.jpg" tvg-name="VIDEOCLUB TV" group-title="CINE Y SERIES 1",VIDEOCLUB TV
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
@@ -774,17 +774,17 @@ http://45.228.232.219:16000/play/a0m5/index.m3u8
 http://45.5.117.182:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-logo="https://i.imgur.com/YxuMW9e.png" tvg-name="AXN ᴴᴰ| Mex" group-title="CINE Y SERIES 2",AXN ᴴᴰ| Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4038
-#EXTINF:-1 tvg-id="Canal A&amp;E (Costa Rica)" tvg-logo="https://imgur.com/kPZLwTd.png" tvg-name="A&E ˢᴰ| Mex" group-title="CINE Y SERIES 2",A&E ˢᴰ| Mex
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-logo="https://imgur.com/kPZLwTd.png" tvg-name="A&E ˢᴰ| Mex" group-title="CINE Y SERIES 2",A&E ˢᴰ| Mex
 http://45.228.232.219:16000/play/a0n1/index.m3u8
-#EXTINF:-1 tvg-id="A&amp;E.HDTV.(Andes).(A&amp;EHD).[925].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/320px-A%26E_HD.png" tvg-name="A&E ᴴᴰ| Mex" group-title="CINE Y SERIES 2",A&E ᴴᴰ| Mex
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/320px-A%26E_HD.png" tvg-name="A&E ᴴᴰ| Mex" group-title="CINE Y SERIES 2",A&E ᴴᴰ| Mex
 http://167.250.222.35:16000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="Star.International.(Centroamérica).(STARC).[353].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel.png" tvg-name="STAR CHANNELˢᴰ| Centro" group-title="CINE Y SERIES 2",STAR CHANNEL ˢᴰ| Mex
+#EXTINF:-1 tvg-id="star_channel_centro" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel.png" tvg-name="STAR CHANNELˢᴰ| Centro" group-title="CINE Y SERIES 2",STAR CHANNEL ˢᴰ| Mex
 http://138.59.177.34:8000/play/a06d/index.m3u8
-#EXTINF:-1 tvg-id="Star.International.HDTV.(Centroamérica).(STARHD).[814].cr" tvg-logo="https://i.imgur.com/w3kaZtN.png" tvg-name="STAR CHANNEL ᴴᴰ|  Centro" group-title="CINE Y SERIES 2",STAR CHANNEL ᴴᴰ|  Centro
+#EXTINF:-1 tvg-id="star_channel_centro" tvg-logo="https://i.imgur.com/w3kaZtN.png" tvg-name="STAR CHANNEL ᴴᴰ|  Centro" group-title="CINE Y SERIES 2",STAR CHANNEL ᴴᴰ|  Centro
 http://190.211.102.42:8000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-id="FX.Latin.America.(Colombia).(FX).[405].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx.png" tvg-name="FX ˢᴰ| Centro" group-title="CINE Y SERIES 2",FX ˢᴰ| Centro
+#EXTINF:-1 tvg-id="fx_centro" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx.png" tvg-name="FX ˢᴰ| Centro" group-title="CINE Y SERIES 2",FX ˢᴰ| Centro
 http://45.5.117.182:8000/play/a0gb/index.m3u8
-#EXTINF:-1 tvg-id="FX.Latin.America.HDTV.(Colombia).(FXHD).[927].cr" tvg-logo="https://i.postimg.cc/Gpz0dq7k/image.png" tvg-name="FX ᴴᴰ| Centro" group-title="CINE Y SERIES 2",FX ᴴᴰ| Centro
+#EXTINF:-1 tvg-id="fx_centro" tvg-logo="https://i.postimg.cc/Gpz0dq7k/image.png" tvg-name="FX ᴴᴰ| Centro" group-title="CINE Y SERIES 2",FX ᴴᴰ| Centro
 http://138.59.177.34:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="amc_colombia" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica.png" tvg-name="AMC ˢᴰ| COL" group-title="CINE Y SERIES 2",AMC ˢᴰ| COL
 #EXTVLCOPT:network-caching=1000
@@ -792,19 +792,19 @@ http://138.59.177.34:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="amc_colombia" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_espana.png" tvg-name="AMC HD | COL" group-title="CINE Y SERIES 2",AMC ᴴᴰ| COL
 #EXTVLCOPT:network-caching=1000
 http://167.250.222.35:16000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="Universal.Channel.HDTV.(Latin.America).(UNIVSHD).[919].cr" tvg-logo="https://i.postimg.cc/8Cvh3NRc/100px-Universal-TV-logo-svg.png" tvg-name="UNIVERSAL TV ˢᴰ| Panreg" group-title="CINE Y SERIES 2",UNIVERSAL TV ˢᴰ| Panreg
+#EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-logo="https://i.postimg.cc/8Cvh3NRc/100px-Universal-TV-logo-svg.png" tvg-name="UNIVERSAL TV ˢᴰ| Panreg" group-title="CINE Y SERIES 2",UNIVERSAL TV ˢᴰ| Panreg
 http://167.250.222.35:16000/play/a078/index.m3u8
-#EXTINF:-1 tvg-id="Universal.Channel.HDTV.(Latin.America).(UNIVSHD).[919].cr" tvg-logo="https://i.postimg.cc/yYnnX1jz/320px-Universal-TV-HD-svg.png" tvg-name="UNIVERSAL TV ᴴᴰ" group-title="CINE Y SERIES 2",UNIVERSAL TV ᴴᴰ
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-logo="https://i.postimg.cc/yYnnX1jz/320px-Universal-TV-HD-svg.png" tvg-name="UNIVERSAL TV ᴴᴰ" group-title="CINE Y SERIES 2",UNIVERSAL TV ᴴᴰ
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4054
 #EXTINF:-1 tvg-id="Syfy.(Latin.America).(Syfy).[450].cr" tvg-logo="https://i.imgur.com/LT17aKr.png" tvg-name="USA NETWORK LAT ˢᴰ" group-title="CINE Y SERIES 2",USA NETWORK LAT ˢᴰ
 http://190.242.46.20:8000/play/a072/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Series.PAN.HDTV.(TNTSERHD).[929].cr" tvg-logo="https://i.imgur.com/ehqSxfX.png" tvg-name="TNT SERIES ˢᴰ" group-title="CINE Y SERIES 2",TNT SERIES ˢᴰ
+#EXTINF:-1 tvg-id="tnt_series" tvg-logo="https://i.imgur.com/ehqSxfX.png" tvg-name="TNT SERIES ˢᴰ" group-title="CINE Y SERIES 2",TNT SERIES ˢᴰ
 http://45.5.117.182:8000/play/a0ew/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Series.PAN.HDTV.(TNTSERHD).[929].cr" tvg-logo="https://i.imgur.com/ehqSxfX.png" tvg-name="TNT SERIES HD" group-title="CINE Y SERIES 2",TNT SERIES HD
+#EXTINF:-1 tvg-id="tnt_series" tvg-logo="https://i.imgur.com/ehqSxfX.png" tvg-name="TNT SERIES HD" group-title="CINE Y SERIES 2",TNT SERIES HD
 http://138.59.177.34:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-id="Teen.Nick.Global.(Latin.America/Pan-regional).HDTV.(NICK2).do" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teen_nick.png" tvg-name="TEEN NICK" group-title="CINE Y SERIES 2",TEEN NICK
+#EXTINF:-1 tvg-id="TeenNickLatinAmerica.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teen_nick.png" tvg-name="TEEN NICK" group-title="CINE Y SERIES 2",TEEN NICK
 http://138.59.177.34:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="Canal Comedy Central (Costa Rica)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/comedy_central_latinoamerica.png" tvg-name="COMEDY CENTRAL" group-title="CINE Y SERIES 2",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="comedy_central_centro" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/comedy_central_latinoamerica.png" tvg-name="COMEDY CENTRAL" group-title="CINE Y SERIES 2",COMEDY CENTRAL
 http://167.250.222.35:16000/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="truTV.(Latin.America).(truTV).[411].cr" tvg-logo="https://i.postimg.cc/fRWSKZ8H/40a4978a095ccdbf8dd2.png" tvg-name="ADULT SWIN" group-title="CINE Y SERIES 2",ADULT SWIN
 http://138.59.177.34:8000/play/a029/index.m3u8
@@ -812,27 +812,27 @@ http://138.59.177.34:8000/play/a029/index.m3u8
 http://45.5.117.182:8000/play/a0e8/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://i.imgur.com/9Hewf4B.png" tvg-name="HBO | Latam *" group-title="CINE Y SERIES 2",HBO | Latam *
 http://45.228.232.205:16000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="HBO.2.HDTV.(Mexico).(HBO2HD).[821].cr" tvg-logo="https://i.imgur.com/3Q4tkaV.png" tvg-name="HBO 2" group-title="CINE Y SERIES 2",HBO 2
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://i.imgur.com/3Q4tkaV.png" tvg-name="HBO 2" group-title="CINE Y SERIES 2",HBO 2
 http://45.5.117.182:8000/play/a0et/index.m3u8
-#EXTINF:-1 tvg-id="HBO.2.(Mexico).(HBO2).[971].cr" tvg-logo="https://imgur.com/j4ujvFf.png" tvg-name="HBO 2 | HD" group-title="CINE Y SERIES 2",HBO 2 | HD
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://imgur.com/j4ujvFf.png" tvg-name="HBO 2 | HD" group-title="CINE Y SERIES 2",HBO 2 | HD
 http://167.250.222.35:16000/play/a041/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Plus.HDTV.(Mexico).(HBO+HD).[824].cr" tvg-logo="https://i.imgur.com/4ayVFq5.png" tvg-name="HBO PLUS" group-title="CINE Y SERIES 2",HBO PLUS
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://i.imgur.com/4ayVFq5.png" tvg-name="HBO PLUS" group-title="CINE Y SERIES 2",HBO PLUS
 http://45.228.232.205:16000/play/a042/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Plus.HDTV.(Mexico).(HBO+HD).[824].cr" tvg-logo="https://i.imgur.com/4ayVFq5.png" tvg-name="HBO PLUS *" group-title="CINE Y SERIES 2",HBO PLUS *
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://i.imgur.com/4ayVFq5.png" tvg-name="HBO PLUS *" group-title="CINE Y SERIES 2",HBO PLUS *
 http://45.5.117.182:8000/play/a0ea/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Xtreme.HDTV.(Mexico).(HBOXTR).[826].cr" tvg-logo="https://i.imgur.com/DpaLPfB.png" tvg-name="HBO XTREME" group-title="CINE Y SERIES 2",HBO XTREME
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://i.imgur.com/DpaLPfB.png" tvg-name="HBO XTREME" group-title="CINE Y SERIES 2",HBO XTREME
 http://45.228.232.205:16000/play/a08k/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Xtreme.HDTV.(Mexico).(HBOXTR).[826].cr" tvg-logo="https://i.imgur.com/DpaLPfB.png" tvg-name="HBO XTREME *" group-title="CINE Y SERIES 2",HBO XTREME *
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://i.imgur.com/DpaLPfB.png" tvg-name="HBO XTREME *" group-title="CINE Y SERIES 2",HBO XTREME *
 http://167.250.222.35:16000/play/a08k/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Family.HDTV.(Spanish).(HBOFAMHD).[822].cr" tvg-logo="https://i.imgur.com/giJBEBF.png" tvg-name="HBO FAMILY" group-title="CINE Y SERIES 2",HBO FAMILY
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://i.imgur.com/giJBEBF.png" tvg-name="HBO FAMILY" group-title="CINE Y SERIES 2",HBO FAMILY
 http://45.5.117.182:8000/play/a0ec/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Family.HDTV.(Spanish).(HBOFAMHD).[822].cr" tvg-logo="https://i.imgur.com/giJBEBF.png" tvg-name="HBO FAMILY *" group-title="CINE Y SERIES 2",HBO FAMILY *
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://i.imgur.com/giJBEBF.png" tvg-name="HBO FAMILY *" group-title="CINE Y SERIES 2",HBO FAMILY *
 http://167.250.222.35:16000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="HBO.POP.HDTV.(Mexico).(HBOPOP).[975].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop.png" tvg-name="HBO POP" group-title="CINE Y SERIES 2",HBO POP
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop.png" tvg-name="HBO POP" group-title="CINE Y SERIES 2",HBO POP
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/47445
-#EXTINF:-1 tvg-id="HBO.Signature.(Panamerican).(HBOSG).[973].cr" tvg-logo="https://imgur.com/Z9UHOH9.png" tvg-name="HBO SIGNATURE" group-title="CINE Y SERIES 2",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-logo="https://imgur.com/Z9UHOH9.png" tvg-name="HBO SIGNATURE" group-title="CINE Y SERIES 2",HBO SIGNATURE
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/95002
-#EXTINF:-1 tvg-id="HBO.MUNDI.(Mexico).(HBOMUN).[976].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi.png" tvg-name="HBO MUNDI" audio-track="spa" group-title="CINE Y SERIES 2",HBO MUNDI
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi.png" tvg-name="HBO MUNDI" audio-track="spa" group-title="CINE Y SERIES 2",HBO MUNDI
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1143815
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://imgur.com/ay3iZUG.png" tvg-name="CINEMAXt ˢᴰ| Panreg" group-title="CINE Y SERIES 2",CINEMAXt ˢᴰ| Panreg
 http://138.59.177.34:8000/play/a06q/index.m3u8
@@ -842,9 +842,9 @@ http://190.90.251.194:8921/play/a00d/index.m3u8
 http://167.250.222.35:16000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="CinecanalPacific.us" tvg-logo="https://imgur.com/yCoyB0m.png" tvg-name="CINECANAL ᴴᴰ| Pacif" group-title="CINE Y SERIES 2",CINECANAL ᴴᴰ| Pacif
 http://167.250.222.35:16000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="TNTPacific.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica.png" tvg-name="TNT ˢᴰ| Centro" group-title="CINE Y SERIES 2",TNT | Centro
+#EXTINF:-1 tvg-id="tnt_centroamerica_y_caribe" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica.png" tvg-name="TNT ˢᴰ| Centro" group-title="CINE Y SERIES 2",TNT | Centro
 http://45.228.232.205:16000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="TNTPacific.us" tvg-logo="https://i.postimg.cc/kGpqSgFK/320px-TNT-HD.png" tvg-name="TNT ᴴᴰ| Centro" group-title="CINE Y SERIES 2",TNT ᴴᴰ| Centro
+#EXTINF:-1 tvg-id="tnt_centroamerica_y_caribe" tvg-logo="https://i.postimg.cc/kGpqSgFK/320px-TNT-HD.png" tvg-name="TNT ᴴᴰ| Centro" group-title="CINE Y SERIES 2",TNT ᴴᴰ| Centro
 http://138.59.177.34:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://i.imgur.com/jhrQirs.png" tvg-name="SPACE ˢᴰ| Panreg" group-title="CINE Y SERIES 2",SPACE ˢᴰ| Panreg
 http://45.228.232.219:16000/play/a0lx/index.m3u8
@@ -858,33 +858,33 @@ http://45.228.232.205:16000/play/a047/index.m3u8
 http://190.242.46.20:8000/play/a08w/index.m3u8
 #EXTINF:-1 tvg-id="De.PelÃ­cula.(DPELI).[400].cr" tvg-logo="https://imgur.com/mnVhZVy.png" tvg-name="DE PELÍCULA PLUS" group-title="CINE Y SERIES 2",DE PELÍCULA PLUS
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155788
-#EXTINF:-1 tvg-id="TCM.-.Turner.Classic.Movies.(Pan-Regional).(TCMLA).[358].cr" tvg-logo="https://i.imgur.com/K2BsLtn.png" tvg-name="TCM" group-title="CINE Y SERIES 2",TCM
+#EXTINF:-1 tvg-id="TCMPanregional.us" tvg-logo="https://i.imgur.com/K2BsLtn.png" tvg-name="TCM" group-title="CINE Y SERIES 2",TCM
 http://138.59.177.34:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-id="TCM.-.Turner.Classic.Movies.(Pan-Regional).(TCMLA).[358].cr" tvg-logo="https://i.imgur.com/K2BsLtn.png" tvg-name="TCM *" group-title="CINE Y SERIES 2",TCM *
+#EXTINF:-1 tvg-id="TCMPanregional.us" tvg-logo="https://i.imgur.com/K2BsLtn.png" tvg-name="TCM *" group-title="CINE Y SERIES 2",TCM *
 http://45.228.232.205:16000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="Paramount.Network.(Latin.America).(PARAM).[402].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/paramount_channel.png" tvg-name="PARAMOUNT ˢᴰ" group-title="CINE Y SERIES 2",PARAMOUNT ˢᴰ
+#EXTINF:-1 tvg-id="paramount_channel_latinoamerica" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/paramount_channel.png" tvg-name="PARAMOUNT ˢᴰ" group-title="CINE Y SERIES 2",PARAMOUNT ˢᴰ
 http://152.167.4.130:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="Paramount.Network.(Latin.America).(PARAM).[402].cr" tvg-logo="https://imgur.com/49IspET.png" tvg-name="PARAMOUNT ᴴᴰ" group-title="CINE Y SERIES 2",PARAMOUNT ᴴᴰ
+#EXTINF:-1 tvg-id="paramount_channel_latinoamerica" tvg-logo="https://imgur.com/49IspET.png" tvg-name="PARAMOUNT ᴴᴰ" group-title="CINE Y SERIES 2",PARAMOUNT ᴴᴰ
 http://138.59.177.34:8000/play/a075/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime.(Latin.America).(LIFETIME).[453].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png" tvg-name="LIFETIME LATIN AMERICA ˢᴰ" group-title="CINE Y SERIES 2",LIFETIME LATAM ˢᴰ
+#EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png" tvg-name="LIFETIME LATIN AMERICA ˢᴰ" group-title="CINE Y SERIES 2",LIFETIME LATAM ˢᴰ
 http://45.228.232.219:16000/play/a0m1/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime.HDTV.(Latin.America).(LIFETIMEHD).[827].cr" tvg-logo="https://i.postimg.cc/SKWhD1K8/150px-Logo-Lifetime-2020-svg.png" tvg-name="LIFETIME LATIN AMERICA ᴴᴰ" group-title="CINE Y SERIES 2",LIFETIME LATAM ᴴᴰ
+#EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://i.postimg.cc/SKWhD1K8/150px-Logo-Lifetime-2020-svg.png" tvg-name="LIFETIME LATIN AMERICA ᴴᴰ" group-title="CINE Y SERIES 2",LIFETIME LATAM ᴴᴰ
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155873
-#EXTINF:-1 tvg-id="Golden.(Latin.America).(GOLDL).[314].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png" tvg-name="GOLDEN ˢᴰ" group-title="CINE Y SERIES 2",GOLDEN ˢᴰ
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png" tvg-name="GOLDEN ˢᴰ" group-title="CINE Y SERIES 2",GOLDEN ˢᴰ
 http://167.250.222.35:16000/play/a05l/index.m3u8
-#EXTINF:-1 tvg-id="golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png" tvg-name="GOLDEN ᴴᴰ" group-title="CINE Y SERIES 2",GOLDEN ᴴᴰ
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png" tvg-name="GOLDEN ᴴᴰ" group-title="CINE Y SERIES 2",GOLDEN ᴴᴰ
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/95049
-#EXTINF:-1 tvg-id="Golden.Plus.HDTV.(GLDHD).[915].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png" tvg-name="GOLDEN PLUS" group-title="CINE Y SERIES 2",GOLDEN PLUS
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png" tvg-name="GOLDEN PLUS" group-title="CINE Y SERIES 2",GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Golden.Edge.(Panregional).(GLDELA).[401].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" tvg-name="GOLDEN EDGE" group-title="CINE Y SERIES 2",GOLDEN EDGE
+#EXTINF:-1 tvg-id="golden_edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" tvg-name="GOLDEN EDGE" group-title="CINE Y SERIES 2",GOLDEN EDGE
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/181.m3u8
-#EXTINF:-1 tvg-id="Golden.Premier.HD.(GDNPHD).[980].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" tvg-name="GOLDEN PREMIERE 1" group-title="CINE Y SERIES 2",GOLDEN PREMIERE 1
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" tvg-name="GOLDEN PREMIERE 1" group-title="CINE Y SERIES 2",GOLDEN PREMIERE 1
 http://138.59.177.34:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="golden_premier_2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" tvg-name="GOLDEN PREMIERE 2" group-title="CINE Y SERIES 2",GOLDEN PREMIERE 2
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" tvg-name="GOLDEN PREMIERE 2" group-title="CINE Y SERIES 2",GOLDEN PREMIERE 2
 http://138.59.177.34:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="Multipremier.(MULPRE).do" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" tvg-name="MULTIPREMIER" group-title="CINE Y SERIES 2",MULTIPREMIER
 http://168.181.122.234:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="Canal.DHE.HDTV.(DHEHD).do" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe.png" tvg-name="DHE" group-title="CINE Y SERIES 2",DHE
+#EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe.png" tvg-name="DHE" group-title="CINE Y SERIES 2",DHE
 http://167.250.222.35:16000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" tvg-name="UNIVERSAL+ CINEMA" group-title="CINE Y SERIES 2",UNIVERSAL+ CINEMA
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1119206
@@ -904,21 +904,21 @@ http://167.250.222.35:16000/play/a09c/index.m3u8
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1119205
 #EXTINF:-1 tvg-id="UniversalCrimeEast.us" tvg-logo="https://i.imgur.com/hVxy7cE.png" tvg-name="UNIVERSAL+ CRIME" group-title="CINE Y SERIES 2",UNIVERSAL+ CRIME
 http://167.250.222.35:16000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-id="FILM.and.ARTS.(Film.Arts).co" tvg-logo="https://i.postimg.cc/qgVfdbs6/fa-logo.png" tvg-name="FILM & ARTS ˢᴰ" group-title="CINE Y SERIES 2",FILM & ARTS ˢᴰ
+#EXTINF:-1 tvg-id="film_and_arts" tvg-logo="https://i.postimg.cc/qgVfdbs6/fa-logo.png" tvg-name="FILM & ARTS ˢᴰ" group-title="CINE Y SERIES 2",FILM & ARTS ˢᴰ
 http://167.250.222.35:16000/play/a04b/index.m3u8
-#EXTINF:-1 tvg-id="Film&amp;Arts.(Latin.America).(F&amp;A).do" tvg-logo="https://www.filmandarts.tv/theme/assets/fa-logo.png" tvg-name="FILM & ARTS ᴴᴰ" group-title="CINE Y SERIES 2",FILM & ARTS ᴴᴰ
+#EXTINF:-1 tvg-id="film_and_arts" tvg-logo="https://www.filmandarts.tv/theme/assets/fa-logo.png" tvg-name="FILM & ARTS ᴴᴰ" group-title="CINE Y SERIES 2",FILM & ARTS ᴴᴰ
 http://138.59.177.34:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" tvg-name="EUROPA EUROPA" group-title="CINE Y SERIES 2",EUROPA EUROPA
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" tvg-name="EUROPA EUROPA" group-title="CINE Y SERIES 2",EUROPA EUROPA
 http://138.59.177.34:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-id="Eurochannel.(EUROCHN).ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurochannel-mediano.png" tvg-name="EURO CHANNEL" group-title="CINE Y SERIES 2",EURO CHANNEL
+#EXTINF:-1 tvg-id="Eurochannel.uk" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurochannel-mediano.png" tvg-name="EURO CHANNEL" group-title="CINE Y SERIES 2",EURO CHANNEL
 http://45.228.232.219:16000/play/a0kx/index.m3u8
-#EXTINF:-1 tvg-id="I-SAT.(Pan-Regional).(I-SAT).[448].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/100px-I.Sat_logo.svg.png" tvg-name="iSAT" group-title="CINE Y SERIES 2",iSAT
+#EXTINF:-1 tvg-id="i.sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/100px-I.Sat_logo.svg.png" tvg-name="iSAT" group-title="CINE Y SERIES 2",iSAT
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/94995
-#EXTINF:-1 tvg-id="Cine.Latino.(Mexico.City).(CINELA).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino.png" tvg-name="CINE LATINO" group-title="CINE Y SERIES 2",CINE LATINO
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino.png" tvg-name="CINE LATINO" group-title="CINE Y SERIES 2",CINE LATINO
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/94985
 #EXTINF:-1 tvg-id="Cinema.Dinamita.(DINAM)..ec" tvg-logo="https://imgur.com/w4IzEEO.png" tvg-name="CINE DINAMITA" group-title="CINE Y SERIES 2",CINE DINAMITA
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4142
-#EXTINF:-1 tvg-id="MC.(Multicinema).(MC).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mc.png" tvg-name="MC" group-title="CINE Y SERIES 2",MC
+#EXTINF:-1 tvg-id="MC.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mc.png" tvg-name="MC" group-title="CINE Y SERIES 2",MC
 http://138.59.177.34:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRjLJ6HJ/NV-Web-Logo-3-D-20180904-900.png" tvg-name="NUESTRA VISIÓN" group-title="CINE Y SERIES 2",NUESTRA VISIÓN
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
@@ -1087,7 +1087,7 @@ http://138.59.177.34:8000/play/a014/index.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://seeklogo.com/images/F/fuel-tv-logo-3C3716497D-seeklogo.com.png" tvg-name="FUEL TV ESPAÑA" group-title="DEPORTES ESPAÑOL",FUEL TV ESPAÑA
 https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).[210].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golf_channel-mediano.png" tvg-name="GOLF CHANNEL LATINO" group-title="DEPORTES ESPAÑOL",GOLF CHANNEL LATINO
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golf_channel-mediano.png" tvg-name="GOLF CHANNEL LATINO" group-title="DEPORTES ESPAÑOL",GOLF CHANNEL LATINO
 http://167.250.222.35:16000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://graph.facebook.com/deportetotalweb/picture?width=200&height=200" tvg-name="DTV PLAY" group-title="DEPORTES ESPAÑOL",DTV PLAY
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
@@ -1113,11 +1113,11 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/29348
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/M8x0vxr.png" tvg-name="LATIN AMERICA SPORTS" group-title="DEPORTES ESPAÑOL",LATIN AMERICA SPORTS
 http://167.250.222.35:16000/play/a05h/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports.png" tvg-name="TNT SPORTS" group-title="DEPORTES ESPAÑOL",TNT SPORTS
+#EXTINF:-1 tvg-id="tnt_sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports.png" tvg-name="TNT SPORTS" group-title="DEPORTES ESPAÑOL",TNT SPORTS
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1160041
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports.png" tvg-name="TNT SPORTS op2" group-title="DEPORTES ESPAÑOL",TNT SPORTS op2
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155814
-#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-logo="https://imgur.com/L3lAzhM.png" tvg-name="TUDN" group-title="DEPORTES ESPAÑOL",TUDN
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://imgur.com/L3lAzhM.png" tvg-name="TUDN" group-title="DEPORTES ESPAÑOL",TUDN
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156010
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/320px-WinSports2022.png" tvg-name="WIN SPORTS" group-title="DEPORTES ESPAÑOL",WIN SPORTS
 http://190.90.251.194:8921/play/a008/index.m3u8
@@ -1291,7 +1291,7 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
 https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSur.(TELESUR).[984].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/219px-TeleSUR-Logo.svg.png" tvg-name="TELESUR" group-title="NOTICIAS",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Cable.News.Network.en.Español.(Latin.America).(CNNESP).[525].cr" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" tvg-name="CNN ESPAÑOL" group-title="NOTICIAS",CNN ESPAÑOL
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" tvg-name="CNN ESPAÑOL" group-title="NOTICIAS",CNN ESPAÑOL
 http://45.228.232.219:16000/play/a0m8/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/YqCCHGtH/CNN-RESUMEN.png" tvg-name="CNN ESPAÑOL RESUMEN" group-title="NOTICIAS",CNN ESPAÑOL RESUMEN
 https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -1821,9 +1821,9 @@ http://168.227.22.18:1935/live/mobile-114/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-131/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/Nenn6gE.png" tvg-name="8 SANTA ROSA | Gua" group-title="CENTROAMÉRICA",8 SANTA ROSA | Gua
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/FHLrdQ5B/11-de-guatemala-mediano.png" tvg-name="TELEONCE | Gua" group-title="CENTROAMÉRICA",TELEONCE | Gua
+#EXTINF:-1 tvg-id="TeleOnce.gt" tvg-logo="https://i.postimg.cc/FHLrdQ5B/11-de-guatemala-mediano.png" tvg-name="TELEONCE | Gua" group-title="CENTROAMÉRICA",TELEONCE | Gua
 http://138.59.177.34:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imgur.com/8ZeKOB8.png" tvg-name="TRECEVISIÓN | Gua" group-title="CENTROAMÉRICA",TRECEVISIÓN | Gua
+#EXTINF:-1 tvg-id="13_de_guatemala" tvg-logo="https://imgur.com/8ZeKOB8.png" tvg-name="TRECEVISIÓN | Gua" group-title="CENTROAMÉRICA",TRECEVISIÓN | Gua
 http://138.59.177.34:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://graph.facebook.com/canaltvsgt/picture?width=200&height=200" tvg-name="TVS RETRO | Gua" group-title="CENTROAMÉRICA",TVS RETRO | Gua
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -2350,7 +2350,7 @@ https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c2
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678.m3u8
 #EXTINF:-1 tvg-id="XHDF.Ciudad.de.MÃ©xico.(Azteca.Uno).DF.(AZUNO).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" tvg-name="AZTECA UNO *" group-title="NORTEAMERICA",AZTECA UNO *
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155859
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas.png" tvg-name="LAS ESTRELLAS =2h" group-title="NORTEAMERICA",LAS ESTRELLAS =2 h
+#EXTINF:-1 tvg-id="de_las_estrellas_-2h_mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas.png" tvg-name="LAS ESTRELLAS =2h" group-title="NORTEAMERICA",LAS ESTRELLAS =2 h
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas.png" tvg-name="LAS ESTRELLAS LATAM" group-title="NORTEAMERICA",LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
@@ -2360,13 +2360,13 @@ https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/.m3u8
 https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imgur.com/RINZEK6.png" tvg-name="4.3 GTO" group-title="NORTEAMERICA",4.3 GTO
 https://5f1af61612fb5.streamlock.net/tv43/smil:tv43.smil/.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png" tvg-name="CANAL 5 HD" group-title="NORTEAMERICA",CANAL 5 HD
+#EXTINF:-1 tvg-id="5_mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png" tvg-name="CANAL 5 HD" group-title="NORTEAMERICA",CANAL 5 HD
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4028
 #EXTINF:-1 tvg-id="Multimedios.HDTV.(Monterrey).(MMTVHD).[829].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" tvg-name="MULTIMEDIOS MONTERREY" group-title="NORTEAMERICA",MULTIMEDIOS MONTERREY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="Multimedios.(MMTV).[12].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" tvg-name="MULTIMEDIOS CDMX" group-title="NORTEAMERICA",MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7-mediano.png" tvg-name="AZTECA 7" group-title="NORTEAMERICA",AZTECA 7
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7-mediano.png" tvg-name="AZTECA 7" group-title="NORTEAMERICA",AZTECA 7
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4027
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/R0L4qSh.png" tvg-name="RCG" group-title="NORTEAMERICA",RCG
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
