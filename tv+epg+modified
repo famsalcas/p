@@ -758,21 +758,21 @@ http://190.211.250.148:8000/play/a03s
 http://190.211.250.148:8000/play/a03u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/Pq2C4FJG/logo-kids.png" tvg-name="FMH KIDS" group-title="CINE Y SERIES 1",FMH KIDS
 http://190.211.250.148:8000/play/a05d
-#EXTINF:-1 tvg-id="Warner.Channel.HDTV.(Andes).(WARNERHD).[846].cr" tvg-logo="https://i.postimg.cc/FFLMVvg9/100px-Warner-TV-logo-svg.png" tvg-name="WARNER ˢᴰ| Panreg" group-title="CINE Y SERIES 2",WARNER ˢᴰ| Panreg
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-logo="https://i.postimg.cc/FFLMVvg9/100px-Warner-TV-logo-svg.png" tvg-name="WARNER ˢᴰ| Panreg" group-title="CINE Y SERIES 2",WARNER ˢᴰ| Panreg
 http://45.228.232.219:16000/play/a0mz/index.m3u8
-#EXTINF:-1 tvg-id="Warner.Channel.HDTV.(Andes).(WARNERHD).[846].cr" tvg-logo="https://i.postimg.cc/pTYrsXMg/Warner-Channel-HD.webp" tvg-name="WARNER ᴴᴰ| Panreg" group-title="CINE Y SERIES 2",WARNER ᴴᴰ| Panreg
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-logo="https://i.postimg.cc/pTYrsXMg/Warner-Channel-HD.webp" tvg-name="WARNER ᴴᴰ| Panreg" group-title="CINE Y SERIES 2",WARNER ᴴᴰ| Panreg
 http://45.5.117.182:8000/play/a0i2/index.m3u8
-#EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Centro.America.feed).(SONY).[5].cr" tvg-logo="https://i.imgur.com/k0Tz15z.png" tvg-name="SONY ˢᴰ| Centro" group-title="CINE Y SERIES 2",SONY ˢᴰ| Centro
+#EXTINF:-1 tvg-id="sony_centro" tvg-logo="https://i.imgur.com/k0Tz15z.png" tvg-name="SONY ˢᴰ| Centro" group-title="CINE Y SERIES 2",SONY ˢᴰ| Centro
 http://45.228.232.205:16000/play/a06n/index.m3u8
-#EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Centro.America.feed).(SONY).[5].cr" tvg-logo="https://i.postimg.cc/QxqnfdBr/Sony-Channel-HD-2019.png" tvg-name="SONY ᴴᴰ| Centro" group-title="CINE Y SERIES 2",SONY ᴴᴰ| Centro
+#EXTINF:-1 tvg-id="sony_centro" tvg-logo="https://i.postimg.cc/QxqnfdBr/Sony-Channel-HD-2019.png" tvg-name="SONY ᴴᴰ| Centro" group-title="CINE Y SERIES 2",SONY ᴴᴰ| Centro
 http://138.59.177.34:8000/play/a05e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k0Tz15z.png" tvg-name="SONY | Mex" group-title="CINE Y SERIES 2",SONY | Mex
+#EXTINF:-1 tvg-id="SonyChannel.mx" tvg-logo="https://i.imgur.com/k0Tz15z.png" tvg-name="SONY | Mex" group-title="CINE Y SERIES 2",SONY | Mex
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/53.m3u8
-#EXTINF:-1 tvg-id="AXN.(Centroamérica).(AXN).[1040].cr" tvg-logo="https://i.imgur.com/YxuMW9e.png" tvg-name="AXN ˢᴰ| Andes" group-title="CINE Y SERIES 2",AXN ˢᴰ| Andes
+#EXTINF:-1 tvg-id="AXNAndes.us" tvg-logo="https://i.imgur.com/YxuMW9e.png" tvg-name="AXN ˢᴰ| Andes" group-title="CINE Y SERIES 2",AXN ˢᴰ| Andes
 http://45.228.232.219:16000/play/a0m5/index.m3u8
-#EXTINF:-1 tvg-id="AXN.HDTV.(Centroamérica).(AXNHD).[1041].cr" tvg-logo="https://i.postimg.cc/qvDrZLt0/320px-AXN-HD-Logo-2015-svg.png" tvg-name="AXN ᴴᴰ| Andes" group-title="CINE Y SERIES 2",AXN ᴴᴰ| Andes
+#EXTINF:-1 tvg-id="AXNAndes.us" tvg-logo="https://i.postimg.cc/qvDrZLt0/320px-AXN-HD-Logo-2015-svg.png" tvg-name="AXN ᴴᴰ| Andes" group-title="CINE Y SERIES 2",AXN ᴴᴰ| Andes
 http://45.5.117.182:8000/play/a0ji/index.m3u8
-#EXTINF:-1 tvg-id="Canal AXN (Costa Rica)" tvg-logo="https://i.imgur.com/YxuMW9e.png" tvg-name="AXN ᴴᴰ| Mex" group-title="CINE Y SERIES 2",AXN ᴴᴰ| Mex
+#EXTINF:-1 tvg-id="AXN.mx" tvg-logo="https://i.imgur.com/YxuMW9e.png" tvg-name="AXN ᴴᴰ| Mex" group-title="CINE Y SERIES 2",AXN ᴴᴰ| Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4038
 #EXTINF:-1 tvg-id="Canal A&amp;E (Costa Rica)" tvg-logo="https://imgur.com/kPZLwTd.png" tvg-name="A&E ˢᴰ| Mex" group-title="CINE Y SERIES 2",A&E ˢᴰ| Mex
 http://45.228.232.219:16000/play/a0n1/index.m3u8
@@ -786,10 +786,10 @@ http://190.211.102.42:8000/play/a05g/index.m3u8
 http://45.5.117.182:8000/play/a0gb/index.m3u8
 #EXTINF:-1 tvg-id="FX.Latin.America.HDTV.(Colombia).(FXHD).[927].cr" tvg-logo="https://i.postimg.cc/Gpz0dq7k/image.png" tvg-name="FX ᴴᴰ| Centro" group-title="CINE Y SERIES 2",FX ᴴᴰ| Centro
 http://138.59.177.34:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="AMC.HDTV.(Latin.America).(AMCHD).do" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica.png" tvg-name="AMC ˢᴰ| COL" group-title="CINE Y SERIES 2",AMC ˢᴰ| COL
+#EXTINF:-1 tvg-id="amc_colombia" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica.png" tvg-name="AMC ˢᴰ| COL" group-title="CINE Y SERIES 2",AMC ˢᴰ| COL
 #EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="AMC.HDTV.(Latin.America).(AMCHD).do" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_espana.png" tvg-name="AMC HD | COL" group-title="CINE Y SERIES 2",AMC ᴴᴰ| COL
+#EXTINF:-1 tvg-id="amc_colombia" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_espana.png" tvg-name="AMC HD | COL" group-title="CINE Y SERIES 2",AMC ᴴᴰ| COL
 #EXTVLCOPT:network-caching=1000
 http://167.250.222.35:16000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="Universal.Channel.HDTV.(Latin.America).(UNIVSHD).[919].cr" tvg-logo="https://i.postimg.cc/8Cvh3NRc/100px-Universal-TV-logo-svg.png" tvg-name="UNIVERSAL TV ˢᴰ| Panreg" group-title="CINE Y SERIES 2",UNIVERSAL TV ˢᴰ| Panreg
