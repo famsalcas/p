@@ -176,13 +176,13 @@ https://1654596987.rsc.cdn77.org/1654596987/index.m3u8
 #EXTINF:-1 tvg-id="EWTNCanada.ca" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ewtn_en_espanol.png" tvg-name="EWTN CANADA" group-title="VIDA Y RELIGIÓN",EWTN CANADA
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imgur.com/5DQL8Jk.png" tvg-name="DIOS TE VE KIDS" group-title="VIDA Y RELIGIÓN",DIOS TE VE KIDS
-https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+https://stream.oursnetworktv.com/latin/dD10sT3V3K1dS/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imgur.com/TLwCtKS.png" tvg-name="EXTREMA KIDS" group-title="VIDA Y RELIGIÓN",EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://nebula.wsimg.com/d91e26fd5b7be58cdfa0723a323cde1a?AccessKeyId=742D4C102AC2984EB7E6&disposition=0&alloworigin=1" tvg-name="SOLDADITOS DE JESÚS" group-title="VIDA Y RELIGIÓN",SOLDADITOS DE JESÚS
 https://2nbyj587d53k-hls-live.5centscdn.com/13/597b5bed7fd3f225bcaa5c4a0cdc3ff6.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png" tvg-name="DIOS TE VE" group-title="VIDA Y RELIGIÓN",DIOS TE VE
-https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+https://stream.oursnetworktv.com/latin/dD10sT3V3/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/uJqTPsZ.png" tvg-name="MASTER VIDEO PRO" group-title="VIDA Y RELIGIÓN",MASTER VIDEO PRO
 https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTNi.png" tvg-name="CTNI" group-title="VIDA Y RELIGIÓN",CTNI
@@ -208,7 +208,7 @@ https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://graph.facebook.com/naciontvhouston/picture?width=200&height=200" tvg-name="NACIÓN TV" group-title="VIDA Y RELIGIÓN",NACIÓN TV
 https://pop-hls.iptv-global.net/loadbalancer/naciontv.m3u8
 #EXTINF:-1 tvg-id="Cristovision.co" tvg-logo="https://imgur.com/A4xabVd.png" tvg-name="CRISTOVISIÓN" group-title="VIDA Y RELIGIÓN",CRISTOVISIÓN
-https://200084.global.ssl.fastly.net/645471e5135ae1b390e30304/live_1b670730f50211eda79aa3ac0993b16b/tracks-v1a1/mono.m3u8
+https://liveingesta118.cdnmedia.tv/demo1live/smil:rtmp06.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/VKYF66K.png" tvg-name="CBN ESPAÑOL" group-title="VIDA Y RELIGIÓN",CBN ESPAÑOL
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imgur.com/i2wbT1Z.png" tvg-name="LOGOS KIDS" group-title="VIDA Y RELIGIÓN",LOGOS KIDS
@@ -863,7 +863,7 @@ http://138.59.177.34:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="TCM.-.Turner.Classic.Movies.(Pan-Regional).(TCMLA).[358].cr" tvg-logo="https://i.imgur.com/K2BsLtn.png" tvg-name="TCM *" group-title="CINE Y SERIES 2",TCM *
 http://45.228.232.205:16000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="Paramount.Network.(Latin.America).(PARAM).[402].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/paramount_channel.png" tvg-name="PARAMOUNT ˢᴰ" group-title="CINE Y SERIES 2",PARAMOUNT ˢᴰ
-http://152.167.4.130:8000/play/a019/index.m3u8
+http://190.61.55.186:1010/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="Paramount.Network.(Latin.America).(PARAM).[402].cr" tvg-logo="https://imgur.com/49IspET.png" tvg-name="PARAMOUNT ᴴᴰ" group-title="CINE Y SERIES 2",PARAMOUNT ᴴᴰ
 http://138.59.177.34:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.(Latin.America).(LIFETIME).[453].cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png" tvg-name="LIFETIME LATIN AMERICA ˢᴰ" group-title="CINE Y SERIES 2",LIFETIME LATAM ˢᴰ
@@ -877,7 +877,7 @@ http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/95049
 #EXTINF:-1 tvg-id="Golden.Plus.HDTV.(GLDHD).[915].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png" tvg-name="GOLDEN PLUS" group-title="CINE Y SERIES 2",GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden.Edge.(Panregional).(GLDELA).[401].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" tvg-name="GOLDEN EDGE" group-title="CINE Y SERIES 2",GOLDEN EDGE
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/181.m3u8
+http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/95048
 #EXTINF:-1 tvg-id="Golden.Premier.HD.(GDNPHD).[980].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" tvg-name="GOLDEN PREMIERE 1" group-title="CINE Y SERIES 2",GOLDEN PREMIERE 1
 http://138.59.177.34:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="golden_premier_2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" tvg-name="GOLDEN PREMIERE 2" group-title="CINE Y SERIES 2",GOLDEN PREMIERE 2
@@ -989,7 +989,7 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imgur.com/90McOLS.png" tvg-name="FREEBIE TV" group-title="CINE Y SERIES INGLÉS",FREEBIE TV
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" tvg-name="FUTV" group-title="DEPORTES ESPAÑOL",FUTV
-https://m6gdar5eyn93-hls-live.5centscdn.com/FutvStream/a2043e93f9196f2de4487156bc8261f3.sdp/FutvStream/stream24x7live3/chunks.m3u8
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/47854
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" tvg-name="FUTV *" group-title="DEPORTES ESPAÑOL",FUTV *
 #EXTVLCOPT:network-caching=1000
 http://190.149.66.90:4000/play/a04t/index.m3u8
