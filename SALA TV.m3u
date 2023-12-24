@@ -409,8 +409,6 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:-1 tvg-id="ESBC3500001LY" tvg-name="Vivaldi TV" tvg-logo="https://i.postimg.cc/wxJbggz7/vivaldi-logo.png" group-title="CULTURA Y ESTILOS",Vivaldi TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Classical" tvg-logo="https://i.postimg.cc/KcWFsnbt/QWEST-TV-CLASSICAL-300x300.png" group-title="CULTURA Y ESTILOS",Qwest Classical
-https://qwestclassic-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60c8fe07e6a4225c985c8e13_qwestclassic-live/d506ca8b-f7b9-4b76-89bf-c37a19b4a669/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saber M?s" tvg-logo="https://i.postimg.cc/C5vVmRF3/SABER-MAS.png" group-title="CULTURA Y ESTILOS",Saber M?s
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:-1 tvg-id="Elgourmet.com.(Norte).(GOURMT).[983].cr" tvg-name="EL Gourmet" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png" group-title="CULTURA Y ESTILOS",EL Gourmet
@@ -1453,6 +1451,8 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rock TV" tvg-logo="https://i.postimg.cc/k5snZxN3/R.png" group-title="M�SICA",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Ultimate Music Channel" tvg-logo="https://i.imgur.com/bpoe6RB.png" group-title="M�SICA",The Ultimate Music Channel
+https://app.viloud.tv/hls/channel/0694b92d093cc2bd5438ff9bbccaf1a2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V Classic TV" tvg-logo="https://i.imgur.com/iZAzhP3.png" group-title="M�SICA",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1163470321.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Top" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="M�SICA",Music Top
@@ -2935,8 +2935,6 @@ https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8?hdnts=
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MR. Pickles" tvg-logo="https://static.next-episode.net/tv-shows-images/huge/mr.-pickles.jpg" group-title="24-7 ING",MR. Pickles
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT Xxl" tvg-logo="https://i.postimg.cc/v82qnXX6/image.jpg" group-title="XXX",HOT Xxl
-https://ch01.spr24.net/19186/mpegts?token=Ks2SdLkb9WvZ2S
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Miami TV Latino" tvg-logo="https://i.imgur.com/iJX39YI.png" group-title="XXX",Miami TV Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Miami TV" tvg-logo="https://i.imgur.com/eqG1j7o.png" group-title="XXX",Miami TV
@@ -2953,19 +2951,19 @@ http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/38940/hls/pl.m3u8
 http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Barely Legal" tvg-logo="https://imgur.com/6UzqYrV.png" group-title="XXX",Barely Legal
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/23879/hls/pl.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="????? Tb" tvg-logo="https://i.postimg.cc/3x0NbwzK/image.png" group-title="XXX",????? Tb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O-la-la" tvg-logo="https://i.postimg.cc/3x0NbwzK/image.png" group-title="XXX",O-la-la
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/43882/hls/pl.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Russkaya Noch" tvg-logo="https://i.imgur.com/ZqcPaV4.jpg" group-title="XXX",Russkaya Noch
 http://27e10a7c.shukinuki.ru/iptv/CPWYWPECQLUT8X/147/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 18+ International" tvg-logo="https://i.imgur.com/0tKG6eQ.png" group-title="XXX",Кино 18+ International
+https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED Lips" tvg-logo="https://i.postimg.cc/bvXcYYrN/image.png" group-title="XXX",RED Lips
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
 #EXTINF:-1 tvg-id="EroXHD.nl" tvg-name="Erox" tvg-logo="https://i.imgur.com/1EOQFqE.png" group-title="XXX",Erox
-https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+http://94.229.250.73:8008/play/a002
 #EXTINF:-1 tvg-id="EroXXXHD.nl" tvg-name="Eroxxx" tvg-logo="https://i.imgur.com/ZNBLK41.png" group-title="XXX",Eroxxx
-https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
+http://88.135.128.20:7272/urYgd52Dcxp47Ge
 #EXTINF:-1 tvg-id="Playboy.ar" tvg-name="Playboy Latino" tvg-logo="https://imgur.com/GvREfzT.png" group-title="XXX",Playboy Latino
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290309
-#EXTINF:undefined
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Venus.International.(VENUS).[1032].cr" tvg-name="Venus" tvg-logo="https://i.postimg.cc/RCgs8Nvx/100px-Canal-Venus-logo-svg.png" group-title="XXX",Venus
 http://45.228.232.205:16000/play/a05r/index.m3u8
@@ -2979,7 +2977,7 @@ https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
 http://uniplayuhd.cdn23.click:80/45125607/7542264/260420
 #EXTINF:-1 tvg-id="Sextreme.(SEXTR).[962].cr" tvg-name="Sextreme" tvg-logo="https://i.postimg.cc/j55gdbhF/Sextreme.png" group-title="XXX",Sextreme
 http://uniplayuhd.cdn23.click:80/45125607/7542264/260421
-#EXTINF:-1 tvg-id="ext" tvg-name="Sexpriv?" tvg-logo="https://i.postimg.cc/HL1qnv0Y/Sexprive.png" group-title="XXX",Sexpriv?
+#EXTINF:-1 tvg-id="ext" tvg-name="Sexprivé" tvg-logo="https://i.postimg.cc/HL1qnv0Y/Sexprive.png" group-title="XXX",Sexprivé
 http://tv.com.vc:80/amaury/amaury123/967478
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Erotic" tvg-logo="https://imgur.com/tuUKuzI.png" group-title="XXX",Erotic
 http://883011766480431628.of1030ok.xyz:80/play/vi913363/C5aFau8@D4/431628.ts
