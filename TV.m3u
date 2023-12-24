@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="Canal 1 CR#EXTVLCOPT:network-caching=1000" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",Canal 1 CR#EXTVLCOPT:network-caching=1000
 https://video20.klm99.com:3993/hybrid/play.m3u8
 
