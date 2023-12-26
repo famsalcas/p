@@ -6,15 +6,15 @@ https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="COSTA RICA",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/chunklist.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4).[4].cr" tvg-name="RepretelL 4 *" tvg-logo="https://imgur.com/x28zu8f.png" group-title="COSTA RICA",RepretelL 4 *
-https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
+https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/Canal4CR/Canal4CR1/chunks.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4).[4].cr" tvg-name="Rrpretel 4 " tvg-logo="https://imgur.com/x28zu8f.png" group-title="COSTA RICA",Rrpretel 4
 http://45.228.232.219:16000/play/a0mv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Vito TV" tvg-logo="https://imgur.com/xHWQyE6.png" group-title="COSTA RICA",San Vito TV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w500555531.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-logo="https://i.imgur.com/ConA5OP.png" group-title="COSTA RICA",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Repretel.6.HDTV.(CR6HD).[766].cr" tvg-name="Rrpretel 6 " tvg-logo="https://i.imgur.com/Zdmfq9O.png" group-title="COSTA RICA",Rrpretel 6 
-https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Repretel.6.HDTV.(CR6HD).[766].cr" tvg-name="Rrpretel 6 " tvg-logo="https://i.imgur.com/Zdmfq9O.png" group-title="COSTA RICA",Rrpretel 6
+https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.(CR6).[6].cr" tvg-name="RErpretel  6 *" tvg-logo="https://i.imgur.com/1vcQReV.png" group-title="COSTA RICA",RErpretel  6 *
 http://45.228.232.219:16000/play/a0kp/index.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="Teletica " tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",Teletica
@@ -97,7 +97,7 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 https://rtmp.info/trivision36/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV Curr?" tvg-logo="https://i.postimg.cc/vTxSY7Xb/cropped-logo-curre-pajaro-pz.png" group-title="COSTA RICA",TV Curr?
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
-#EXTINF:-1 tvg-id="OPA.cr" tvg-name="?Opa!" tvg-logo="https://imgur.com/QSq6EF8.png" group-title="COSTA RICA",?Opa!
+#EXTINF:-1 tvg-id="OPA.cr" tvg-name="¡Opa!" tvg-logo="https://imgur.com/QSq6EF8.png" group-title="COSTA RICA",¡Opa!
 https://ssh101.bozztv.com/ssh101/opacanal38/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Cabina Radio Fides" tvg-logo="https://i.imgur.com/336WIBj.png" group-title="COSTA RICA",Cabina Radio Fides
 https://rtmp.info/cabinafides/envivo/playlist.m3u8
@@ -157,7 +157,7 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w1522019794
 https://cloudvideo.servers10.com:8081/8146/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CR Prensa" tvg-logo="https://i.imgur.com/cCEQYkQ.jpg" group-title="COSTA RICA",CR Prensa
 https://stmv.streamingvip.click/exitotv/exitotv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ca?as TV" tvg-logo="https://i.imgur.com/BELmZNF.png" group-title="COSTA RICA",Radio Ca?as TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Cañas TV" tvg-logo="https://i.imgur.com/BELmZNF.png" group-title="COSTA RICA",Radio Cañas TV
 https://vdo.panelchs.com:3629/stream/play.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCD" tvg-logo="https://i.imgur.com/frwPudK.png" group-title="COSTA RICA",TCD
 https://hls.robotstreamer.com/tv/5369.m3u8
@@ -2951,14 +2951,14 @@ http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/38940/hls/pl.m3u8
 http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Barely Legal" tvg-logo="https://imgur.com/6UzqYrV.png" group-title="XXX",Barely Legal
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/23879/hls/pl.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O-la-la" tvg-logo="https://i.postimg.cc/3x0NbwzK/image.png" group-title="XXX",O-la-la
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шалун TB" tvg-logo="https://i.postimg.cc/3x0NbwzK/image.png" group-title="XXX",Шалун TB
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/43882/hls/pl.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Russkaya Noch" tvg-logo="https://i.imgur.com/ZqcPaV4.jpg" group-title="XXX",Russkaya Noch
 http://27e10a7c.shukinuki.ru/iptv/CPWYWPECQLUT8X/147/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 18+ International" tvg-logo="https://i.imgur.com/0tKG6eQ.png" group-title="XXX",Кино 18+ International
-https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED Lips" tvg-logo="https://i.postimg.cc/bvXcYYrN/image.png" group-title="XXX",RED Lips
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 18+ International" tvg-logo="https://i.imgur.com/0tKG6eQ.png" group-title="XXX",Кино 18+ International
+https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 tvg-id="EroXHD.nl" tvg-name="Erox" tvg-logo="https://i.imgur.com/1EOQFqE.png" group-title="XXX",Erox
 http://94.229.250.73:8008/play/a002
 #EXTINF:-1 tvg-id="EroXXXHD.nl" tvg-name="Eroxxx" tvg-logo="https://i.imgur.com/ZNBLK41.png" group-title="XXX",Eroxxx
