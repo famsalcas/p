@@ -226,8 +226,7 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monte Mar?a" tvg-logo="https://play-lh.googleusercontent.com/g2g0uTQNsekvn8GQ3DqLYoPtcsUzNz1eO3lB4hItUB-8vyfaE6-x0KxzptKnI03LJg" group-title="RELIGION",Monte Mar?a
 https://616eee1852d6c.streamlock.net/live/myStream/chunklist_w847182700.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Televida" tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/televida-41.jpg" group-title="RELIGION",Televida
-#EXTINF:undefined
-https://liveingesta360.cdnmedia.tv/televidtvlive/rtmp01/chunklist.m3u8?DVR
+http://190.242.46.20:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gracia TV" tvg-logo="https://www.graciatv.com/wp-content/uploads/2020/02/logofoot-01-150x150.png" group-title="RELIGION",Gracia TV
 https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Gracia" tvg-logo="https://tvgracia.com/assets/images/logo-tvgracia-blanco-108x108.png" group-title="RELIGION",TV Gracia
@@ -761,7 +760,7 @@ http://167.250.222.35:16000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="Star.International.(Centroamérica).(STARC).[353].cr" tvg-name="Star Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel.png" group-title="CINE Y SERIES PREMIUM",Star Channel
 http://138.59.177.34:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="Star.International.HDTV.(Centroamérica).(STARHD).[814].cr" tvg-name="Star Channel *" tvg-logo="https://i.imgur.com/w3kaZtN.png" group-title="CINE Y SERIES PREMIUM",Star Channel *
-http://190.211.102.42:8000/play/a05g/index.m3u8
+http://45.5.117.182:8000/play/a0i1/index.m3u8
 #EXTINF:-1 tvg-id="FX.Latin.America.(Colombia).(FX).[405].cr" tvg-name="FX" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx.png" group-title="CINE Y SERIES PREMIUM",FX
 http://45.5.117.182:8000/play/a0gb/index.m3u8
 #EXTINF:-1 tvg-id="FX.Latin.America.HDTV.(Colombia).(FXHD).[927].cr" tvg-name="FX *" tvg-logo="https://i.postimg.cc/Gpz0dq7k/image.png" group-title="CINE Y SERIES PREMIUM",FX *
@@ -777,6 +776,8 @@ http://167.250.222.35:16000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="Universal.Channel.HDTV.(Latin.America).(UNIVSHD).[919].cr" tvg-name="Universal TV *" tvg-logo="https://i.postimg.cc/yYnnX1jz/320px-Universal-TV-HD-svg.png" group-title="CINE Y SERIES PREMIUM",Universal TV *
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4054
 #EXTINF:-1 tvg-id="Syfy.(Latin.America).(Syfy).[450].cr" tvg-name="USA Network LAT" tvg-logo="https://i.imgur.com/LT17aKr.png" group-title="CINE Y SERIES PREMIUM",USA Network LAT
+http://45.5.117.182:8000/play/a0hs/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.(Latin.America).(Syfy).[450].cr" tvg-name="USA Network LAT *" tvg-logo="https://i.imgur.com/LT17aKr.png" group-title="CINE Y SERIES PREMIUM",USA Network LAT *
 http://190.242.46.20:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Series.PAN.HDTV.(TNTSERHD).[929].cr" tvg-name="TNT Series" tvg-logo="https://i.imgur.com/ehqSxfX.png" group-title="CINE Y SERIES PREMIUM",TNT Series
 http://45.5.117.182:8000/play/a0ew/index.m3u8
@@ -977,15 +978,15 @@ http://190.149.66.90:4000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="Futv **" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" group-title="DEPORTES",Futv **#extvlcopt:network-caching=1000
 http://138.59.177.34:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/135px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",FOX Sports 1
-http://190.102.139.244:8900/play/a0xp/index.m3u8
+http://181.129.173.98:8200/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).[800].cr" tvg-name="FOX Sports 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2.png" group-title="DEPORTES",FOX Sports 2
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156756
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX Sports 2 | Sur" tvg-logo="https://imgur.com/YWonf6u.png" group-title="DEPORTES",FOX Sports 2 | Sur
 http://190.216.162.154:8001/play/a08d
-#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Norte).(FOXSP3HD).[801].cr" tvg-name="FOX Sports 3 ??| Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3.png" group-title="DEPORTES",FOX Sports 3 ??| Norte
+#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Norte).(FOXSP3HD).[801].cr" tvg-name="FOX Sports 3" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3.png" group-title="DEPORTES",FOX Sports 3
 http://45.5.117.182:8000/play/a0f0/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Norte).(FOXSP3HD).[801].cr" tvg-name="FOX Sports 3 ??| Norte" tvg-logo="https://i.postimg.cc/q7bTJBPL/Fox-Sports-3-hd.png" group-title="DEPORTES",FOX Sports 3 ??| Norte
-http://45.5.117.182:8000/play/a0jq/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Norte).(FOXSP3HD).[801].cr" tvg-name="FOX Sports 3 *" tvg-logo="https://i.postimg.cc/q7bTJBPL/Fox-Sports-3-hd.png" group-title="DEPORTES",FOX Sports 3 *
+http://181.129.173.98:8200/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).[117].cr" tvg-name="FOX Sports 3 | Sur" tvg-logo="https://imgur.com/ZbsypPY.png" group-title="DEPORTES",FOX Sports 3 | Sur
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/33475
 #EXTINF:-1 tvg-id="ESPN.Centroamérica.(ESPNCA).[1036].cr" tvg-name="Espn 1 ??| Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES",Espn 1 ?? Norte
@@ -1463,7 +1464,7 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio M2o TV" tvg-logo="https://i.ibb.co/K5rFymS/m2o.jpg" group-title="M�SICA",Radio M2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="Telehit.Plus.(TELHITHD).[955].cr" tvg-name="Telehit M?sica Plus" tvg-logo="https://i.imgur.com/lQQLzjw.png" group-title="M�SICA",Telehit M?sica Plus
-http://37.49.225.197:8080/babar2020ex/VNa0XAfDUbh6T8Mn/298067
+http://190.242.46.20:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-id="HTV.Música.(HTV).[614].cr" tvg-name="H TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/htv.png" group-title="M�SICA",H TV
 http://190.90.251.194:8921/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonus Fm" tvg-logo="https://imgur.com/Jcndj2f.png" group-title="M�SICA",Sonus Fm
@@ -1475,7 +1476,7 @@ http://190.149.66.90:4000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="MTV.&apos;00s.HDTV.Latin.America.(North).(MTVLAHD).[957].cr" tvg-name="MTV 00s HD" tvg-logo="https://imgur.com/UI5dWxu.png" group-title="M�SICA",MTV 00s HD
 http://138.59.177.34:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Hits" tvg-logo="https://i.postimg.cc/mgckyWgc/253px-MTV-Hits-2021-svg.png" group-title="M�SICA",MTV Hits
-http://190.211.102.42:8000/play/a023/index.m3u8
+http://45.5.117.182:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Live" tvg-logo="https://imgur.com/cggCHeu.png" group-title="M�SICA",MTV Live
 http://138.59.177.34:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="MTV.80s.(North.America).(MTV80).[613].cr" tvg-name="MTV 80s" tvg-logo="https://imgur.com/fNBYRYX.png" group-title="M�SICA",MTV 80s
