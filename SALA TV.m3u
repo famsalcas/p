@@ -98,7 +98,7 @@ https://rtmp.info/trivision36/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV Curré" tvg-logo="https://i.postimg.cc/vTxSY7Xb/cropped-logo-curre-pajaro-pz.png" group-title="COSTA RICA",TV Curré
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 #EXTINF:-1 tvg-id="OPA.cr" tvg-name="¡Opa!" tvg-logo="https://imgur.com/QSq6EF8.png" group-title="COSTA RICA",¡Opa!
-https://ssh101.bozztv.com/ssh101/opacanal38/chunks.m3u8
+https://opa.usastreams.com:3101/live/canalopalive.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Cabina Radio Fides" tvg-logo="https://i.imgur.com/336WIBj.png" group-title="COSTA RICA",Cabina Radio Fides
 https://rtmp.info/cabinafides/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San José TV" tvg-logo="https://i.imgur.com/rOylu0Z.jpg" group-title="COSTA RICA",San José TV
