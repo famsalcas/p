@@ -46,9 +46,10 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w2004455276.m3u8
 #EXTINF:-1 tvg-id="VintageMusic.cr" tvg-name="Vintage Music TV" tvg-logo="https://i.imgur.com/P0VqQ8M.jpg" group-title="COSTA RICA",Vintage Music TV
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD).[986].cr" tvg-name="SINART" tvg-logo="https://imgur.com/NwgE9MX.png" group-title="COSTA RICA",SINART
-http://201.222.44.219:4226/play/a04e/index.m3u8
+http://167.250.222.35:16000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD).[986].cr" tvg-name="SINART *" tvg-logo="https://imgur.com/NwgE9MX.png" group-title="COSTA RICA",SINART *
 http://138.59.177.34:8000/play/a01d/index.m3u8
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTgzjL8HKrOJ0RK5QB6hTae5WbOPTqdcsT9D9RNpkN7l)/dm/3/x7vh8g3/d/live-2.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV SUR 14" tvg-logo="https://imgur.com/qRHwm2C.png" group-title="COSTA RICA",TV SUR 14
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN.Coopelesca.(TVNCOP).[853].cr" tvg-name="TV Norte 14" tvg-logo="https://imgur.com/1qAWcy3.png" group-title="COSTA RICA",TV Norte 14
@@ -98,7 +99,7 @@ https://rtmp.info/trivision36/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV Curré" tvg-logo="https://i.postimg.cc/vTxSY7Xb/cropped-logo-curre-pajaro-pz.png" group-title="COSTA RICA",TV Curré
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 #EXTINF:-1 tvg-id="OPA.cr" tvg-name="¡Opa!" tvg-logo="https://imgur.com/QSq6EF8.png" group-title="COSTA RICA",¡Opa!
-https://opa.usastreams.com:3101/live/canalopalive.m3u8
+https://opa.usastreams.com:3101/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Cabina Radio Fides" tvg-logo="https://i.imgur.com/336WIBj.png" group-title="COSTA RICA",Cabina Radio Fides
 https://rtmp.info/cabinafides/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San José TV" tvg-logo="https://i.imgur.com/rOylu0Z.jpg" group-title="COSTA RICA",San José TV
@@ -163,6 +164,8 @@ https://vdo.panelchs.com:3629/stream/play.m3u8
 https://hls.robotstreamer.com/tv/5369.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luz Naciente" tvg-logo="https://i.postimg.cc/XJ4rPn5P/0b6120300d383e9eff5f6256ce194bbc-844x844-fit.png" group-title="COSTA RICA",Luz Naciente
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stay TV" tvg-logo="https://i.imgur.com/f0w9WGP.png" group-title="COSTA RICA",Stay TV
+https://video.misistemareseller.com/staytv/staytv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elite TV" tvg-logo="https://i.imgur.com/GTbSKZU.png" group-title="COSTA RICA",Elite TV
 https://62fc643fbf1aa.streamlock.net/elitetv/elitetv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bethel Costa Rica" tvg-logo="https://i.postimg.cc/fymS29C1/logo-2dbethel.png" group-title="COSTA RICA",Bethel Costa Rica
@@ -727,7 +730,7 @@ https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3 Series" tvg-logo="https://imgur.com/qPZgZ7d.png" group-title="CINE Y SERIES",A3 Series
 http://190.102.139.244:8900/play/a0n4/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3 Cl?sicos" tvg-logo="https://i.imgur.com/OmtVSc1.jpg" group-title="CINE Y SERIES",A3 Cl?sicos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3 Clásicos" tvg-logo="https://i.imgur.com/OmtVSc1.jpg" group-title="CINE Y SERIES",A3 Clásicos
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3 Comedia" tvg-logo="https://i.imgur.com/OmtVSc1.jpg" group-title="CINE Y SERIES",A3 Comedia
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
@@ -737,6 +740,12 @@ http://45.228.234.41:16000/play/a0b8/index.m3u8
 http://45.5.117.182:8000/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Videoclub TV" tvg-logo="https://i.imgur.com/BLYchHK.jpg" group-title="CINE Y SERIES",Videoclub TV
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH Kids" tvg-logo="https://i.imgur.com/rGpkbOY.png" group-title="CINE Y SERIES",FMH Kids
+http://45.181.121.194:8000/play/a019
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH Family" tvg-logo="https://i.imgur.com/ps70CuI.png" group-title="CINE Y SERIES",FMH Family
+http://190.110.109.104:52321/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH Movies" tvg-logo="https://i.imgur.com/e8UCKi3.png" group-title="CINE Y SERIES",FMH Movies
+http://190.110.109.104:52321/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="Warner.Channel.HDTV.(Andes).(WARNERHD).[846].cr" tvg-name="Warner" tvg-logo="https://i.postimg.cc/FFLMVvg9/100px-Warner-TV-logo-svg.png" group-title="CINE Y SERIES PREMIUM",Warner
 http://45.228.232.219:16000/play/a0mz/index.m3u8
 #EXTINF:-1 tvg-id="Warner.Channel.HDTV.(Andes).(WARNERHD).[846].cr" tvg-name="Warner *" tvg-logo="https://i.postimg.cc/pTYrsXMg/Warner-Channel-HD.webp" group-title="CINE Y SERIES PREMIUM",Warner *
@@ -751,7 +760,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/53.m3u8
 http://45.228.232.219:16000/play/a0m5/index.m3u8
 #EXTINF:-1 tvg-id="AXN.HDTV.(Centroamérica).(AXNHD).[1041].cr" tvg-name="AXN *" tvg-logo="https://i.postimg.cc/qvDrZLt0/320px-AXN-HD-Logo-2015-svg.png" group-title="CINE Y SERIES PREMIUM",AXN *
 http://45.5.117.182:8000/play/a0ji/index.m3u8
-#EXTINF:-1 tvg-id="Canal AXN (Costa Rica)" tvg-name="AXN ??| Mex" tvg-logo="https://i.imgur.com/YxuMW9e.png" group-title="CINE Y SERIES PREMIUM",AXN ??| Mex
+#EXTINF:-1 tvg-id="Canal AXN (Costa Rica)" tvg-name="AXN | Mex" tvg-logo="https://i.imgur.com/YxuMW9e.png" group-title="CINE Y SERIES PREMIUM",AXN | Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4038
 #EXTINF:-1 tvg-id="Canal A&amp;E (Costa Rica)" tvg-name="A&E" tvg-logo="https://imgur.com/kPZLwTd.png" group-title="CINE Y SERIES PREMIUM",A&E
 http://45.228.232.219:16000/play/a0n1/index.m3u8
@@ -2987,7 +2996,7 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/18053/inde
 #EXTINF:-1 tvg-id="PrivateTV.nl" tvg-name="Private HD" tvg-logo="https://i.postimg.cc/VkqHK46D/PRIVATE-TV.png" group-title="XXX",Private HD
 https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Redlight" tvg-logo="https://i.postimg.cc/MHBhqw68/Redlight-HD.png" group-title="XXX",Redlight
-http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/90254/hls/pl.m3u8
+https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Hustler.HD.(Dish).(HUSLRH).us" tvg-name="Hustler HD" tvg-logo="https://i.postimg.cc/NfrnHQwh/HUSTLER-TV-HD.png" group-title="XXX",Hustler HD
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/47989
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT" tvg-logo="https://imgur.com/RzaggSV.png" group-title="XXX",HOT
