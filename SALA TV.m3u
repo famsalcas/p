@@ -46,10 +46,9 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w2004455276.m3u8
 #EXTINF:-1 tvg-id="VintageMusic.cr" tvg-name="Vintage Music TV" tvg-logo="https://i.imgur.com/P0VqQ8M.jpg" group-title="COSTA RICA",Vintage Music TV
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD).[986].cr" tvg-name="SINART" tvg-logo="https://imgur.com/NwgE9MX.png" group-title="COSTA RICA",SINART
-http://167.250.222.35:16000/play/a03q/index.m3u8
+http://131.161.53.2:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD).[986].cr" tvg-name="SINART *" tvg-logo="https://imgur.com/NwgE9MX.png" group-title="COSTA RICA",SINART *
-http://138.59.177.34:8000/play/a01d/index.m3u8
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTgzjL8HKrOJ0RK5QB6hTae5WbOPTqdcsT9D9RNpkN7l)/dm/3/x7vh8g3/d/live-2.m3u8#cell=lnyc
+http://45.228.232.205:16000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV SUR 14" tvg-logo="https://imgur.com/qRHwm2C.png" group-title="COSTA RICA",TV SUR 14
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN.Coopelesca.(TVNCOP).[853].cr" tvg-name="TV Norte 14" tvg-logo="https://imgur.com/1qAWcy3.png" group-title="COSTA RICA",TV Norte 14
@@ -98,7 +97,8 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 https://rtmp.info/trivision36/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV Curré" tvg-logo="https://i.postimg.cc/vTxSY7Xb/cropped-logo-curre-pajaro-pz.png" group-title="COSTA RICA",TV Curré
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
-#EXTINF:-1 tvg-id="OPA.cr" tvg-name="¡Opa!" tvg-logo="https://imgur.com/QSq6EF8.png" group-title="COSTA RICA",¡Opa!
+#EXTINF:-1 tvg-id="OPA.cr" tvg-name="¡Opa!" tvg-logo="https://imgur.com/QSq6EF8.png" group-title="COSTA RICA" user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0,¡Opa!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://opa.usastreams.com:3101/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Cabina Radio Fides" tvg-logo="https://i.imgur.com/336WIBj.png" group-title="COSTA RICA",Cabina Radio Fides
 https://rtmp.info/cabinafides/envivo/playlist.m3u8
