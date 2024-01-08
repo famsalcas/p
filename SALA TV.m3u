@@ -775,7 +775,7 @@ http://138.59.177.34:8000/play/a06d/index.m3u8
 http://45.5.117.182:8000/play/a0i1/index.m3u8
 #EXTINF:-1 tvg-id="FX.Latin.America.(Colombia).(FX).[405].cr" tvg-name="FX" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx.png" group-title="CINE Y SERIES PREMIUM",FX
 http://45.5.117.182:8000/play/a0gb/index.m3u8
-#EXTINF:-1 tvg-id="FX.Latin.America.HDTV.(Colombia).(FXHD).[927].cr" tvg-name="FX *" tvg-logo="https://i.postimg.cc/Gpz0dq7k/image.png" group-title="CINE Y SERIES PREMIUM",FX *
+#EXTINF:-1 tvg-id="FX.Latin.America.HDTV.(Colombia).(FXHD).[927].cr" tvg-name="FX *" tvg-logo="https://i.imgur.com/lwso2Xh.png" group-title="CINE Y SERIES PREMIUM",FX *
 http://138.59.177.34:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="AMC.HDTV.(Latin.America).(AMCHD).do" tvg-name="AMC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica.png" group-title="CINE Y SERIES PREMIUM",AMC
 #EXTVLCOPT:network-caching=1000
@@ -829,7 +829,8 @@ http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/95002
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1143815
 #EXTINF:-1 tvg-id="Cinemax.(Panamerican).(CINEMAXE).[352].cr" tvg-name="Cinemax" tvg-logo="https://imgur.com/ay3iZUG.png" group-title="CINE Y SERIES PREMIUM" audio-track="es",Cinemax
 http://138.59.177.34:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.HDTV.(Panamerican).(CINEMAXE).[795].cr" tvg-name="CINEMAX *" tvg-logo="https://i.postimg.cc/mkx1ZNCB/320px-Cinemax-LA.png" group-title="CINE Y SERIES PREMIUM" audio-track="es",Cinemax *
+#EXTINF:-1 tvg-id="Cinemax.HDTV.(Panamerican).(CINEMAXE).[795].cr" tvg-name="CINEMAX *" tvg-logo="https://i.postimg.cc/mkx1ZNCB/320px-Cinemax-LA.png" group-title="CINE Y SERIES PREMIUM",Cinemax *
+#EXTVLCOPT:audio-track=2
 http://190.90.251.194:8921/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.(Latin.America).(CINEC).[791].cr" tvg-name="Cinecanal" tvg-logo="https://imgur.com/yCoyB0m.png" group-title="CINE Y SERIES PREMIUM",Cinecanal
 http://167.250.222.35:16000/play/a06o/index.m3u8
@@ -838,7 +839,8 @@ http://45.5.117.182:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Latin.America.(Pan-Regional).(TNT).[359].cr" tvg-name="TNT" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica.png" group-title="CINE Y SERIES PREMIUM",TNT
 http://45.228.232.205:16000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Latin.America.HDTV.(Pan-Regional).(TNTHD).[923].cr" tvg-name="TNT *" tvg-logo="https://i.postimg.cc/kGpqSgFK/320px-TNT-HD.png" group-title="CINE Y SERIES PREMIUM",TNT *
-http://138.59.177.34:8000/play/a05l/index.m3u8
+#EXTVLCOPT:audio-track=2
+http://201.222.44.219:4226/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="Space.(Panamericano).(SPACE).[357].cr" tvg-name="Space" tvg-logo="https://i.imgur.com/jhrQirs.png" group-title="CINE Y SERIES PREMIUM",Space
 http://45.228.232.219:16000/play/a0lx/index.m3u8
 #EXTINF:-1 tvg-id="Space.HDTV.(Panamericano).(SPACEHD).[922].cr" tvg-name="Space *" tvg-logo="https://cdn.mitvstatic.com/channels/br_space-hd_m.png" group-title="CINE Y SERIES PREMIUM",Space *
@@ -3008,7 +3010,7 @@ https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/47989
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT" tvg-logo="https://imgur.com/RzaggSV.png" group-title="XXX",HOT
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6275/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SuperOne" tvg-logo="https://i.postimg.cc/T2mTjdh3/Super-One-2020-n-v.png" group-title="XXX",SuperOne
+#EXTINF:-1 tvg-id="ext" tvg-name="SuperOne" tvg-logo="https://i.imgur.com/iLghsJI.png" group-title="XXX",SuperOne
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12121/index.m3u8
 #EXTINF:-1 tvg-id="PenthouseGold.us" tvg-name="Penthouse Gold" tvg-logo="https://i.postimg.cc/QddYFVsh/image.png" group-title="XXX",Penthouse Gold
 http://51.159.102.100/PenthouseGold/index.m3u8
@@ -3022,9 +3024,9 @@ http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/37449/hls/pl.m3u8
 http://uniplayuhd.cdn23.click:80/45125607/7542264/260454
 #EXTINF:-1 tvg-id="ext" tvg-name="HOT Guys Fuck" tvg-logo="https://imgur.com/R1pCh5p.png" group-title="XXX",HOT Guys Fuck
 http://mn.appserv19.xyz:2095/Xplus-1-6YMlqYoGAq/GP2pZowW4o/663
-#EXTINF:-1 tvg-id="ext" tvg-name="XY Max" tvg-logo="https://i.imgur.com/goyWQbG.png" group-title="XXX",XY Max
+#EXTINF:-1 tvg-id="ext" tvg-name="XY Max" tvg-logo="https://i.imgur.com/BgVLSOR.png" group-title="XXX",XY Max
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6286/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XY Mix" tvg-logo="https://i.postimg.cc/Pqpfyg40/image.png" group-title="XXX",XY Mix
+#EXTINF:-1 tvg-id="ext" tvg-name="XY Mix" tvg-logo="https://i.imgur.com/ndADAjz.png" group-title="XXX",XY Mix
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6287/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="XY Plus" tvg-logo="https://i.imgur.com/O6Adh0T.png" group-title="XXX",XY Plus
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12118/index.m3u8
@@ -3048,31 +3050,31 @@ http://23.237.100.82:8000/BRAZZERS/index.m3u8
 http://mn.appserv19.xyz:2095/Xplus-1-zCsFdHbJ1C/3sH6i7hsGb/661
 #EXTINF:-1 tvg-id="ealityKings.ero" tvg-name="Reality Kings" tvg-logo="https://i.postimg.cc/sD2731FT/image.png" group-title="XXX",Reality Kings
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6247/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Exxxotica TV" tvg-logo="https://i.postimg.cc/15WsDzdn/exxxotica.png" group-title="XXX",Exxxotica TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Exxxotica TV" tvg-logo="https://i.imgur.com/vz5SiL6.png" group-title="XXX",Exxxotica TV
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2397/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Evil Angel" tvg-logo="https://i.postimg.cc/fyPZn2m7/Evil-Angel-Logo.png" group-title="XXX",Evil Angel
+#EXTINF:-1 tvg-id="ext" tvg-name="Evil Angel" tvg-logo="https://i.imgur.com/3pi5E95.png" group-title="XXX",Evil Angel
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6199/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Naughty America" tvg-logo="https://i.postimg.cc/9MwVMks0/Naughty-America-horizontal-transparent.png" group-title="XXX",Naugthy America
+#EXTINF:-1 tvg-id="ext" tvg-name="Naughty America" tvg-logo="https://i.imgur.com/S6gM1ct.png" group-title="XXX",Naugthy America
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6237/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Team Skeet" tvg-logo="https://i.imgur.com/tmFAc9Z.jpg" group-title="XXX",Team Skeet
 http://uniplayuhd.cdn23.click:80/45125607/7542264/260451
-#EXTINF:-1 tvg-id="ext" tvg-name="Vixen" tvg-logo="https://imgur.com/sUIqFe9.png" group-title="XXX",Vixen
+#EXTINF:-1 tvg-id="ext" tvg-name="Vixen" tvg-logo="https://i.imgur.com/cLyA2pj.png" group-title="XXX",Vixen
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6265/index.m3u8
-#EXTINF:-1 tvg-id="Fastboyz HD" tvg-name="Fastboyz" tvg-logo="https://imgur.com/FPNmoqJ.png" group-title="XXX",Fastboyz
-https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="Fastboyz HD" tvg-name="Fastboyz" tvg-logo="https://i.imgur.com/sv1ka8H.png" group-title="XXX",Fastboyz
+http://tv.com.vc:80/vitor1/vitor123/967477
 #EXTINF:-1 tvg-id="ext" tvg-name="CUM 4K" tvg-logo="https://imgur.com/ttjDQIu.png" group-title="XXX",CUM 4K
 http://uniplayuhd.cdn23.click:80/45125607/7542264/260446
 #EXTINF:-1 tvg-id="X-MO.ero" tvg-name="XMO" tvg-logo="https://i.postimg.cc/c1TT8kWx/x-mo-logo-01-2-400x400.png" group-title="XXX",XMO
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6285/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Dusk" tvg-logo="https://i.imgur.com/sp11ynr.png" group-title="XXX",Dusk
+#EXTINF:-1 tvg-id="ext" tvg-name="Dusk" tvg-logo="https://i.imgur.com/6kXAxdL.png" group-title="XXX",Dusk
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Adult Time" tvg-logo="https://i.postimg.cc/nVmqr6nK/2428291187-1593640700-large.png" group-title="XXX",Adult Time
+#EXTINF:-1 tvg-id="ext" tvg-name="Adult Time" tvg-logo="https://i.imgur.com/4I4TCKe.png" group-title="XXX",Adult Time
 http://uniplayuhd.cdn23.click:80/45125607/7542264/260449
 #EXTINF:-1 tvg-id="LeoTV.ero" tvg-name="LEO TV" tvg-logo="https://imgur.com/qIeRKfP.png" group-title="XXX",LEO TV
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6272/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Alba Xxx" tvg-logo="https://imgur.com/t7oymz9.png" group-title="XXX",Alba Xxx
+#EXTINF:-1 tvg-id="ext" tvg-name="Alba Xxx" tvg-logo="https://i.imgur.com/X0wrQjc.png" group-title="XXX",Alba Xxx
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12105/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="21sextury" tvg-logo="https://imgur.com/L3gXQLi.png" group-title="XXX",21sextury
+#EXTINF:-1 tvg-id="ext" tvg-name="21sextury" tvg-logo="https://i.imgur.com/7bot3oG.png" group-title="XXX",21sextury
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12205/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="PornBox 1" tvg-logo="https://i.imgur.com/1bLwuuQ.png" group-title="XXX",PornBox 1
 http://uniplayuhd.cdn23.click:80/45125607/7542264/260429
@@ -3082,29 +3084,31 @@ http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 http://uniplayuhd.cdn23.click:80/45125607/7542264/260426
 #EXTINF:-1 tvg-id="ext" tvg-name="Hardx" tvg-logo="https://i.postimg.cc/3NN7JnqF/100px-Hard-X-logo-svg.png" group-title="XXX",Hardx
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6218/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Private TV" tvg-logo="https://i.postimg.cc/tCx1WgPm/Private-Media-Group-Logo.png" group-title="XXX",Private TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Private TV" tvg-logo="https://i.imgur.com/NO0xd8p.png" group-title="XXX",Private TV
 http://23.237.100.82:8000/HUSTLER/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="FAP TV" tvg-logo="https://i.postimg.cc/FRjyHzbV/image.png" group-title="XXX",FAP TV
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV" tvg-logo="https://i.imgur.com/RkqnQFa.png" group-title="XXX",FAP TV
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6203/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Passion XXX" tvg-logo="https://i.imgur.com/4eZLU27.png" group-title="XXX",Passion XXX
+#EXTINF:-1 tvg-id="" tvg-name="Passion XXX" tvg-logo="https://i.imgur.com/4eZLU27.png" group-title="XXX",Passion XXX
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Tiny4K" tvg-logo="https://i.imgur.com/0jMyttK.png" group-title="XXX",Tiny4k
+#EXTINF:-1 tvg-id="" tvg-name="Tiny4K" tvg-logo="https://i.imgur.com/0jMyttK.png" group-title="XXX",Tiny4k
 http://hardcoremedia.xyz:80/FightEat23/6273034998/29659
+#EXTINF:-1 tvg-id="" tvg-name="Cartoons +18" tvg-logo="https://i.imgur.com/YaM3Edp.png" group-title="XXX",Cartoons +18
+http://hardcoremedia.xyz:80/FightEat23/6273034998/28892
 #EXTINF:-1 tvg-id="" tvg-name="Adult Cinema 1" tvg-logo="https://i.imgur.com/qoCGkO8.png" group-title="XXX",Adult Cinema 1
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/29047/hls/pl.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-name="Adultiptv.net Anal" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",Adultiptv.net Anal
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-name="Adultiptv.net Anal" tvg-logo="https://i.imgur.com/lRjteCy.png" group-title="XXX",Adultiptv.net Anal
 https://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-name="Adultiptv.net Asian" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",Adultiptv.net Asian
 https://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-name="Adultiptv.net Big Ass" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",Adultiptv.net Big Ass
 https://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-name="Adultiptv.net Big Dick" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",Adultiptv.net Big Dick
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-name="Adultiptv.net Big Dick" tvg-logo="https://i.imgur.com/sw9wV5x.png" group-title="XXX",Adultiptv.net Big Dick
 https://cdn.adultiptv.net/bigdick.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-name="Adultiptv.net Big Tits" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",Adultiptv.net Big Tits
 https://cdn.adultiptv.net/bigtits.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-name="Adultiptv.net Blonde" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",Adultiptv.net Blonde
 https://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-name="Adultiptv.net Blowjob" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",Adultiptv.net Blowjob
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-name="Adultiptv.net Blowjob" tvg-logo="https://i.imgur.com/ehjDL24.png" group-title="XXX",Adultiptv.net Blowjob
 https://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-name="Adultiptv.net Brunette" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",Adultiptv.net Brunette
 https://cdn.adultiptv.net/brunette.m3u8
@@ -3116,7 +3120,9 @@ https://cdn.adultiptv.net/cuckold.m3u8
 https://cdn.adultiptv.net/fetish.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-name="Adultiptv.net Gangbang" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",Adultiptv.net Gangbang
 https://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-name="Adultiptv.net Hardcore" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",Adultiptv.net Hardcore
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-name="Adultiptv.net Gay" tvg-logo="https://i.imgur.com/6yg1V7y.png" group-title="XXX",Adultiptv.net Gay
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-name="Adultiptv.net Hardcore" tvg-logo="https://i.imgur.com/HUARn9G.png" group-title="XXX",Adultiptv.net Hardcore
 https://cdn.adultiptv.net/hardcore.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-name="Adultiptv.net Interracial" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",Adultiptv.net Interracial
 https://cdn.adultiptv.net/interracial.m3u
