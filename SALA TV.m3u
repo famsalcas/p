@@ -93,7 +93,7 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 https://stream8.mexiserver.com:1936/metaversuscr/metaversuscr/chunklist_w1199551126.m3u8
 #EXTINF:-1 tvg-id="Limón.TV.(LIMON).[111].cr" tvg-name="Limón TV" tvg-logo="https://imgur.com/MmBpGZj.png" group-title="COSTA RICA",Limón TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Anexión.TV.(ANEX).[981].cr" tvg-name="Trivisi?n" tvg-logo="https://imgur.com/GsKOXX9.png" group-title="COSTA RICA",Trivisi?n
+#EXTINF:-1 tvg-id="Anexión.TV.(ANEX).[981].cr" tvg-name="Trivisión" tvg-logo="https://imgur.com/GsKOXX9.png" group-title="COSTA RICA",Trivisión
 https://rtmp.info/trivision36/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV Curré" tvg-logo="https://i.postimg.cc/vTxSY7Xb/cropped-logo-curre-pajaro-pz.png" group-title="COSTA RICA",TV Curré
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
@@ -106,12 +106,12 @@ https://rtmp.info/cabinafides/envivo/playlist.m3u8
 https://rtmp.info/sanjosetv/envivo/chunklist.m3u8
 #EXTINF:-1 tvg-id="Telefides.(Costa.Rica).(TELFD).[100].cr" tvg-name="Telefides" tvg-logo="https://i.imgur.com/jadIowD.png" group-title="COSTA RICA",Telefides
 https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oldies Hits CR" tvg-logo="https://imgur.com/h2b6wwr.png" group-title="COSTA RICA",Oldies Hits CR
+#EXTINF:-1 tvg-id="OldiesHits.cr" tvg-name="Oldies Hits CR" tvg-logo="https://imgur.com/h2b6wwr.png" group-title="COSTA RICA",Oldies Hits CR
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 #EXTINF:-1 tvg-id="Extra.TV.42.(Costa.Rica).(EXTRA).[14].cr" tvg-name="Extra TV" tvg-logo="https://imgur.com/KZIrAsL.png" group-title="COSTA RICA",Extra TV
 http://138.59.177.34:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multizonas" tvg-logo="https://i.postimg.cc/nztnjmsG/MULTIZONAS.png" group-title="COSTA RICA",Multizonas
-https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/rewind-3600.m3u8
+#EXTINF:-1 tvg-id="MultizonasTV.cr" tvg-name="Multizonas" tvg-logo="https://i.postimg.cc/nztnjmsG/MULTIZONAS.png" group-title="COSTA RICA",Multizonas
+https://cloudvideo.servers10.com:8081/8068/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Norte Informativo" tvg-logo="https://i2.paste.pics/0965c9e6c38022659717eeaac157e453.png" group-title="COSTA RICA",Norte Informativo
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="RertroX TV" tvg-logo="https://i.postimg.cc/KzP3cSHW/AWKoxz2-HVNXOFACj-EWewm1-CCp-Xz5q-COd-YIm1-SVLw.png" group-title="COSTA RICA",RertroX TV
@@ -136,6 +136,7 @@ http://k4.usastreams.com/somoscaribetv/somoscaribetv/playlist.m3u8
 https://rtmp.info/tvsantacruz/envivo/chunklist_w1520790363.m3u8
 #EXTINF:-1 tvg-id="RTTV.cr" tvg-name="Radio Turrialba TV" tvg-logo="https://i.imgur.com/XcEqRv9.png" group-title="COSTA RICA",Radio Turrialba TV
 https://empresacanal10cr.radiosportstv.online:3151/hybrid/play.m3u8
+https://vivo.radiosportstv.online:3151/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urbano TV" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png" group-title="COSTA RICA",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tica" tvg-logo="https://i.postimg.cc/G2TQCxXB/image.jpg" group-title="COSTA RICA",TV Tica
@@ -152,7 +153,7 @@ https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TD TV" tvg-logo="https://i.postimg.cc/mrnbWzD2/h-Oql4-FVm-Yfu7xs-KVo-D41sltd-Vory-Vs5c-VGI9-Jxt-B.jpg" group-title="COSTA RICA",TD TV
 https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Garabito" tvg-logo="https://i.imgur.com/tnm0fzc.jpg" group-title="COSTA RICA",TV Garabito
+#EXTINF:-1 tvg-id="GarabitoTV.cr" tvg-name="TV Garabito" tvg-logo="https://i.imgur.com/tnm0fzc.jpg" group-title="COSTA RICA",TV Garabito
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w1522019794.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comunicaciones Jiménez" tvg-logo="https://i.imgur.com/4AvgY72.jpeg" group-title="COSTA RICA",Comunicaciones Jiménez
 https://cloudvideo.servers10.com:8081/8146/index.m3u8
@@ -168,6 +169,10 @@ https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 https://video.misistemareseller.com/staytv/staytv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elite TV" tvg-logo="https://i.imgur.com/GTbSKZU.png" group-title="COSTA RICA",Elite TV
 https://62fc643fbf1aa.streamlock.net/elitetv/elitetv/playlist.m3u8
+#EXTINF:-1 tvg-id="MasCiclismoTV.cr" tvg-name="Más Ciclismo TV" tvg-logo="https://i.postimg.cc/GpvDskYB/dj-Sznf8-GYLKM5-Ntr-PTh-Pso-FW7k-L5-Cs2u485f-TGsf.jpg" group-title="COSTA RICA",Más Ciclismo TV
+https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Visión América" tvg-logo="https://i.imgur.com/ZU77D90.jpg" group-title="COSTA RICA",Visión América
+https://250weu.bozztv.com/ssh101/ssh101/visionamerica/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bethel Costa Rica" tvg-logo="https://i.postimg.cc/fymS29C1/logo-2dbethel.png" group-title="COSTA RICA",Bethel Costa Rica
 https://pop-ts.iptv-global.net/BethelCostaRica/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esperanza TV" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="RELIGION",Esperanza TV
@@ -1003,23 +1008,23 @@ http://45.5.117.182:8000/play/a0f0/index.m3u8
 http://181.129.173.98:8200/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).[117].cr" tvg-name="FOX Sports 3 | Sur" tvg-logo="https://imgur.com/ZbsypPY.png" group-title="DEPORTES",FOX Sports 3 | Sur
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/33475
-#EXTINF:-1 tvg-id="ESPN.Centroamérica.(ESPNCA).[1036].cr" tvg-name="Espn 1 ??| Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES",Espn 1 ?? Norte
+#EXTINF:-1 tvg-id="ESPN.Centroamérica.(ESPNCA).[1036].cr" tvg-name="Espn 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES",Espn 1
 http://138.59.177.34:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.Centroamérica.HDTV.(ESPN2-HD).[901].cr" tvg-name="Espn 1 ??| Norte" tvg-logo="https://imgur.com/GQHfYVQ.png" group-title="DEPORTES",Espn 1 ??| Norte
+#EXTINF:-1 tvg-id="ESPN.Centroamérica.HDTV.(ESPN2-HD).[901].cr" tvg-name="Espn 1 *" tvg-logo="https://imgur.com/GQHfYVQ.png" group-title="DEPORTES",Espn 1 *
 http://168.181.122.234:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="Canal ESPN (Costa Rica)" tvg-name="Espn 1 | Mex" tvg-logo="https://imgur.com/GQHfYVQ.png" group-title="DEPORTES",Espn 1 | Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155892
 #EXTINF:-1 tvg-id="espn_sur" tvg-name="Espn 1 | Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png" group-title="DEPORTES",Espn 1 | Sur
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155888
-#EXTINF:-1 tvg-id="Canal ESPN 2 (Costa Rica)" tvg-name="Espn 2 ??| Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="DEPORTES",Espn 2 ??| Norte
+#EXTINF:-1 tvg-id="Canal ESPN 2 (Costa Rica)" tvg-name="Espn 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="DEPORTES",Espn 2
 http://138.59.177.34:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.Latin.Central.América.HD.(ESPN2HD).[810].cr" tvg-name="Espn 2 ?? | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="DEPORTES",Espn 2 ?? | Norte
+#EXTINF:-1 tvg-id="ESPN.2.Latin.Central.América.HD.(ESPN2HD).[810].cr" tvg-name="Espn 2 *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="DEPORTES",Espn 2 *
 http://168.181.122.234:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espn 2 | Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/320px-Espn2.svg.png" group-title="DEPORTES",Espn 2 | Sur
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/43637
-#EXTINF:-1 tvg-id="ESPN.3.North.(Latin.America).(ESPN3).[205].cr" tvg-name="Espn 3 ??| Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte.png" group-title="DEPORTES",Espn 3 ??| Norte
+#EXTINF:-1 tvg-id="ESPN.3.North.(Latin.America).(ESPN3).[205].cr" tvg-name="Espn 3" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte.png" group-title="DEPORTES",Espn 3
 http://167.250.222.35:16000/play/a07s/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.HDTV.North.(Latin.America).(ESPN3HD).[902].cr" tvg-name="Espn 3 HD | Norte" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte.png" group-title="DEPORTES",Espn 3 ??| Norte
+#EXTINF:-1 tvg-id="ESPN.3.HDTV.North.(Latin.America).(ESPN3HD).[902].cr" tvg-name="Espn 3 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte.png" group-title="DEPORTES",Espn 3 HD
 http://168.181.122.234:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="espn_3_sur" tvg-name="Espn 3 | Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/ESPN_3.png" group-title="DEPORTES",Espn 3 | Sur
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155903
@@ -2079,9 +2084,9 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/7532
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTU" tvg-logo="https://imgur.com/ERvJ7lm.png" group-title="ECUADOR",RTU
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVC" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/53460
+https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ecuavisa" tvg-logo="https://imgur.com/A7pl4lu.png" group-title="ECUADOR",Ecuavisa
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/53455
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TC Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tc_logo.png/120px-Tc_logo.png" group-title="ECUADOR",TC Ecuador
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/53458
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL Sol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXWryEQqFmWZWi5aFQmuZuaI-hx0kgk84379t0mVxb5tODqtiT7kFg4eWgVYvcpSn0N8&usqp=CAU" group-title="ECUADOR",EL Sol
@@ -2090,18 +2095,16 @@ http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 https://streamingwowza.com:1936/wuanplus/wuanplus/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Educa TV" tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="ECUADOR",Educa TV
 https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globovisi?n" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="ECUADOR",Globovisi?n
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/7534
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REC TV Docu" tvg-logo="https://i.postimg.cc/MZjtr35m/REC-TV-ONLINE.png" group-title="ECUADOR",REC TV Docu
 https://video.misistemareseller.com/Jonnytv/Jonnytv/chunklist_w2000568782.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oromar TV" tvg-logo="https://i.postimg.cc/N0R9mkvC/31-logo-oromartv.png" group-title="ECUADOR",Oromar TV
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telerama" tvg-logo="https://imgur.com/cUY1DOj.png" group-title="ECUADOR",Telerama
+#EXTINF:-1 tvg-id="Telerama.ec" tvg-name="Telerama" tvg-logo="https://imgur.com/cUY1DOj.png" group-title="ECUADOR",Telerama
 https://envivo.telerama.ec/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ecuador TV" tvg-logo="https://i.postimg.cc/gcL7bwdc/cropped-Ecuador-Tv-Web.png" group-title="ECUADOR",Ecuador TV
-https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c212680b7/manifest/stream_t1_r240001.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-logo="https://i.postimg.cc/gcL7bwdc/cropped-Ecuador-Tv-Web.png" group-title="ECUADOR",Ecuador TV
+https://samson.streamerr.co:8081/akira/index.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.pe" tvg-name="Activa TV" tvg-logo="https://graph.facebook.com/Activatvtarapoto/picture?width=200&height=200" group-title="PERU",Activa TV
 https://cloudvideo.servers10.com:8081/8126/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/320px-ATV_logo_2020.png" group-title="PERU",ATV
