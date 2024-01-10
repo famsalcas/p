@@ -1,9 +1,7 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
-#EXTINF:-1 channel-id="JPCAM" channel-number="006" tvg-id="Repretel.6.(CR6).[6].cr" tvc-guide-genres="cams" tvc-guide-tags="Live" tvc-guide-placeholders="1800" tvg-logo="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/beach-logo.png" tvg-name="JPCAM" tvc-guide-title="Jennette's Pier" tvc-guide-description="Live beach cam at Jennette's Pier" tvc-guide-art="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/beach-guide.png",JPCAM
-https://5a5f765a4fcc2.streamlock.net:1936/live/nh4.stream/playlist.m3u8
-
-#EXTINF:-1 channel-id="PCAM" tvc-guide-genres="cams" Golden.(Latin.America).(GOLDL).[314].cr tvc-guide-tags="HDTV, Live" tvc-guide-placeholders="86400" channel-number="310" tvg-logo="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/platypus-logo.png" tvg-name="PCAM" tvc-guide-title="Platypus Cam" tvc-guide-description="Live platypus cam from the San Diego Zoo." tvc-guide-art="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/platypus-guide.png",PCAM
-https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/Playlist.m3u8
-
-#EXTINF:-1 channel-id="TCAM" tvc-guide-placeholders="false" channel-number="501" tvg-id="ESPN.Centroamérica.(ESPNCA).[1036].cr" tvg-logo="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/traffic-logo.png" tvg-name="TCAM" tvc-guide-title="Live shot of traffic on the Bay Bridge." tvc-guide-description="Live shot of Times Square in New York City." tvc-guide-art="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/traffic-guide.png",TCAM
-https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:0 ,COSTA RICA
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cr.m3u
+#EXTINF:0 ,ECUADOR
+https://iptv-org.github.io/iptv/countries/ec.m3u
+#EXTINF:0 ,PRIVADA
+https://raw.githubusercontent.com/miltonja/PRIVADA-MILTON/main/PRIVADA%20MILTON
