@@ -1,7 +1,18 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+#EXTM3U
 #EXTINF:0 ,COSTA RICA
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cr.m3u
+#EXTINF:0 ,COLOMBIA
+https://iptv-org.github.io/iptv/countries/co.m3u
+#EXTINF:0 ,VENEZUELA
+https://iptv-org.github.io/iptv/countries/ve.m3u
 #EXTINF:0 ,ECUADOR
 https://iptv-org.github.io/iptv/countries/ec.m3u
-#EXTINF:0 ,PRIVADA
-https://raw.githubusercontent.com/miltonja/PRIVADA-MILTON/main/PRIVADA%20MILTON
+#EXTINF:0 ,MÉXICO
+https://iptv-org.github.io/iptv/countries/mx.m3u
+#PLAYLIST:Chile
+ttps://raw.githubusercontent.com/iptv-org/iptv/master/streams/cl.m3u
+#EXTINF:0 ,PRIVADA test 1
+https://raw.githubusercontent.com/ednar33/canales33/main/chlist.m3u
+#PLAYLIST:HONDURAS
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hn.m3u
+
