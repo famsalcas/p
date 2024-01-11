@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 ,COSTA RICA
-https://raw.githubusercontent.com/famsalcas/p/main/Costa%20Rica.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cr.m3u
 #EXTINF:0 ,COLOMBIA
 https://iptv-org.github.io/iptv/countries/co.m3u
 #EXTINF:0 ,VENEZUELA
@@ -15,4 +15,6 @@ ttps://raw.githubusercontent.com/iptv-org/iptv/master/streams/cl.m3u
 https://raw.githubusercontent.com/ednar33/canales33/main/chlist.m3u
 #EXTINF:0 ,HONDURAS
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hn.m3u
+#EXTINF:0 ,DEPORTES
+https://drive.google.com/uc?id=1RDJPPZZjNePiz4eF5G0TG7vziTiyIx2q&export=download
 
