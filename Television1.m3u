@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 ,COSTA RICA
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cr.m3u
+https://raw.githubusercontent.com/famsalcas/p/main/Costa%20Rica.m3u
 #EXTINF:0 ,COLOMBIA
 https://iptv-org.github.io/iptv/countries/co.m3u
 #EXTINF:0 ,VENEZUELA
