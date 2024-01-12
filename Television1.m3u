@@ -2,7 +2,19 @@
 #EXTINF:0 ,COSTA RICA
 https://raw.githubusercontent.com/famsalcas/p/main/Costa%20Rica.m3u
 #EXTINF:0 ,CINE PREMIUM
-http://m3u4u.com/m3u/d5k2nv14jxs3kg86y984
+https://drive.google.com/uc?id=1L6j5Q-hTmXcNdVD07972CeHTWtruHBGQ&export=download
+#EXTINF:0 ,DEPORTES
+https://drive.google.com/uc?id=1RDJPPZZjNePiz4eF5G0TG7vziTiyIx2q&export=download
+#EXTINF:0 ,NICARAGUA
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ni.m3u
+#EXTINF:0 ,GUATEMALA
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gt.m3u
+#EXTINF:0 ,EL SALVADOR
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sv.m3u
+#EXTINF:0 ,HONDURAS
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hn.m3u
+#EXTINF:0 ,PANAMÁ
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pa.m3u
 #EXTINF:0 ,COLOMBIA
 https://iptv-org.github.io/iptv/countries/co.m3u
 #EXTINF:0 ,VENEZUELA
@@ -11,12 +23,21 @@ https://iptv-org.github.io/iptv/countries/ve.m3u
 https://iptv-org.github.io/iptv/countries/ec.m3u
 #EXTINF:0 ,MÉXICO
 https://iptv-org.github.io/iptv/countries/mx.m3u
-#EXTINF:0 ,Chile
-ttps://raw.githubusercontent.com/iptv-org/iptv/master/streams/cl.m3u
-#EXTINF:0 ,PRIVADA test 1
+#EXTINF:0 ,CHILE
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cl.m3u
+#EXTINF:0 ,ARGENTINA
+https://iptv-org.github.io/iptv/countries/ar.m3u
+#EXTINF:0 ,URUGUAY
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uy.m3u
+#EXTINF:0 ,PERÚ
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pe.m3u
+#EXTINF:0 ,BOLIVIA
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bo.m3u
+#EXTINF:0 ,PARAGUAY
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/py.m3u
+#EXTINF:0 ,PRIVADA 1
 https://raw.githubusercontent.com/ednar33/canales33/main/chlist.m3u
-#EXTINF:0 ,HONDURAS
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hn.m3u
-#EXTINF:0 ,DEPORTES
-https://drive.google.com/uc?id=1RDJPPZZjNePiz4eF5G0TG7vziTiyIx2q&export=download
-
+#EXTINF:0 ,ESPAÑA
+https://iptv-org.github.io/iptv/countries/es.m3u
+#EXTINF:0 ,PLUTO
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx_pluto.m3u
