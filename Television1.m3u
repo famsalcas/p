@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 ,COSTA RICA
 https://raw.githubusercontent.com/famsalcas/p/main/Costa%20Rica.m3u
+#EXTINF:0 ,CINE PREMIUM
+http://m3u4u.com/m3u/d5k2nv14jxs3kg86y984
 #EXTINF:0 ,COLOMBIA
 https://iptv-org.github.io/iptv/countries/co.m3u
 #EXTINF:0 ,VENEZUELA
