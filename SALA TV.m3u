@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="Canal 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",Canal 1 CR
 #EXTVLCOPT:network-caching=1000
-https://video20.klm99.com:3993/hybrid/play.m3u8
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesistema.Nacional.-.TV./.Canal.2.(CRTV2).[2].cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
@@ -126,7 +126,7 @@ https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Video Tour Channel" tvg-logo="https://imgur.com/jNSISg6.png" group-title="COSTA RICA",Video Tour Channel
 https://59ef525c24caa.streamlock.net//videotour/videotour/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartago Medios TV" tvg-logo="https://i.imgur.com/4Xtsi7q.png" group-title="COSTA RICA",Cartago Medios TV
-https://tvdatta.com:3384/stream/play.m3u8
+https://acceso.radiosportstv.online:3162/live/cartagomedioslive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tele Brunca" tvg-logo="https://imgur.com/tWiaudl.png" group-title="COSTA RICA",Tele Brunca
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOICE OVER CR" tvg-logo="https://i.postimg.cc/5Nrn9YSJ/Logo-Oficial-Voiceover-1.png" group-title="COSTA RICA",VOICE OVER CR
@@ -375,7 +375,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teletubbies" tvg-logo="https://www.nicepng.com/png/detail/132-1320237_a-teletubbies-logo-teletubbies-logo-png.png" group-title="KIDS",Teletubbies
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Semillitas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Semillitas_logo.png/revision/latest?cb=20210807052349&path-prefix=es" group-title="KIDS",Semillitas
-http://45.228.234.41:16000/play/a08u/index.m3u8
+http://167.250.222.35:16000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova TV Kids" tvg-logo="https://i.postimg.cc/MZNgcf6z/maxresdefault.jpg" group-title="KIDS",Nova TV Kids
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toon Tubers" tvg-logo="https://i.imgur.com/dxHOu8m.png" group-title="KIDS",Toon Tubers
