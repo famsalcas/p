@@ -1,6 +1,5 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="Canal 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",Canal 1 CR
-#EXTVLCOPT:network-caching=1000
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesistema.Nacional.-.TV./.Canal.2.(CRTV2).[2].cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
@@ -17,6 +16,7 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w500555531.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-logo="https://i.imgur.com/ConA5OP.png" group-title="COSTA RICA",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.HDTV.(CR6HD).[766].cr" tvg-name="Repretel 6" tvg-logo="https://i.imgur.com/Zdmfq9O.png" group-title="COSTA RICA",Repretel 6
+#EXTVLCOPT:http-referrer=https://www.repretel.com/envivo-canal6/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.(CR6).[6].cr" tvg-name="Repretel 6 *" tvg-logo="https://i.imgur.com/1vcQReV.png" group-title="COSTA RICA",Repretel 6 *
@@ -180,6 +180,10 @@ https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
 https://250weu.bozztv.com/ssh101/ssh101/visionamerica/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bethel Costa Rica" tvg-logo="https://i.postimg.cc/fymS29C1/logo-2dbethel.png" group-title="COSTA RICA",Bethel Costa Rica
 https://pop-ts.iptv-global.net/BethelCostaRica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Teletica.Canal.7.(CR7).[7].cr" tvg-name="Teletica ***" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",Teletica ***
+#EXTVLCOPT:http-referrer=https://bradmax.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://cdn01.teletica.com/TeleticaLiveStreamCR/Stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esperanza TV" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="RELIGION",Esperanza TV
 http://tv.esperanzatvcr.org:1935/WEB/WEB_source/chunklist_w918924677.m3u8
 #EXTINF:-1 tvg-id="Eternal.Word.Television.(Latin.America).(EWTN).[101].cr" tvg-name="Ewtn Latam" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ewtn_en_espanol.png" group-title="RELIGION",Ewtn Latam
@@ -790,10 +794,8 @@ http://45.5.117.182:8000/play/a0gb/index.m3u8
 #EXTINF:-1 tvg-id="FX.Latin.America.HDTV.(Colombia).(FXHD).[927].cr" tvg-name="FX *" tvg-logo="https://i.imgur.com/lwso2Xh.png" group-title="CINE Y SERIES PREMIUM",FX *
 http://138.59.177.34:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="AMC.HDTV.(Latin.America).(AMCHD).do" tvg-name="AMC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica.png" group-title="CINE Y SERIES PREMIUM",AMC
-#EXTVLCOPT:network-caching=1000
 http://138.59.177.34:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="AMC.HDTV.(Latin.America).(AMCHD).do" tvg-name="AMC *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_espana.png" group-title="CINE Y SERIES PREMIUM",AMC *
-#EXTVLCOPT:network-caching=1000
 http://167.250.222.35:16000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="Universal.Channel.HDTV.(Latin.America).(UNIVSHD).[919].cr" tvg-name="Universal TV" tvg-logo="https://i.postimg.cc/8Cvh3NRc/100px-Universal-TV-logo-svg.png" group-title="CINE Y SERIES PREMIUM",Universal TV
 http://167.250.222.35:16000/play/a078/index.m3u8
@@ -849,7 +851,6 @@ http://167.250.222.35:16000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.+.HDTV.(Latin.America).(CIN+H).[350].cr" tvg-name="CIinecanal *" tvg-logo="https://imgur.com/yCoyB0m.png" group-title="CINE Y SERIES PREMIUM",CIinecanal *
 http://45.5.117.182:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Latin.America.(Pan-Regional).(TNT).[359].cr" tvg-name="TNT" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica.png" group-title="CINE Y SERIES PREMIUM",TNT
-#EXTVLCOPT:network-caching=1000
 http://45.228.232.205:16000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Latin.America.HDTV.(Pan-Regional).(TNTHD).[923].cr" tvg-name="TNT *" tvg-logo="https://i.postimg.cc/kGpqSgFK/320px-TNT-HD.png" group-title="CINE Y SERIES PREMIUM",TNT *
 #EXTVLCOPT:audio-track=2
@@ -1003,10 +1004,8 @@ https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="Futv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" group-title="DEPORTES",Futv
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/47854
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="Futv *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" group-title="DEPORTES",Futv *
-#extvlcopt:network-caching=1000
 http://190.149.66.90:4000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="Futv **" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png" group-title="DEPORTES",Futv **
-#extvlcopt:network-caching=1000
 http://138.59.177.34:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/135px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",FOX Sports 1
 http://181.129.173.98:8200/play/a07p/index.m3u8
@@ -1963,9 +1962,9 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155810
 http://45.177.53.7:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.(Caracol.HD).co" tvg-name="Caracol *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",Caracol *
 http://190.61.57.2:1010/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="RCN.(RCN.HD).co" tvg-name="Rcn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",Rcn#extvlcopt:network-caching=1000
+#EXTINF:-1 tvg-id="RCN.(RCN.HD).co" tvg-name="Rcn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",Rcn
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155793
-#EXTINF:-1 tvg-id="RCN.(RCN.HD).co" tvg-name="RCN *#extvlcopt:network-caching=1000" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN *#extvlcopt:network-caching=1000
+#EXTINF:-1 tvg-id="RCN.(RCN.HD).co" tvg-name="RCN *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/288px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN *
 http://190.61.57.2:1010/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN M?s" tvg-logo="https://i.postimg.cc/0ymNQCXG/RCN-MAS.png" group-title="COLOMBIA",RCN M?s
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
@@ -2757,9 +2756,9 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Space Channel" tvg-logo="https://i.imgur.com/47iCsiM.png" group-title="USA",Space Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="Cbs" tvg-logo="https://i.postimg.cc/qBh98gNN/CBS.webp" group-title="USA",Cbs#extvlcopt:network-caching=1000
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="Cbs" tvg-logo="https://i.postimg.cc/qBh98gNN/CBS.webp" group-title="USA",Cbs
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/43290
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS *#extvlcopt:network-caching=1000" tvg-logo="https://i.postimg.cc/qBh98gNN/CBS.webp" group-title="USA",CBS *#extvlcopt:network-caching=1000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS *" tvg-logo="https://i.postimg.cc/qBh98gNN/CBS.webp" group-title="USA",CBS *
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/157674
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 Abc Las Vegas (ktnv)" tvg-logo="https://ewscripps.brightspotcdn.com/1a/33/e0101b564e938049fd46e65fd6f6/ktnv-app-logo.JPG" group-title="USA",13 Abc Las Vegas (ktnv)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
