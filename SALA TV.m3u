@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz" cache=1000 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz" cache=1000 deinterlace=1 aspect-ratio="16:9" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="Canal 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",Canal 1 CR
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesistema.Nacional.-.TV./.Canal.2.(CRTV2).[2].cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
@@ -16,7 +16,6 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w500555531.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-logo="https://i.imgur.com/ConA5OP.png" group-title="COSTA RICA",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.HDTV.(CR6HD).[766].cr" tvg-name="Repretel 6" tvg-logo="https://i.imgur.com/Zdmfq9O.png" group-title="COSTA RICA",Repretel 6
-#EXTVLCOPT:http-referrer=https://www.repretel.com/envivo-canal6/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.(CR6).[6].cr" tvg-name="Repretel 6 *" tvg-logo="https://i.imgur.com/1vcQReV.png" group-title="COSTA RICA",Repretel 6 *
@@ -1275,6 +1274,7 @@ https://huntstream-viewlift.amagi.tv/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RT.(Russia.Today).Español.(RTESP).[602].cr" tvg-name="RT Español" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="NOTICIAS",RT Espanol
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="mx##mx_0ab2e64d-2a0d-4295-97de-d8f5f01c303c" tvg-name="Bloomberg" tvg-logo="https://th.bing.com/th/id/OIP.CfponQU6Gz9awDDnDxXh3QHaB7?w=296&h=91&c=7&o=5&dpr=1.1&pid=1.7" group-title="NOTICIAS",Bloomberg
 https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL Toro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="NOTICIAS",EL Toro TV
