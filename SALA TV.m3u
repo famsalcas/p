@@ -2444,7 +2444,7 @@ https://new-international-23.secure2.footprint.net/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 1 TVe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/269px-Logo_TVE-1.svg.png" group-title="ESPA?A",LA 1 TVe
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/127637
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 1 TVe (op2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/269px-Logo_TVE-1.svg.png" group-title="ESPA?A",LA 1 TVe (op2)
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 2 TVe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/257px-Logo_TVE-2.svg.png" group-title="ESPA?A",LA 2 TVe
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/127638
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 2 TVe (op2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/257px-Logo_TVE-2.svg.png" group-title="ESPA?A",LA 2 TVe (op2)
