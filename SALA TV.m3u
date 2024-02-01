@@ -2448,7 +2448,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 2 TVe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/257px-Logo_TVE-2.svg.png" group-title="ESPA?A",LA 2 TVe
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/127638
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 2 TVe (op2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/257px-Logo_TVE-2.svg.png" group-title="ESPA?A",LA 2 TVe (op2)
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="TVE.Internacional.(North.&amp;.South.America).(TVE).[535].cr" tvg-name="Star TVe" tvg-logo="https://i.postimg.cc/85LgBLsn/Star-TVE-2016-n-v.png" group-title="ESPA?A",Star TVe
 http://138.59.177.34:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Solidaria TV" tvg-logo="https://i.postimg.cc/sgM845N9/solidaria-tv-en-vivo-web-espana-250x250.jpg" group-title="ESPA?A",Solidaria TV
