@@ -67,7 +67,7 @@ https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="Asamblea.Legislativa.(ASAM).[52].cr" tvg-name="Asamblea Legislativa" tvg-logo="https://imgur.com/jhuy27B.png" group-title="COSTA RICA",Asamblea Legislativa
 https://ythlsgo.onrender.com/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8
-#EXTINF:-1 tvg-id="IQChannel.cr" tvg-name="IQ Channel" tvg-logo="https://i.postimg.cc/xTFvNHyr/IQ-Channel-logo.png" group-title="COSTA RICA",IQ Channel
+#EXTINF:-1 tvg-id="IQChannel.cr" tvg-name="HQ Music" tvg-logo="https://i.postimg.cc/xTFvNHyr/IQ-Channel-logo.png" group-title="COSTA RICA",HQ Music
 https://vcp8.myplaytv.com/iqchannel/iqchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE).[56].cr" tvg-name="Enlace Internacional" tvg-logo="https://imgur.com/rJBofVP.png" group-title="COSTA RICA",Enlace Internacional
 https://1-1145-11554-1.b.cdn13.com/enlace/smil:enlace-fhd.smil/chunklist_b4240000_sleng.m3u8
