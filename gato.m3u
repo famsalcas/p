@@ -83,7 +83,7 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 https://59ef525c24caa.streamlock.net//impactotv/impactotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Los Santos TV"tvg-id="LosSantosTV.cr"tvg-logo="https://i.imgur.com/Kz3TKS1.png"group-title="COSTA RICA":http-referrer="":http-user-agent="",Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:-1 tvg-name="Cristovisi?n 31"tvg-id="CristoVisionCanal31.cr"tvg-logo="https://cristovision31.org/imagenes/Logo.png"group-title="COSTA RICA":http-referrer="":http-user-agent="",Cristovisi?n 31
+#EXTINF:-1 tvg-name="Cristovisión 31"tvg-id="CristoVisionCanal31.cr"tvg-logo="https://cristovision31.org/imagenes/Logo.png"group-title="COSTA RICA":http-referrer="":http-user-agent="",Cristovisión 31
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 #EXTINF:-1 tvg-name="Costa Rica Channel"tvg-id="CostaRicaChannel.cr"tvg-logo="https://i.imgur.com/QPBmOIj.png"group-title="COSTA RICA":http-referrer="":http-user-agent="",Costa Rica Channel
 https://5fa5de1a545ae.streamlock.net/8006/8006/chunklist_w1105449295.m3u8
@@ -174,6 +174,8 @@ https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
 https://250weu.bozztv.com/ssh101/ssh101/visionamerica/chunks.m3u8
 #EXTINF:-1 tvg-name="Bethel Costa Rica"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/fymS29C1/logo-2dbethel.png"group-title="COSTA RICA":http-referrer="":http-user-agent="",Bethel Costa Rica
 https://pop-ts.iptv-global.net/BethelCostaRica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Teletica FHD"tvg-id="Teletica7.cr"tvg-logo="https://imgur.com/Guni5Ij.png"group-title="COSTA RICA":http-referrer="https://bradmax.com":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",Teletica FHD
+https://cdn01.teletica.com/TeleticaLiveStreamCR/Stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Esperanza TV"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/exdDHml.png"group-title="RELIGION":http-referrer="":http-user-agent="",Esperanza TV
 http://tv.esperanzatvcr.org:1935/WEB/WEB_source/chunklist_w918924677.m3u8
 #EXTINF:-1 tvg-name="Ewtn Latam"tvg-id="Eternal.Word.Television.(Latin.America).(EWTN).[101].cr"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ewtn_en_espanol.png"group-title="RELIGION":http-referrer="":http-user-agent="",Ewtn Latam
@@ -370,8 +372,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-name="Semillitas"tvg-id="(no tvg-id)"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Semillitas_logo.png/revision/latest?cb=20210807052349&path-prefix=es"group-title="KIDS":http-referrer="":http-user-agent="",Semillitas
 http://167.250.222.35:16000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-name="Nova TV Kids"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/MZNgcf6z/maxresdefault.jpg"group-title="KIDS":http-referrer="":http-user-agent="",Nova TV Kids
-https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+#EXTINF:-1 tvg-name="ZooMoo Latinoamérica"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/xdPPN2p.png"group-title="KIDS":http-referrer="":http-user-agent="",ZooMoo Latinoamérica
+http://138.118.105.190:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-name="Toon Tubers"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/dxHOu8m.png"group-title="KIDS":http-referrer="":http-user-agent="",Toon Tubers
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV"tvg-id="(no tvg-id)"tvg-logo="https://graph.facebook.com/ITVPatagonia/picture?width=200&height=200"group-title="KIDS":http-referrer="":http-user-agent="",ITV
@@ -399,11 +401,11 @@ http://170.82.37.21:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-name="Moni TV"tvg-id="(no tvg-id)"tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png"group-title="KIDS":http-referrer="":http-user-agent="",Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-name="Dreamworks"tvg-id="Dreamworks.us"tvg-logo="https://i.imgur.com/uV9AQOA.png"group-title="KIDS":http-referrer="":http-user-agent="",Dreamworks
-http://161.132.243.192:50001/play/a03x/index.m3u8
+http://190.217.52.76:8540/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-name="Love Nature Espa?ol"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/bpHH6Wj.png"group-title="CULTURA Y ESTILOS":http-referrer="":http-user-agent="",Love Nature Espa?ol
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
 #EXTINF:-1 tvg-name="Love Nature TV"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/25v1yH08/love-nature-logo-white-rgb.png"group-title="CULTURA Y ESTILOS":http-referrer="":http-user-agent="",Love Nature TV
-http://190.90.251.194:8921/play/a00p/index.m3u8
+http://190.217.52.76:8540/play/a0et/index.m3u8
 #EXTINF:-1 tvg-name="Hola TV"tvg-id="¡Hola!.TV.(Latin.America).(HOLA).[1051].cr"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hola_tv.png"group-title="CULTURA Y ESTILOS":http-referrer="":http-user-agent="",Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-name="?hola! Play TV"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/gJxBV9tR/HOLA-PLAY-ESP.png"group-title="CULTURA Y ESTILOS":http-referrer="":http-user-agent="",?hola! Play TV
@@ -505,16 +507,16 @@ https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="Sony Novelas"tvg-id="SonyCanalNovelas.us"tvg-logo="https://i.postimg.cc/fLs5SSkD/SONY-NOVELAS.png"group-title="NOVELAS Y SERIES":http-referrer="":http-user-agent="",Sony Novelas
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-name="RCN Novelas"tvg-id="RCN.Novelas.(RCNNOV)..ec"tvg-logo="https://graph.facebook.com/RCNnovelas/picture?width=200&height=200"group-title="NOVELAS Y SERIES":http-referrer="":http-user-agent="",RCN Novelas
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155809
-#EXTINF:-1 tvg-name="Pasiones | Usa"tvg-id="Pasiones.us"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones.png"group-title="NOVELAS Y SERIES":http-referrer="":http-user-agent="",Pasiones | Usa
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155809?m3u8
+#EXTINF:-1 tvg-name="Pasiones Usa"tvg-id="Pasiones.us"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones.png"group-title="NOVELAS Y SERIES":http-referrer="":http-user-agent="",Pasiones Usa
 http://138.59.177.34:8000/play/a079/index.m3u8
-#EXTINF:-1 tvg-name="Pasiones | Latam"tvg-id="(no tvg-id)"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones.png"group-title="NOVELAS Y SERIES":http-referrer="":http-user-agent="",Pasiones | Latam
+#EXTINF:-1 tvg-name="Pasiones Latin America"tvg-id="PasionesLatinAmerica.us"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones.png"group-title="NOVELAS Y SERIES":http-referrer="":http-user-agent="",Pasiones Latin America
 http://45.233.169.13:8000/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-name="TNT Novelas"tvg-id="tnt_novelas_guatemala"tvg-logo="https://i.postimg.cc/jj7vjnDc/7f334d87-5d5a-9854-2f73-d4959739d42c.png"group-title="NOVELAS Y SERIES":http-referrer="":http-user-agent="",TNT Novelas
 http://45.228.232.219:16000/play/a0lz/index.m3u8
-#EXTINF:-1 tvg-name="Tlnovelas"tvg-id="Tele.Novelas.(Latin.America).(TLNOV).[19].cr"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlnovelas.png"group-title="NOVELAS Y SERIES":http-referrer="":http-user-agent="",Tlnovelas
+#EXTINF:-1 tvg-name="Tlnovelas"tvg-id="TlnovelasLatinAmerica.mx"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlnovelas.png"group-title="NOVELAS Y SERIES":http-referrer="":http-user-agent="",Tlnovelas
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/95012
-#EXTINF:-1 tvg-name="Univisi?n Tlnovelas"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/t7PzpIf.png"group-title="NOVELAS Y SERIES":http-referrer="":http-user-agent="",Univisi?n Tlnovelas
+#EXTINF:-1 tvg-name="Univisión Tlnovelas"tvg-id="UnivisionTlnovelas.us"tvg-logo="https://i.imgur.com/t7PzpIf.png"group-title="NOVELAS Y SERIES":http-referrer="":http-user-agent="",Univisión Tlnovelas
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/95011
 #EXTINF:-1 tvg-name="AZ Coraz?n"tvg-id="(no tvg-id)"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_corazon.png"group-title="NOVELAS Y SERIES":http-referrer="":http-user-agent="",AZ Coraz?n
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
@@ -777,7 +779,7 @@ http://167.250.222.35:16000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-name="Universal TV"tvg-id="UniversalTVPanregional.us"tvg-logo="https://i.postimg.cc/8Cvh3NRc/100px-Universal-TV-logo-svg.png"group-title="CINE Y SERIES PREMIUM":http-referrer="":http-user-agent="",Universal TV
 http://167.250.222.35:16000/play/a078/index.m3u8
 #EXTINF:-1 tvg-name="Universal TV *"tvg-id="UniversalTVPanregional.us"tvg-logo="https://i.postimg.cc/yYnnX1jz/320px-Universal-TV-HD-svg.png"group-title="CINE Y SERIES PREMIUM":http-referrer="":http-user-agent="",Universal TV *
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/4054
+http://190.217.52.76:8540/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-name="USA Network LAT"tvg-id="Syfy.(Latin.America).(Syfy).[450].cr"tvg-logo="https://i.imgur.com/LT17aKr.png"group-title="CINE Y SERIES PREMIUM":http-referrer="":http-user-agent="",USA Network LAT
 http://45.5.117.182:8000/play/a0hs/index.m3u8
 #EXTINF:-1 tvg-name="USA Network LAT *"tvg-id="Syfy.(Latin.America).(Syfy).[450].cr"tvg-logo="https://i.imgur.com/LT17aKr.png"group-title="CINE Y SERIES PREMIUM":http-referrer="":http-user-agent="",USA Network LAT *
@@ -977,7 +979,7 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Freebie TV"tvg-id="(no tvg-id)"tvg-logo="https://imgur.com/90McOLS.png"group-title="CINE INGLES":http-referrer="":http-user-agent="",Freebie TV
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 #EXTINF:-1 tvg-name="Futv"tvg-id="FUTV.cr"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png"group-title="DEPORTES":http-referrer="":http-user-agent="",Futv
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/47854
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/47854?m3u8
 #EXTINF:-1 tvg-name="Futv *"tvg-id="FUTV.cr"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png"group-title="DEPORTES":http-referrer="":http-user-agent="",Futv *
 http://190.149.66.90:4000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-name="Futv **"tvg-id="FUTV.cr"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fut_tv.png"group-title="DEPORTES":http-referrer="":http-user-agent="",Futv **
@@ -1032,7 +1034,7 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156755
 http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Xtra ?"tvg-id="(no tvg-id)"tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png"group-title="DEPORTES":http-referrer="":http-user-agent="",Bein Sports Xtra ?
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="TYC Sports"tvg-id="ext"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports.png"group-title="DEPORTES":http-referrer="":http-user-agent="",TYC Sports
+#EXTINF:-1 tvg-name="TYC Sports"tvg-id="TyCSports.ar"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports.png"group-title="DEPORTES":http-referrer="":http-user-agent="",TYC Sports
 http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:-1 tvg-name="TYC Sports Play"tvg-id="ext"tvg-logo="https://i.postimg.cc/PrJH059M/TYC-SPORTS-VU-TV-PLAYER.png"group-title="DEPORTES":http-referrer="":http-user-agent="",TYC Sports Play
 https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
@@ -1063,11 +1065,11 @@ https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="Liga Mx"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/245px-MX_logo.png"group-title="DEPORTES":http-referrer="":http-user-agent="",Liga Mx
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-name="TD+"tvg-id="Programación.Deportes.TD+.HDTV.(TD+.HD).[848].cr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png"group-title="DEPORTES":http-referrer="":http-user-agent="",TD+
-http://190.171.101.36/TD2/index.m3u8?token=ADM1-1659291194-84fd5abb62fbef72467d2fcfdf37e92d3168046b
+http://131.161.53.2:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-name="TD+ *"tvg-id="Programación.Deportes.TD+.HDTV.(TD+.HD).[848].cr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png"group-title="DEPORTES":http-referrer="":http-user-agent="",TD+ *
 http://138.59.177.34:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-name="TD+ 2"tvg-id="TD+2.(TD+2).[113].cr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/320px-TD_M%C3%A1s_2_Logo.svg.png"group-title="DEPORTES":http-referrer="":http-user-agent="",TD+ 2
-https://m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d8785f.sdp/playlist.m3u8
+http://131.161.53.2:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-name="TD+ 2 *"tvg-id="TD+2.(TD+2).[113].cr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/320px-TD_M%C3%A1s_2_Logo.svg.png"group-title="DEPORTES":http-referrer="":http-user-agent="",TD+ 2 *
 http://138.59.177.34:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-name="Real Madrid TV"tvg-id="(no tvg-id)"tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png"group-title="DEPORTES":http-referrer="":http-user-agent="",Real Madrid TV
@@ -1266,8 +1268,10 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
 https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-name="Telesur"tvg-id="TeleSur.(TELESUR).[984].cr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/219px-TeleSUR-Logo.svg.png"group-title="NOTICIAS":http-referrer="":http-user-agent="",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN Espanol"tvg-id="Cable.News.Network.en.Español.(Latin.America).(CNNESP).[525].cr"tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png"group-title="NOTICIAS":http-referrer="":http-user-agent="",CNN Español
+#EXTINF:-1 tvg-name="CNN Espanol"tvg-id="CNNenEspanol.us"tvg-logo="https://i.imgur.com/OsDX6V9.png"group-title="NOTICIAS":http-referrer="":http-user-agent="",CNN Español
 http://45.228.232.219:16000/play/a0m8/index.m3u8
+#EXTINF:-1 tvg-name="CNN Chile"tvg-id="CNNChile.cl"tvg-logo="https://i.imgur.com/Iaael1g.png"group-title="NOTICIAS":http-referrer="":http-user-agent="",CNN Chile
+http://45.71.252.16:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-name="CNN Español Resumen"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/YqCCHGtH/CNN-RESUMEN.png"group-title="NOTICIAS":http-referrer="":http-user-agent="",CNN Español Resumen
 https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-name="Lancelot"tvg-id="(no tvg-id)"tvg-logo="https://appnew.megainfoapp.com/files/1/lancelot-tv-en-directo.png"group-title="NOTICIAS":http-referrer="":http-user-agent="",Lancelot
@@ -1342,9 +1346,9 @@ http://tv.a1promediastream.com:25461/0848592/8416758/206
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="AL Jazeera English"tvg-id="(no tvg-id)"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzMnNdYmuus6s7FEL3tuC7iAz_14-v1dFAA&usqp=CAU"group-title="NOTICIAS":http-referrer="":http-user-agent="",AL Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="FOX News"tvg-id="Fox.News.Channel.(East).(FNC).[527].cr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png"group-title="NOTICIAS":http-referrer="":http-user-agent="",FOX News
+#EXTINF:-1 tvg-name="FOX News"tvg-id="FoxNewsChannel.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png"group-title="NOTICIAS":http-referrer="":http-user-agent="",FOX News
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/158562
-#EXTINF:-1 tvg-name="FOX News (op2)"tvg-id="Fox.News.Channel.(East).(FNC).[527].cr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png"group-title="NOTICIAS":http-referrer="":http-user-agent="",FOX News (op2)
+#EXTINF:-1 tvg-name="FOX News (op2)"tvg-id="FoxNewsChannel.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png"group-title="NOTICIAS":http-referrer="":http-user-agent="",FOX News (op2)
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/8255
 #EXTINF:-1 tvg-name="FOX News Now"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/YqhzdVHS/image.png"group-title="NOTICIAS":http-referrer="":http-user-agent="",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -1410,7 +1414,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1301
 #EXTINF:-1 tvg-name="Recuerdos Retro"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/SRB9G9yq/cropped-logo-new-web10.png"group-title="M�SICA":http-referrer="":http-user-agent="",Recuerdos Retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-name="Concert Channel"tvg-id="(no tvg-id)"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/concert_channel.png"group-title="M�SICA":http-referrer="":http-user-agent="",Concert Channel
+#EXTINF:-1 tvg-name="Concert Channel"tvg-id="ConcertChannel.us"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/concert_channel.png"group-title="M�SICA":http-referrer="":http-user-agent="",Concert Channel
 http://45.228.232.219:16000/play/a0o2/index.m3u8
 #EXTINF:-1 tvg-name="TV Pop"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/vHKN4jjZ/tvpop.jpg"group-title="M�SICA":http-referrer="":http-user-agent="",TV Pop
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
@@ -1426,8 +1430,8 @@ https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 http://iptvcolombia.ddns.net:1936/ranchenato/ranchenato_360p/chunklist_w1171414734.m3u8
 #EXTINF:-1 tvg-name="Teleritmo"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/m4QcvVx.png"group-title="M�SICA":http-referrer="":http-user-agent="",Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
-#EXTINF:-1 tvg-name="Bandamax"tvg-id="(no tvg-id)"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bandamax.png"group-title="M�SICA":http-referrer="":http-user-agent="",Bandamax
-http://45.190.185.210:8001/play/a0dx
+#EXTINF:-1 tvg-name="Bandamax"tvg-id="Bandamax.mx"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bandamax.png"group-title="M�SICA":http-referrer="":http-user-agent="",Bandamax
+http://138.186.20.13:23200/play/a0f2
 #EXTINF:-1 tvg-name="Music Box Russia"tvg-id="(no tvg-id)"tvg-logo="https://imgur.com/gA7DtWP.png"group-title="M�SICA":http-referrer="":http-user-agent="",Music Box Russia
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 tvg-name="TVS Music"tvg-id="TVSMusicNetwork.us"tvg-logo="https://i.imgur.com/pXOyNEy.png"group-title="M�SICA":http-referrer="":http-user-agent="",TVS Music
