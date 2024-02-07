@@ -910,6 +910,8 @@ http://138.59.177.34:8000/play/a04f/index.m3u8
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Ciover TV"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/k4jz0ykQ/clover.webp"group-title="CINE Y SERIES":http-referrer="":http-user-agent="",Clover TV
 http://177.234.230.226:8010/play/a00a/index.m3u8
+#EXTINF:-1 tvg-name="Ultra Macho"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/HwqmGcU.png"group-title="CINE Y SERIES":http-referrer="":http-user-agent="",Ultra Macho
+http://138.186.20.13:23200/play/a0eu
 #EXTINF:-1 tvg-name="Hallmark"tvg-id="Hallmark.Channel.HDTV.(East).(HALLHD).us"tvg-logo="https://imgur.com/WuFAju1.png"group-title="CINE INGLES":http-referrer="":http-user-agent="",Hallmark
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-name="Hallmark Drama"tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us"tvg-logo="https://imgur.com/XzzXJPs.png"group-title="CINE INGLES":http-referrer="":http-user-agent="",Hallmark Drama
