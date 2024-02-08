@@ -733,12 +733,6 @@ http://45.181.121.194:8000/play/a019
 http://190.110.109.104:52321/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMH Movies" tvg-logo="https://i.imgur.com/e8UCKi3.png" group-title="CINE Y SERIES",FMH Movies
 http://190.110.109.104:52321/play/a011/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ciover TV" tvg-logo="https://i.postimg.cc/k4jz0ykQ/clover.webp" group-title="CINE Y SERIES",Ciover TV
-http://177.234.230.226:8010/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="ultra_macho" tvg-name="Ultra Macho" tvg-logo="https://i.imgur.com/HwqmGcU.png" group-title="CINE Y SERIES",Ultra Macho
-http://138.186.20.13:23200/play/a0eu?m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultra Cine" tvg-logo="https://i.imgur.com/mSxtgcu.png" group-title="CINE Y SERIES PREMIUM",Ultra Cine
-http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/73895.m3u8
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="Warner" tvg-logo="https://i.postimg.cc/FFLMVvg9/100px-Warner-TV-logo-svg.png" group-title="CINE Y SERIES PREMIUM",Warner
 http://45.228.232.219:16000/play/a0mz/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="Warner *" tvg-logo="https://i.postimg.cc/pTYrsXMg/Warner-Channel-HD.webp" group-title="CINE Y SERIES PREMIUM",Warner *
@@ -903,6 +897,12 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/4142
 http://138.59.177.34:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Nuestra Visión" tvg-logo="https://i.postimg.cc/ZRjLJ6HJ/NV-Web-Logo-3-D-20180904-900.png" group-title="CINE Y SERIES PREMIUM",Nuestra Visión
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ciover TV" tvg-logo="https://i.postimg.cc/k4jz0ykQ/clover.webp" group-title="CINE Y SERIES PREMIUM",Ciover TV
+http://177.234.230.226:8010/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="ultra_macho" tvg-name="Ultra Macho" tvg-logo="https://i.imgur.com/HwqmGcU.png" group-title="CINE Y SERIES PREMIUM",Ultra Macho
+http://138.186.20.13:23200/play/a0eu?m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultra Cine" tvg-logo="https://i.imgur.com/mSxtgcu.png" group-title="CINE Y SERIES PREMIUM",Ultra Cine
+http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/73895.m3u8
 #EXTINF:-1 tvg-id="Hallmark.Channel.HDTV.(East).(HALLHD).us" tvg-name="Hallmark" tvg-logo="https://imgur.com/WuFAju1.png" group-title="CINE INGLES",Hallmark
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="Hallmark Drama" tvg-logo="https://imgur.com/XzzXJPs.png" group-title="CINE INGLES",Hallmark Drama
