@@ -901,8 +901,15 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 http://177.234.230.226:8010/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="ultra_macho" tvg-name="Ultra Macho" tvg-logo="https://i.imgur.com/HwqmGcU.png" group-title="CINE Y SERIES PREMIUM",Ultra Macho
 http://138.186.20.13:23200/play/a0eu?m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultra Cine" tvg-logo="https://i.imgur.com/mSxtgcu.png" group-title="CINE Y SERIES PREMIUM",Ultra Cine
+#EXTINF:-1 tvg-id="ultra_cine" tvg-name="Ultra Cine" tvg-logo="https://i.imgur.com/mSxtgcu.png" group-title="CINE Y SERIES PREMIUM",Ultra Cine
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/73895.m3u8
+#EXTINF:-1 tvg-id="ultra_familia" tvg-name="Ultra Familia" tvg-logo="https://i.imgur.com/OZpDJsV.png" group-title="CINE Y SERIES PREMIUM",Ultra Familia
+http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/73897.m3u8
+#EXTINF:-1 tvg-id="ultra_familia" tvg-name="Ultra Clásicos" tvg-logo="https://i.imgur.com/kwsIXjh.png" group-title="CINE Y SERIES PREMIUM",Ultra Clásicos
+http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/73896.m3u8
+#EXTINF:-1 tvg-id="ultra_familia" tvg-name="Ultra Familia" tvg-logo="https://i.imgur.com/OZpDJsV.png" group-title="CINE Y SERIES PREMIUM",Ultra Familia
+
+
 #EXTINF:-1 tvg-id="Hallmark.Channel.HDTV.(East).(HALLHD).us" tvg-name="Hallmark" tvg-logo="https://imgur.com/WuFAju1.png" group-title="CINE INGLES",Hallmark
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="Hallmark Drama" tvg-logo="https://imgur.com/XzzXJPs.png" group-title="CINE INGLES",Hallmark Drama
@@ -2869,3 +2876,200 @@ https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8?hdnts=
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MR. Pickles" tvg-logo="https://static.next-episode.net/tv-shows-images/huge/mr.-pickles.jpg" group-title="24-7 INGLÉS",MR. Pickles
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
+#EXTINF:-1 tvg-name="Miami TV Latino"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/iJX39YI.png"group-title="XXX":http-referrer="":http-user-agent="",Miami TV Latino
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami TV"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/eqG1j7o.png"group-title="XXX":http-referrer="":http-user-agent="",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/playlist.m3u8
+#EXTINF:-1 tvg-name="Jenny Live (miami TV)"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/JXJPZLS.png"group-title="XXX":http-referrer="":http-user-agent="",Jenny Live (miami TV)
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami TV Mexico"tvg-id="MiamiTVMexico.us"tvg-logo="https://i.imgur.com/MpQtdTb.png"group-title="XXX":http-referrer="":http-user-agent="",Miami TV Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 tvg-name="Sunbeach TV"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/wTX8vrMP/image.jpg"group-title="XXX":http-referrer="":http-user-agent="",Sunbeach TV
+http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
+#EXTINF:-1 tvg-name="Blue Hustler"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png"group-title="XXX":http-referrer="":http-user-agent="",Blue Hustler
+http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/38940/hls/pl.m3u8
+#EXTINF:-1 tvg-name="O-la-la"tvg-id="Olala.ru"tvg-logo="https://imgur.com/Syrk3A5.png"group-title="XXX":http-referrer="":http-user-agent="",O-la-la
+http://31.148.48.15/O-la-la/index.m3u8
+#EXTINF:-1 tvg-name="Barely Legal"tvg-id="ext"tvg-logo="https://imgur.com/6UzqYrV.png"group-title="XXX":http-referrer="":http-user-agent="",Barely Legal
+http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/23879/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Шалун TB"tvg-id="shalun"tvg-logo="https://i.postimg.cc/3x0NbwzK/image.png"group-title="XXX":http-referrer="":http-user-agent="",Шалун TB
+http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/43882/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Russkaya Noch"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/ZqcPaV4.jpg"group-title="XXX":http-referrer="":http-user-agent="",Russkaya Noch
+http://27e10a7c.shukinuki.ru/iptv/CPWYWPECQLUT8X/147/index.m3u8
+#EXTINF:-1 tvg-name="RED Lips"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/bvXcYYrN/image.png"group-title="XXX":http-referrer="":http-user-agent="",RED Lips
+http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
+#EXTINF:-1 tvg-name="French Lover"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/LeZSYVX.png"group-title="XXX":http-referrer="":http-user-agent="",French Lover
+http://hardcoremedia.xyz:80/FightEat23/6273034998/129372
+#EXTINF:-1 tvg-name="Erox"tvg-id="EroXHD.nl"tvg-logo="https://i.imgur.com/1EOQFqE.png"group-title="XXX":http-referrer="":http-user-agent="",Erox
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1 tvg-name="Eroxxx"tvg-id="EroXXXHD.nl"tvg-logo="https://i.imgur.com/ZNBLK41.png"group-title="XXX":http-referrer="":http-user-agent="",Eroxxx
+http://88.135.128.20:7272/urYgd52Dcxp47Ge
+#EXTINF:-1 tvg-name="Кино 18+ International"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/0tKG6eQ.png"group-title="XXX":http-referrer="":http-user-agent="",Кино 18+ International
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 tvg-name="Playboy Latino"tvg-id="Playboy.ar"tvg-logo="https://imgur.com/GvREfzT.png"group-title="XXX":http-referrer="":http-user-agent="",Playboy Latino
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="Venus"tvg-id="Venus.International.(VENUS).[1032].cr"tvg-logo="https://i.postimg.cc/RCgs8Nvx/100px-Canal-Venus-logo-svg.png"group-title="XXX":http-referrer="":http-user-agent="",Venus
+http://45.228.232.205:16000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-name="Brazzers Europe"tvg-id="BrazzersTVEurope.us"tvg-logo="https://i.postimg.cc/jjyFWSwN/BRAZZERS-TV-2015.png"group-title="XXX":http-referrer="":http-user-agent="",Brazzers Europe
+http://27e10a7c.shukinuki.ru/iptv/CPWYWPECQLUT8X/910/index.m3u8
+#EXTINF:-1 tvg-name="Bang Bros"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bang_Bros_logo.png"group-title="XXX":http-referrer="":http-user-agent="",Bang Bros
+http://df788d5d.edemist.com/iptv/3UWVL43MXBUMD8/5012/index.m3u8
+#EXTINF:-1 tvg-name="Dorcel TV"tvg-id="DorcelTV.nl"tvg-logo="https://i.postimg.cc/g2s1YNWr/DORCEL-TV-2012.png"group-title="XXX":http-referrer="":http-user-agent="",Dorcel TV
+https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Sexy Hot"tvg-id="(no tvg-id)"tvg-logo="https://quintal.cc/wp-content/uploads/2017/11/marca_sexyhot.png"group-title="XXX":http-referrer="":http-user-agent="",Sexy Hot
+http://uniplayuhd.cdn23.click:80/45125607/7542264/260420
+#EXTINF:-1 tvg-name="Sextreme"tvg-id="Sextreme.(SEXTR).[962].cr"tvg-logo="https://i.postimg.cc/j55gdbhF/Sextreme.png"group-title="XXX":http-referrer="":http-user-agent="",Sextreme
+http://uniplayuhd.cdn23.click:80/45125607/7542264/260421
+#EXTINF:-1 tvg-name="Sexprivé"tvg-id="ext"tvg-logo="https://i.postimg.cc/HL1qnv0Y/Sexprive.png"group-title="XXX":http-referrer="":http-user-agent="",Sexprivé
+http://tv.com.vc:80/vitor1/vitor123/967475
+#EXTINF:-1 tvg-name="Brasileirihnas"tvg-id="(no tvg-id)"tvg-logo="https://i.imgur.com/ooTdd64.png"group-title="XXX":http-referrer="":http-user-agent="",Brasileirihnas
+http://tv.com.vc:80/vitor1/vitor123/981417
+#EXTINF:-1 tvg-name="Erotic"tvg-id="(no tvg-id)"tvg-logo="https://imgur.com/tuUKuzI.png"group-title="XXX":http-referrer="":http-user-agent="",Erotic
+http://hardcoremedia.xyz:80/FightEat23/6273034998/129487
+#EXTINF:-1 tvg-name="Private HD"tvg-id="PrivateTV.nl"tvg-logo="https://i.postimg.cc/VkqHK46D/PRIVATE-TV.png"group-title="XXX":http-referrer="":http-user-agent="",Private HD
+https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Redlight"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/MHBhqw68/Redlight-HD.png"group-title="XXX":http-referrer="":http-user-agent="",Redlight
+https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="Hustler HD"tvg-id="Hustler.HD.(Dish).(HUSLRH).us"tvg-logo="https://i.postimg.cc/NfrnHQwh/HUSTLER-TV-HD.png"group-title="XXX":http-referrer="":http-user-agent="",Hustler HD
+https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="HOT"tvg-id="(no tvg-id)"tvg-logo="https://imgur.com/RzaggSV.png"group-title="XXX":http-referrer="":http-user-agent="",HOT
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6275/index.m3u8
+#EXTINF:-1 tvg-name="SuperOne"tvg-id="ext"tvg-logo="https://i.imgur.com/iLghsJI.png"group-title="XXX":http-referrer="":http-user-agent="",SuperOne
+http://hardcoremedia.xyz:80/FightEat23/6273034998/129587
+#EXTINF:-1 tvg-name="Penthouse Gold"tvg-id="PenthouseGold.us"tvg-logo="https://i.postimg.cc/QddYFVsh/image.png"group-title="XXX":http-referrer="":http-user-agent="",Penthouse Gold
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 tvg-name="Blacked"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/0ynfz5YM/f164c370-4e8d-4c47-8fbf-0242814678e8.png"group-title="XXX":http-referrer="":http-user-agent="",Blacked
+http://uniplayuhd.cdn23.click:80/45125607/7542264/260436
+#EXTINF:-1 tvg-name="Vivid Red"tvg-id="(no tvg-id)"tvg-logo="https://i.postimg.cc/pLW11zFv/Vivid.png"group-title="XXX":http-referrer="":http-user-agent="",Vivid Red
+http://37.48.101.149:7019/play/a027
+#EXTINF:-1 tvg-name="Babes"tvg-id="(no tvg-id)"tvg-logo="https://imgur.com/lp5XXG5.png"group-title="XXX":http-referrer="":http-user-agent="",Babes
+http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/37449/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Digital Playground"tvg-id="ext"tvg-logo="https://imgur.com/XV1zQti.png"group-title="XXX":http-referrer="":http-user-agent="",Digital Playground
+http://uniplayuhd.cdn23.click:80/45125607/7542264/260454
+#EXTINF:-1 tvg-name="HOT Guys Fuck"tvg-id="ext"tvg-logo="https://imgur.com/R1pCh5p.png"group-title="XXX":http-referrer="":http-user-agent="",HOT Guys Fuck
+http://mn.appserv19.xyz:2095/Xplus-1-6YMlqYoGAq/GP2pZowW4o/663
+#EXTINF:-1 tvg-name="XY Max"tvg-id="ext"tvg-logo="https://i.imgur.com/BgVLSOR.png"group-title="XXX":http-referrer="":http-user-agent="",XY Max
+http://hardcoremedia.xyz:80/FightEat23/6273034998/129596
+#EXTINF:-1 tvg-name="XY Mix"tvg-id="ext"tvg-logo="https://i.imgur.com/ndADAjz.png"group-title="XXX":http-referrer="":http-user-agent="",XY Mix
+http://hardcoremedia.xyz:80/FightEat23/6273034998/129596
+#EXTINF:-1 tvg-name="XY Plus"tvg-id="ext"tvg-logo="https://i.imgur.com/O6Adh0T.png"group-title="XXX":http-referrer="":http-user-agent="",XY Plus
+http://hardcoremedia.xyz:80/FightEat23/6273034998/129597
+#EXTINF:-1 tvg-name="Desire"tvg-id="ext"tvg-logo="https://i.postimg.cc/VsFcHb8p/Desire-Merch-Logo.png"group-title="XXX":http-referrer="":http-user-agent="",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="PornStar 1"tvg-id="ext"tvg-logo="https://i.imgur.com/Rg1VHVo.png"group-title="XXX":http-referrer="":http-user-agent="",PornStar 1
+http://hardcoremedia.xyz:80/FightEat23/6273034998/29741
+#EXTINF:-1 tvg-name="PornStar 2"tvg-id="ext"tvg-logo="https://i.imgur.com/Rg1VHVo.png"group-title="XXX":http-referrer="":http-user-agent="",PornStar 2
+http://hardcoremedia.xyz:80/FightEat23/6273034998/29783
+#EXTINF:-1 tvg-name="Fake Taxi"tvg-id="ext"tvg-logo="https://i.postimg.cc/26rP9YpP/1280px-Fake-Taxi-logo-svg.png"group-title="XXX":http-referrer="":http-user-agent="",Fake Taxi
+http://uniplayuhd.cdn23.click:80/45125607/7542264/260467
+#EXTINF:-1 tvg-name="Balkan Erotic"tvg-id="Balkan Erotic HD"tvg-logo="https://i.postimg.cc/7Pgp8fPj/Balkan-Erotic-1-150x150.png"group-title="XXX":http-referrer="":http-user-agent="",Balkan Erotic
+http://hardcoremedia.xyz:80/FightEat23/6273034998/129352
+#EXTINF:-1 tvg-name="Letsdoeit"tvg-id="ext"tvg-logo="https://i.imgur.com/FX4rhAe.png"group-title="XXX":http-referrer="":http-user-agent="",Letsdoeit
+http://hardcoremedia.xyz:80/FightEat23/6273034998/28907
+#EXTINF:-1 tvg-name="Men"tvg-id=""tvg-logo="https://i.imgur.com/agEhwH9.png"group-title="XXX":http-referrer="":http-user-agent="",Men
+http://hardcoremedia.xyz:80/FightEat23/6273034998/29770
+#EXTINF:-1 tvg-name="Maiden Van Holland"tvg-id="ext"tvg-logo="https://i.imgur.com/dtFtMXy.png"group-title="XXX":http-referrer="":http-user-agent="",Maiden Van Holland
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1 tvg-name="Mylf TV"tvg-id="ext"tvg-logo="https://i.imgur.com/LwEJGJT.png"group-title="XXX":http-referrer="":http-user-agent="",Mylf TV
+http://mn.appserv19.xyz:2095/Xplus-1-zCsFdHbJ1C/3sH6i7hsGb/661
+#EXTINF:-1 tvg-name="Reality Kings"tvg-id="ealityKings.ero"tvg-logo="https://i.postimg.cc/sD2731FT/image.png"group-title="XXX":http-referrer="":http-user-agent="",Reality Kings
+http://tv.com.vc:80/vitor1/vitor123/1000747
+#EXTINF:-1 tvg-name="Exxxotica TV"tvg-id="ext"tvg-logo="https://i.imgur.com/vz5SiL6.png"group-title="XXX":http-referrer="":http-user-agent="",Exxxotica TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2397/index.m3u8
+#EXTINF:-1 tvg-name="Evil Angel"tvg-id="ext"tvg-logo="https://i.imgur.com/3pi5E95.png"group-title="XXX":http-referrer="":http-user-agent="",Evil Angel
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6199/index.m3u8
+#EXTINF:-1 tvg-name="Naughty America"tvg-id="ext"tvg-logo="https://i.imgur.com/S6gM1ct.png"group-title="XXX":http-referrer="":http-user-agent="",Naugthy America
+http://hardcoremedia.xyz:80/FightEat23/6273034998/29786
+#EXTINF:-1 tvg-name="Team Skeet"tvg-id="ext"tvg-logo="https://i.imgur.com/tmFAc9Z.jpg"group-title="XXX":http-referrer="":http-user-agent="",Team Skeet
+http://uniplayuhd.cdn23.click:80/45125607/7542264/260451
+#EXTINF:-1 tvg-name="Vixen"tvg-id="ext"tvg-logo="https://i.imgur.com/cLyA2pj.png"group-title="XXX":http-referrer="":http-user-agent="",Vixen
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6265/index.m3u8
+#EXTINF:-1 tvg-name="Fastboyz"tvg-id="Fastboyz HD"tvg-logo="https://i.imgur.com/sv1ka8H.png"group-title="XXX":http-referrer="":http-user-agent="",Fastboyz
+http://tv.com.vc:80/vitor1/vitor123/967477
+#EXTINF:-1 tvg-name="CUM 4K"tvg-id="ext"tvg-logo="https://imgur.com/ttjDQIu.png"group-title="XXX":http-referrer="":http-user-agent="",CUM 4K
+http://uniplayuhd.cdn23.click:80/45125607/7542264/260446
+#EXTINF:-1 tvg-name="XMO"tvg-id="X-MO.ero"tvg-logo="https://i.postimg.cc/c1TT8kWx/x-mo-logo-01-2-400x400.png"group-title="XXX":http-referrer="":http-user-agent="",XMO
+http://972295758683759977.ofd112.xyz:80/play/mi1218154/u7u@3eet8wg/759977.ts
+#EXTINF:-1 tvg-name="Dusk"tvg-id="ext"tvg-logo="https://i.imgur.com/6kXAxdL.png"group-title="XXX":http-referrer="":http-user-agent="",Dusk
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1 tvg-name="Adult Time"tvg-id="ext"tvg-logo="https://i.imgur.com/4I4TCKe.png"group-title="XXX":http-referrer="":http-user-agent="",Adult Time
+http://uniplayuhd.cdn23.click:80/45125607/7542264/260449
+#EXTINF:-1 tvg-name="LEO TV"tvg-id="LeoTV.ero"tvg-logo="https://imgur.com/qIeRKfP.png"group-title="XXX":http-referrer="":http-user-agent="",LEO TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6272/index.m3u8
+#EXTINF:-1 tvg-name="Alba Xxx"tvg-id="ext"tvg-logo="https://i.imgur.com/X0wrQjc.png"group-title="XXX":http-referrer="":http-user-agent="",Alba Xxx
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12105/index.m3u8
+#EXTINF:-1 tvg-name="21sextury"tvg-id="ext"tvg-logo="https://i.imgur.com/7bot3oG.png"group-title="XXX":http-referrer="":http-user-agent="",21sextury
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12205/index.m3u8
+#EXTINF:-1 tvg-name="PornBox 1"tvg-id="ext"tvg-logo="https://i.imgur.com/1bLwuuQ.png"group-title="XXX":http-referrer="":http-user-agent="",PornBox 1
+http://uniplayuhd.cdn23.click:80/45125607/7542264/260429
+#EXTINF:-1 tvg-name="PornBox 2"tvg-id="ext"tvg-logo="https://i.imgur.com/1bLwuuQ.png"group-title="XXX":http-referrer="":http-user-agent="",PornBox 2
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1 tvg-name="PornBox 3"tvg-id="ext"tvg-logo="https://i.imgur.com/1bLwuuQ.png"group-title="XXX":http-referrer="":http-user-agent="",PornBox 3
+http://uniplayuhd.cdn23.click:80/45125607/7542264/260426
+#EXTINF:-1 tvg-name="Hardx"tvg-id="ext"tvg-logo="https://i.postimg.cc/3NN7JnqF/100px-Hard-X-logo-svg.png"group-title="XXX":http-referrer="":http-user-agent="",Hardx
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6218/index.m3u8
+#EXTINF:-1 tvg-name="Private TV"tvg-id="ext"tvg-logo="https://i.imgur.com/NO0xd8p.png"group-title="XXX":http-referrer="":http-user-agent="",Private TV
+http://23.237.100.82:8000/HUSTLER/index.m3u8
+#EXTINF:-1 tvg-name="FAP TV"tvg-id=""tvg-logo="https://i.imgur.com/RkqnQFa.png"group-title="XXX":http-referrer="":http-user-agent="",FAP TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6203/index.m3u8
+#EXTINF:-1 tvg-name="Passion XXX"tvg-id=""tvg-logo="https://i.imgur.com/4eZLU27.png"group-title="XXX":http-referrer="":http-user-agent="",Passion XXX
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1 tvg-name="Tiny4K"tvg-id=""tvg-logo="https://i.imgur.com/0jMyttK.png"group-title="XXX":http-referrer="":http-user-agent="",Tiny4k
+http://hardcoremedia.xyz:80/FightEat23/6273034998/29659
+#EXTINF:-1 tvg-name="Cartoons +18"tvg-id=""tvg-logo="https://i.imgur.com/YaM3Edp.png"group-title="XXX":http-referrer="":http-user-agent="",Cartoons +18
+http://hardcoremedia.xyz:80/FightEat23/6273034998/28892
+#EXTINF:-1 tvg-name="Adult Cinema 1"tvg-id=""tvg-logo="https://i.imgur.com/qoCGkO8.png"group-title="XXX":http-referrer="":http-user-agent="",Adult Cinema 1
+http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/29047/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Anal"tvg-id="AdultIPTVnetAnal.us"tvg-logo="https://i.imgur.com/lRjteCy.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Anal
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Asian"tvg-id="AdultIPTVnetAsian.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Asian
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Big Ass"tvg-id="AdultIPTVnetBigAss.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Big Ass
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Big Dick"tvg-id="AdultIPTVnetBigDick.us"tvg-logo="https://i.imgur.com/sw9wV5x.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Big Dick
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Big Tits"tvg-id="AdultIPTVnetBigTits.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Big Tits
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Blonde"tvg-id="AdultIPTVnetBlonde.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Blonde
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Blowjob"tvg-id="AdultIPTVnetBlowjob.us"tvg-logo="https://i.imgur.com/ehjDL24.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Blowjob
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Brunette"tvg-id="AdultIPTVnetBrunette.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Brunette
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Compilation"tvg-id="AdultIPTVnetCompilation.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Compilation
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Cuckold"tvg-id="AdultIPTVnetCuckold.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Cuckold
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Fetish"tvg-id="AdultIPTVnetFetish.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Fetish
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Gangbang"tvg-id="AdultIPTVnetGangbang.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Gangbang
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Gay"tvg-id="AdultIPTVnetGay.us"tvg-logo="https://i.imgur.com/6yg1V7y.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Gay
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Hardcore"tvg-id="AdultIPTVnetHardcore.us"tvg-logo="https://i.imgur.com/HUARn9G.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Hardcore
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Interracial"tvg-id="AdultIPTVnetInterracial.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Interracial
+https://cdn.adultiptv.net/interracial.m3u
+#EXTINF:-1 tvg-name="Adultiptv.net Latina"tvg-id="AdultIPTVnetLatina.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Latina
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Lesbian"tvg-id="AdultIPTVnetLesbian.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Lesbian
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Live Cams"tvg-id="AdultIPTVnetLiveCams.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Live Cams
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Milf"tvg-id="AdultIPTVnetMILF.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Milf
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Pornstar"tvg-id="AdultIPTVnetPornstar.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Pornstar
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Pov"tvg-id="AdultIPTVnetPOV.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Pov
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Rough"tvg-id="AdultIPTVnetRough.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Rough
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Russian"tvg-id="AdultIPTVnetRussian.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Russian
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Teen"tvg-id="AdultIPTVnetTeen.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Teen
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Threesome"tvg-id="AdultIPTVnetThreesome.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Threesome
+https://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-name="Adultiptv.net Woman"tvg-id="AdultIPTVnetWoman.us"tvg-logo="https://i.imgur.com/cqKFF8A.png"group-title="XXX":http-referrer="":http-user-agent="",Adultiptv.net Woman
+https://live.redtraffic.net/woman.m3u8
