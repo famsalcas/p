@@ -445,10 +445,12 @@ http://45.228.232.219:16000/play/a0n5/index.m3u8
 http://45.5.117.182:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History | Mex" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png" group-title="CULTURA Y ESTILOS",History | Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4093
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2" tvg-logo="https://upload. wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y ESTILOS",H2
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/4005
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y ESTILOS",H2 *
+http://181.78.208.254:8010/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="H2 *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y ESTILOS",H2 *
 http://168.181.122.234:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 | Mex" tvg-logo="https://upload. wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y ESTILOS",H2
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/4005
 #EXTINF:-1 tvg-id="discovery_home_and_health_colombia" tvg-name="Discovery H&h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/100px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA Y ESTILOS",Discovery H&h
 http://45.228.232.219:16000/play/a0nw/index.m3u8
 #EXTINF:-1 tvg-id="discovery_home_and_health_colombia" tvg-name="Discovery H&h *" tvg-logo="https://imgur.com/3CaI0qc.png" group-title="CULTURA Y ESTILOS",Discovery H&h *
@@ -469,7 +471,7 @@ http://45.235.37.254:8370/play/a015
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155820
 #EXTINF:-1 tvg-id="Food.Network.HD.(Latin.America).(FOODHD).[938].cr" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png" group-title="CULTURA Y ESTILOS",Food Network
 http://45.232.210.27:8000/play/foodnetworkhd
-#EXTINF:-1 tvg-id="Más.Chic.TV.International.(MASCHINT).do" tvg-name="M?S Chic" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png" group-title="CULTURA Y ESTILOS",M?S Chic
+#EXTINF:-1 tvg-id="Más.Chic.TV.International.(MASCHINT).do" tvg-name="Más Chic" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png" group-title="CULTURA Y ESTILOS",M?S Chic
 http://45.4.85.214:58001/play/a007
 #EXTINF:-1 tvg-id="Sun.Channel.TV.(SUNTV).ar" tvg-name="SUN Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sun_channel.png" group-title="CULTURA Y ESTILOS",SUN Channel
 http://45.232.210.27:8000/play/a0aj
@@ -814,7 +816,7 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/1143815
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax" tvg-logo="https://imgur.com/ay3iZUG.png" group-title="CINE Y SERIES PREMIUM",Cinemax
 http://138.59.177.34:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="CINEMAX *" tvg-logo="https://i.postimg.cc/mkx1ZNCB/320px-Cinemax-LA.png" group-title="CINE Y SERIES PREMIUM",CINEMAX *
-http://190.90.251.194:8921/play/a00d/index.m3u8
+http://181.78.208.254:8010/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="CinecanalPacific.us" tvg-name="Cinecanal" tvg-logo="https://imgur.com/yCoyB0m.png" group-title="CINE Y SERIES PREMIUM",Cinecanal
 http://167.250.222.35:16000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="CinecanalPacific.us" tvg-name="CIinecanal *" tvg-logo="https://imgur.com/yCoyB0m.png" group-title="CINE Y SERIES PREMIUM",CIinecanal *
@@ -850,11 +852,11 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155873
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png" group-title="CINE Y SERIES PREMIUM",Golden
 http://167.250.222.35:16000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="Golden *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png" group-title="CINE Y SERIES PREMIUM",Golden *
-http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/95049
+http://45.177.53.7:8000/play/a0kt/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png" group-title="CINE Y SERIES PREMIUM",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="golden_edge" tvg-name="Golden Edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="CINE Y SERIES PREMIUM",Golden Edge
-http://45.177.53.7:8000/play/a0kt/index.m3u8
+http://181.78.208.254:8010/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" group-title="CINE Y SERIES PREMIUM",Golden Premier 1
 http://138.59.177.34:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="Golden Premiere 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" group-title="CINE Y SERIES PREMIUM",Golden Premiere 2
@@ -1268,7 +1270,7 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSur.(TELESUR).[984].cr" tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/219px-TeleSUR-Logo.svg.png" group-title="NOTICIAS",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN Espanol" tvg-logo="https://i.imgur.com/OsDX6V9.png" group-title="NOTICIAS",CNN Espanol
-http://45.228.232.219:16000/play/a0m8/index.m3u8
+http://181.78.208.254:8010/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-logo="https://i.imgur.com/Iaael1g.png" group-title="NOTICIAS",CNN Chile
 http://45.71.252.16:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Español Resumen" tvg-logo="https://i.postimg.cc/YqCCHGtH/CNN-RESUMEN.png" group-title="NOTICIAS",CNN Español Resumen
