@@ -631,8 +631,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1311
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teleclásica Live" tvg-logo="https://i.imgur.com/k8KoB7a.jpg" group-title="CINE Y SERIES",Teleclásica Live
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planeta TV Movies" tvg-logo="https://i.imgur.com/B7mcf7I.png" group-title="CINE Y SERIES",Planeta TV Movies
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dreiko" tvg-logo="https://i.postimg.cc/HWP7NJpL/cropped-logo-1024x707.png" group-title="CINE Y SERIES",Dreiko
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ChinolaTV.do" tvg-name="Chinola TV" tvg-logo="https://i.postimg.cc/9fnysM06/chinola-tv.png" group-title="CINE Y SERIES",Chinola TV
