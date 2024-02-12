@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/gatotv.com.xml" cache=1000 deinterlace=1 aspect-ratio="16:9"
+#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/gatotv.com.xml" cache=1000 aspect-ratio="16:9"
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="Canal 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",Canal 1 CR
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
@@ -173,18 +173,18 @@ https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
 https://250weu.bozztv.com/ssh101/ssh101/visionamerica/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bethel Costa Rica" tvg-logo="https://i.postimg.cc/fymS29C1/logo-2dbethel.png" group-title="COSTA RICA",Bethel Costa Rica
 https://pop-ts.iptv-global.net/BethelCostaRica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/qOKmNws.png" group-title="KIDS",Paka Paka
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teletubbies" tvg-logo="https://www.nicepng.com/png/detail/132-1320237_a-teletubbies-logo-teletubbies-logo-png.png" group-title="KIDS",Teletubbies
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="zoomoo_latinoamerica" tvg-name="ZooMoo Latinoamérica" tvg-logo="https://i.imgur.com/xdPPN2p.png" group-title="KIDS",ZooMoo Latinoamérica
 http://138.118.105.190:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.(Latin.America).(CTNO).[309].cr" tvg-name="Cartoonito" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoonito.png" group-title="KIDS",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV" tvg-logo="https://graph.facebook.com/ITVPatagonia/picture?width=200&height=200" group-title="KIDS",ITV
-https://marine2.miplay.cl/itv/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toon Googles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="KIDS",Toon Googles
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planeta TV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="KIDS",Planeta TV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planeta TV Familia" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="KIDS",Planeta TV Familia
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SemillitasTV.us" tvg-name="Semillitas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Semillitas_logo.png/revision/latest?cb=20210807052349&path-prefix=es" group-title="KIDS",Semillitas
 http://167.250.222.35:16000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="Disney.Junior.(North.Feed).(DISJR).[304].cr" tvg-name="Disney Junior" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_junior.png" group-title="KIDS",Disney Junior
@@ -195,22 +195,26 @@ http://45.228.232.205:16000/play/a02b/index.m3u8
 http://45.228.232.205:16000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-name="BOB Esponja" tvg-logo="https://imgur.com/8GAukOD.png" group-title="KIDS",BOB Esponja
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canela Kids" tvg-logo="https://play-lh.googleusercontent.com/nGSJiclhwDVCsZSRlniu24xUhtI30Q-c7ODuTQv7MK5uiaZkT0fbXaC-Tf49_lKwCzs=w240-h480-rw" group-title="KIDS",Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 tvg-id="nickelodeon_centro" tvg-name="Nickelodeon" tvg-logo="https://imgur.com/uULnO13.png" group-title="KIDS",Nickelodeon
-http://170.82.37.21:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toon Tubers" tvg-logo="https://i.imgur.com/dxHOu8m.png" group-title="KIDS",Toon Tubers
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="Dreamworks.us" tvg-name="Dreamworks" tvg-logo="https://i.imgur.com/uV9AQOA.png" group-title="KIDS",Dreamworks
 http://190.217.52.76:8540/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.(Latin.America.-.Panregional).(TOON).[305].cr" tvg-name="Cartoon Network (atl S)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",Cartoon Network (atl S)
 http://45.228.232.205:16000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toon Tubers" tvg-logo="https://i.imgur.com/dxHOu8m.png" group-title="KIDS",Toon Tubers
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="nickelodeon_centro" tvg-name="Nickelodeon" tvg-logo="https://imgur.com/uULnO13.png" group-title="KIDS",Nickelodeon
+http://190.90.154.73:8080/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canela Kids" tvg-logo="https://play-lh.googleusercontent.com/nGSJiclhwDVCsZSRlniu24xUhtI30Q-c7ODuTQv7MK5uiaZkT0fbXaC-Tf49_lKwCzs=w240-h480-rw" group-title="KIDS",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="Disney Channel Centro" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel.png" group-title="KIDS",Disney Channel Centro
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/4004
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel Sur" tvg-logo="" group-title="KIDS",Disney Channel Sur
+http://190.90.154.73:8080/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast.Latin.America.(TOONC).[310].cr" tvg-name="Tooncast" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png" group-title="KIDS",Tooncast
 http://45.228.232.219:16000/play/a0mw/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="Disney Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel.png" group-title="KIDS",Disney Channel
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/4004
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moni TV" tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="KIDS",Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV" tvg-logo="https://graph.facebook.com/ITVPatagonia/picture?width=200&height=200" group-title="KIDS",ITV
+https://marine2.miplay.cl/itv/mono.m3u8
 #EXTINF:-1 tvg-chno="125" tvg-id="(no tvg-id)" tvg-name="Esperanza TV" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="RELIGION",Esperanza TV
 http://tv.esperanzatvcr.org:1935/WEB/WEB_source/chunklist_w918924677.m3u8
 #EXTINF:-1 tvg-id="ewtn_en_espanol" tvg-name="Ewtn Latam" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ewtn_en_espanol.png" group-title="RELIGION",Ewtn Latam
@@ -443,11 +447,11 @@ http://45.228.232.219:16000/play/a0n5/index.m3u8
 http://45.5.117.182:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History | Mex" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png" group-title="CULTURA Y ESTILOS",History | Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4093
-#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y ESTILOS",H2 *
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y ESTILOS",H2
 http://181.78.208.254:8010/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="H2 *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y ESTILOS",H2 *
 http://168.181.122.234:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 | Mex" tvg-logo="https://upload. wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y ESTILOS",H2
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 | Mex" tvg-logo="https://upload. wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y ESTILOS",H2 | Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4005
 #EXTINF:-1 tvg-id="discovery_home_and_health_colombia" tvg-name="Discovery H&h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/100px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA Y ESTILOS",Discovery H&h
 http://45.228.232.219:16000/play/a0nw/index.m3u8
@@ -469,7 +473,7 @@ http://45.235.37.254:8370/play/a015
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155820
 #EXTINF:-1 tvg-id="Food.Network.HD.(Latin.America).(FOODHD).[938].cr" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png" group-title="CULTURA Y ESTILOS",Food Network
 http://45.232.210.27:8000/play/foodnetworkhd
-#EXTINF:-1 tvg-id="Más.Chic.TV.International.(MASCHINT).do" tvg-name="Más Chic" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png" group-title="CULTURA Y ESTILOS",M?S Chic
+#EXTINF:-1 tvg-id="Más.Chic.TV.International.(MASCHINT).do" tvg-name="Más Chic" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png" group-title="CULTURA Y ESTILOS",Más Chic
 http://45.4.85.214:58001/play/a007
 #EXTINF:-1 tvg-id="Sun.Channel.TV.(SUNTV).ar" tvg-name="SUN Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sun_channel.png" group-title="CULTURA Y ESTILOS",SUN Channel
 http://45.232.210.27:8000/play/a0aj
@@ -627,8 +631,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1311
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teleclásica Live" tvg-logo="https://i.imgur.com/k8KoB7a.jpg" group-title="CINE Y SERIES",Teleclásica Live
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="74 TV" tvg-logo="https://pbs.twimg.com/profile_images/1233210919070638081/LFXXLzrw_400x400.jpg" group-title="CINE Y SERIES",74 TV
-https://stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planeta TV Movies" tvg-logo="https://i.imgur.com/B7mcf7I.png" group-title="CINE Y SERIES",Planeta TV Movies
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dreiko" tvg-logo="https://i.postimg.cc/HWP7NJpL/cropped-logo-1024x707.png" group-title="CINE Y SERIES",Dreiko
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ChinolaTV.do" tvg-name="Chinola TV" tvg-logo="https://i.postimg.cc/9fnysM06/chinola-tv.png" group-title="CINE Y SERIES",Chinola TV
@@ -639,8 +643,8 @@ https://250weu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xtrema Anime" tvg-logo="https://imgur.com/LvxfGAA.png" group-title="CINE Y SERIES",Xtrema Anime
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/chunklist_w349013997.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime Zone" tvg-logo="http://azxtv.com/aztv.png" group-title="CINE Y SERIES",Anime Zone
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime Zone" tvg-logo="https://i.imgur.com/uxclWQ5.png" group-title="CINE Y SERIES",Anime Zone
+http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animestation" tvg-logo="https://i.imgur.com/np7eCLT.jpg" group-title="CINE Y SERIES",Animestation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magic Kids TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Magic-2003.gif/revision/latest/scale-to-width-down/250?cb=20220402153154" group-title="CINE Y SERIES",Magic Kids TV
@@ -735,6 +739,8 @@ http://190.110.109.104:52321/play/a012/index.m3u8
 http://190.110.109.104:52321/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultra Cine" tvg-logo="https://i.imgur.com/mSxtgcu.png" group-title="CINE Y SERIES PREMIUM",Ultra Cine
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/73895.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultra Cine" tvg-logo="https://i.imgur.com/mSxtgcu.png" group-title="CINE Y SERIES PREMIUM",Ultra Cine
+http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/73895.m3u8
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="Warner" tvg-logo="https://i.postimg.cc/FFLMVvg9/100px-Warner-TV-logo-svg.png" group-title="CINE Y SERIES PREMIUM",Warner
 http://45.228.232.219:16000/play/a0mz/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="Warner *" tvg-logo="https://i.postimg.cc/pTYrsXMg/Warner-Channel-HD.webp" group-title="CINE Y SERIES PREMIUM",Warner *
@@ -782,12 +788,10 @@ http://138.59.177.34:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="TeenNickLatinAmerica.us" tvg-name="Teen Nick" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teen_nick.png" group-title="CINE Y SERIES PREMIUM",Teen Nick
 http://138.59.177.34:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="comedy_central_centro" tvg-name="Comedy Central" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/comedy_central_latinoamerica.png" group-title="CINE Y SERIES PREMIUM",Comedy Central
-http://167.250.222.35:16000/play/a098/index.m3u8
+http://177.234.230.226:8010/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="truTVLatinAmerica.us" tvg-name="ADULT SWIN" tvg-logo="https://i.postimg.cc/fRWSKZ8H/40a4978a095ccdbf8dd2.png" group-title="CINE Y SERIES PREMIUM",ADULT SWIN
 http://138.59.177.34:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO" tvg-logo="https://i.imgur.com/9Hewf4B.png" group-title="CINE Y SERIES PREMIUM",HBO
-http://45.5.117.182:8000/play/a0e8/index.m3u8
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO *" tvg-logo="https://i.imgur.com/9Hewf4B.png" group-title="CINE Y SERIES PREMIUM",HBO *
 http://45.5.117.182:8000/play/a0e8/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2" tvg-logo="https://i.imgur.com/3Q4tkaV.png" group-title="CINE Y SERIES PREMIUM",HBO 2
 http://45.5.117.182:8000/play/a0et/index.m3u8
@@ -903,8 +907,6 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 http://177.234.230.226:8010/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="ultra_macho" tvg-name="Ultra Macho" tvg-logo="https://i.imgur.com/HwqmGcU.png" group-title="CINE Y SERIES PREMIUM",Ultra Macho
 http://138.186.20.13:23200/play/a0eu?m3u8
-#EXTINF:-1 tvg-id="ultra_cine" tvg-name="Ultra Cine" tvg-logo="https://i.imgur.com/mSxtgcu.png" group-title="CINE Y SERIES PREMIUM",Ultra Cine
-http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/73895.m3u8
 #EXTINF:-1 tvg-id="ultra_familia" tvg-name="Ultra Familia" tvg-logo="https://i.imgur.com/OZpDJsV.png" group-title="CINE Y SERIES PREMIUM",Ultra Familia
 http://45.90.105.74:25461/live/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/73897.m3u8
 #EXTINF:-1 tvg-id="ultra_familia" tvg-name="Ultra Clásicos" tvg-logo="https://i.imgur.com/kwsIXjh.png" group-title="CINE Y SERIES PREMIUM",Ultra Clásicos
@@ -994,7 +996,7 @@ http://45.5.117.182:8000/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-id="fox_sports_3_cono_norte" tvg-name="FOX Sports 3 *" tvg-logo="https://i.postimg.cc/q7bTJBPL/Fox-Sports-3-hd.png" group-title="DEPORTES",FOX Sports 3 *
 http://167.250.222.35:16000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="fox_sports_3_cono_sur" tvg-name="FOX Sports 3 | Sur" tvg-logo="https://imgur.com/ZbsypPY.png" group-title="DEPORTES",FOX Sports 3 | Sur
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/33475
+http://190.90.154.73:8080/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="ESPNNorth.us" tvg-name="Espn 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES",Espn 1
 http://138.59.177.34:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="ESPNNorth.us" tvg-name="Espn 1 *" tvg-logo="https://imgur.com/GQHfYVQ.png" group-title="DEPORTES",Espn 1 *
@@ -1268,7 +1270,7 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSur.(TELESUR).[984].cr" tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/219px-TeleSUR-Logo.svg.png" group-title="NOTICIAS",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN Espanol" tvg-logo="https://i.imgur.com/OsDX6V9.png" group-title="NOTICIAS",CNN Espanol
-http://181.78.208.254:8010/play/a03k/index.m3u8
+http://190.90.154.73:8080/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-logo="https://i.imgur.com/Iaael1g.png" group-title="NOTICIAS",CNN Chile
 http://45.71.252.16:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Español Resumen" tvg-logo="https://i.postimg.cc/YqCCHGtH/CNN-RESUMEN.png" group-title="NOTICIAS",CNN Español Resumen
@@ -2301,10 +2303,6 @@ https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 Gallegos" tvg-logo="https://graph.facebook.com/cable10tvhd/picture?width=200&height=200" group-title="ARGENTINA",10 Gallegos
 http://inliveserver.com:1935/8292/8292/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Latino Kids" tvg-logo="https://i.postimg.cc/LXRBsZgM/b22f37-db459382223d48f092d71151178a3797-mv2.png" group-title="URUGUAY",Latino Kids
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UCL" tvg-logo="https://www.ipuntotv.com/Images/UCL-logo.jpg" group-title="URUGUAY",UCL
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemadrid" tvg-logo="https://i.postimg.cc/nLkLY85D/320px-Tele-Madrid-svg.png" group-title="ESPAÑA",Telemadrid
 https://telemadridcfi-downloads.secure.footprint.net/104403117001/TMDVID20231119_0018/910/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA Otra TV" tvg-logo="https://i.postimg.cc/FsVsQXrn/170px-La-Otra-Logo.png" group-title="ESPAÑA",LA Otra TV
@@ -2425,6 +2423,10 @@ http://sansat.net:25461/RZDZUYRYXS/QTOPFZTT3A/127644
 http://sansat.net:25461/RZDZUYRYXS/QTOPFZTT3A/127727
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neox" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/neox.png" group-title="ESPAÑA",Neox
 http://sansat.net:25461/RZDZUYRYXS/QTOPFZTT3A/127648
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Latino Kids" tvg-logo="https://i.postimg.cc/LXRBsZgM/b22f37-db459382223d48f092d71151178a3797-mv2.png" group-title="URUGUAY",Latino Kids
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UCL" tvg-logo="https://www.ipuntotv.com/Images/UCL-logo.jpg" group-title="URUGUAY",UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="XHDF.Ciudad.de.MÃ©xico.(Azteca.Uno).DF.(AZUNO).mx" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" group-title="MEXICO",Azteca Uno
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678.m3u8
 #EXTINF:-1 tvg-id="XHDF.Ciudad.de.MÃ©xico.(Azteca.Uno).DF.(AZUNO).mx" tvg-name="Azteca Uno *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" group-title="MEXICO",Azteca Uno *
@@ -2539,6 +2541,44 @@ http://tvpanel.one:80/live/Fenix/DDD19PPP80/769449.ts
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tele Rebelde | Cuba" tvg-logo="https://i.postimg.cc/TPzCpGxc/Telerebelde2011.png" group-title="MEXICO",Tele Rebelde | Cuba
 http://4L2e9ljsmw3pGXTJAWdMFU.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=3790&t=live&f=ts
+#EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-name="THE Walking Dead" tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="24-7 ESPAÑOL",THE Walking Dead
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=false&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=40.7316&deviceLon=-73.9985&deviceMake=Chrome+Mobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=US&serverSideAds=true&sessionID=2f46e2e1-ab00-11eb-8236-0242ac110002&sid=2f46e2e1-ab00-11eb-8236-0242ac110002&userId=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doctor Who" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Doctor Who
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masterchef" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Masterchef
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=99501b49-f697-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="604928d54a4f730007ff76bc" tvg-name="CSI En Espa?ol" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="24-7 ESPAÑOL",CSI En Espa?ol
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="62f54c6439183b000769fb8f" tvg-name="Csi: Nueva York" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Csi: Nueva York
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b606e12a67b0007c9e371/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="632b5950b515b000079e6b81" tvg-name="Csi: Miami" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Csi: Miami
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b5950b515b000079e6b81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="6049295e7dcef800073c2499" tvg-name="Star Trek" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Star Trek
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Curro Jim?nez" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Curro Jim?nez
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" tvg-name="AMC En Espa?ol" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="24-7 ESPAÑOL",AMC En Espa?ol
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ncis" tvg-logo="https://i.postimg.cc/T1XpcfRn/219-2195558-ncis-ncis-tv-show-logo-png-transparent-png.png" group-title="24-7 ESPAÑOL",Ncis
+https://i.mjh.nz/PlutoTV/62f4f5de1c100100075665ef-alt.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blue Bloods" tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Blue Bloods
+https://i.mjh.nz/PlutoTV/61b3b8c645b45d0007a9bb8d-alt.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL Conquistador" tvg-logo="https://i.postimg.cc/xjyqrJzk/EL-CONQUISTADOR.png" group-title="24-7 ESPAÑOL",EL Conquistador
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/320px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" group-title="24-7 ESPAÑOL",Dragon Ball
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2336.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS Picapiedra" tvg-logo="https://i.postimg.cc/yYG4qBGV/png-transparent-the-flintstones-and-rubbles-cartoons-the-flintstones-thumbnail.png" group-title="24-7 ESPAÑOL",LOS Picapiedra
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/1141388
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2 Hombres Y Medio" tvg-logo="https://i.postimg.cc/pTpgT64f/png-clipart-two-and-a-half-men-folder-icons-two-and-a-half-men-s9-thumbnail.png" group-title="24-7 ESPAÑOL",2 Hombres Y Medio
+http://tv.nousiptv.com:8080/lorenzodiaz/229090/1147194
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOM Y Jerry" tvg-logo="https://i.postimg.cc/mDnqvydm/24-7-tom-y-jerry.png" group-title="24-7 ESPAÑOL",TOM Y Jerry
+http://tv.nousiptv.com:8080/marcosmazzutti/MM9197962/46490
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cops" tvg-logo="https://i.postimg.cc/SNDxpvRg/COPS.jpg" group-title="24-7 ESPAÑOL",Cops
+https://rightsboosterltd-cops-1-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL Chavo Del 8" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png" group-title="24-7 ESPAÑOL",EL Chavo Del 8
+http://tv.p1a.xyz:43201/az6177/6J4tnpqj7x/37746
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS Simpsons" tvg-logo="https://imgur.com/wPMRr3f.png" group-title="24-7 ESPAÑOL",LOS Simpsons
+http://tv.p1a.xyz:43201/az6177/6J4tnpqj7x/37767
 #EXTINF:-1 tvg-id="CCTV.4.(Chile).(CCTV4).[1049].cr" tvg-name="Cgtn Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CGTN_English.png/120px-CGTN_English.png" group-title="INTERNACIONAL",Cgtn Español
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hispan TV" tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="INTERNACIONAL",Hispan TV
@@ -2629,44 +2669,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3bikini" tvg-logo="https://i.imgur.com/IBfTNOr.png" group-title="INTERNACIONAL",A3bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-name="THE Walking Dead" tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="24-7 ESPAÑOL",THE Walking Dead
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=false&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=40.7316&deviceLon=-73.9985&deviceMake=Chrome+Mobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=US&serverSideAds=true&sessionID=2f46e2e1-ab00-11eb-8236-0242ac110002&sid=2f46e2e1-ab00-11eb-8236-0242ac110002&userId=
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doctor Who" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Doctor Who
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masterchef" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Masterchef
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=99501b49-f697-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="604928d54a4f730007ff76bc" tvg-name="CSI En Espa?ol" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="24-7 ESPAÑOL",CSI En Espa?ol
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="62f54c6439183b000769fb8f" tvg-name="Csi: Nueva York" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Csi: Nueva York
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b606e12a67b0007c9e371/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="632b5950b515b000079e6b81" tvg-name="Csi: Miami" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Csi: Miami
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b5950b515b000079e6b81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="6049295e7dcef800073c2499" tvg-name="Star Trek" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Star Trek
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Curro Jim?nez" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Curro Jim?nez
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" tvg-name="AMC En Espa?ol" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="24-7 ESPAÑOL",AMC En Espa?ol
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ncis" tvg-logo="https://i.postimg.cc/T1XpcfRn/219-2195558-ncis-ncis-tv-show-logo-png-transparent-png.png" group-title="24-7 ESPAÑOL",Ncis
-https://i.mjh.nz/PlutoTV/62f4f5de1c100100075665ef-alt.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blue Bloods" tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoPNG.png" group-title="24-7 ESPAÑOL",Blue Bloods
-https://i.mjh.nz/PlutoTV/61b3b8c645b45d0007a9bb8d-alt.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL Conquistador" tvg-logo="https://i.postimg.cc/xjyqrJzk/EL-CONQUISTADOR.png" group-title="24-7 ESPAÑOL",EL Conquistador
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/320px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" group-title="24-7 ESPAÑOL",Dragon Ball
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2336.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS Picapiedra" tvg-logo="https://i.postimg.cc/yYG4qBGV/png-transparent-the-flintstones-and-rubbles-cartoons-the-flintstones-thumbnail.png" group-title="24-7 ESPAÑOL",LOS Picapiedra
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/1141388
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2 Hombres Y Medio" tvg-logo="https://i.postimg.cc/pTpgT64f/png-clipart-two-and-a-half-men-folder-icons-two-and-a-half-men-s9-thumbnail.png" group-title="24-7 ESPAÑOL",2 Hombres Y Medio
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/1147194
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOM Y Jerry" tvg-logo="https://i.postimg.cc/mDnqvydm/24-7-tom-y-jerry.png" group-title="24-7 ESPAÑOL",TOM Y Jerry
-http://tv.nousiptv.com:8080/marcosmazzutti/MM9197962/46490
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cops" tvg-logo="https://i.postimg.cc/SNDxpvRg/COPS.jpg" group-title="24-7 ESPAÑOL",Cops
-https://rightsboosterltd-cops-1-eu.plex.wurl.tv/2000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL Chavo Del 8" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png" group-title="24-7 ESPAÑOL",EL Chavo Del 8
-http://tv.p1a.xyz:43201/az6177/6J4tnpqj7x/37746
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOS Simpsons" tvg-logo="https://imgur.com/wPMRr3f.png" group-title="24-7 ESPAÑOL",LOS Simpsons
-http://tv.p1a.xyz:43201/az6177/6J4tnpqj7x/37767
 #EXTINF:-1 tvg-id="Univisión.(Latin.America).(UNIVIS).[407].cr" tvg-name="Univisión | Latam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="USA",Univisión | Latam
 http://138.59.177.34:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univisión" tvg-logo="https://imgur.com/B9HNOnP.png" group-title="USA",Univisión
