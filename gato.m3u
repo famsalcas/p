@@ -185,8 +185,6 @@ https://marine2.miplay.cl/itv/mono.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planeta TV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="KIDS",Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planeta Kids" tvg-logo="https://pbs.twimg.com/profile_images/378800000434082297/25d4f35a417c1d203876858175f18d09_400x400.jpeg" group-title="KIDS",Planeta Kids
-http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="SemillitasTV.us" tvg-name="Semillitas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Semillitas_logo.png/revision/latest?cb=20210807052349&path-prefix=es" group-title="KIDS",Semillitas
 http://167.250.222.35:16000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="Disney.Junior.(North.Feed).(DISJR).[304].cr" tvg-name="Disney Junior" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_junior.png" group-title="KIDS",Disney Junior
