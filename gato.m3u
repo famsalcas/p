@@ -78,7 +78,7 @@ https://opa.usastreams.com:3101/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LimonTV.cr" tvg-name="Limón TV" tvg-logo="https://imgur.com/MmBpGZj.png" group-title="COSTA RICA",Limón TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefides.cr" tvg-name="Telefides" tvg-logo="https://i.imgur.com/jadIowD.png" group-title="COSTA RICA",Telefides
-https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 #EXTINF:-1 tvg-id="OldiesHits.cr" tvg-name="Oldies Hits CR" tvg-logo="https://imgur.com/h2b6wwr.png" group-title="COSTA RICA",Oldies Hits CR
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtraTV42.cr" tvg-name="Extra TV" tvg-logo="https://imgur.com/KZIrAsL.png" group-title="COSTA RICA",Extra TV
@@ -550,21 +550,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees
 #EXTINF:-1 tvg-id="ESBC2700002LO" tvg-name="Grjngo TV Películas Del Oeste" tvg-logo="https://imgur.com/Ou8Io45.png" group-title="CINE Y SERIES",Grjngo TV Películas Del Oeste
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ready" tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="CINE Y SERIES",Ready
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist.m3u8
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-id="ESBC2700003T8" tvg-name="Bjgtime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20220914T041131SQUARE.png_20220914041132.png" group-title="CINE Y SERIES",Bjgtime
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONYHD).do" tvg-name="Sony Movies" tvg-logo="https://i.postimg.cc/L5GQ9BKf/1200px-Sony-Movies-Logo-svg.png" group-title="CINE Y SERIES",Sony Movies
 http://45.190.187.226:58092/play/a02h
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Cine" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE Y SERIES",Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyCanalComedias.us" tvg-name="Sony Comedias" tvg-logo="https://www.ipuntotv.com/IMAGES/sony-channel-logo.png" group-title="CINE Y SERIES",Sony Comedias
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orbit TV" tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="CINE Y SERIES",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canela Cl?sicos" tvg-logo="https://play-lh.googleusercontent.com/nGSJiclhwDVCsZSRlniu24xUhtI30Q-c7ODuTQv7MK5uiaZkT0fbXaC-Tf49_lKwCzs" group-title="CINE Y SERIES",Canela Cl?sicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEN TV" tvg-logo="http://www.gentvoficial.com/img/publicidades/Bot%C3%B3n_vivo_1.png" group-title="CINE Y SERIES",GEN TV
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Play" tvg-logo="https://i.postimg.cc/26s1cHpk/Retro-Play-TV-MODIF.png" group-title="CINE Y SERIES",Retro Play
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Megavisi?n" tvg-logo="https://3.bp.blogspot.com/-ZuCp5RmcFwA/XbcT2NFUdiI/AAAAAAAAohE/qfgI5E9bQAwHeTIj7b-16ZQb4Qsw_PddgCLcBGAsYHQ/s200/MegaVision%2B%2528RD%2529.jpg" group-title="CINE Y SERIES",Megavisi?n
