@@ -161,18 +161,20 @@ https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionAmerica.cr" tvg-name="Visión América" tvg-logo="https://i.imgur.com/ZU77D90.jpg" group-title="COSTA RICA",Visión América
 https://250weu.bozztv.com/ssh101/ssh101/visionamerica/chunks.m3u8
+#EXTINF:-1 tvg-id="ExtraTV42.cr" tvg-name="Extra TV" tvg-logo="https://imgur.com/KZIrAsL.png" group-title="COSTA RICA",Extra TV *
+http://45.5.116.178:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="TreceCostaRicaTV.cr" tvg-name="SINART *" tvg-logo="https://imgur.com/NwgE9MX.png" group-title="COSTA RICA",SINART *
+http://45.228.232.205:16000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="Canal4.cr" tvg-name="Repretel 4 *" tvg-logo="https://imgur.com/x28zu8f.png" group-title="COSTA RICA",Repretel 4 *
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11.cr" tvg-name="Repretel 11 *" tvg-logo="https://imgur.com/cd6YDip.png" group-title="COSTA RICA",Repretel 11 *
+http://45.5.118.154:16000/play/a0kq/index.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr" tvg-name="Repretel 6 *" tvg-logo="https://i.imgur.com/1vcQReV.png" group-title="COSTA RICA",Repretel 6 *
 http://45.5.116.178:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica *" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",Teletica *
 http://45.166.92.22:58001/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica **" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",Teletica **
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/191277
-#EXTINF:-1 tvg-id="Canal11.cr" tvg-name="Repretel 11 *" tvg-logo="https://imgur.com/cd6YDip.png" group-title="COSTA RICA",Repretel 11 *
-http://45.5.118.154:16000/play/a0kq/index.m3u8
-#EXTINF:-1 tvg-id="TreceCostaRicaTV.cr" tvg-name="SINART *" tvg-logo="https://imgur.com/NwgE9MX.png" group-title="COSTA RICA",SINART *
-http://45.228.232.205:16000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/qOKmNws.png" group-title="KIDS",Paka Paka
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teletubbies" tvg-logo="https://www.nicepng.com/png/detail/132-1320237_a-teletubbies-logo-teletubbies-logo-png.png" group-title="KIDS",Teletubbies
