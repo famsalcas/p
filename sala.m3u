@@ -44,9 +44,9 @@ https://vcp8.myplaytv.com/iqchannel/iqchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="Colosol" tvg-logo="https://imgur.com/rqZ30Vu.png" group-title="COSTA RICA",Colosol
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE).[56].cr" tvg-name="Enlace Internacional" tvg-logo="https://imgur.com/rJBofVP.png" group-title="COSTA RICA",Enlace Internacional
-https://1-1145-11554-1.b.cdn13.com/enlace/smil:enlace-fhd.smil/chunklist_b4240000_sleng.m3u8
+https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enlace Plus" tvg-logo="https://i.imgur.com/wcp0xtr.jpg" group-title="COSTA RICA",Enlace Plus
-https://1-70-11554-1.b.cdn13.com/enconcierto/smil:enconcierto-hd.smil/chunklist_b2752000_sleng.m3u8
+https://livecdn.enlace.plus/evangelios/smil:evangelios-hd.smil/chunklist_b2752000_sleng.m3u8
 #EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-name="STV" tvg-logo="https://imgur.com/qHymx7S.png" group-title="COSTA RICA",STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-name="Nicoya TV" tvg-logo="https://i.imgur.com/Xb22Xnz.png" group-title="COSTA RICA",Nicoya TV
@@ -68,7 +68,7 @@ https://5fa5de1a545ae.streamlock.net/8006/8006/chunklist_w1105449295.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-name="Zurqui TV" tvg-logo="https://i.postimg.cc/j541TBqq/HIun-Lc-Am2-Enb-Wrd-Uu-NHbcj-AD6-Bcw-X1y-OHGa-K1-Vjg.jpg" group-title="COSTA RICA",Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-id="EnlaceJuvenil.cr" tvg-name="EJTV" tvg-logo="https://imgur.com/VSyBQCe.png" group-title="COSTA RICA",EJTV
-https://1-1145-11554-1.b.cdn13.com/ejtv/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8
+https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV.36.Liberia.(TV36).[105].cr" tvg-name="Trivisión" tvg-logo="https://imgur.com/GsKOXX9.png" group-title="COSTA RICA",Trivisión
 https://rtmp.info/trivision36/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCurre.cr" tvg-name="TV Curré" tvg-logo="https://i.postimg.cc/vTxSY7Xb/cropped-logo-curre-pajaro-pz.png" group-title="COSTA RICA",TV Curré
