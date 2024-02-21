@@ -998,7 +998,7 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156757
 #EXTINF:-1 tvg-id="ESPN.Centroamérica.HDTV.(ESPN2-HD).[901].cr" tvg-name="Espn 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES",Espn 1
 http://138.59.177.34:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="ESPNNorth.us" tvg-name="Espn 1 *" tvg-logo="https://imgur.com/GQHfYVQ.png" group-title="DEPORTES",Espn 1 *
-http://45.5.117.3:4000/play/a07s/index.m3u8
+http://190.149.66.90:4000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).[204].cr" tvg-name="Espn 1 | Mex" tvg-logo="https://imgur.com/GQHfYVQ.png" group-title="DEPORTES",Espn 1 | Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155892
 #EXTINF:-1 tvg-id="espn_sur" tvg-name="Espn 1 | Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png" group-title="DEPORTES",Espn 1 | Sur
