@@ -1565,25 +1565,25 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V2beat TV" tvg-logo="https://i.imgur.com/BK5wsfZ.png" group-title="MÚSICA",V2beat TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://i.postimg.cc/c402rMYB/music-choise-esp.png" tvg-logo="" group-title="MÚSICA",Music Choice 90'S
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Choice 90's" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png" group-title="MÚSICA",Music Choice 90's
 http://thevdm.xyz:25461/GregT/Erin1/28881
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://i.postimg.cc/c402rMYB/music-choise-esp.png" tvg-logo="" group-title="MÚSICA",Music Choice Alternative
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Choice Alternative" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png" group-title="MÚSICA",Music Choice Alternative
 http://thevdm.xyz:25461/GregT/Erin1/28882
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://i.postimg.cc/c402rMYB/music-choise-esp.png" tvg-logo="" group-title="MÚSICA",Music Choice Hit List
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Choice Hit List" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png" group-title="MÚSICA",Music Choice Hit List
 http://thevdm.xyz:25461/GregT/Erin1/28886
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://i.postimg.cc/c402rMYB/music-choise-esp.png" tvg-logo="" group-title="MÚSICA",Music Choice Rock
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Choice Rock" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png" group-title="MÚSICA",Music Choice Rock
 http://thevdm.xyz:25461/GregT/Erin1/28899
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://i.postimg.cc/c402rMYB/music-choise-esp.png" tvg-logo="" group-title="MÚSICA",Music Choice Y2K
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Choice Y2K" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png" group-title="MÚSICA",Music Choice Y2K
 http://thevdm.xyz:25461/GregT/Erin1/28904
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://i.postimg.cc/c402rMYB/music-choise-esp.png" tvg-logo="" group-title="MÚSICA",Music Choice hip Hop & RnB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Choice hip Hop & RnB" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png" group-title="MÚSICA",Music Choice hip Hop & RnB
 http://thevdm.xyz:25461/GregT/Erin1/28885
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://i.postimg.cc/c402rMYB/music-choise-esp.png" tvg-logo="" group-title="MÚSICA",Music Choice Pop Country
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Choice Pop Country" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png" group-title="MÚSICA",Music Choice Pop Country
 http://thevdm.xyz:25461/GregT/Erin1/28893
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://i.postimg.cc/c402rMYB/music-choise-esp.png" tvg-logo="" group-title="MÚSICA",Music Choice Today's Country
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Choice Today's Country" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png" group-title="MÚSICA",Music Choice Today's Country
 http://thevdm.xyz:25461/GregT/Erin1/28902
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://i.postimg.cc/c402rMYB/music-choise-esp.png" tvg-logo="" group-title="MÚSICA",Music Choice Tenn Beats
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Choice Tenn Beats" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png" group-title="MÚSICA",Music Choice Tenn Beats
 http://thevdm.xyz:25461/GregT/Erin1/28900
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://i.postimg.cc/c402rMYB/music-choise-esp.png" tvg-logo="" group-title="MÚSICA",Music Choice Urbana
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Choice Urbana" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png" group-title="MÚSICA",Music Choice Urbana
 http://thevdm.xyz:25461/GregT/Erin1/28892
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HIT Fm TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/HIT_FM_2020_logo.svg/320px-HIT_FM_2020_logo.svg.png" group-title="MÚSICA",HIT Fm TV
 http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
