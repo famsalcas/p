@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="Canal 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",Canal 1 CR
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
@@ -37,10 +37,10 @@ https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
 #EXTINF:-1 tvg-id="TeleredTelevision.cr" tvg-name="TeleRed" tvg-logo="https://imgur.com/pk7qECe.png" group-title="COSTA RICA",TeleRed
 https://59ef525c24caa.streamlock.net/Telered/Telered/chunklist_w1843316871.m3u8
-#EXTINF:-1 tvg-id="TVLegislativa.cr" tvg-name="TV Legislativa" tvg-logo="https://imgur.com/jhuy27B.png" group-title="COSTA RICA",TV Legislativa
-https://ythlsgo.onrender.com/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8
-#EXTINF:-1 tvg-id="IQChannel.cr" tvg-name="HQ Music" tvg-logo="https://i.postimg.cc/0Q05YZNw/f-BRqkh6yj-Nry-NIaowm8-KZEh-UZw-Dp-Jm-Mo-X9g-I9we-H.png" group-title="COSTA RICA",HQ Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HQ Music" tvg-logo="https://i.postimg.cc/0Q05YZNw/f-BRqkh6yj-Nry-NIaowm8-KZEh-UZw-Dp-Jm-Mo-X9g-I9we-H.png" group-title="COSTA RICA",HQ Music
 https://vcp8.myplaytv.com/iqchannel/iqchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="IQChannel.cr" tvg-name="IQ Channel" tvg-logo="https://i.imgur.com/nXEdStd.png" group-title="COSTA RICA",IQ Channel
+https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="Colosol" tvg-logo="https://imgur.com/rqZ30Vu.png" group-title="COSTA RICA",Colosol
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE).[56].cr" tvg-name="Enlace Internacional" tvg-logo="https://imgur.com/rJBofVP.png" group-title="COSTA RICA",Enlace Internacional
@@ -85,7 +85,7 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 http://138.59.177.34:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="RetroxTV.cr" tvg-name="RertroX TV" tvg-logo="https://i.postimg.cc/KzP3cSHW/AWKoxz2-HVNXOFACj-EWewm1-CCp-Xz5q-COd-YIm1-SVLw.png" group-title="COSTA RICA",RertroX TV
 https://tgn.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stay TV" tvg-logo="https://i.imgur.com/f0w9WGP.png" group-title="COSTA RICA",Stay TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Staytv" tvg-logo="https://i.imgur.com/f0w9WGP.png" group-title="COSTA RICA",Staytv
 https://video.misistemareseller.com/staytv/staytv/playlist.m3u8
 #EXTINF:-1 tvg-id="SanVitoTelevision.cr" tvg-name="San Vito TV" tvg-logo="https://imgur.com/xHWQyE6.png" group-title="COSTA RICA",San Vito TV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w500555531.m3u8
@@ -129,6 +129,8 @@ https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" tvg-logo="https://i.imgur.com/2M3Aj8Q.png" group-title="COSTA RICA",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVLegislativa.cr" tvg-name="TV Legislativa" tvg-logo="https://imgur.com/jhuy27B.png" group-title="COSTA RICA",TV Legislativa
+https://ythlsgo.onrender.com/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8
 #EXTINF:-1 tvg-id="TVSantaCruz.cr" tvg-name="TV Santa Cruz" tvg-logo="https://imgur.com/3yGzifX.png" group-title="COSTA RICA",TV Santa Cruz
 https://rtmp.info/tvsantacruz/envivo/chunklist_w1520790363.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somos Caribe" tvg-logo="https://i.postimg.cc/s27rkYD5/cropped-135297098-2827430904137445-6870343697020229970-n.png" group-title="COSTA RICA",Somos Caribe
@@ -159,8 +161,6 @@ https://rpn3.bozztv.com/ssh101/ssh101/tvcdstreaming/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
 #EXTINF:-1 tvg-id="CaribeTVCR.cr" tvg-name="Caribe TV CR" tvg-logo="https://i.imgur.com/G0BRKFc.jpeg" group-title="COSTA RICA",Caribe TV CR
 https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
-#EXTINF:-1 tvg-id="VisionAmerica.cr" tvg-name="Visión América" tvg-logo="https://i.imgur.com/ZU77D90.jpg" group-title="COSTA RICA",Visión América
-https://250weu.bozztv.com/ssh101/ssh101/visionamerica/chunks.m3u8
 #EXTINF:-1 tvg-id="ExtraTV42.cr" tvg-name="Extra TV" tvg-logo="https://imgur.com/KZIrAsL.png" group-title="COSTA RICA",Extra TV
 http://45.5.116.178:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD).[986].cr" tvg-name="SINART *" tvg-logo="https://imgur.com/NwgE9MX.png" group-title="COSTA RICA",SINART *
@@ -177,6 +177,8 @@ http://45.166.92.22:58001/play/a059/index.m3u8
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/191277
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Faro Puntarenas TV" tvg-logo="https://i.postimg.cc/2jxwjxqq/z-Ewyk-NVx0h5k-Kp-VOd-YUK02-Hoola3-X3k-Lxvb-OYSYM.jpg" group-title="COSTA RICA",Faro Puntarenas TV
 https://ssh101.bozztv.com/ssh101/faroptv/chunks.m3u8
+#EXTINF:-1 tvg-id="VisionAmerica.cr" tvg-name="Visión América" tvg-logo="https://i.imgur.com/ZU77D90.jpg" group-title="COSTA RICA",Visión América
+https://250weu.bozztv.com/ssh101/ssh101/visionamerica/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/qOKmNws.png" group-title="KIDS",Paka Paka
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teletubbies" tvg-logo="https://www.nicepng.com/png/detail/132-1320237_a-teletubbies-logo-teletubbies-logo-png.png" group-title="KIDS",Teletubbies
@@ -401,6 +403,8 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/4982ab78-079a-42a7-ab19-58c66deb23b0/0.m3u8
 #EXTINF:-1 tvg-id="Classic.and.Arts.(ARTS).mx" tvg-name="Classic Arts Showcase" tvg-logo="https://imgur.com/hfNzgzD.png" group-title="CULTURA Y ESTILOS",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Classica" tvg-logo="https://i.postimg.cc/nL3Rd4Gs/48c0b1e3e9ef43979ca3e055e2ed3409.png" group-title="CULTURA Y ESTILOS",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/live/master.m3u8
 #EXTINF:-1 tvg-id="ESBC3500001LY" tvg-name="Vivaldi TV" tvg-logo="https://i.postimg.cc/wxJbggz7/vivaldi-logo.png" group-title="CULTURA Y ESTILOS",Vivaldi TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Platzi" tvg-logo="https://imgur.com/fLPfoYb.png" group-title="CULTURA Y ESTILOS",Platzi
@@ -447,14 +451,14 @@ http://201.159.113.219:49000/play/a01m/index.m3u8
 http://45.5.117.182:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="The.History.Channel.HDTV.(THCINHD).[944].cr" tvg-name="History | Mex" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica.png" group-title="CULTURA Y ESTILOS",History | Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4093
-#EXTINF:-1 tvg-id="History.2.HDTV.(Latin.America).(H2HD).[783].cr" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y ESTILOS",H2
+#EXTINF:-1 tvg-id="History.2.HDTV.(Latin.America).(H2HD).[783].cr" tvg-name="H2" tvg-logo="https://i.imgur.com/1eL7pLz.png" group-title="CULTURA Y ESTILOS",H2
 http://181.78.208.254:8010/play/a05v/index.m3u8
-#EXTINF:-1 tvg-id="History.2.HDTV.(Latin.America).(H2HD).[783].cr" tvg-name="H2 *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y ESTILOS",H2 *
+#EXTINF:-1 tvg-id="History.2.HDTV.(Latin.America).(H2HD).[783].cr" tvg-name="H2 *" tvg-logo="https://i.imgur.com/1eL7pLz.png" group-title="CULTURA Y ESTILOS",H2 *
 http://168.181.122.234:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="History.2.HDTV.(México).(H2HD).[819].cr" tvg-name="H2 | Mex" tvg-logo="https://upload. wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y ESTILOS",H2 | Mex
+#EXTINF:-1 tvg-id="History.2.HDTV.(México).(H2HD).[819].cr" tvg-name="H2 | Mex" tvg-logo="https://i.imgur.com/1eL7pLz.png" group-title="CULTURA Y ESTILOS",H2 | Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4005
-#EXTINF:-1 tvg-id="Discovery.Home.&amp;.Health.HDTV.(Latin.America).(DH&amp;HHD).[936].cr" tvg-name="Discovery H&h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/100px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA Y ESTILOS",Discovery H&h
-http://45.228.232.219:16000/play/a0nw/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Home.&amp;.Health.HDTV.(Latin.America).(DH&amp;HHD).[936].cr" tvg-name="Discovery H&h" tvg-logo="https://i.imgur.com/gViuv4u.png" group-title="CULTURA Y ESTILOS",Discovery H&h
+http://190.149.66.90:4000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Home.&amp;.Health.HDTV.(Latin.America).(DH&amp;HHD).[936].cr" tvg-name="Discovery H&h *" tvg-logo="https://imgur.com/3CaI0qc.png" group-title="CULTURA Y ESTILOS",Discovery H&h *
 http://45.166.92.22:58001/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(Latin.America).(IDHD).[928].cr" tvg-name="Discovery Id" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURA Y ESTILOS",Discovery Id
