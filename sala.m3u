@@ -47,8 +47,8 @@ https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enlace Plus" tvg-logo="https://i.imgur.com/wcp0xtr.jpg" group-title="COSTA RICA",Enlace Plus
 https://livecdn.enlace.plus/evangelios/smil:evangelios-hd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-name="Antena 6" tvg-logo="https://imgur.com/cgwfHFZ.png" group-title="COSTA RICA",Antena 6
-http://cloudvideo.servers10.com:8080/8132/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-name="STV" tvg-logo="https://imgur.com/qHymx7S.png" group-title="COSTA RICA",STV
+https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-name="Nicoya TV" tvg-logo="https://i.imgur.com/Xb22Xnz.png" group-title="COSTA RICA",Nicoya TV
 http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr" tvg-name="Tele Uno" tvg-logo="https://imgur.com/PHBk8Jn.png" group-title="COSTA RICA",Tele Uno
@@ -63,9 +63,8 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-name="Costa Rica Channel" tvg-logo="https://i.imgur.com/QPBmOIj.png" group-title="COSTA RICA",Costa Rica Channel
 https://5fa5de1a545ae.streamlock.net/8006/8006/chunklist_w1105449295.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mega TV" tvg-logo="https://i.imgur.com/2b9iiCU.png" group-title="COSTA RICA",Mega TV
-#EXTVLCOPT:http-referrer=https://player.castr.com/live_29dd0b40231d11eeb7302f5be64244b3
-https://stream.castr.com/63507ae6915786a1a5ffab03/live_29dd0b40231d11eeb7302f5be64244b3/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-name="Antena 6" tvg-logo="https://imgur.com/cgwfHFZ.png" group-title="COSTA RICA",Antena 6
+http://cloudvideo.servers10.com:8080/8132/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-name="Zurqui TV" tvg-logo="https://i.postimg.cc/j541TBqq/HIun-Lc-Am2-Enb-Wrd-Uu-NHbcj-AD6-Bcw-X1y-OHGa-K1-Vjg.jpg" group-title="COSTA RICA",Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-id="EnlaceJuvenil.cr" tvg-name="EJTV" tvg-logo="https://imgur.com/VSyBQCe.png" group-title="COSTA RICA",EJTV
@@ -132,8 +131,6 @@ https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 http://k3.usastreams.com/CableLatino/88stereo/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVLegislativa.cr" tvg-name="TV Legislativa" tvg-logo="https://imgur.com/jhuy27B.png" group-title="COSTA RICA",TV Legislativa
 https://ythlsgo.onrender.com/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8
-#EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-name="STV" tvg-logo="https://imgur.com/qHymx7S.png" group-title="COSTA RICA",STV
-https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-id="TVSantaCruz.cr" tvg-name="TV Santa Cruz" tvg-logo="https://imgur.com/3yGzifX.png" group-title="COSTA RICA",TV Santa Cruz
 https://rtmp.info/tvsantacruz/envivo/chunklist_w1520790363.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somos Caribe" tvg-logo="https://i.postimg.cc/s27rkYD5/cropped-135297098-2827430904137445-6870343697020229970-n.png" group-title="COSTA RICA",Somos Caribe
@@ -162,6 +159,8 @@ https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist
 https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
 #EXTINF:-1 tvg-id="CaribeTVCR.cr" tvg-name="Caribe TV CR" tvg-logo="https://i.imgur.com/G0BRKFc.jpeg" group-title="COSTA RICA",Caribe TV CR
 https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Faro Puntarenas TV" tvg-logo="https://i.postimg.cc/2jxwjxqq/z-Ewyk-NVx0h5k-Kp-VOd-YUK02-Hoola3-X3k-Lxvb-OYSYM.jpg" group-title="COSTA RICA",Faro Puntarenas TV
+https://ssh101.bozztv.com/ssh101/faroptv/chunks.m3u8
 #EXTINF:-1 tvg-id="ExtraTV42.cr" tvg-name="Extra TV" tvg-logo="https://imgur.com/KZIrAsL.png" group-title="COSTA RICA",Extra TV
 http://45.5.116.178:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD).[986].cr" tvg-name="SINART *" tvg-logo="https://imgur.com/NwgE9MX.png" group-title="COSTA RICA",SINART *
@@ -176,8 +175,6 @@ http://45.5.116.178:8000/play/a02v/index.m3u8
 http://45.166.92.22:58001/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD).[844].cr" tvg-name="Teletica **" tvg-logo="https://imgur.com/Guni5Ij.png" group-title="COSTA RICA",Teletica **
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/191277
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Faro Puntarenas TV" tvg-logo="https://i.postimg.cc/2jxwjxqq/z-Ewyk-NVx0h5k-Kp-VOd-YUK02-Hoola3-X3k-Lxvb-OYSYM.jpg" group-title="COSTA RICA",Faro Puntarenas TV
-https://ssh101.bozztv.com/ssh101/faroptv/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Cartago Digital" tvg-logo="https://i.imgur.com/frwPudK.png" group-title="COSTA RICA",TV Cartago Digital
 https://rpn3.bozztv.com/ssh101/ssh101/tvcdstreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionAmerica.cr" tvg-name="Visión América" tvg-logo="https://i.imgur.com/ZU77D90.jpg" group-title="COSTA RICA",Visión América
