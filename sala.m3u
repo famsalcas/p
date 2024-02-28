@@ -155,12 +155,12 @@ https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 https://62fc643fbf1aa.streamlock.net/elitetv/elitetv/playlist.m3u8
 #EXTINF:-1 tvg-id="XpressoJovenRadio.cr" tvg-name="Xpresso Jóven Radio" tvg-logo="https://i.postimg.cc/xjh94bZs/Xpreso-Joven-Radio-logo-Mesa-de-trabajo-1-copia-5.png" group-title="COSTA RICA",Xpresso Jóven Radio
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Faro Puntarenas TV" tvg-logo="https://i.postimg.cc/2jxwjxqq/z-Ewyk-NVx0h5k-Kp-VOd-YUK02-Hoola3-X3k-Lxvb-OYSYM.jpg" group-title="COSTA RICA",Faro Puntarenas TV
+https://ssh101.bozztv.com/ssh101/faroptv/chunks.m3u8
 #EXTINF:-1 tvg-id="MasCiclismoTV.cr" tvg-name="Más Ciclismo TV" tvg-logo="https://i.postimg.cc/GpvDskYB/dj-Sznf8-GYLKM5-Ntr-PTh-Pso-FW7k-L5-Cs2u485f-TGsf.jpg" group-title="COSTA RICA",Más Ciclismo TV
 https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
 #EXTINF:-1 tvg-id="CaribeTVCR.cr" tvg-name="Caribe TV CR" tvg-logo="https://i.imgur.com/G0BRKFc.jpeg" group-title="COSTA RICA",Caribe TV CR
 https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Faro Puntarenas TV" tvg-logo="https://i.postimg.cc/2jxwjxqq/z-Ewyk-NVx0h5k-Kp-VOd-YUK02-Hoola3-X3k-Lxvb-OYSYM.jpg" group-title="COSTA RICA",Faro Puntarenas TV
-https://ssh101.bozztv.com/ssh101/faroptv/chunks.m3u8
 #EXTINF:-1 tvg-id="ExtraTV42.cr" tvg-name="Extra TV" tvg-logo="https://imgur.com/KZIrAsL.png" group-title="COSTA RICA",Extra TV
 http://45.5.116.178:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD).[986].cr" tvg-name="SINART *" tvg-logo="https://imgur.com/NwgE9MX.png" group-title="COSTA RICA",SINART *
@@ -1024,14 +1024,18 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155903
 #EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).[802].cr" tvg-name="Espn 4" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4.png" group-title="DEPORTES",Espn 4
 http://45.5.116.178:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="ESPN+.HDTV.(ESPN+HD).[812].cr" tvg-name="Espn 4 *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4.png" group-title="DEPORTES",Espn 4 *
-http://45.228.232.205:16000/play/a030/index.m3u8
+http://181.78.67.178:1010/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.Latin.America.HDTV.(Cono.Norte).(FOXSPHD).[787].cr" tvg-name="Espn 5" tvg-logo="https://i.imgur.com/bCGppYm.png" group-title="DEPORTES",Espn 5
-http://45.228.232.205:16000/play/a07n/index.m3u8
+http://181.78.67.178:1010/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.Latin.America.HDTV.(Cono.Norte).(FOXSPHD).[787].cr" tvg-name="Espn 5 *" tvg-logo="https://i.imgur.com/bCGppYm.png" group-title="DEPORTES",Espn 5 *
+http://181.78.67.178:1010/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Norte).(FOXSP3HD).[801].cr" tvg-name="Espn 6" tvg-logo="https://i.imgur.com/RRwjfR6.png" group-title="DEPORTES",Espn 6
 http://167.250.222.35:16000/play/a07u/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).[117].cr" tvg-name="Espn 6" tvg-logo="https://i.imgur.com/RRwjfR6.png" group-title="DEPORTES",Espn 6
+#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).[117].cr" tvg-name="Espn 6 *" tvg-logo="https://i.imgur.com/RRwjfR6.png" group-title="DEPORTES",Espn 6 *
 http://190.90.154.73:8080/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).[800].cr" tvg-name="Espn 7" tvg-logo="https://i.imgur.com/Pzw1Slc.png" group-title="DEPORTES",Espn 7
+http://181.78.208.254:8010/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).[800].cr" tvg-name="Espn 7 *" tvg-logo="https://i.imgur.com/Pzw1Slc.png" group-title="DEPORTES",Espn 7 *
 http://45.177.53.7:8000/play/a0i6/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="Espn Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_deportes.png" group-title="DEPORTES",Espn Deportes
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155891
