@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="Canal 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",Canal 1 CR
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
@@ -61,10 +61,10 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-id="CristoVisionCanal31.cr" tvg-name="Cristovisión 31" tvg-logo="https://cristovision31.org/imagenes/Logo.png" group-title="COSTA RICA",Cristovisión 31
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
-#EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-name="Antena 6" tvg-logo="https://imgur.com/cgwfHFZ.png" group-title="COSTA RICA",Antena 6
-http://cloudvideo.servers10.com:8080/8132/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-name="Costa Rica Channel" tvg-logo="https://i.imgur.com/QPBmOIj.png" group-title="COSTA RICA",Costa Rica Channel
 https://5fa5de1a545ae.streamlock.net/8006/8006/chunklist_w1105449295.m3u8
+#EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-name="Antena 6" tvg-logo="https://imgur.com/cgwfHFZ.png" group-title="COSTA RICA",Antena 6
+http://cloudvideo.servers10.com:8080/8132/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-name="Zurqui TV" tvg-logo="https://i.postimg.cc/j541TBqq/HIun-Lc-Am2-Enb-Wrd-Uu-NHbcj-AD6-Bcw-X1y-OHGa-K1-Vjg.jpg" group-title="COSTA RICA",Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-id="EnlaceJuvenil.cr" tvg-name="EJTV" tvg-logo="https://imgur.com/VSyBQCe.png" group-title="COSTA RICA",EJTV
@@ -216,7 +216,7 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/4004
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel.png" group-title="KIDS",Disney Channel Sur
 http://190.90.154.73:8080/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast.Latin.America.(TOONC).[310].cr" tvg-name="Tooncast" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png" group-title="KIDS",Tooncast
-http://45.228.232.219:16000/play/a0mw/index.m3u8
+http://45.228.234.30:16000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV" tvg-logo="https://graph.facebook.com/ITVPatagonia/picture?width=200&height=200" group-title="KIDS",ITV
 https://marine2.miplay.cl/itv/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moni TV" tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="KIDS",Moni TV
@@ -828,9 +828,9 @@ http://45.228.232.205:16000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Latin.America.HDTV.(Pan-Regional).(TNTHD).[923].cr" tvg-name="TNT *" tvg-logo="https://i.postimg.cc/kGpqSgFK/320px-TNT-HD.png" group-title="CINE Y SERIES PREMIUM",TNT *
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/4103
 #EXTINF:-1 tvg-id="Space.HDTV.(Panamericano).(SPACEHD).[922].cr" tvg-name="Space" tvg-logo="https://i.imgur.com/jhrQirs.png" group-title="CINE Y SERIES PREMIUM",Space
-http://45.228.232.219:16000/play/a0lx/index.m3u8
+http://190.149.66.90:4000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="Space.HDTV.(Panamericano).(SPACEHD).[922].cr" tvg-name="Space *" tvg-logo="https://cdn.mitvstatic.com/channels/br_space-hd_m.png" group-title="CINE Y SERIES PREMIUM",Space *
-http://45.228.232.205:16000/play/a07p/index.m3u8
+http://45.228.234.77:4430/play/space/index.m3u8
 #EXTINF:-1 tvg-id="Studio.Universal.HDTV.(Latin.America).(STUNIHD).[1048].cr" tvg-name="Studio Universal" tvg-logo="https://imgur.com/haZeiaZ.png" group-title="CINE Y SERIES PREMIUM",Studio Universal
 http://190.90.251.194:8921/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="Studio.Universal.HDTV.(Latin.America).(STUNIHD).[1048].cr" tvg-name="Studio Universal *" tvg-logo="https://imgur.com/tqcU0p9.png" group-title="CINE Y SERIES PREMIUM",Studio Universal *
@@ -1008,33 +1008,35 @@ http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156757
 #EXTINF:-1 tvg-id="ESPN.Centroamérica.HDTV.(ESPN2-HD).[901].cr" tvg-name="Espn 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES",Espn 1
 http://138.59.177.34:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="ESPNNorth.us" tvg-name="Espn 1 *" tvg-logo="https://imgur.com/GQHfYVQ.png" group-title="DEPORTES",Espn 1 *
-http://190.90.71.68:15084/play/a05l/index.m3u8
+http://45.228.234.77:4430/play/espnhd/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).[204].cr" tvg-name="Espn 1 | Mex" tvg-logo="https://imgur.com/GQHfYVQ.png" group-title="DEPORTES",Espn 1 | Mex
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155892
 #EXTINF:-1 tvg-id="espn_sur" tvg-name="Espn 1 | Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png" group-title="DEPORTES",Espn 1 | Sur
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155888
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espn  1 |  Colombia" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte.png" group-title="DEPORTES",Espn  1 |  Colombia
+http://190.90.71.68:15084/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.Latin.Central.América.HD.(ESPN2HD).[810].cr" tvg-name="Espn 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="DEPORTES",Espn 2
 http://138.59.177.34:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.Latin.Central.América.HD.(ESPN2HD).[810].cr" tvg-name="Espn 2 *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="DEPORTES",Espn 2 *
-http://168.181.122.234:8000/play/a00p/index.m3u8
+http://45.228.234.77:4430/play/espndoshd/index.m3u8
 #EXTINF:-1 tvg-id="espn_2_sur" tvg-name="Espn 2 | Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/320px-Espn2.svg.png" group-title="DEPORTES",Espn 2 | Sur
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/43637
 #EXTINF:-1 tvg-id="ESPN3North.us" tvg-name="Espn 3" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte.png" group-title="DEPORTES",Espn 3
-http://45.5.117.3:4000/play/a07r/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.Centroamérica.HDTV.(ESPN2-HD).[901].cr" tvg-name="Espn 3 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte.png" group-title="DEPORTES",Espn 3 HD
+http://45.228.234.77:4430/play/espntreshd/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.Centroamérica.HDTV.(ESPN2-HD).[901].cr" tvg-name="Espn 3 *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte.png" group-title="DEPORTES",Espn 3 *
 http://168.181.122.234:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="espn_3_sur" tvg-name="Espn 3 | Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/ESPN_3.png" group-title="DEPORTES",Espn 3 | Sur
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155903
 #EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).[802].cr" tvg-name="Espn 4" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4.png" group-title="DEPORTES",Espn 4
 http://45.5.116.178:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="ESPN+.HDTV.(ESPN+HD).[812].cr" tvg-name="Espn 4 *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4.png" group-title="DEPORTES",Espn 4 *
-http://181.78.67.178:1010/play/a031/index.m3u8
+http://190.109.22.226:9991/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.Latin.America.HDTV.(Cono.Norte).(FOXSPHD).[787].cr" tvg-name="Espn 5" tvg-logo="https://i.imgur.com/bCGppYm.png" group-title="DEPORTES",Espn 5
-http://181.78.67.178:1010/play/a020/index.m3u8
+http://45.228.234.77:4430/play/espncincohd/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Norte).(FOXSP3HD).[801].cr" tvg-name="Espn 6" tvg-logo="https://i.imgur.com/RRwjfR6.png" group-title="DEPORTES",Espn 6
 http://167.250.222.35:16000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).[117].cr" tvg-name="Espn 6 *" tvg-logo="https://i.imgur.com/RRwjfR6.png" group-title="DEPORTES",Espn 6 *
-http://190.90.154.73:8080/play/a01y/index.m3u8
+http://45.5.117.3:4000/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).[800].cr" tvg-name="Espn 7" tvg-logo="https://i.imgur.com/Pzw1Slc.png" group-title="DEPORTES",Espn 7
 http://181.78.208.254:8010/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).[800].cr" tvg-name="Espn 7 *" tvg-logo="https://i.imgur.com/Pzw1Slc.png" group-title="DEPORTES",Espn 7 *
@@ -1190,17 +1192,19 @@ http://ott-cdn.ucom.am/s86/index.m3u8
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="Nimbus Playout" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="DEPORTES INTERNACIONAL",Nimbus Playout
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(MLBHD).d" tvg-name="MLB Network" tvg-logo="https://imgur.com/SwQFbaE.png" group-title="DEPORTES INTERNACIONAL",MLB Network
-http://tv.nousiptv.com:8080/lorenzodiaz/229090/1156416
+http://hardcoremedia.xyz:80/FightEat23/6273034998/10430
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).do" tvg-name="NBA TV" tvg-logo="https://i.postimg.cc/PxHf6R6X/image.png" group-title="DEPORTES INTERNACIONAL",NBA TV
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/3964
 #EXTINF:-1 tvg-id="ext" tvg-name="NFL Network" tvg-logo="https://i.postimg.cc/J09bv8SD/image.png" group-title="DEPORTES INTERNACIONAL",NFL Network
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1086442
 #EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-name="NHL Network" tvg-logo="https://i.postimg.cc/HLgCH7b3/image.png" group-title="DEPORTES INTERNACIONAL",NHL Network
 http://tv.p1a.xyz:43201/BerthaRodriguezIPTVCLUB/CupjvbKAMK/100815
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://i.postimg.cc/DyXDZwvN/image.png" group-title="DEPORTES INTERNACIONAL",WWE Network
-http://tv.p1a.xyz:43201/az6177/6J4tnpqj7x/153466
-#EXTINF:-1 tvg-id="ext" tvg-name="UFC Live" tvg-logo="https://i.postimg.cc/zvv9DMzy/320px-UFC-Network.png" group-title="DEPORTES INTERNACIONAL",UFC Live
-http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE Network" tvg-logo="https://i.postimg.cc/DyXDZwvN/image.png" group-title="DEPORTES INTERNACIONAL",WWE Network
+http://sansat.net:88/KQ9SQXVLMNZBGEQ/47CHG3OGZQFSQP7/56539
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network *" tvg-logo="https://i.postimg.cc/DyXDZwvN/image.png" group-title="DEPORTES INTERNACIONAL",WWE Network *
+https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls/1.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="UFC " tvg-logo="https://i.postimg.cc/zvv9DMzy/320px-UFC-Network.png" group-title="DEPORTES INTERNACIONAL",UFC 
+http://claymorej2.pinals.xyz:8080/yy2uRDBbkreg/DJt97xkGHAzj/23750
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sporty Stuff TV" tvg-logo="https://www.sportystuff.tv/content/images/2022/02/logo-l.png" group-title="DEPORTES INTERNACIONAL",Sporty Stuff TV
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Sports" tvg-logo="https://i.imgur.com/t1FG1uq.jpg" group-title="DEPORTES INTERNACIONAL",Pluto TV Sports
@@ -1417,10 +1421,6 @@ https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w555740706.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hits 360" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="MÚSICA",Hits 360
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MelodyChannel.co" tvg-name="Melody Channel" tvg-logo="https://i.imgur.com/z2pisQ6.png" group-title="MÚSICA",Melody Channel
-https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Memorias TV" tvg-logo="https://i.postimg.cc/jSQtnhGL/MEMORIAS-TV-esp.png" group-title="MÚSICA",Memorias TV
-https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ranchenato TV" tvg-logo="https://i.imgur.com/T1w7dSu.png" group-title="MÚSICA",Ranchenato TV
 http://iptvcolombia.ddns.net:1936/ranchenato/ranchenato_360p/chunklist_w1171414734.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teleritmo" tvg-logo="https://i.imgur.com/m4QcvVx.png" group-title="MÚSICA",Teleritmo
@@ -1438,7 +1438,7 @@ https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w723
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Music TV" tvg-logo="https://i.postimg.cc/xTx9wCcJ/7c8320451943ed08265872510644e800.webp" group-title="MÚSICA",Retro Music TV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Exa.TV.(EXATV).mx" tvg-name="EXA TV" tvg-logo="https://imgur.com/LbnKLFX.png" group-title="MÚSICA",EXA TV
-http://45.228.232.219:16000/play/a0n9/index.m3u8
+http://190.149.66.90:4000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amordiscos TV" tvg-logo="https://i.postimg.cc/mrGTb4yG/thumbnail-Logo-Amordiscos-600x600-alpha.png" group-title="MÚSICA",Amordiscos TV
 https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA Sabrosura TV" tvg-logo="https://i.postimg.cc/5tV0vS7K/LA-SABROSURA-TV-ESP.png" group-title="MÚSICA",LA Sabrosura TV
@@ -1785,14 +1785,8 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="Distrito.Comedia.(DISTCOM).do" tvg-name="Distrito Comedia" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/distrito_comedia.png" group-title="MEXICO",Distrito Comedia
 http://45.71.252.16:8000/play/a0hr/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cubavisi?n Internacional | Cuba" tvg-logo="https://i.imgur.com/OIXJ9hW.jpg" group-title="MEXICO",Cubavisi?n Internacional | Cuba
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b596000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mart? | Cuba" tvg-logo="https://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo.png" group-title="MEXICO",TV Mart? | Cuba
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/769449.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multivisi?n | Cuba" tvg-logo="https://i.postimg.cc/PxjBp1zJ/250px-Multivisi-n-Cuba-svg.png" group-title="MEXICO",Multivisi?n | Cuba
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tele Rebelde | Cuba" tvg-logo="https://i.postimg.cc/TPzCpGxc/Telerebelde2011.png" group-title="MEXICO",Tele Rebelde | Cuba
-http://4L2e9ljsmw3pGXTJAWdMFU.green.onerunthisway.me/live/sun.php?z=997&u=DJM5QAEvOJ&s=5768616668&id=3790&t=live&f=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luna tv" tvg-logo="https://imgur.com/mdNFjCU.png" group-title="REPÚBLICA DOMINICANA",Luna tv
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" tvg-name="Claro Televisión Dominicana" tvg-logo="https://i.imgur.com/fJD7OxB.png" group-title="REPÚBLICA DOMINICANA",Claro Televisión Dominicana
