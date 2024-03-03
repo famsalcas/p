@@ -520,7 +520,7 @@ http://45.233.169.13:8000/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-id="tnt_novelas_guatemala" tvg-name="TNT Novelas" tvg-logo="https://i.postimg.cc/jj7vjnDc/7f334d87-5d5a-9854-2f73-d4959739d42c.png" group-title="NOVELAS Y SERIES",TNT Novelas
 http://181.78.12.119:16123/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Tlnovelas" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlnovelas.png" group-title="NOVELAS Y SERIES",Tlnovelas
-http://190.90.71.68:15084/play/a05g/index.m3u8
+http://190.6.199.61:8004/play/a0pe/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-name="Univisión Tlnovelas" tvg-logo="https://i.imgur.com/t7PzpIf.png" group-title="NOVELAS Y SERIES",Univisión Tlnovelas
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/95011
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ Coraz?n" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_corazon.png" group-title="NOVELAS Y SERIES",AZ Coraz?n
@@ -1033,6 +1033,8 @@ http://45.5.116.178:8000/play/a02a/index.m3u8
 http://190.109.22.226:9991/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.Latin.America.HDTV.(Cono.Norte).(FOXSPHD).[787].cr" tvg-name="Espn 5" tvg-logo="https://i.imgur.com/bCGppYm.png" group-title="DEPORTES",Espn 5
 http://45.228.234.77:4430/play/espncincohd/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.Latin.America.HDTV.(Cono.Norte).(FOXSPHD).[787].cr" tvg-name="Espn 5 *" tvg-logo="https://i.imgur.com/bCGppYm.png" group-title="DEPORTES",Espn 5 *
+http://190.6.199.61:8004/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Norte).(FOXSP3HD).[801].cr" tvg-name="Espn 6" tvg-logo="https://i.imgur.com/RRwjfR6.png" group-title="DEPORTES",Espn 6
 http://167.250.222.35:16000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).[117].cr" tvg-name="Espn 6 *" tvg-logo="https://i.imgur.com/RRwjfR6.png" group-title="DEPORTES",Espn 6 *
@@ -1684,9 +1686,11 @@ https://qwestjazz-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc3
 #EXTINF:-1 tvg-id="AZ.Mundo.(AZMUNDO).[985].cr" tvg-name="Azteca Internacional" tvg-logo="https://i.postimg.cc/hjXxM2Nb/Azteca-Internacional-logo-2023.png" group-title="MEXICO",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" group-title="MEXICO",Azteca Uno
-http://138.59.177.34:8000/play/a07o/index.m3u8
+http://190.6.199.61:8004/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Azteca Uno *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" group-title="MEXICO",Azteca Uno *
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155859
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Azteca Uno -1 hora" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" group-title="MEXICO",Azteca Uno -1 hora
+http://sansat.net:88/KQ9SQXVLMNZBGEQ/47CHG3OGZQFSQP7/95031
 #EXTINF:-1 tvg-id="AZCinema.mx" tvg-name="AZ Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/TV_Azteca_Cinema_logo_2021.png/revision/latest?cb=20220316003349&path-prefix=es" group-title="MEXICO",AZ Cinema
 http://200.59.188.3:8000/play/a026
 #EXTINF:-1 tvg-id="AZClic.mx" tvg-name="AZ Clic" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_clic.png" group-title="MEXICO",AZ Clic
