@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=" https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="Canal 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",Canal 1 CR
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
@@ -190,7 +190,7 @@ https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="zoomoo_latinoamerica" tvg-name="ZooMoo Latinoamérica" tvg-logo="https://i.imgur.com/xdPPN2p.png" group-title="KIDS",ZooMoo Latinoamérica
 http://168.181.122.234:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="cartoonito_panregional" tvg-name="Cartoonito" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoonito.png" group-title="KIDS",Cartoonito
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+http://45.170.225.212:48001/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lolly Kids" tvg-logo="https://i.imgur.com/go98Tta.png" group-title="KIDS",Lolly Kids
 http://190.119.178.46:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toon Googles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="KIDS",Toon Googles
@@ -212,7 +212,7 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="Cartoon Network (atl S)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",Cartoon Network (atl S)
 http://45.228.232.205:16000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon_centro" tvg-name="Nickelodeon" tvg-logo="https://imgur.com/uULnO13.png" group-title="KIDS",Nickelodeon
-http://190.90.154.73:8080/play/a010/index.m3u8
+http://45.170.225.212:48001/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canela Kids" tvg-logo="https://play-lh.googleusercontent.com/nGSJiclhwDVCsZSRlniu24xUhtI30Q-c7ODuTQv7MK5uiaZkT0fbXaC-Tf49_lKwCzs=w240-h480-rw" group-title="KIDS",Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="Disney Channel Centro" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel.png" group-title="KIDS",Disney Channel Centro
@@ -233,8 +233,6 @@ https://1654596987.rsc.cdn77.org/1654596987/index.m3u8
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="RELIGION",3ABN Latino
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/LQs/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Soldaditos De Jesús" tvg-logo="https://nebula.wsimg.com/d91e26fd5b7be58cdfa0723a323cde1a?AccessKeyId=742D4C102AC2984EB7E6&disposition=0&alloworigin=1" group-title="RELIGION",Soldaditos De Jesús
-https://2nbyj587d53k-hls-live.5centscdn.com/13/597b5bed7fd3f225bcaa5c4a0cdc3ff6.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Master Video Pro" tvg-logo="https://i.imgur.com/uJqTPsZ.png" group-title="RELIGION",Master Video Pro
 https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTNI" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTNi.png" group-title="RELIGION",CTNI
@@ -494,13 +492,11 @@ http://181.78.208.254:8010/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="Food.Network.HD.(Latin.America).(FOODHD).[938].cr" tvg-name="Food Network" tvg-logo="https://i.imgur.com/YFkRYIg.png" group-title="CULTURA Y ESTILOS",Food Network
 http://45.179.164.30:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="Sun.Channel.TV.(SUNTV).ar" tvg-name="SUN Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sun_channel.png" group-title="CULTURA Y ESTILOS",SUN Channel
-http://45.232.210.27:8000/play/a0aj
+http://45.228.232.205:16000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vida Real" tvg-logo="https://i.postimg.cc/FFC6m2cq/VIDA-REAL.png" group-title="CULTURA Y ESTILOS",Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aventura" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="CULTURA Y ESTILOS",Aventura
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love the Planet" tvg-logo="https://i.postimg.cc/K8jKd5FQ/LOVE-THE-PLANNET-VU-TV-PLAYER.png" group-title="CULTURA Y ESTILOS",Love the Planet
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love the Planet" tvg-logo="https://i.postimg.cc/K8jKd5FQ/LOVE-THE-PLANNET-VU-TV-PLAYER.png" group-title="CULTURA Y ESTILOS",Love the Planet
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="ext" tvg-name="13 Cultura" tvg-logo="https://i.postimg.cc/V6KjFZKd/image.png" group-title="CULTURA Y ESTILOS",13 Cultura
@@ -921,13 +917,19 @@ http://138.59.177.34:8000/play/a04f/index.m3u8
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ciover TV" tvg-logo="https://i.postimg.cc/k4jz0ykQ/clover.webp" group-title="CINE Y SERIES PREMIUM",Ciover TV
 http://177.234.230.226:8010/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultra Macho" tvg-logo="https://i.imgur.com/2vwLaep.png" group-title="CINE Y SERIES PREMIUM",Ultra Macho
+http://138.186.20.13:23200/play/a0eu
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultra Familia" tvg-logo="https://i.imgur.com/l2k0ybK.png" group-title="CINE Y SERIES PREMIUM",Ultra Familia
+http://138.186.20.13:23200/play/a0et
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultra Cine" tvg-logo="https://i.imgur.com/0ynDgxF.png" group-title="CINE Y SERIES PREMIUM",Ultra Cine
+http://138.186.20.13:23200/play/a0ew
 #EXTINF:-1 tvg-id="Hallmark.Channel.HDTV.(East).(HALLHD).us" tvg-name="Hallmark" tvg-logo="https://imgur.com/WuFAju1.png" group-title="CINE INGLES",Hallmark
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="Hallmark Drama" tvg-logo="https://imgur.com/XzzXJPs.png" group-title="CINE INGLES",Hallmark Drama
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-id="Hallmark.Movies.and.Mysteries.HDTV.(HMMHD).us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://imgur.com/S0JZhoN.png" group-title="CINE INGLES",Hallmark Movies & Mysteries
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 tvg-id="Crackle.us" tvg-name="Crackle" tvg-logo="https://i.imgur.com/olcoGyX.png" group-title="CINE INGLES",Crackle
+#EXTINF:-1 tvg-id="Crackle.us" tvg-name="Crackle" tvg-logo="https://i.postimg.cc/rpTk0G3Y/crackle-logo-png-3.png" group-title="CINE INGLES",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Crackle.us" tvg-name="Movies Favorites By Lifetime" tvg-logo="https://imgur.com/CmoQJVz.png" group-title="CINE INGLES",Movies Favorites By Lifetime
 https://f5b9bc01fe7743cca70b3f58a7e1273a.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung_MovieFavoritesbyLifetime/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=MovieFavoritesbyLifetime&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -955,13 +957,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gravitas Movies" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="CINE INGLES",Gravitas Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classics Channel" tvg-logo="https://i.imgur.com/dxPsj2s.png" group-title="CINE INGLES",Classics Channel
-https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/manifest/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/0d14dc99-cc30-4c0e-8531-40cdfe650694/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS Western Movie" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="CINE INGLES",TVS Western Movie
-https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wild West" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60bf95316d3e6127a77bdcc2/900" group-title="CINE INGLES",Wild West
 https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lone Star" tvg-logo="https://i.imgur.com/fA2SZWI.png" group-title="CINE INGLES",Lone Star
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lone Star" tvg-logo="https://i.imgur.com/PpF51n8.png" group-title="CINE INGLES",Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloody Disgusting" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Bloody_Disgusting.PNG" group-title="CINE INGLES",Bloody Disgusting
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
@@ -973,14 +971,12 @@ https://479cc5aa923d4f399f440d76bc53da92.mediatailor.us-east-1.amazonaws.com/v1/
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Revry" tvg-logo="https://i.imgur.com/bKpligT.png" group-title="CINE INGLES",Revry
 https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adrenaline Rush" tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/adrenalinerush-185x278.png" group-title="CINE INGLES",Adrenaline Rush
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adrenaline Rush" tvg-logo="https://i.imgur.com/n625d3R.png" group-title="CINE INGLES",Adrenaline Rush
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC Thrillers" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="CINE INGLES",AMC Thrillers
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC Thrillers" tvg-logo="https://i.postimg.cc/Y9nV2QQV/6e7af423114c9f735d17e142783f233a.png" group-title="CINE INGLES",AMC Thrillers
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC Presents" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="CINE INGLES",AMC Presents
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC Presents" tvg-logo="https://i.postimg.cc/MTQZ1Zt9/600x600.webp" group-title="CINE INGLES",AMC Presents
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Watch It Scream!" tvg-logo="https://i.imgur.com/iGqLVv4.png" group-title="CINE INGLES",Watch It Scream!
-https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto Spotlight" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="CINE INGLES",Pluto Spotlight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic Comedy" tvg-logo="https://images.pluto.tv/channels/5f15e32b297f96000768f928/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="CINE INGLES",Classic Comedy
@@ -1089,8 +1085,6 @@ http://168.194.171.237:8000/play/a075/index.m3u8
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/32882
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Stories" tvg-logo="https://i.postimg.cc/Jnw674SS/RAKUTEN-SPOTLIGHT.png" group-title="DEPORTES",Rakuten Stories
 https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga Mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/245px-MX_logo.png" group-title="DEPORTES",Liga Mx
-https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madrid TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png" group-title="DEPORTES",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuel TV Español" tvg-logo="https://seeklogo.com/images/F/fuel-tv-logo-3C3716497D-seeklogo.com.png" group-title="DEPORTES",Fuel TV Español
@@ -1331,8 +1325,6 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?did=b1311878331652c4927ae377
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tn-todo Noticias" tvg-logo="https://i.postimg.cc/qqdSmcFX/200px-TN-todo-noticias-logo-svg.png" group-title="NOTICIAS",Tn-todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-id="RaiN.TV" tvg-name="RAI News" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="NOTICIAS",RAI News
-https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-id="Newsmax.(NEWSM).us" tvg-name="Newsmax" tvg-logo="https://i.imgur.com/XsDBKjW.png" group-title="NOTICIAS",Newsmax
 http://sansat.net:25461/02022042781294/678E3PU1LG4QLAB/158582
 #EXTINF:-1 tvg-id="ext" tvg-name="Newsmax 2" tvg-logo="https://i.postimg.cc/3RFBX6P7/ciR4Si6.png" group-title="NOTICIAS",Newsmax 2
@@ -1698,13 +1690,9 @@ https://qwestjazz-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc3
 #EXTINF:-1 tvg-id="AZ.Mundo.(AZMUNDO).[985].cr" tvg-name="Azteca Internacional" tvg-logo="https://i.postimg.cc/hjXxM2Nb/Azteca-Internacional-logo-2023.png" group-title="MEXICO",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" group-title="MEXICO",Azteca Uno
-http://190.6.199.61:8004/play/a085/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" group-title="MEXICO",Azteca Uno
-http://190.6.199.61:8004/play/a085/index.m3u8
+http://131.161.53.2:8000/play/a07o/index.m3u8
 #EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Azteca Uno *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" group-title="MEXICO",Azteca Uno *
 http://tv.nousiptv.com:8080/lorenzodiaz/229090/1155859
-#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Azteca Uno -1 hora" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" group-title="MEXICO",Azteca Uno -1 hora
-http://sansat.net:88/KQ9SQXVLMNZBGEQ/47CHG3OGZQFSQP7/95031
 #EXTINF:-1 tvg-id="AZClic.mx" tvg-name="AZ Clic" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_clic.png" group-title="MEXICO",AZ Clic
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAS Estrellas =2 H" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas.png" group-title="MEXICO",LAS Estrellas =2 H
