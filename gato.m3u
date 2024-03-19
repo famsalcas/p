@@ -762,7 +762,7 @@ http://138.59.177.34:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="AMC.HDTV.(Latin.America).(AMCHD).do" tvg-name="AMC *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_espana.png" group-title="CINE Y SERIES PREMIUM",AMC *
 http://167.250.222.35:16000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="Universal.Channel.HDTV.(Latin.America).(UNIVSHD).[919].cr" tvg-name="Universal TV" tvg-logo="https://i.postimg.cc/8Cvh3NRc/100px-Universal-TV-logo-svg.png" group-title="CINE Y SERIES PREMIUM",Universal TV
-http://167.250.222.35:16000/play/a078/index.m3u8
+http://45.170.225.212:48001/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="Universal.Channel.HDTV.(Latin.America).(UNIVSHD).[919].cr" tvg-name="Universal TV *" tvg-logo="https://i.postimg.cc/yYnnX1jz/320px-Universal-TV-HD-svg.png" group-title="CINE Y SERIES PREMIUM",Universal TV *
 http://190.217.52.76:8540/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.(Latin.America).(Syfy).[450].cr" tvg-name="USA Network LAT" tvg-logo="https://i.imgur.com/LT17aKr.png" group-title="CINE Y SERIES PREMIUM",USA Network LAT
