@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+#EXTM3U url-tvg="x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz""
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-name="Canal 1 CR" tvg-logo="https://imgur.com/x0qR3r8.png" group-title="COSTA RICA",Canal 1 CR
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" tvg-name="CDR 2" tvg-logo="https://imgur.com/Gn1Cc8R.png" group-title="COSTA RICA",CDR 2
@@ -792,7 +792,7 @@ http://138.59.177.34:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="AMC.HDTV.(Latin.America).(AMCHD).do" tvg-name="AMC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica.png" group-title="CINE Y SERIES PREMIUM",AMC
 http://138.59.177.34:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="AMC.HDTV.(Latin.America).(AMCHD).do" tvg-name="AMC *" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_espana.png" group-title="CINE Y SERIES PREMIUM",AMC *
-http://167.250.222.35:16000/play/a04d/index.m3u8
+http://287868455641656442.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656442.ts
 #EXTINF:-1 tvg-id="Universal.Channel.HDTV.(Latin.America).(UNIVSHD).[919].cr" tvg-name="Universal TV" tvg-logo="https://i.postimg.cc/8Cvh3NRc/100px-Universal-TV-logo-svg.png" group-title="CINE Y SERIES PREMIUM",Universal TV
 http://45.228.232.205:16000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="Universal.Channel.HDTV.(Latin.America).(UNIVSHD).[919].cr" tvg-name="Universal TV *" tvg-logo="https://i.postimg.cc/yYnnX1jz/320px-Universal-TV-HD-svg.png" group-title="CINE Y SERIES PREMIUM",Universal TV *
@@ -1149,6 +1149,8 @@ http://190.83.60.34:1414/play/a04f
 http://191.97.14.38:4000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Golazo Network" tvg-logo="https://i.postimg.cc/dtpPD3jW/image-80849179721695046851257-ygud8tyd.png" group-title="DEPORTES",Golazo Network
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Azteca Deportes" tvg-logo="https://i.imgur.com/XApJG3E.png" group-title="DEPORTES",Azteca Deportes
+https://r.mjh.nz/PlutoTV/6582f002a620e3000813b329-alt.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/XApJG3E.png" group-title="DEPORTES",DAZN 1
 http://sansat.net:88/KQ9SQXVLMNZBGEQ/47CHG3OGZQFSQP7/127815
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" Boks TV" tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="DEPORTES INTERNACIONAL", Boks TV
@@ -1461,8 +1463,8 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanes-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus TV 1" tvg-logo="https://imgur.com/wLu4Jxu.png" group-title="MÚSICA",Retro Plus TV 1
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1026895807.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus TV 2" tvg-logo="https://imgur.com/wLu4Jxu.png" group-title="MÚSICA",Retro Plus TV 2
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w723682666.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mix Music Channel" tvg-logo="https://i.imgur.com/u3Zh9S6.png" group-title="MÚSICA",Mix Music Channel
+https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8  
 #EXTINF:-1 tvg-id="Exa.TV.(EXATV).mx" tvg-name="EXA TV" tvg-logo="https://imgur.com/LbnKLFX.png" group-title="MÚSICA",EXA TV
 http://190.149.66.90:4000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Music TV" tvg-logo="https://i.postimg.cc/xTx9wCcJ/7c8320451943ed08265872510644e800.webp" group-title="MÚSICA",Retro Music TV
@@ -1497,8 +1499,8 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telehit" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telehit.png" group-title="MÚSICA",Telehit
 http://190.119.178.46:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="Telehit.Plus.(TELHITHD).[955].cr" tvg-name="Telehit Música Plus" tvg-logo="https://i.imgur.com/lQQLzjw.png" group-title="MÚSICA",Telehit Música Plus
-http://190.242.46.20:8000/play/a08e/index.m3u8
+#EXTINF:-1 tvg-id="Telehit.Plus.(TELHITHD).[955].cr" tvg-name="Telehit Música" tvg-logo="https://i.imgur.com/lQQLzjw.png" group-title="MÚSICA",Telehit Música
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV.Música.(HTV).[614].cr" tvg-name="H TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/htv.png" group-title="MÚSICA",H TV
 http://190.90.251.194:8921/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonus Fm" tvg-logo="https://imgur.com/Jcndj2f.png" group-title="MÚSICA",Sonus Fm
@@ -1748,7 +1750,7 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 12" tvg-logo="https://i.imgur.com/yl0yuCi.png" group-title="MEXICO",Canal 12
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 14" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="MEXICO",Canal 14
-https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 TV" tvg-logo="https://i.imgur.com/P2deyb2.png" group-title="MEXICO",15 TV
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w532772818.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 15 Fresnillo" tvg-logo="https://i2.paste.pics/73bf2ba0c7165b00b73cf9c6a4755d84.png" group-title="MEXICO",Canal 15 Fresnillo
